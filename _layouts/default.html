@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>{{ page.title }}</title>
+
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+
+<header>
+  <h2>City of Santa Monica</h2>
+  <h3>Cultural Affairs</h3>
+  <ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about/">About</a></li>
+    <li><a href="/go-see-art/">Go See Art</a></li>
+    <li><a href="/opportunities/">Opportunities for Artists</a></li>
+    <li><a href="/contact/">Contact</a></li>
+  </ul>
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+<footer>
+
+  <!-- TBD: Can we make these fields persist on the next page? (Or can we subscribe them automatically with only these three fields?) -->
+  <form action="http://smgov.us12.list-manage.com/subscribe/post?u=a5d6f52c79917c7b57cc5cef0&amp;id=8df381560e" method="post">
+    <h2>Stay up to date</h2>
+    <p>Sign up for email alerts to always be first to know about events, artist opportunities, or other important updates about art and culture in Santa Monica</p>
+    <p>
+      <label>
+        <span for="field-firstname">First name</span>
+        <input type="text" name="firstname" id="field-firstname" />
+      </label>
+    </p>
+    <p>
+      <label>
+        <span for="field-firstname">Last name</span>
+        <input type="text" name="lastname" id="field-lastname" />
+      </label>
+    </p>
+    <p>
+      <label>
+        <span for="field-email">Email</span>
+        <input type="text" name="email" id="field-email" />
+      </label>
+    </p>
+    <p>
+      <button type="submit">Submit</button>
+    </p>
+  </form>
+
+  <p>
+    <a href="https://www.google.com/maps/place/1437+4th+St,+Santa+Monica,+CA+90401/">
+      <strong>Santa Monica Cultural Affairs Division</strong><br />
+      1437 4thStreet, Suite 310<br />
+      Santa Monica, CA 90401
+    </a>
+  </p>
+  <dl>
+    <dt>Phone</dt>
+    <dd>310.458.8350</dd>
+    <dt>Fax</dt>
+    <dd>310.917.6641</dd>
+    <dt>General Information</dt>
+    <dd><a href="culture@smgov.net">culture@smgov.net</a></dd>
+  </dl>
+
+  <ul>
+    <li><a href="https://www.smgov.net/accessibility/">Accessibility</a></li>
+    <li><a href="https://www.smgov.net/privacy/">Privacy</a></li>
+    <li><a href="https://www.smgov.net/disclaimer/">Disclaimer</a></li>
+  </ul>
+
+</footer>
+
+</body>
+</html>

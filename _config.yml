@@ -1,0 +1,22 @@
+
+title: Santa Monica Cultural Affairs
+
+permalink: pretty
+
+exclude:
+  - CNAME
+  - README
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+collections:
+  venues:
+    output: true
+    permalink: /:path/
+
+# For cache busting
+version: 0.0.0
