@@ -16,7 +16,7 @@ Fax
 : 310.917.6641
 
 General Information
-: [culture@smgov.net](culture@smgov.net)
+: [culture@smgov.net](mailto:culture@smgov.net)
 
 Mailing Address
 : PO Box 2200<br />Santa Monica, CA 90407

@@ -25,40 +25,7 @@ Programs @ Venues
 Calendar
 --------
 
-*   ### MON  
-    OCT 1
-    
-    Gallery OPEN 9am - 4pm  
-    9:00 AM to 4:00 PM  
-    Annenberg Community Beach House
-    
-*   ### TUE  
-    OCT 2
-    
-    Gallery OPEN 9am - 4pm 9:00 AM to 4:00 PM Annenberg Community Beach House
-    
-*   ### WED  
-    OCT 3
-    
-    Gallery OPEN 9am - 4pm 9:00 AM to 4:00 PM Annenberg Community Beach House
-    
-*   ### THU  
-    OCT 4
-    
-    Gallery OPEN 9am - 4pm 9:00 AM to 4:00 PM Annenberg Community Beach House
-    
-*   ### FRI  
-    OCT 5
-    
-    Gallery OPEN 9am - 4pm 9:00 AM to 4:00 PM Annenberg Community Beach House
-    
-*   ### SUN  
-    OCT 7
-    
-    COAST Open Streets Festival  
-    10:00 AM to 4:00 PM  
-    Main Street
-    
+{% include calendar.html %}
 
 [More events](https://www.santamonica.gov/events)
 
