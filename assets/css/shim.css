@@ -1,6 +1,6 @@
 @supports(object-fit: cover) {
   .detail-home-page .hero img {
-    height: 60vw;
+    height: 500px;
     object-fit: cover;
   }
 }
