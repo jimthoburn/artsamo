@@ -5,6 +5,11 @@
   }
 }
 
+.detail-home-page .artist {
+  background-size: cover;
+  background-position: bottom;
+}
+ 
 .widget-artsamo img {
   width: 433px;
   height: 284px;
