@@ -1,0 +1,8 @@
+.widget-artsamo img {
+  width: 433px;
+  height: 284px;
+
+  /* For small screens */
+  max-width: 100%;
+  height: auto;
+}
