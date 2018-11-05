@@ -1,3 +1,10 @@
+@supports(object-fit: cover) {
+  .detail-home-page .hero img {
+    height: 60vw;
+    object-fit: cover;
+  }
+}
+
 .widget-artsamo img {
   width: 433px;
   height: 284px;
