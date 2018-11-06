@@ -47,7 +47,7 @@ let template = `
       </div>
     </details>
   </li>
-`
+`;
 
 (function() {
 
