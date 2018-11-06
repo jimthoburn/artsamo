@@ -61,7 +61,7 @@ let template = `
 
   // showLoadingMessage()
 
-  fetch('https://data.smgov.net/resource/tu9m-76aw.json?location=Palisades+Park')
+  fetch('https://data.smgov.net/resource/tu9m-76aw.json?contact_email=naomi.okuyama@smgov.net')
     .then(function(response) {
       return response.json()
     })
