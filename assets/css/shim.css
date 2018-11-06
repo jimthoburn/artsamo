@@ -5,6 +5,16 @@
   }
 }
 
+@media screen and (min-width: 58.75em) {
+  .detail-home-page .hero .welcome {
+    margin-top: -200px;
+    margin-left: auto;
+    position: relative;
+    z-index: 1;
+    top: 0;
+  }
+}
+
 .detail-home-page .artist {
   background-size: cover;
   background-position: bottom;
