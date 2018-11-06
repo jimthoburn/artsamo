@@ -61,12 +61,25 @@ let template = `
 
   // showLoadingMessage()
 
-  fetch('https://data.smgov.net/resource/tu9m-76aw.json?contact_email=naomi.okuyama@smgov.net')
+  fetch('https://data.smgov.net/resource/tu9m-76aw.json?contact_email=culture@smgov.net')
     .then(function(response) {
       return response.json()
     })
     .then(function(myJson) {
-      addItems(myJson)
+
+      fetch('https://data.smgov.net/resource/tu9m-76aw.json?contact_email=naomi.okuyama@smgov.net')
+        .then(function(response) {
+          return response.json()
+        })
+        .then(function(myJson2) {
+          addItems(myJson.concat(myJson2))
+          // hideLoadingMessage()
+        })
+        .catch(function(error) {
+          console.error(error)
+          // showErrorMessage()
+        })
+
       // hideLoadingMessage()
     })
     .catch(function(error) {
