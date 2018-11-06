@@ -39,7 +39,12 @@
 
 @media screen and (min-width: 58.75em) { 
   .artsamo-menu div {
-    padding-left: 3em;
+    padding-left: 92px;
   }
 }
 
+@media screen and (min-width: 58.75em) { 
+  .previewvenue h1 {
+    padding-left: 92px;
+  }
+}
