@@ -12,9 +12,9 @@ Public Art
 
 Our City’s diverse creative population is reflected through art, and it’s essential to our City. So that you can enjoy as much of it as possible, we’re dedicated to integrating it into our community’s daily life. Be sure to notice it each day, and seek it out in areas you don’t normally visit.
 
-<iframe src="http://www.publicartarchive.org/paa_map/50303" style="border-width: 0; width: 100%; height: 500px; height: 50vh;"></iframe>
+<iframe src="https://www.publicartarchive.org/paa_map/50303" style="border-width: 0; width: 100%; height: 500px; height: 50vh;"></iframe>
 
-[View this map on publicartarchive.org](http://www.publicartarchive.org/santamonica)
+[View this map on publicartarchive.org](https://www.publicartarchive.org/santamonica)
 
 Programs @ Venues
 -----------------
