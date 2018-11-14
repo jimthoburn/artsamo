@@ -6,6 +6,9 @@
 
   <title>{{ page.title }}</title>
 
+  <!-- Jim’s Typekit account -->
+  <link rel="stylesheet" href="https://use.typekit.net/bwp8iid.css" />
+
   <link rel="stylesheet" href="/assets/css/type.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/color.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/layout.css?v={{ site.version }}" />
@@ -27,14 +30,16 @@
 <body>
 
 <header>
-  <h2>City of Santa Monica</h2>
-  <h3>Cultural Affairs</h3>
+  <a href="/" class="logotype">
+    <h2><img src="/assets/images/city-of-santa-monica.png" alt="City of Santa Monica" width="100" height="100" /></h2>
+    <h3>Cultural Affairs</h3>
+  </a>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="/about/">About</a></li>
     <li><a href="/go-see-art/">Go See Art</a></li>
-    <li><a href="/opportunities/">Opportunities for Artists</a></li>
-    <li><a href="/contact/">Contact</a></li>
+    <li><a href="/opportunities/">Opportunities</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ul>
 </header>
 
@@ -70,7 +75,7 @@
     </p>
   </form>
 
-  <p>
+  <p id="contact">
     <a href="https://www.google.com/maps/place/1437+4th+St,+Santa+Monica,+CA+90401/">
       <strong>Santa Monica Cultural Affairs Division</strong><br />
       1437 4th Street, Suite 310<br />
@@ -79,6 +84,8 @@
   </p>
   <p>310-458-8350</p>
   <p><a href="mailto:culture@smgov.net">culture@smgov.net</a></p>
+
+  <p>Brought to you by the <a href="https://santamonica.gov">City of Santa Monica</a></p>
 
   <ul>
     <li>

@@ -2,4 +2,28 @@
 
   /* =Layout
   ----------------------------------------------- */
+  main {
+  	display: grid;
+  	grid-template-columns: 2fr repeat(12, 4em) 2fr;
+  	grid-column-gap: 2em;
+  }
+  main > * {
+  	grid-column: 2/-2;
+  	max-width: 33em;
+  }
+
+  .logotype {
+  	display: block;
+  	background-color: rgb(56, 186, 176);
+  	color: white;
+  	padding: 1.5em;
+  }
+  .logotype h2,
+  .logotype h3 {
+  	font-size: inherit;
+  }
+  .logotype img {
+  	width: 5em;
+  	height: 5em;
+  }
 

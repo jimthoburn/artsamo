@@ -1,8 +1,8 @@
 ---
-title: Opportunities for Artists, Santa Monica Cultural Affairs
+title: Opportunities, Santa Monica Cultural Affairs
 ---
 
-Opportunities for Artists
+Opportunities
 =========================
 
 You can never have enough art. And that means you can never have enough artists. Our Cultural Affairs Division helps welcome and cultivate artists through grants and residencies for both individual artists and organizations.
@@ -10,9 +10,10 @@ You can never have enough art. And that means you can never have enough artists.
 Artist Fellowship
 -----------------
 
-Deadline: TBA (early January 2019) | [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
+Deadline: TBA (early January 2019)
 
-Applications Will Be Available: TBA (early January 2019)
+Applications Will Be Available: TBA (early January 2019)  
+[Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
 
 Support of the arts comes in many forms. For a few fortunate local artists, that support is financial. The Santa Monica Artist Fellowship offers two annual grants of $20,000 and three project fellowships of $4,200 each. Could you use the support? We encourage you to apply today.
 
@@ -27,7 +28,8 @@ Santa Monica strives to cultivate not only local artists, but also artists from 
 
 ### ArtSaMo Fall Writer Residency
 
-Deadline: 12 p.m. (Noon), February 15, 2018 | [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
+Deadline: 12 p.m. (Noon), February 15, 2018  
+[Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
 
 Where: Annenberg Community Beach House
 
@@ -35,7 +37,8 @@ Applications Will Be Available: TBA
 
 ### ArtSaMo Public Practice Immersion Residency
 
-Deadline: 12 p.m. (Noon), February 15, 2018 | [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
+Deadline: 12 p.m. (Noon), February 15, 2018  
+[Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
 
 Where: Annenberg Community Beach House
 
@@ -43,7 +46,8 @@ Applications Will Be Available: TBA
 
 ### ArtSaMo Choreographer Residency
 
-Deadline: 12 p.m. (Noon), February 15, 2018 | [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
+Deadline: 12 p.m. (Noon), February 15, 2018  
+[Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
 
 Where: Annenberg Community Beach House
 
@@ -51,7 +55,8 @@ Applications Will Be Available: TBA
 
 ### ArtSaMo Gallery Group Exhibits
 
-Deadline: 12 p.m. (Noon), February 15, 2018 | [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
+Deadline: 12 p.m. (Noon), February 15, 2018  
+[Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
 
 Where: Annenberg Community Beach House
 
@@ -59,7 +64,8 @@ Applications Will Be Available: TBA
 
 ### ArtSaMo Studio Residency
 
-Deadline: 12 p.m. (Noon), February 15, 2018 | [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
+Deadline: 12 p.m. (Noon), February 15, 2018  
+[Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
 
 Where: Camera Obscura Art Lab
 
@@ -70,7 +76,8 @@ Opportunities for Organizations
 
 ### Organizational Support Program
 
-Deadline: TBA (Feb/March 2019)| [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
+Deadline: TBA (Feb/March 2019)  
+[Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Santa_Monica_Artist_Fellowship/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202018-19%20ES-US.pdf)
 
 Applications Will Be Available: Winter 2018
 
@@ -86,7 +93,8 @@ Resident organizations are defined as those whose primary administrative office 
 
 ### Community Access & Participation
 
-Deadline: TBA (April 2019) | Instructions and [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/CAP_Grant_Program/CAP%20Program%20Guidelines%202018-19.pdf) |
+Deadline: TBA (April 2019)  
+[Instructions and Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/CAP_Grant_Program/CAP%20Program%20Guidelines%202018-19.pdf)
 
 Applications Will Be Available: February/March 2019
 
@@ -99,7 +107,8 @@ How might one child’s life change by being exposed to the arts? Applying for a
 
 The City of Santa Monica Arts Transportation Grant Program provides access to arts and culture activities throughout Los Angeles County. Any Santa Monica school or nonprofit organization who wants to take their students to visit a cultural destination in L.A. County may apply for reimbursement of transportation costs. Trips must take place between **October 1, 2017 and June 7, 2018.**
 
-There’s no deadline for applications, but we suggest you apply by mid-November 2018 to ensure funds are available.  | Instructions & Guidelines |
+There’s no deadline for applications, but we suggest you apply by mid-November 2018 to ensure funds are available.  
+_Instructions & Guidelines (coming soon)_
 
 Applications Will Be Available: September 7, 2018
 

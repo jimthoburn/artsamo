@@ -9,7 +9,6 @@
   }
 </style>
 
-<h1>Events for the City of Santa Monica in Palisades Park</h1>
 <p role="status" class="message" style="display: none;"></p>
 <ol id="event-list"></ol>
 
@@ -19,7 +18,7 @@
     <details>
       <summary>
         <div class="summary">
-          <h2><abbr aria-label="{{ weekday }}">{{ weekdayAbbreviation }}</abbr><br /><abbr aria-label="{{ month }}">{{ monthAbbreviation }}</abbr> {{ day }}</h2>
+          <h3><abbr aria-label="{{ weekday }}">{{ weekdayAbbreviation }}</abbr><br /><abbr aria-label="{{ month }}">{{ monthAbbreviation }}</abbr> {{ day }}</h3>
           <p>{{ title }}</p>
           <p>{{ time }}</p>
           <p>{{ location }}</p>
@@ -27,8 +26,8 @@
         <div class="mask-behind-details"></div>
       </summary>
       <div class="details">
-        <h3>{{ title }}</h3>
-        <h4>{{ weekday }}, {{ month }} {{ day }}, {{ year }}</h4>
+        <h4>{{ title }}</h4>
+        <h5>{{ weekday }}, {{ month }} {{ day }}, {{ year }}</h5>
         <p>{{ time }}</p>
         <p>{{ description }}</p>
 

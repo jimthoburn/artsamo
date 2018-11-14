@@ -9,21 +9,18 @@ We are a community like no other. And the thread that binds the soul of our comm
 
 [Go See Art](/go-see-art/)
 
-Upcoming Deadlines
-==================
+## Upcoming Deadlines
 
 * [Gallery Group Exhibits April 13, 2018](https://www.smgov.net/Portals/Culture/Public_Art_Program/Artist_Opportunities.aspx)
 * [Choreographer Residency May 3, 2018](https://www.smgov.net/Portals/Culture/Public_Art_Program/Artist_Opportunities.aspx)
 * [Public Practice Immersion Residency: Out of the Blue April 24, 2018](https://www.smgov.net/Portals/Culture/Public_Art_Program/Artist_Opportunities.aspx)
 * [Writer Residencies in Fall and Spring April 4, 2018](https://www.smgov.net/Portals/Culture/Public_Art_Program/Artist_Opportunities.aspx)
 
-Attention: Artist
-=============
+## Attention: Artist
 
 The Artist Fellowship application deadline is due [February 2, 2019](https://www.smgov.net/portals/culture/publicArtCollection.aspx)
 
-Public Art
-==========
+## Public Art
 
 * Percent for Art Commissions
 * Public Art collection maintenance
@@ -38,8 +35,7 @@ See More
 
 Attention Artists
 
-Policy
-======
+## Policy
 
 * Creativity Vitality Suite
 * Data Arts
@@ -50,8 +46,7 @@ Policy
 * Airport Art Studios
 * Civic Development
 
-Venues
-======
+## Venues
 
 * [Miles Memorial Playhouse](/miles-playhouse/)
 * [The Civic Auditorium](/civic-auditorium/)
