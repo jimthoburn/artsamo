@@ -17,7 +17,7 @@ Located in Reed Park, this historic playhouse has entertained audiences since 19
 Theater Rental
 --------------
 
-[Rent the Miles Memorial Playhouse](milesplayhouse/rent.html)
+[Rent the Miles Memorial Playhouse](/miles-memorial-playhouse-theater-rental/)
 
 Rental Events Open to the Public
 --------------------------------
@@ -58,15 +58,13 @@ _ Shared Mobility Devices cannot be used within the venue._
 
 The Miles Memorial Playhouse is wheelchair accessible and ADA compliant. If you require any special disability related accommodations (i.e. sign language interpreting, access to an amplified sound system, etc.), please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
-* * *
 
-We're located at:
-
+We’re located at:
+------------
 
 **1130 Lincoln Blvd  
 Reed Park  
 ****Santa Monica, CA 90403**
-
 
 **310.458.8634**
 

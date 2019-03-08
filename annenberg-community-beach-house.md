@@ -14,12 +14,12 @@ Beach=Culture at Annenberg Community Beach House
 
 Welcome to Beach=Culture, a year-round series of free arts and culture events at the Annenberg Community Beach House. Beach=Culture features quarterly exhibitions, artist residencies, ongoing literary programs and more. Come join us to experience something new, and broaden your perspective.
 
-For more information about residency deadlines, please visit [Opportunities](opportunities-for-artists.html).
+For more information about residency deadlines, please visit [Opportunities](/opportunities-for-artists/).
 
 Artists in Residence
 --------------------
 
-[Artists in Residence from 2009-2019](annenberg-community-beach-house-artists.html)
+[Artists in Residence from 2009-2019](/annenberg-community-beach-house-artists/)
 
 *   ### Wally Rudolph
   
@@ -29,7 +29,7 @@ Artists in Residence
   
   Born in Canada to Chinese-Jamaican immigrant parents and raised in Texas, Wally Rudolph settled in Los Angeles after a peripatetic youth. He is a multidisciplinary artist and diversity advocate whose debut novel, Four Corners (Counterpoint/Soft Skull, 2014), garnered praise for its unflinching prose and drew comparisons to the hard-edged but compassionate work of Denis Johnson, among others. His second novel Mighty, Mighty, was published to critical praise in 2015.
   
-  [Upcoming Public Events](beach-culture-at-the-annenberg-beach-house.html#calendar) and [interview](../blog/meet-spring-2019-beach-house-writer-in-residence-wally-rudolph.html)
+  [Upcoming Public Events](/beach-culture-at-the-annenberg-beach-house.html#calendar) and [interview](https://www.santamonica.gov/blog/meet-spring-2019-beach-house-writer-in-residence-wally-rudolph)
   
 
 2019 Gallery Exhibition Season
@@ -108,14 +108,12 @@ _[Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/
 
 Annenberg Community Beach House is wheelchair accessible and ADA compliant. If you require any special disability related accommodations (i.e. sign language interpreting, access to an amplified sound system, etc.), please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
-* * *
 
-We're located at:
-
+We’re located at:
+------------
 
 **415 Pacific Coast Hwy  
 Santa Monica, CA 90402**
-
 
 **310.458.4904**
 

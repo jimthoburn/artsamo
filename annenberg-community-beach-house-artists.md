@@ -11,17 +11,17 @@ Artists in Residence, Annenberg Community Beach House
 ----
 
 *   [Writer Wally Rudolph The Ox, the Horse and the Boar](https://www.wallyrudolph.com/)  
-  [interview](../blog/meet-spring-2019-beach-house-writer-in-residence-wally-rudolph.html)
+  [interview](https://www.santamonica.gov/blog/meet-spring-2019-beach-house-writer-in-residence-wally-rudolph)
 
 2018
 ----
 
 *   [Writer Luis Alfaro Mother of the Row & The Golden State](https://dramaticarts.usc.edu/luis-alfaro/)  
-  [interview](../press/2018/01/17/playwright-luis-alfaro-named-writer-in-residence-at-the-annenberg-community-beach-house.html)
+  [interview](https://www.santamonica.gov/press/2018/01/17/playwright-luis-alfaro-named-writer-in-residence-at-the-annenberg-community-beach-house)
 *   [Public Practice Therese Kelly Under the Umbrella](http://www.theresekelly.com/)  
-  [interview](../blog/architect-and-social-practice-artist-therese-kelly-to-lead-tours-illuminating-our-relationship-with-water.html)
+  [interview](https://www.santamonica.gov/blog/architect-and-social-practice-artist-therese-kelly-to-lead-tours-illuminating-our-relationship-with-water)
 *   [Public Practice Molly Allis The Storytelling Machine](https://www.mollyallis.com/)  
-  [interview](../blog/artist-molly-allis-focuses-on-accessibility-and-joy-in-her-process.html)
+  [interview](https://www.santamonica.gov/blog/artist-molly-allis-focuses-on-accessibility-and-joy-in-her-process)
 *   [Writer Catherine Coan Mistakes Have Been Made](https://catherinecoan.com/)  
   [interview](https://beachhouseair.blogspot.com/2018/12/following-and-reconciling-different.html)
 
@@ -30,9 +30,9 @@ Artists in Residence, Annenberg Community Beach House
 
 *   Writer Dinah Berland Fugue for a New Life
 *   [Choreographer Jay Carlon Out of Bounds](https://www.jaycarlon.com/)  
-  [interview](../blog/artist-jay-carlon-explores-migration-and-displacement-through-dance-at-the-beach-house.html)
+  [interview](https://www.santamonica.gov/blog/artist-jay-carlon-explores-migration-and-displacement-through-dance-at-the-beach-house)
 *   Writer Sakae Manning Kimono Blues  
-  [interview](../blog/writer-sakae-manning-forges-alliances-between-women-of-color-through-storytelling.html)
+  [interview](https://www.santamonica.gov/blog/writer-sakae-manning-forges-alliances-between-women-of-color-through-storytelling)
 
 2016
 ----
@@ -71,7 +71,7 @@ Artists in Residence, Annenberg Community Beach House
 ----
 
 *   Writer Sandro Meallet
-*   [Theater Santa Monica Rep The Tempest!](https://www.santamonicarep.org/index.html)
+*   [Theater Santa Monica Rep The Tempest!](https://www.santamonicarep.org/)
 *   [Choreographer Keith Glassman Timeless: Marxist Dances at the Beach](http://www.keithglassman.org/)
 
 2010

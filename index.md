@@ -15,28 +15,29 @@ We are a community like no other. And the thread that binds the soul of our comm
   ![Art](/uploads/Art.png)
 ](/go-see-art/)
 
-Upcoming Deadlines
+Artist Opportunities
 ==================
+
+### Upcoming Deadlines
 
 *   [Choreographer Residency 03/27/2019](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/2019ACBH_Choreo_Res_Call.pdf)
 
 *   [Prequalified Artist Roster 03/29/2019](https://artist.callforentry.org/festivals_unique_info.php?ID=6001)
 
-[Mar 6nd](opportunities-for-artists.html)
-
 Public Art
 ==========
 
-*   [Percent for Art Commissions](go-see-art.html#map )
-*   [Public Art Collection Care and Maintenance](about.html#maintenance)
-*   [Public Art Archive/Map](go-see-art.html#map)
-*   [Art Ordinances for Art](about.html#ordinances)
+*   [Percent for Art Commissions](/go-see-art/#map)
+*   [Public Art Collection Care and Maintenance](/about/#maintenance)
+*   [Public Art Archive/Map](/go-see-art/)
+*   [Art Ordinances for Art](/about/#ordinances)
 
-<em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle Tongva Park, 2013.[  
-  
-See More](go-see-art.html)
+<figure>
+  <img src="/Media/arts/CA/weather-field-tongva.jpg" alt="" />
+  <p><em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle Tongva Park, 2013.</p>
+</figure>
 
-![Attention Artists](/uploads/weather-field-tongva.jpg)
+[See More Art](/go-see-art/)
 
 
 Santa Monica Cultural Affairs Venues

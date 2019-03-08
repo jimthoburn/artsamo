@@ -16,7 +16,7 @@ Applications Will Be Available: TBA
 
 The purpose of the Santa Monica Artist Fellowship program is to nourish and stimulate the creation of new work by Santa Monica artists, recognize excellence, and reinforce our community’s high regard for creativity and innovation. Five Fellowships are awarded annually: two fellowships of $20,000 by means of a nomination process, and three $4,200 Project Fellowships are awarded by application.
 
-[Artist fellows from 2010-2019](artist-fellows.html)
+[Artist fellows from 2010-2019](/artist-fellows/)
 
 ### Eligibility
 

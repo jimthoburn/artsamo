@@ -40,7 +40,7 @@ We meet the third Monday of each month, Ken Edwards Center, 6:30 p.m.
 #### Details and Agendas
 
 *   [Arts Commission Board Details](https://www.smgov.net/departments/clerk/boards.aspx?id=53687092546)
-*   [Arts Commission Agendas & Minutes](../arts-commission-agendas.html)
+*   [Arts Commission Agendas & Minutes](/arts-commission-agendas/)
 
 ### Public Art Committee
 
@@ -88,7 +88,7 @@ Public Art Program
 
 ### Public Art Map
 
-[Public Art Archive/Map](../go-see-art.html#map)
+[Public Art Archive/Map](/go-see-art/#map)
 
 ### Leadership
 

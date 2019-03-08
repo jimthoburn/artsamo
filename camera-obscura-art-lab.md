@@ -27,7 +27,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
 Artists in Residence
 --------------------
 
-[Artists in Residence from 2014-2019](camera-obscura-art-lab-artists.html)
+[Artists in Residence from 2014-2019](/camera-obscura-art-lab-artists/)
 
 *   ### Max King Cap
   
@@ -39,7 +39,7 @@ Artists in Residence
   
   Multidisciplinary artist Max King Cap continues his Broadsides series of  politically radical text statements and creates new paintings for his Exonerated series, which memorializes the experience of incarcerated people. He will also work on a play about power and powerlessness titled _59_ _Inches_, and lead flash playwriting, manifesto writing, and painting workshops.
   
-  [Upcoming Public Workshops](camera-obscura.html#calendar), [final event](https://www.eventbrite.com/e/daeun-jung-and-max-king-cap-new-works-tickets-52985082809), and [interview](../blog/get-to-know-camera-obscura-art-lab-studio-resident-max-king-cap.html)
+  [Upcoming Public Workshops](#calendar), [final event](https://www.eventbrite.com/e/daeun-jung-and-max-king-cap-new-works-tickets-52985082809), and [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-max-king-cap)
   
 *   ### DaEun Jung
   
@@ -49,7 +49,7 @@ Artists in Residence
   
   Choreographer DaEun Jung is composing an “Earthian Folk Dance,” conceived as a vernacular dance for all residents of the planet. As a bi-cultural Korean American choreographer, she draws upon traditional Korean dance and contemporary movement practices in her work, which challenges notions of authorship. She also combines a deep investigation into traditional movement forms and aleatory practices. Jung presents workshops in drumming, mask making, and traditional and contemporary dance. 
   
-  [Upcoming Public Workshops](camera-obscura.html#calendar), [final event](https://www.eventbrite.com/e/daeun-jung-and-max-king-cap-new-works-tickets-52985082809), and [interview](../blog/get-to-know-camera-obscura-art-lab-studio-resident-daeun-jung.html)
+  [Upcoming Public Workshops](#calendar), [final event](https://www.eventbrite.com/e/daeun-jung-and-max-king-cap-new-works-tickets-52985082809), and [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-daeun-jung)
   
 *   ### Dahn Gim
   
@@ -61,7 +61,7 @@ Artists in Residence
   
   Sculptor Dahn Gim creates a series of sound/kinetic sculptures made of collected seaside waste and plastic remnants from 3D printers, with a focus on transforming and recontextualizing notions of trash and debris.
   
-  [Upcoming Public Workshops](camera-obscura.html#calendar)
+  [Upcoming Public Workshops](#calendar)
   
 *   ### Alex Wand
   
@@ -73,7 +73,7 @@ Artists in Residence
   
   Composer Alex Wand works on a  sound collage  that interprets the ocean views as seen from the Camera Obscura. Sonification is one focus of his practice, which also includes investigations into just intonation, folk music, sound art, and music for performance.
   
-  [Upcoming Public Workshops](camera-obscura.html#calendar)
+  [Upcoming Public Workshops](#calendar)
   
 *   ### Natalja Kent
   
@@ -85,7 +85,7 @@ Artists in Residence
   
   Photographer Natalja Kent continues a project called Movement Artifact, and will utilize the residency as a platform to to engage with the public in both embodiment and generative practices. This will take the form of various group movement and meditation events followed by cyanotype printmaking.
   
-  [Upcoming Public Workshops](camera-obscura.html#calendar)
+  [Upcoming Public Workshops](#calendar)
   
 *   ### Mimi Haddon
   
@@ -97,7 +97,7 @@ Artists in Residence
   
   Costume Designer and Photographer Mimi Haddon will be working with the idea of adaptations and territories through mask, costume and movement. Haddon will document the archetypes and characters that the participants create, for a book about the newly forged narratives and communities that emerge out of the process.
   
-  [Upcoming Public Workshops](camera-obscura.html#calendar)
+  [Upcoming Public Workshops](#calendar)
   
 
 Upcoming Events
@@ -130,10 +130,11 @@ Parking Structure 6, Pier, Civic Center or Civic Auditorium
 
 _ [Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/Shared-Mobility-Services/) cannot be used within the park around the Camera Obscura Art Lab._
 
-Workshops at the Camera Obscura Art Lab are wheelchair accessible and ADA compliant. NOTE: the camera obscura mechanism is located up fourteen steps and is not wheelchair accessible. If you require any special disability related accommodations please contact us at [culture@smgov.net](mailto: culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
+Workshops at the Camera Obscura Art Lab are wheelchair accessible and ADA compliant. NOTE: the camera obscura mechanism is located up fourteen steps and is not wheelchair accessible. If you require any special disability related accommodations please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
-We're located at:
 
+We’re located at:
+------------
 
 **1450 Ocean Ave.**
 
