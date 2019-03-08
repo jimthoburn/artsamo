@@ -48,12 +48,11 @@ The Public Art Committee is a standing committee of the Arts Commission, made up
 
 We meet the third Monday of each month, Ken Edwards Center, 5:00 p.m.
 
-Art enables us to find ourselves and lose ourselves at the same time
---------------------------------------------------------------------
+> Art enables us to find ourselves and lose ourselves at the same time
+>
+> \- Thomas Merton
 
-\- Thomas Merton
-
-![](../Media/Default/CMO/The%20Wonder%20Room%202015%20-%202%20William%20Short.jpg)
+![](/uploads/The%20Wonder%20Room%202015%20-%202%20William%20Short.jpg)
 
 Santa Monica Arts Foundation
 ----------------------------
@@ -76,10 +75,9 @@ The City's Cultural Policies exist to support our artistic legacy, while creatin
 
 We’re always looking for ways to remain fresh. That’s why we’re excited to announce our 2019 Cultural Plan. This yearlong process will help craft a collective vision for the future of art in Santa Monica, and will seek input from our valued community members. That means you! Stay tuned.
 
-Art and love are the same thing: it's the process of seeing yourself in things that are not you.
-------------------------------------------------------------------------------------------------
-
-\- Chuck Klosterman
+> Art and love are the same thing: it's the process of seeing yourself in things that are not you.
+>
+> \- Chuck Klosterman
 
 ![](/uploads/IMG_7837.jpg)
 
