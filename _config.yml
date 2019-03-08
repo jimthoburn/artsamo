@@ -14,9 +14,9 @@ defaults:
       layout: default
 
 collections:
-  venues:
+  uploads:
+    title: Uploads
     output: true
-    permalink: /:path/
 
 # For cache busting
 version: 0.0.0

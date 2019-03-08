@@ -1,54 +1,68 @@
 ---
 title: Santa Monica Cultural Affairs
 ---
+﻿
+![Welcome to ArtSaMo](../Media/arts/CA/HomeFeature2578x1536.png)
 
 Welcome to ArtSaMo
 ==================
 
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
 
-[Go See Art](/go-see-art/)
+ [![](../Media/arts/CA/Go.png)](go-see-art.html) [ ![](../Media/arts/CA/See.png) ](go-see-art.html) [![](../Media/arts/CA/Art.png)](go-see-art.html) 
 
-## Upcoming Deadlines
+Upcoming Deadlines
+==================
 
-* [Gallery Group Exhibits April 13, 2018](https://www.smgov.net/Portals/Culture/Public_Art_Program/Artist_Opportunities.aspx)
-* [Choreographer Residency May 3, 2018](https://www.smgov.net/Portals/Culture/Public_Art_Program/Artist_Opportunities.aspx)
-* [Public Practice Immersion Residency: Out of the Blue April 24, 2018](https://www.smgov.net/Portals/Culture/Public_Art_Program/Artist_Opportunities.aspx)
-* [Writer Residencies in Fall and Spring April 4, 2018](https://www.smgov.net/Portals/Culture/Public_Art_Program/Artist_Opportunities.aspx)
+*   [Choreographer Residency 03/27/2019](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/2019ACBH_Choreo_Res_Call.pdf)
 
-## Attention: Artist
+*   [Prequalified Artist Roster 03/29/2019](https://artist.callforentry.org/festivals_unique_info.php?ID=6001)
 
-The Artist Fellowship application deadline is due [February 2, 2019](https://www.smgov.net/portals/culture/publicArtCollection.aspx)
+[Mar 6nd](opportunities-for-artists.html)
 
-## Public Art
+Public Art
+==========
 
-* Percent for Art Commissions
-* Public Art collection maintenance
-* Public Art Archive/Map
-* Art Ordinances% for art
-* Art on Utility Boxes
-* Public Art Masterplan
+*   [Percent for Art Commissions](go-see-art.html#map )
+*   [Public Art Collection Care and Maintenance](about.html#maintenance)
+*   [Public Art Archive/Map](go-see-art.html#map)
+*   [Art Ordinances for Art](about.html#ordinances)
 
-Ken Price North Shore Break, 2001 Watercolor & Ink 16 x 14 inches
+<em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle Tongva Park, 2013.[  
+  
+See More](go-see-art.html)
 
-See More
+![Attention Artists](../Media/arts/CA/weather-field-tongva.jpg)
 
-Attention Artists
+Policy
+======
 
-## Policy
+*   [Creativity Vitality Suite](about.html)
+*   [Data Arts](about.html)
+*   [Creative Capital Cultural Plan](about.html)
+*   [Art Commission](about.html)
+*   [Public Art Committee](about.html)
+*   [Bergamot Arts Center development](about.html)
+*   [Airport Art Studios](about.html)
+*   [Civic Development](about.html)
 
-* Creativity Vitality Suite
-* Data Arts
-* Creative Capital Cultural Plan
-* Art Commission
-* Public Art Committee
-* Bergamot Arts Center development
-* Airport Art Studios
-* Civic Development
+Venues
+======
 
-## Venues
+![Venues](../Media/arts/CA/milesplayhouse.jpg) [
 
-* [Miles Memorial Playhouse](/miles-playhouse/)
-* [The Civic Auditorium](/civic-auditorium/)
-* [Beach=Culture at the Annenberg Beach House](/annenberg-beach-house/)
-* [Camera Obscura Art Lab at 1450 Ocean](/camera-obscura-art-lab/)
+Miles Memorial Playhouse
+
+](miles-memorial-playhouse.html)
+
+![Venues](../Media/arts/CA/beachhouse-500-heigh.jpg) [
+
+Beach=Culture at Annenberg Community Beach House
+
+](annenberg-community-beach-house.html)
+
+![Venues](../Media/arts/CA/cameraobscura.jpg) [
+
+Camera Obscura Art Lab
+
+](camera-obscura-art-lab.html)

@@ -1,33 +1,43 @@
 ---
-title: Go See Art, Santa Monica Cultural Affairs
+title: Go See Art, Santa Monica
 ---
 
 Go See Art
 ==========
 
+![](../Media/arts/CA/coast-band.jpg)
+
 You will never regret taking time out of your busy day to go see art. Santa Monica offers a rich collection of public art, self-produced art and more. Get out there, drink it in and let it refresh your soul. You can’t see it all, of course. But you can try.
+
+*   [Calendar](#calendar)
+*   [Venues](#venues)
+*   [Public Art](#public-art)
 
 Public Art
 ----------
 
-Our City’s diverse creative population is reflected through art, and it’s essential to our City. So that you can enjoy as much of it as possible, we’re dedicated to integrating it into our community’s daily life. Be sure to notice it each day, and seek it out in areas you don’t normally visit.
+Art makes the day better. And we're dedicated to integrating as much art as possible into our community's daily life. We encourage you to notice it as you go about your day, and invite you to seek it out in areas you don't normally visit. Click on a marker on the map below to get a peek at the public artworks in Santa Monica. To see more, visit the [Public Art Archive](http://www.publicartarchive.org/santamonica)! 
 
-<iframe src="https://www.publicartarchive.org/paa_map/50303" style="border-width: 0; width: 100%; height: 500px; height: 50vh;"></iframe>
+Santa Monica Cultural Affairs Venues
+------------------------------------
 
-[View this map on publicartarchive.org](https://www.publicartarchive.org/santamonica)
+*   [![](../Media/arts/CA/milesplayhouse.jpg)  
+  ![](../Media/arts/CA/icon-miles-playhouse.png)Miles Memorial Playhouse](miles-memorial-playhouse.html)
+*   [![](../Media/arts/CA/civicauditorium.jpg)  
+  ![](../Media/arts/CA/icon-civic-auditorium.png)The Civic Auditorium](https://www.smgov.net/departments/ccs/civicauditorium/)
+*   [![](../Media/arts/CA/beachhouse-500-heigh.jpg)  
+  ![](../Media/arts/CA/icon-beachhouse.png)Beach=Culture at Annenberg Community Beach House](annenberg-community-beach-house.html)
+*   [![](../Media/arts/CA/cameraobscura.jpg)  
+  ![](../Media/arts/CA/icon-camera-obscura.png)Camera Obscura Art Lab](camera-obscura-art-lab.html)
 
-Programs @ Venues
------------------
+* * *
 
-* [Miles Memorial Playhouse](/miles-playhouse/)
-* [The Civic Auditorium](/civic-auditorium/)
-* [Beach=Culture at the Annenberg Beach House](/annenberg-beach-house/)
-* [Camera Obscura Art Lab at 1450 Ocean](/camera-obscura-art-lab/)
+Santa Monica Cultural Affairs Calendar
+--------------------------------------
 
-Calendar
---------
+* * *
 
-{% include calendar.html %}
+Other Santa Monica Calendars
+----------------------------
 
-[More events](https://www.santamonica.gov/events)
-
+*   [Santa Monica Travel and Tourism Calendar](https://www.santamonica.com/things-to-do/arts-culture/)

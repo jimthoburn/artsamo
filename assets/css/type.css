@@ -11,6 +11,16 @@
     padding: 1.5em;
   }
 
+  /*
+  body {
+    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-size: 100%;
+    font-size: calc(0.75em + 0.75vmin);
+    margin: 0;
+    padding: 1.5em;
+  }
+
   p, ol, ul, dl, table {
     margin-top: 0.75em;
     margin-bottom: 0.75em;
@@ -27,27 +37,29 @@
   }
 
   h2 {
-    font-size: 3.375em;
-    line-height: calc(4.5em / 3.375em);
-  }
-
-  h3 {
     font-size: 2.25em;
     line-height: calc(3em / 2.25em);
   }
 
-  h4 {
+  h3 {
     font-size: 1.5em;
+  }
+
+  h4 {
+    font-size: 1em;
   }
 
   h5 {
     font-size: 1em;
+    font-weight: 500;
+    font-style: italic;
   }
 
   h6 {
     font-size: 1em;
+    font-weight: 400;
     font-style: italic;
   }
-
+  */
 
 
