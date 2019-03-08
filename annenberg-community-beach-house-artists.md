@@ -5,7 +5,7 @@ title: Artists in Residence at Annenberg Community Beach House, Santa Monica
 Artists in Residence, Annenberg Community Beach House
 =====================================================
 
-![](../Media/arts/CA/coast-painting.jpg)
+![](/uploads/coast-painting.jpg)
 
 2019
 ----

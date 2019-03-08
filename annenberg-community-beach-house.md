@@ -2,9 +2,9 @@
 title: Beach=Culture at Annenberg Community Beach House, Santa Monica
 ---
 
-![Welcome to ArtSaMo](../Media/arts/CA/beachhouse-500-heigh.jpg)
+![Welcome to ArtSaMo](/uploads/beachhouse-500-heigh.jpg)
 
-![](../Media/arts/CA/icon-beachhouse.png)
+![](/uploads/icon-beachhouse.png)
 
 Beach=Culture at Annenberg Community Beach House
 ================================================
@@ -23,7 +23,7 @@ Artists in Residence
 
 *   ### Wally Rudolph
   
-  ![](../Media/arts/CA/wally-rudolph.png)
+  ![](/uploads/wally-rudolph.png)
   
   January 16 – March 20, 2019
   
@@ -41,7 +41,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
 
 *   ### On and Off the Street
   
-  ![](../Media/arts/CA/cindy-bendat.jpg)
+  ![](/uploads/cindy-bendat.jpg)
   
   January 21 -April 30
   
@@ -53,7 +53,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
   
 *   ### And then there is California.
   
-  ![](../Media/arts/CA/rainbow-face-by-hailey-magoon.jpg)
+  ![](/uploads/rainbow-face-by-hailey-magoon.jpg)
   
   May 3 -September 2
   
@@ -65,7 +65,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
   
 *   ### Memories of Diaspora: Immigration Narratives of Los Angeles by Art Division
   
-  ![](../Media/arts/CA/art-division.png)
+  ![](/uploads/art-division.png)
   
   September 9, 2019 - January 5, 2020
   
@@ -78,6 +78,12 @@ Three exhibits each year showcase the work of regional artists and artist groups
 
 Upcoming Events
 ---------------
+
+<ol
+  class="events"
+  data-events-locations="Annenberg Community Beach House">
+</ol>
+<script src="/assets/js/events.js"></script>
 
 Getting Here
 ------------
@@ -119,27 +125,3 @@ Santa Monica, CA 90402**
 
 **[Visit the Beach House Homepage](http://annenbergbeachhouse.com/)**
 
-Camera Obscura Events Calendar
-==============================
-
-January
--------
-
-06 | 11AM
-
-06 | 10AM
-
-[View all events](www.google.html)
-
-TBD[  
-
-TBD](../index.html)
-
-![Attention Artists](../Media/arts/CA/Icon_annenberg-1.jpg)
-
-Studio Residency
-================
-
-*   [Debra Disman](../www.google.html)
-*   [Huong Nguyen](../www.google.html)
-*   [Residency Details](../www.google.html)

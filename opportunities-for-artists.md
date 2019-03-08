@@ -5,12 +5,12 @@ title: Opportunities for Artists, Santa Monica
 Opportunities for Artists
 =========================
 
-![](../Media/arts/CA/coast-painting.jpg)
+![](/uploads/coast-painting.jpg)
 
 Artist Fellowship
 -----------------
 
-Deadline: Closed for 2019-2020 | [Guidelines](../Media/arts/CA/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202019-20%20ES-EN-1.pdf)
+Deadline: Closed for 2019-2020 | [Guidelines](/uploads/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202019-20%20ES-EN-1.pdf)
 
 Applications Will Be Available: TBA 
 

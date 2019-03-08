@@ -2,14 +2,18 @@
 title: Santa Monica Cultural Affairs
 ---
 ﻿
-![Welcome to ArtSaMo](../Media/arts/CA/HomeFeature2578x1536.png)
+![Welcome to ArtSaMo](/uploads/HomeFeature2578x1536.png)
 
 Welcome to ArtSaMo
 ==================
 
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
 
- [![](../Media/arts/CA/Go.png)](go-see-art.html) [ ![](../Media/arts/CA/See.png) ](go-see-art.html) [![](../Media/arts/CA/Art.png)](go-see-art.html) 
+[
+  ![Go](/uploads/Go.png)
+  ![See](/uploads/See.png)
+  ![Art](/uploads/Art.png)
+](/go-see-art/)
 
 Upcoming Deadlines
 ==================
@@ -32,37 +36,32 @@ Public Art
   
 See More](go-see-art.html)
 
-![Attention Artists](../Media/arts/CA/weather-field-tongva.jpg)
+![Attention Artists](/uploads/weather-field-tongva.jpg)
 
-Policy
+
+Santa Monica Cultural Affairs Venues
 ======
 
-*   [Creativity Vitality Suite](about.html)
-*   [Data Arts](about.html)
-*   [Creative Capital Cultural Plan](about.html)
-*   [Art Commission](about.html)
-*   [Public Art Committee](about.html)
-*   [Bergamot Arts Center development](about.html)
-*   [Airport Art Studios](about.html)
-*   [Civic Development](about.html)
+* [
+    ![](/uploads/milesplayhouse.jpg)  
+    ![](/uploads/icon-miles-playhouse.png)
+    Miles Memorial Playhouse
+  ](/miles-memorial-playhouse/)
 
-Venues
-======
+* [
+    ![](/uploads/civicauditorium.jpg)  
+    ![](/uploads/icon-civic-auditorium.png)
+    The Civic Auditorium
+  ](https://www.smgov.net/departments/ccs/civicauditorium/)
 
-![Venues](../Media/arts/CA/milesplayhouse.jpg) [
+* [
+    ![](/uploads/beachhouse-500-heigh.jpg)  
+    ![](/uploads/icon-beachhouse.png)
+    Beach=Culture at Annenberg Community Beach House
+  ](/annenberg-community-beach-house/)
 
-Miles Memorial Playhouse
-
-](miles-memorial-playhouse.html)
-
-![Venues](../Media/arts/CA/beachhouse-500-heigh.jpg) [
-
-Beach=Culture at Annenberg Community Beach House
-
-](annenberg-community-beach-house.html)
-
-![Venues](../Media/arts/CA/cameraobscura.jpg) [
-
-Camera Obscura Art Lab
-
-](camera-obscura-art-lab.html)
+* [
+    ![](/uploads/cameraobscura.jpg)  
+    ![](/uploads/icon-camera-obscura.png)
+    Camera Obscura Art Lab
+  ](/camera-obscura-art-lab/)

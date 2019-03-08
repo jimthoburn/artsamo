@@ -2,9 +2,9 @@
 title: Camera Obscura Art Lab, Santa Monica
 ---
 
-![Welcome to ArtSaMo](../Media/arts/CA/camera-obscura-2048x1365.jpg)
+![Welcome to ArtSaMo](/uploads/camera-obscura-2048x1365.jpg)
 
-![](../Media/arts/CA/icon-camera-obscura.png)
+![](/uploads/icon-camera-obscura.png)
 
 Camera Obscura Art Lab
 ======================
@@ -31,7 +31,7 @@ Artists in Residence
 
 *   ### Max King Cap
   
-  ![](../Media/arts/CA/max-king.png)
+  ![](/uploads/max-king.png)
   
   January 9 – April 17, 2019
   
@@ -43,7 +43,7 @@ Artists in Residence
   
 *   ### DaEun Jung
   
-  ![](../Media/arts/CA/daeun-kung.png)
+  ![](/uploads/daeun-kung.png)
   
   January 9 – April 17, 2019
   
@@ -53,7 +53,7 @@ Artists in Residence
   
 *   ### Dahn Gim
   
-  ![](../Media/arts/CA/dahn-gim.png)
+  ![](/uploads/dahn-gim.png)
   
   April 24 – July 31, 2019
   
@@ -65,7 +65,7 @@ Artists in Residence
   
 *   ### Alex Wand
   
-  ![](../Media/arts/CA/alex-wand.png)
+  ![](/uploads/alex-wand.png)
   
   April 24 – July 31, 2019
   
@@ -77,7 +77,7 @@ Artists in Residence
   
 *   ### Natalja Kent
   
-  ![](../Media/arts/CA/natalja-kent.png)
+  ![](/uploads/natalja-kent.png)
   
   August 7 – November 13, 2019
   
@@ -89,7 +89,7 @@ Artists in Residence
   
 *   ### Mimi Haddon
   
-  ![](../Media/arts/CA/mimi-haddon.png)
+  ![](/uploads/mimi-haddon.png)
   
   August 7 – November 13, 2019
   
@@ -102,6 +102,12 @@ Artists in Residence
 
 Upcoming Events
 ---------------
+
+<ol
+  class="events"
+  data-events-locations="Palisades Park">
+</ol>
+<script src="/assets/js/events.js"></script>
 
 Getting Here
 ------------
@@ -140,27 +146,3 @@ We're located at:
 
 [camera@smgov.net](mailto:camera@smgov.net)
 
-Camera Obscura Events Calendar
-==============================
-
-January
--------
-
-06 | 11AM
-
-06 | 10AM
-
-[View all events](www.google.html)
-
-Enameling on Silver with Sharon Kaplan[  
-
-Learn More](www.google.html)
-
-![Attention Artists](../Media/arts/CA/featured-event1.jpg)
-
-Studio Residency
-================
-
-*   [Debra Disman](../www.google.html)
-*   [Huong Nguyen](../www.google.html)
-*   [Residency Details](../www.google.html)

@@ -5,7 +5,7 @@ title: Theater Rental at Miles Memorial Playhouse, Santa Monica
 Theater Rental at Miles Memorial Playhouse
 ==========================================
 
-![](../../Media/arts/CA/MilesVenueTile540x305.jpg)
+![](..//uploads/MilesVenueTile540x305.jpg)
 
 The Miles Memorial Playhouse charter, as approved by the City Council, states that the Miles Memorial Playhouse is available solely to non-profit organizations presenting performing arts events (music, theater and dance) that are open to the general public and appropriate for youth. (“Youth” is defined as 24 and under.) We are also available for general performing arts-related rehearsals, single events and readings when schedule allows.
 

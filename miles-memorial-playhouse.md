@@ -2,9 +2,9 @@
 title: Miles Memorial Playhouse, Santa Monica
 ---
 
-![Welcome to ArtSaMo](../Media/arts/CA/playhouse-500-heigh.jpg)
+![Welcome to ArtSaMo](/uploads/playhouse-500-heigh.jpg)
 
-![](../Media/arts/CA/icon-miles-playhouse.png)
+![](/uploads/icon-miles-playhouse.png)
 
 Miles Memorial Playhouse
 ========================
@@ -26,6 +26,12 @@ Coming soon...
 
 Upcoming Events
 ---------------
+
+<ol
+  class="events"
+  data-events-locations="Miles Memorial Playhouse">
+</ol>
+<script src="/assets/js/events.js"></script>
 
 Getting Here
 ------------
@@ -66,27 +72,3 @@ Reed Park
 
 [milesplayhouse@smgov.net](mailto:milesplayhouse@smgov.net)
 
-Camera Obscura Events Calendar
-==============================
-
-January
--------
-
-06 | 11AM
-
-06 | 10AM
-
-[View all events](www.google.html)
-
-TBD[  
-
-TBD](../index.html)
-
-![Attention Artists](../Media/arts/CA/icon-beachhouse.png)
-
-Studio Residency
-================
-
-*   [Debra Disman](../www.google.html)
-*   [Huong Nguyen](../www.google.html)
-*   [Residency Details](../www.google.html)

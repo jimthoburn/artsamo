@@ -5,7 +5,7 @@ title: Go See Art, Santa Monica
 Go See Art
 ==========
 
-![](../Media/arts/CA/coast-band.jpg)
+![](/uploads/coast-band.jpg)
 
 You will never regret taking time out of your busy day to go see art. Santa Monica offers a rich collection of public art, self-produced art and more. Get out there, drink it in and let it refresh your soul. You can’t see it all, of course. But you can try.
 
@@ -21,19 +21,42 @@ Art makes the day better. And we're dedicated to integrating as much art as poss
 Santa Monica Cultural Affairs Venues
 ------------------------------------
 
-*   [![](../Media/arts/CA/milesplayhouse.jpg)  
-  ![](../Media/arts/CA/icon-miles-playhouse.png)Miles Memorial Playhouse](miles-memorial-playhouse.html)
-*   [![](../Media/arts/CA/civicauditorium.jpg)  
-  ![](../Media/arts/CA/icon-civic-auditorium.png)The Civic Auditorium](https://www.smgov.net/departments/ccs/civicauditorium/)
-*   [![](../Media/arts/CA/beachhouse-500-heigh.jpg)  
-  ![](../Media/arts/CA/icon-beachhouse.png)Beach=Culture at Annenberg Community Beach House](annenberg-community-beach-house.html)
-*   [![](../Media/arts/CA/cameraobscura.jpg)  
-  ![](../Media/arts/CA/icon-camera-obscura.png)Camera Obscura Art Lab](camera-obscura-art-lab.html)
+* [
+    ![](/uploads/milesplayhouse.jpg)  
+    ![](/uploads/icon-miles-playhouse.png)
+    Miles Memorial Playhouse
+  ](/miles-memorial-playhouse/)
+
+* [
+    ![](/uploads/civicauditorium.jpg)  
+    ![](/uploads/icon-civic-auditorium.png)
+    The Civic Auditorium
+  ](https://www.smgov.net/departments/ccs/civicauditorium/)
+
+* [
+    ![](/uploads/beachhouse-500-heigh.jpg)  
+    ![](/uploads/icon-beachhouse.png)
+    Beach=Culture at Annenberg Community Beach House
+  ](/annenberg-community-beach-house/)
+
+* [
+    ![](/uploads/cameraobscura.jpg)  
+    ![](/uploads/icon-camera-obscura.png)
+    Camera Obscura Art Lab
+  ](/camera-obscura-art-lab/)
+
 
 * * *
 
+
 Santa Monica Cultural Affairs Calendar
 --------------------------------------
+
+<ol
+  class="events"
+  data-events-locations="Annenberg Community Beach House,Miles Memorial Playhouse,Palisades Park">
+</ol>
+<script src="/assets/js/events.js"></script>
 
 * * *
 

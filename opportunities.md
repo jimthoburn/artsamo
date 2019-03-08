@@ -5,7 +5,7 @@ title: Opportunities, Santa Monica
 Opportunities
 =============
 
-![](../Media/arts/CA/coast-las-colibri.jpg)
+![](/uploads/coast-las-colibri.jpg)
 
 Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs helps create inspiring moments by welcoming and cultivating artists through grants and residencies for both individual artists and organizations. 
 
