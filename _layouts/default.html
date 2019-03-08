@@ -15,16 +15,23 @@
 
   <!-- TEMPORARY (until the new website is live) -->
   <meta name="robots" content="noindex">
-  <link rel="canonical" href="https://www.smgov.net/portals/culture/" />
   <script>
-    /*
+    window.addEventListener("DOMContentLoaded", function() {
+      if (document.querySelector("meta[content='noindex']"))
+      var notice = document.createElement("p")
+      notice.role = "status"
+      notice.innerHTML = "<mark><em>This page contains a noindex meta element and won’t be indexed by search engines.</em></mark>"
+      document.body.appendChild(notice)
+    })
+  </script>
+  <link rel="canonical" href="https://www.santamonica.gov/" />
+  <script>
     window.addEventListener("DOMContentLoaded", function() {
       var notice = document.createElement("p")
       notice.role = "status"
-      notice.innerHTML = "This is a design concept. Please visit the offical <em>Santa Monica Cultural Affairs</em> website at <a href='https://www.smgov.net/portals/culture/'>smgov.net</a>."
+      notice.innerHTML = "<mark>This website is a design preview and may not have accurate information. Please visit the official <a href='https://www.santamonica.gov/'>City of Santa Monica website</a>.</mark>"
       document.body.appendChild(notice)
     })
-    */
   </script>
 
 </head>
