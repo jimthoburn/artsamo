@@ -8,10 +8,22 @@
 
   <!-- Jim’s Typekit account -->
   <link rel="stylesheet" href="https://use.typekit.net/bwp8iid.css" />
+  
+  <!-- <link rel="stylesheet" href="/assets/css/shared.css?v={{ site.version }}" /> -->
+
+  {% if page.stylesheets %}
+    {% assign stylesheets = page.stylesheets %}
+  {% elsif layout.stylesheets %}
+    {% assign stylesheets = layout.stylesheets %}
+  {% endif %}
+  {% for url in stylesheets %}
+  <link rel="stylesheet" href="{{ url }}?v={{ site.version }}" />
+  {% endfor %}
 
   <link rel="stylesheet" href="/assets/css/type.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/color.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/layout.css?v={{ site.version }}" />
+  <link rel="stylesheet" href="/assets/css/header.css?v={{ site.version }}" />
 
   <!-- TEMPORARY (until the new website is live) -->
   <meta name="robots" content="noindex">
@@ -39,19 +51,69 @@
 
 <header>
   <h2>
-    <img src="/assets/images/city-of-santa-monica.png" alt="" width="100" height="100" />
-    Santa Monica Cultural Affairs
+    <a href="/">
+      Santa Monica Cultural Affairs
+    </a>
   </h2>
   <ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/go-see-art/">Go See Art</a></li>
-    <li><a href="/calendar/">Calendar</a></li>
+    <li><a href="/public-art/">Public Art</a></li>
+    <li><a href="/events/">Events</a></li>
     <li><a href="/venues/">Venues</a></li>
     <li><a href="/opportunities/">Opportunities</a></li>
     <li><a href="/about/">About</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="/contact/">Contact</a></li>
   </ul>
 </header>
+
+<!--
+<header>
+  <h2>
+    <a href="/">
+      Santa Monica Cultural Affairs
+    </a>
+  </h2>
+  <p>
+    <a href="https://santamonica.gov">
+      <img src="/assets/images/city-of-santa-monica.png" alt="Brought to you by the City of Santa Monica" width="100" height="100" />
+    </a>
+  </p>
+  <h3>Go See Art</h3>
+  <ul>
+    <li><a href="/public-art/">Public Art</a></li>
+    <li><a href="/events/">Events</a></li>
+    <li><a href="/venues/">Venues</a></li>
+  </ul>
+  <h3>Opportunities</h3>
+  <ul>
+    <li><a href="/opportunities-for-artists">For Artists</a></li>
+    <li><a href="/opportunities-for-organizations/">For Organizations</a></li>
+  </ul>
+  <h3>About</h3>
+  <ul>
+    <li><a href="/about/#leadership">Leadership</a></li>
+    <li><a href="/about/#foundation">Foundation</a></li>
+    <li><a href="/about/#policy-and-planning">Policy &amp; Planning</a></li>
+    <li><a href="/about/#public-art-program">Public Art Program</a></li>
+  </ul>
+  <h3></h3>
+  <ul>
+    <li><a href="/about/#faqs">FAQs</a></li>
+    <li><a href="/about/#faqs">Resources</a></li>
+    <li><a href="/contact/">Contact</a></li>
+  </ul>
+  <h3>Search</h3>
+  <form role="search" action="https://duckduckgo.com/" method="get">
+    <input type="hidden" name="sites" value="santamonica.gov">
+    <p>
+      <label>
+        <span>Keywords</span>
+        <input type="search" name="q">
+      </label>
+      <button type="submit">Search</button>
+    </p>
+  </form>
+</header>
+-->
 
 <main>
   {{ content }}
@@ -59,7 +121,7 @@
 
 <footer>
 
-  <form action="https://smgov.us12.list-manage.com/subscribe/post?u=a5d6f52c79917c7b57cc5cef0&amp;id=8df381560e" method="post">
+  <form id="subscribe" action="https://smgov.us12.list-manage.com/subscribe/post?u=a5d6f52c79917c7b57cc5cef0&amp;id=8df381560e" method="post">
     <h2>Stay up to date</h2>
     <p>Sign up for email alerts to always be first to know about events, artist opportunities, or other important updates about art and culture in Santa Monica</p>
     <p>

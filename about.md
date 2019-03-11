@@ -5,14 +5,16 @@ title: About Santa Monica Cultural Affairs
 About
 =====
 
-![](/uploads/wall.jpg)
-
-Santa Monica Cultural Affairs (SMCA) is dedicated to turning art into reality. We do that in so many ways. We distribute grants that support local arts organizations, schools and artists. We create and promote arts programs. We nurture and grow the City’s one-of-a-kind public art collection. SMCA is dedicated to making every day better by bringing more art into the world.
-
+<nav markdown="1">
 *   [Leadership](#leadership)
 *   [Foundation](#foundation)
-*   [Policy & Planning](#culture)
+*   [Policy & Planning](#policy-and-planning)
 *   [Public Art Program](#public-art-program)
+</nav>
+
+<div class="image"><img src="/uploads/wall.jpg" height="300" alt="" /></div>
+
+Santa Monica Cultural Affairs (SMCA) is dedicated to turning art into reality. We do that in so many ways. We distribute grants that support local arts organizations, schools and artists. We create and promote arts programs. We nurture and grow the City’s one-of-a-kind public art collection. SMCA is dedicated to making every day better by bringing more art into the world.
 
 Leadership
 ----------
@@ -48,11 +50,11 @@ The Public Art Committee is a standing committee of the Arts Commission, made up
 
 We meet the third Monday of each month, Ken Edwards Center, 5:00 p.m.
 
+> <img src="/uploads/The%20Wonder%20Room%202015%20-%202%20William%20Short.jpg" height="300" alt="" />
+>
 > Art enables us to find ourselves and lose ourselves at the same time
 >
 > \- Thomas Merton
-
-![](/uploads/The%20Wonder%20Room%202015%20-%202%20William%20Short.jpg)
 
 Santa Monica Arts Foundation
 ----------------------------
@@ -64,29 +66,29 @@ The Santa Monica Arts Foundation sponsors the Arts Leadership Awards, which reco
 
 For more information, call (310) 458-8350.
 
-Policy & Planning
+Policy & Planning <a id="policy-and-planning"></a>
 -----------------
 
 ### Cultural Policy
 
-The City's Cultural Policies exist to support our artistic legacy, while creating space for new artisting voices to flourish. Santa Monica Cultural Affairs helps shape those policies through listening to our community. We learn what’s important, then work hard to bring it to fruition. There’s nothing like seeing something beautiful that you helped create come to life.
+The City’s Cultural Policies exist to support our artistic legacy, while creating space for new artisting voices to flourish. Santa Monica Cultural Affairs helps shape those policies through listening to our community. We learn what’s important, then work hard to bring it to fruition. There’s nothing like seeing something beautiful that you helped create come to life.
 
 ### Cultural Planning
 
 We’re always looking for ways to remain fresh. That’s why we’re excited to announce our 2019 Cultural Plan. This yearlong process will help craft a collective vision for the future of art in Santa Monica, and will seek input from our valued community members. That means you! Stay tuned.
 
-> Art and love are the same thing: it's the process of seeing yourself in things that are not you.
+> <img src="/uploads/IMG_7837.jpg" height="300" alt="" />
+>
+> Art and love are the same thing: it’s the process of seeing yourself in things that are not you.
 >
 > \- Chuck Klosterman
-
-![](/uploads/IMG_7837.jpg)
 
 Public Art Program
 ------------------
 
 ### Public Art Map
 
-[Public Art Archive/Map](/go-see-art/#map)
+[Public Art Archive/Map](/public-art/#map)
 
 ### Leadership
 
@@ -96,13 +98,13 @@ Public Art Program
 
 Maintaining the original, inspirational appearance of our vast art collection requires constant care. In 2015, the Santa Monica Cultural Affairs Public Art team commissioned Rosa Lowinger and Associates to conduct a comprehensive needs assessment. Now regular maintenance on our most important pieces ensures they’ll be around for years to come.
 
-[Read the report](http://artsamo.staging/Media/arts/CA/RLA_City of Santa Monica_Public Art Survey_Summary.Revised 7.13.2015.pdf)
+[Read the report](https://www.santamonica.gov/Media/arts/CA/RLA_City of Santa Monica_Public Art Survey_Summary.Revised 7.13.2015.pdf)
 
 ### Ordinances
 
 In art, there are no rules. There are, however, ordinances. These ordinances outline the ways public art is created and maintained. The Santa Monica Cultural Affairs’ Public Art Program operates under these ordinances and policies, in collaboration with City staff, the Arts Commission, the Public Art Committee and City Council.
 
-[See the ordinances](http://artsamo.staging/Media/arts/CA/Ord2212.pdf).
+[See the ordinances](https://www.santamonica.gov/Media/arts/CA/Ord2212.pdf).
 
 *   See specific ordinances:
 *   Artist Selection Procedures

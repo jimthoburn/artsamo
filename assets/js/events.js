@@ -29,7 +29,7 @@ Example HTML
       <details>
         <summary>
           <div class="summary">
-            <h2><abbr aria-label="{{ weekday }}">{{ weekdayAbbreviation }}</abbr><br /><abbr aria-label="{{ month }}">{{ monthAbbreviation }}</abbr> {{ day }}</h2>
+            <h3><abbr aria-label="{{ weekday }}">{{ weekdayAbbreviation }}</abbr><br /><abbr aria-label="{{ month }}">{{ monthAbbreviation }}</abbr> {{ day }}</h3>
             <p>{{ title }}</p>
             <p>{{ time }}</p>
             <p>{{ location }}</p>

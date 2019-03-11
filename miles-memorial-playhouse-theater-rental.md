@@ -5,8 +5,6 @@ title: Theater Rental at Miles Memorial Playhouse, Santa Monica
 Theater Rental at Miles Memorial Playhouse
 ==========================================
 
-![](..//uploads/MilesVenueTile540x305.jpg)
-
 The Miles Memorial Playhouse charter, as approved by the City Council, states that the Miles Memorial Playhouse is available solely to non-profit organizations presenting performing arts events (music, theater and dance) that are open to the general public and appropriate for youth. (“Youth” is defined as 24 and under.) We are also available for general performing arts-related rehearsals, single events and readings when schedule allows.
 
 We book the Playhouse **6 months in advance**. Proposals for calendar months March – July must be received no later than the third Friday of the previous SEPTEMBER. All proposals received by this day will receive priority consideration. Applicants will be notified of acceptance or denial by the end of September. Proposals for calendar months August – December must be received no later than the third Friday in March of the same year. All proposals received by this day will receive priority consideration. Applicants will be notified of acceptance or denial by the end of March. Please allow the widest possible range of dates for your production within those time frames.
@@ -88,6 +86,6 @@ We encourage you to submit proposals of all kinds. When evaluating proposals, we
 
 1.  Artistic excellence as demonstrated by reviews, awards and/or other documents.
 2.  Demonstrated financial support and ability of organization to translate vision into a physical reality.
-3.  Company and programming reflect the diversity of Santa Monica's population.
+3.  Company and programming reflect the diversity of Santa Monica’s population.
 4.  Realistic marketing plan demonstrating specific outreach to Santa Monica youth with adequate budget.
 5.  Sufficient staffing and organization to meet established guideline requirements.

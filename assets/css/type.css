@@ -11,6 +11,52 @@
     padding: 1.5em;
   }
 
+  h1, h2, h3, h4, h5, h6, ol, ul, dl, p {
+    max-width: 33rem;
+  }
+
+  /* @supports (object-fit: contain) {
+    img {
+      max-width: 100%;
+      object-fit: contain;
+    }
+  } */
+
+  .action a {
+    background: hsl(205, 100%, 50%);
+    color: white;
+    display: inline-block;
+    padding: 0.375em 0.75em;
+    border-radius: 0.25em;
+    text-decoration: none;
+  }
+  .action ul,
+  .action li {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .action ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .action li {
+    margin: 0.375em;
+  }
+
+  svg.icon {
+    display: inline;
+    width: 1em;
+    height: 1em;
+    margin-right: 0.375em;
+    vertical-align: middle;
+  }
+
+  /* img {
+    max-width: 100%;
+    height: auto;
+  } */
+
   /*
   body {
     font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;

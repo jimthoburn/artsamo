@@ -5,7 +5,7 @@ title: Opportunities for Organizations, Santa Monica
 Opportunities for Organizations
 ===============================
 
-![](/uploads/coast-samba.jpg)
+<div class="image"><img src="/uploads/coast-samba.jpg" height="300" alt="" /></div>
 
 To ensure a robust arts and culture ecosystem for both residents and visitors to the City, Cultural Affairs offers five grant programs for Santa Monica-based arts and heritage nonprofits.
 
@@ -29,7 +29,7 @@ Resident organizations are defined as those whose primary administrative office 
 Community Access & Participation (CAP)
 --------------------------------------
 
-Deadline: April 2019 | Instructions and Previous Year's [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/CAP_Grant_Program/CAP Program Guidelines 2018-19.pdf)
+Deadline: April 2019 | Instructions and Previous Year’s [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/CAP_Grant_Program/CAP Program Guidelines 2018-19.pdf)
 
 Applications Will Be Available: March 2019
 
@@ -69,7 +69,7 @@ Current Arts and Cultural Grantees of the City of Santa Monica - Organizations
 *   Highways, Inc.
 *   Jacaranda Music
 *   Jacob Jonas The Company
-*   Jewish Women's Theater
+*   Jewish Women’s Theater
 *   Morgan-Wixson Theatre
 *   Orchestra Santa Monica
 *   Ruskin Group Theatre

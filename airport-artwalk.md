@@ -2,12 +2,13 @@
 title: Airport Artwalk, Santa Monica Cultural Affairs
 ---
 
-![13th Annual Santa Monica Airport ArtWalk Returns March 23 ](/uploads/PhotoCredit_AnnieDimas3.jpg)
-
 Airport Artwalk
 ===============
 
-_(Photo Credit: Annie Dimas)_
+<figure>
+  <img src="/uploads/PhotoCredit_AnnieDimas3.jpg" height="300" alt="People enjoying pottery work by artists, with a band playing music in the background" />
+  <figcaption>(Photo Credit: Annie Dimas)</figcaption>
+</figure>
 
 13th Annual Santa Monica Airport ArtWalk Returns March 23
 ---------------------------------------------------------

@@ -2,15 +2,19 @@
 title: Miles Memorial Playhouse, Santa Monica
 ---
 
-![Welcome to ArtSaMo](/uploads/playhouse-500-heigh.jpg)
+<h1>
+  <img src="/uploads/icon-miles-playhouse.png" height="50" alt="" /><br />
+  Miles Memorial Playhouse
+</h1>
 
-![](/uploads/icon-miles-playhouse.png)
+<figure>
+  <img src="/uploads/playhouse-500-heigh.jpg" height="300" alt="Camera Obscura Art Lab" />
+</figure>
 
-Miles Memorial Playhouse
-========================
-
+<nav class="action" markdown="1">
 *   [Getting Here](#getting-here)
-*   [Upcoming Events](#calendar)
+*   [Upcoming Events](#upcoming-events)
+</nav>
 
 Located in Reed Park, this historic playhouse has entertained audiences since 1929. Santa Monica Cultural Affairs offers [youth programs](https://www.facebook.com/groups/downbeat720/), as well as the world-class “Fireside at the Miles” performance series every January and February. The rest of the year, the venue is available for rent to local and regional non-profit performing arts companies.
 

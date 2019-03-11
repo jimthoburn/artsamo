@@ -1,0 +1,14 @@
+
+header ul,
+header li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+header ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+header li {
+  margin: 0.375em;
+}

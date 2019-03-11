@@ -2,10 +2,17 @@
 title: Art in the Parks, Santa Monica
 ---
 
-![Art in the Parks: Free Outdoor Performances to Look Forward to This Summer](/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg)
-
 Art in the Parks
 ================
+
+<figure>
+  <img
+    alt="Santa Monica Symphony Orchestra playing for Meet me at Reed"
+    src="/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg"
+    height="300"
+  />
+  <figcaption>Photo credit: Javier Guillen</figcaption>
+</figure>
 
 Free Outdoor Performances to Look Forward to This Summer
 --------------------------------------------------------
@@ -31,7 +38,7 @@ Christine Emerson Reed Park, 1130 Lincoln Blvd.
  
 The 3rd annual Meet Me at Reed outdoor performance series hosts six Saturday concerts and pre-concert family activities. Attendees are encouraged to bring picnic blankets, lawn chairs, food and (non-alcoholic) beverages and enjoy a day in the park. Attendees are invited to arrive early to enjoy family-fun activities for all ages, like corn hole, giant blocks and more. 
 
-![](/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg)
+<div class="image"><img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" /></div>
 
 Make Music Los Angeles
 ----------------------
@@ -40,7 +47,7 @@ Make Music Los Angeles
 Various times throughout the day, Free   
 Various locations   
  
-Santa Monica celebrates the summer solstice and music-making with a variety of free performances in parks citywide. This is the eighth year the city has participated in Make Music Los Angeles/MMLA, a countywide celebration of music. Local performances are presented by many of the City’s Neighborhood Associations. The event is based on France's Fête de la Musique, a national musical holiday inaugurated in 1982 and celebrated on the same day in more than 800 cities in 110 countries.    
+Santa Monica celebrates the summer solstice and music-making with a variety of free performances in parks citywide. This is the eighth year the city has participated in Make Music Los Angeles/MMLA, a countywide celebration of music. Local performances are presented by many of the City’s Neighborhood Associations. The event is based on France’s Fête de la Musique, a national musical holiday inaugurated in 1982 and celebrated on the same day in more than 800 cities in 110 countries.    
  
 [Makemusicla.org.](http://makemusicla.org/) Check website in June for the list of events and locations.
 
@@ -54,7 +61,7 @@ Gandara Park, 1819 Stewart St.
  
 The Jazz on the Lawn summer concert series returns for its 14th year each Sunday in August. Everyone is invited to grab friends, family and dancing shoes for free concerts in the park. A sampling of jazz and world music genres, free dance lessons and intermission performances (on select dates), and some of the area’s finest food trucks will be presented in Gandara Park. Attendees are invited to arrive early to enjoy family-fun activities for all ages, like corn hole, giant blocks and more.
 
-![](/uploads/2018_8_26_18_JOTL_Orq_Tabaco_y_Ron_Javier_Guillen (196 of 345).jpg)
+<div class="image"><img src="/uploads/2018_8_26_18_JOTL_Orq_Tabaco_y_Ron_Javier_Guillen (196 of 345).jpg" height="300" alt="" /></div>
 
 Wonder Room 
 ------------
@@ -65,4 +72,4 @@ Tongva Park, 1615 Ocean Ave.
 
 An intimate and informal event that offer audiences the opportunity to experience the “rooms” of Tongva Park from different points of view through dance, art, music and interactive experiences.  
 
-![](/uploads/The Wonder Room 2015 - 2 William Short.jpg)
+<div class="image"><img src="/uploads/The Wonder Room 2015 - 2 William Short.jpg" height="300" alt="" /></div>
