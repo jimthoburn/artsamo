@@ -2,13 +2,19 @@
 header h2 {
   font-weight: inherit;
   font-size: inherit;
+  line-height: inherit;
 }
 header h2 a {
   display: inline-block;
   text-decoration: none;
   background-color: var(--aqua, gray);
   color: var(--snow, white);
-  padding: calc(var(--line-height) * 1/2) var(--line-height);
+  padding: calc(var(--unitless-line-height) * 1em) calc(var(--line-height) * 1.5);
+  text-transform: uppercase;
+  max-width: 10.5em;
+  font-weight: 300;
+  letter-spacing: 0.1em;
+  font-size: 1.25em;
 }
 header h2 a:hover,
 header h2 a:active,
@@ -25,20 +31,26 @@ header li {
 header ul {
   display: flex;
   flex-wrap: wrap;
+  padding: 0 calc(var(--line-height) * 1/2);
   justify-content: flex-end;
   text-align: right;
-  padding: 0 calc(var(--line-height) * 1/2);
 }
 header li a {
   color: inherit;
   display: inline-block;
-  padding: calc(var(--line-height) * 1/2) calc(var(--line-height) * 1/4);
+  padding: calc(var(--line-height) * 1/4) calc(var(--line-height) * 1/2);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 0.1em;
 }
 
 
-header {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+@media (min-width: 32.5em) {
+  header {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+  }
 }
 
 header h2 {
@@ -46,8 +58,12 @@ header h2 {
 }
 
 header ul {
-  justify-self: end;
+  justify-self: stretch;
+  padding: var(--line-height);
   margin: 0;
+  background: white;
+  align-self: start;
+  margin-bottom: calc(var(--line-height) * 1);
 }
 header li {
   align-self: flex-end;

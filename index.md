@@ -2,10 +2,13 @@
 title: Santa Monica Cultural Affairs
 ---
 
+<figure class="logo-image">
+  <img src="/assets/images/artsamo.jpg" height="300" alt="Public art in Santa Monica" />
+  <figcaption><img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" /></figcaption>
+</figure>
+
 Welcome to ArtSaMo
 ==================
-
-<div class="image"><img src="/uploads/HomeFeature2578x1536.png" height="300" alt="" /></div>
 
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
 
