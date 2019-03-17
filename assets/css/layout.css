@@ -2,13 +2,16 @@
 
   /* =Layout
   ----------------------------------------------- */
-  /*
   body {
     margin: 0;
     padding: 0;
   }
 
+  main {
+    padding: var(--line-height);
+  }
 
+  /*
   header ul,
   header li {
     list-style: none;

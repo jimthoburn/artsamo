@@ -2,10 +2,27 @@
 
   /* =Color
   ----------------------------------------------- */
-  /*
+  :root {
+    --aqua:      hsl(175, 54%, 47%);
+    --aqua-dark: hsl(175, 54%, 32%);
+    --snow:      hsl(0, 0%, 99%);
+  }
+
   a {
-  	color: rgb(56, 186, 176);
+  	color: var(--aqua, gray);
   	transition: color 0.2s, background-color 0.2s;
   }
-  */
-
+  a:hover,
+  a:active,
+  a:focus {
+  	color: var(--aqua-dark);
+  }
+  .action a {
+    background-color: var(--aqua, gray);
+    color: var(--snow, white);
+  }
+  .action a:hover,
+  .action a:active,
+  .action a:focus {
+    background-color: var(--aqua-dark, black);
+  }

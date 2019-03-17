@@ -1,4 +1,21 @@
 
+header h2 {
+  font-weight: inherit;
+  font-size: inherit;
+}
+header h2 a {
+  display: inline-block;
+  text-decoration: none;
+  background-color: var(--aqua, gray);
+  color: var(--snow, white);
+  padding: calc(var(--line-height) * 1/2) var(--line-height);
+}
+header h2 a:hover,
+header h2 a:active,
+header h2 a:focus {
+  background-color: var(--aqua-dark, black);
+  color: var(--snow, white);
+}
 header ul,
 header li {
   list-style: none;
@@ -8,7 +25,36 @@ header li {
 header ul {
   display: flex;
   flex-wrap: wrap;
+  justify-content: flex-end;
+  text-align: right;
+  padding: 0 calc(var(--line-height) * 1/2);
+}
+header li a {
+  color: inherit;
+  display: inline-block;
+  padding: calc(var(--line-height) * 1/2) calc(var(--line-height) * 1/4);
+}
+
+
+header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+header h2 {
+  margin: 0;
+}
+
+header ul {
+  justify-self: end;
+  margin: 0;
 }
 header li {
-  margin: 0.375em;
+  align-self: flex-end;
+  justify-self: flex-end;
+}
+
+body > p,
+footer {
+  padding: var(--line-height);
 }

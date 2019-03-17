@@ -2,29 +2,45 @@
 
   /* =Type
   ----------------------------------------------- */
+  :root {
+    --unitless-line-height: 1.5;
+    --line-height: 1.5em;
+  }
+
   body {
     font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: 1.5;
+    line-height: var(--unitless-line-height);
     font-size: 100%;
     font-size: calc(0.75em + 0.75vmin);
     margin: 0;
-    padding: 1.5em;
+    padding: var(--line-height);
   }
 
+  @media (min-width: 40em) {
+    body {
+      padding: calc(var(--line-height) * 2);
+    }
+  }
+
+  /*
   h1, h2, h3, h4, h5, h6, ol, ul, dl, p {
     max-width: 33rem;
   }
+  */
 
-  /* @supports (object-fit: contain) {
+  /* TBD: Maybe replace this with some rules that maintain the image’s original aspect ratio? */
+  @supports (object-fit: contain) {
     img {
       max-width: 100%;
       object-fit: contain;
     }
-  } */
+  }
+
+  img[data-aspect-ratio] {
+    
+  }
 
   .action a {
-    background: hsl(205, 100%, 50%);
-    color: white;
     display: inline-block;
     padding: 0.375em 0.75em;
     border-radius: 0.25em;

@@ -41,7 +41,7 @@ Public Art
 
 
 Events
-----------------
+------
 
 {% include events-featured.md %}
 
@@ -49,7 +49,7 @@ Events
 
 
 Venues
-======
+------
 
 Santa Monica Cultural Affairs Venues
 
