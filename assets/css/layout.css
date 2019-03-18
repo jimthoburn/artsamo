@@ -1,30 +1,45 @@
 
 
-/* =Logo Image
+/* =Figure
 ----------------------------------------------- */
-.logo-image {
+main > h1 + figure,
+main > figure:first-child {
+  margin-left: unset;
+  margin-right: unset;
+  max-width: unset;
+}
+main > h1 + figure,
+main > figure:first-child {
   display: grid;
   /*! overflow: hidden; */
+  /*! margin-top: calc(var(--vertical-rhythm) * -6); */
 }
-.logo-image > * {
+main > h1 + figure > *,
+main > figure:first-child > * {
   grid-column: 1 / -1;
   grid-row: 1 / -1;
 }
-figure.logo-image {
-  margin-left: 0;
-  margin-right: 0;
-}
-.logo-image img {
+main > h1 + figure img,
+main > figure:first-child img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
-.logo-image img[src*="jpg"] {
+main > figure:first-child img[src*="jpg"] {
   /*! transform: scale(1.4) translate(0, 20%); */
 }
-figcaption {
+main > h1 + figure figcaption,
+main > figure:first-child figcaption {
   /*! position: relative; */
   /*! z-index: 1; */
+  justify-self: end;
+  color: white;
+  align-self: end;
+  padding: calc(var(--vertical-rhythm) * 3/4) calc(var(--vertical-rhythm));
+}
+main > h1 + figure figcaption a,
+main > figure:first-child figcaption a {
+  color: inherit;
 }
 
 
@@ -37,23 +52,27 @@ body {
 }
 
 main {
-  padding: var(--line-height);
-  padding-top: 0;
+  padding: var(--vertical-rhythm);
 }
 
 main > *:first-child {
   margin-top: 0;
 }
 
+main > h1:first-of-type {
+  margin-top: 0;
+}
+
+/* 
 @media (min-width: 50em) {
   main {
-    margin-top: calc(var(--line-height) * -2);
+    margin-top: calc(var(--vertical-rhythm) * -2);
   }
   header {
     position: relative;
     z-index: 1;
   }
-}
+} */
 
 /*
 header ul,

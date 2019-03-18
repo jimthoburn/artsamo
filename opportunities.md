@@ -5,17 +5,17 @@ title: Opportunities, Santa Monica
 Opportunities
 =============
 
+<figure class="image">
+  <img src="/uploads/coast-las-colibri.jpg" height="300" alt="Las Colibrí performing at Coast" data-aspect-ratio="3/2" />
+  <figcaption>Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a></figcaption>
+</figure>
+
 Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs helps create inspiring moments by welcoming and cultivating artists through grants and residencies for both individual artists and organizations. 
 
 <nav class="action" markdown="1">
 *   [Opportunities for Artists](/opportunities-for-artists/)
 *   [Opportunities for Organizations](/opportunities-for-organizations/)
 </nav>
-
-<figure class="image">
-  <img src="/uploads/coast-las-colibri.jpg" height="300" alt="Las Colibrí performing at Coast" data-aspect-ratio="3/2" />
-  <figcaption>Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a></figcaption>
-</figure>
 
 Other Resources
 ---------------

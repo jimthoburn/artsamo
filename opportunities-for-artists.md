@@ -5,7 +5,7 @@ title: Opportunities for Artists, Santa Monica
 Opportunities for Artists
 =========================
 
-<div class="image"><img src="/uploads/coast-painting.jpg" height="300" alt="" /></div>
+<figure><img src="/uploads/coast-painting.jpg" height="300" alt="" /></figure>
 
 Artist Fellowship
 -----------------

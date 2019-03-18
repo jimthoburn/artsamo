@@ -1,127 +1,156 @@
 
 
-  /* =Type
-  ----------------------------------------------- */
-  :root {
-    --unitless-line-height: 1.5;
-    --line-height: 1.5em;
-  }
+/* =Type
+----------------------------------------------- */
+:root {
+  --major-third:    1.250;
+  --golden-section: 1.618;
+  --minor-seventh:  1.778;
 
+  --type-scale:      calc(var(--major-third)    *  1em);
+  --vertical-rhythm: calc(var(--golden-section) *  1em);
+  --line-length:     calc(var(--golden-section) * 20em);
+  --unitless-vertical-rhythm: var(--golden-section);
+
+  --thin:       100;
+  --light:      300;
+  --normal:     400;
+  --medium:     500;
+  --semibold:   600;
+  --bold:       700;
+  --extra-bold: 800;
+  --heavy:      900;
+}
+
+body {
+  font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: var(--unitless-vertical-rhythm);
+  font-size: 100%;
+  font-size: calc(0.75em + 0.75vmin);
+  margin: 0;
+  padding: var(--vertical-rhythm);
+}
+
+@media (min-width: 40em) {
   body {
-    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: var(--unitless-line-height);
-    font-size: 100%;
-    font-size: calc(0.75em + 0.75vmin);
-    margin: 0;
-    padding: var(--line-height);
+    padding: calc(var(--vertical-rhythm) * 2);
   }
+}
 
-  @media (min-width: 40em) {
-    body {
-      padding: calc(var(--line-height) * 2);
-    }
-  }
+h1, h2, h3, h4, h5, h6, p, ol, ul, dl, figure {
+  margin-top:    calc(var(--vertical-rhythm) * 1/2);
+  margin-bottom: calc(var(--vertical-rhythm) * 1/2);
+  max-width:     var(--line-length);
+}
 
-  /*
-  h1, h2, h3, h4, h5, h6, ol, ul, dl, p {
-    max-width: 33rem;
-  }
-  */
+h1, h2, h3, h4, h5, h6 {
+  --font-size: 1em;
+  /* --line-height: calc(var(--unitless-vertical-rhythm) / var(--font-size)); */
+  --line-height: var(--golden-section);
 
-  /* TBD: Maybe replace this with some rules that maintain the image’s original aspect ratio? */
-  @supports (object-fit: contain) {
-    img {
-      max-width: 100%;
-      object-fit: contain;
-    }
-  }
+  font-size:   var(--font-size);
+  line-height: var(--line-height);
 
-  img[data-aspect-ratio] {
-    
-  }
+  margin-top:    calc(var(--line-height) * 1.0em);
+  margin-bottom: 0;
 
-  .action a {
-    display: inline-block;
-    padding: 0.375em 0.75em;
-    border-radius: 0.25em;
-    text-decoration: none;
-  }
-  .action ul,
-  .action li {
-    list-style: none;
-    margin-left: 0;
-    padding-left: 0;
-  }
-  .action ul {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .action li {
-    margin: 0.375em;
-  }
+  max-width: var(--line-length);
+}
 
-  svg.icon {
-    display: inline;
-    width: 1em;
-    height: 1em;
-    margin-right: 0.375em;
-    vertical-align: middle;
-  }
+h1 {
+  --font-size: 9.5vmax;
+  /*! font-weight: var(--heavy); */
+  line-height: 1.125;
+  /*! text-transform: uppercase; */
+  /*! letter-spacing: 0.1em; */
+  /*! position: absolute; */
+  /*! color: white !important; */
+  /*! transform: rotate(-10deg); */
+  /*! opacity: 0.85; */
+  /*! font-style: italic; */
+  /*! text-align: center; */
+  font-weight: var(--light);
+}
+h1 small {
+  font-size: 0.5em;
+  display: block;
+  font-weight: var(--light);
+}
+h1 img {
+  height: 0.75em;
+  width: auto;
+  vertical-align: -4%;
+  display: inline-block;
+}
+h1 img + br {
+  display: none;
+}
 
-  /* img {
+h2 {
+  --font-size: calc(var(--type-scale) * 2);
+  font-weight: var(--light);
+}
+h3 {
+  --font-size: calc(var(--type-scale) * 1);
+  font-weight: normal;
+}
+h4, h5, h6 {
+  --font-size: 1em;
+  font-style: italic;
+  font-weight: normal;
+}
+h5, h6 {
+  color: inherit;
+}
+
+
+/* TBD: Maybe replace this with some rules that maintain the image’s original aspect ratio? */
+@supports (object-fit: contain) {
+  img {
     max-width: 100%;
-    height: auto;
-  } */
-
-  /*
-  body {
-    font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    line-height: 1.5;
-    font-size: 100%;
-    font-size: calc(0.75em + 0.75vmin);
-    margin: 0;
-    padding: 1.5em;
+    object-fit: contain;
   }
+}
 
-  p, ol, ul, dl, table {
-    margin-top: 0.75em;
-    margin-bottom: 0.75em;
-  }
+img[data-aspect-ratio] {
 
-  h1, h2, h3, h4, h5, h6 {
-    margin-top: 3rem;
-    margin-bottom: 0.75rem;
-  }
+}
 
-  h1 {
-    font-size: 5.063em;
-    line-height: calc(6em / 5.063em);
-  }
+.action a {
+  display: inline-block;
+  padding: 0.375em 0.75em;
+  border-radius: 0.25em;
+  text-decoration: none;
+}
+.action ul,
+.action li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+.action ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.action li {
+  margin: 0.375em;
+}
 
-  h2 {
-    font-size: 2.25em;
-    line-height: calc(3em / 2.25em);
-  }
+svg.icon {
+  display: inline;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.375em;
+  vertical-align: middle;
+}
 
-  h3 {
-    font-size: 1.5em;
-  }
-
-  h4 {
-    font-size: 1em;
-  }
-
-  h5 {
-    font-size: 1em;
-    font-weight: 500;
-    font-style: italic;
-  }
-
-  h6 {
-    font-size: 1em;
-    font-weight: 400;
-    font-style: italic;
-  }
-  */
-
+main > p:first-of-type {
+  font-size: 1.25em;
+  line-height: 1.618;
+  font-weight: 300;
+  margin-bottom: 1.5rem;
+}
+strong, b {
+  font-weight: bold;
+}
 

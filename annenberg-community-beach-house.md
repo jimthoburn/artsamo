@@ -4,10 +4,10 @@ title: Beach=Culture at Annenberg Community Beach House, Santa Monica
 
 <h1>
   <img src="/uploads/icon-beachhouse.png" height="50" alt="" /><br />
-  Beach=Culture at Annenberg Community Beach House
+  Beach=Culture<br /><small>at Annenberg Community Beach House</small>
 </h1>
 
-<div class="image"><img src="/uploads/beachhouse-500-heigh.jpg" height="300" alt="" /></div>
+<figure><img src="/uploads/beachhouse-500-heigh.jpg" height="300" alt="" /></figure>
 
 Welcome to Beach=Culture, a year-round series of free arts and culture events at the Annenberg Community Beach House. Beach=Culture features quarterly exhibitions, artist residencies, ongoing literary programs and more. Come join us to experience something new, and broaden your perspective.
 

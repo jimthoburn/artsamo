@@ -2,6 +2,9 @@
 title: Public Art, Santa Monica
 ---
 
+Public Art
+==========
+
 <figure>
   <img
     src="/uploads/weather-field-tongva.jpg"
@@ -14,9 +17,6 @@ title: Public Art, Santa Monica
     </p>
   </figcaption>
 </figure>
-
-Public Art
-==========
 
 You will never regret taking time out of your busy day to go see art. Santa Monica offers a rich collection of public art, self-produced art and more. Get out there, drink it in and let it refresh your soul. You can’t see it all, of course. But you can try.
 
