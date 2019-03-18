@@ -2,14 +2,14 @@
 title: Miles Memorial Playhouse, Santa Monica
 ---
 
+<figure>
+  <img src="/uploads/playhouse-500-heigh.jpg" height="300" alt="Camera Obscura Art Lab" />
+</figure>
+
 <h1>
   <img src="/uploads/icon-miles-playhouse.png" height="50" alt="" /><br />
   Miles Memorial Playhouse
 </h1>
-
-<figure>
-  <img src="/uploads/playhouse-500-heigh.jpg" height="300" alt="Camera Obscura Art Lab" />
-</figure>
 
 <nav class="action" markdown="1">
 *   [Getting Here](#getting-here)

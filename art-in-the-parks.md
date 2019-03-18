@@ -2,9 +2,6 @@
 title: Art in the Parks, Santa Monica
 ---
 
-Art in the Parks
-================
-
 <figure>
   <img
     alt="Santa Monica Symphony Orchestra playing for Meet me at Reed"
@@ -13,6 +10,9 @@ Art in the Parks
   />
   <figcaption>Photo credit: Javier Guillen</figcaption>
 </figure>
+
+Art in the Parks
+================
 
 Free Outdoor Performances to Look Forward to This Summer
 --------------------------------------------------------
