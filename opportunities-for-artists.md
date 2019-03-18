@@ -4,7 +4,6 @@ title: Opportunities for Artists, Santa Monica
 
 <figure>
   <img src="/uploads/coast-painting.jpg" height="300" alt="" />
-  <img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" />
 </figure>
 
 Opportunities for Artists

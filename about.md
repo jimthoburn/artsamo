@@ -4,11 +4,10 @@ title: About Santa Monica Cultural Affairs
 
 <figure class="image">
   <img src="/uploads/wall.jpg" height="300" alt="" />
-  <img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" />
 </figure>
 
-About
-=====
+About Santa Monica Cultural Affairs
+=============
 
 Santa Monica Cultural Affairs (SMCA) is dedicated to turning art into reality. We do that in so many ways. We distribute grants that support local arts organizations, schools and artists. We create and promote arts programs. We nurture and grow the City’s one-of-a-kind public art collection. SMCA is dedicated to making every day better by bringing more art into the world.
 

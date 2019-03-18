@@ -4,7 +4,6 @@ title: Airport Artwalk, Santa Monica Cultural Affairs
 
 <figure>
   <img src="/uploads/PhotoCredit_AnnieDimas3.jpg" height="300" alt="People enjoying pottery work by artists, with a band playing music in the background" />
-  <img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" />
   <figcaption>(Photo Credit: Annie Dimas)</figcaption>
 </figure>
 

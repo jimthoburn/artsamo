@@ -38,7 +38,7 @@ Christine Emerson Reed Park, 1130 Lincoln Blvd.
  
 The 3rd annual Meet Me at Reed outdoor performance series hosts six Saturday concerts and pre-concert family activities. Attendees are encouraged to bring picnic blankets, lawn chairs, food and (non-alcoholic) beverages and enjoy a day in the park. Attendees are invited to arrive early to enjoy family-fun activities for all ages, like corn hole, giant blocks and more. 
 
-<div class="image"><img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" /></div>
+<figure><img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" /></figure>
 
 Make Music Los Angeles
 ----------------------
@@ -61,7 +61,7 @@ Gandara Park, 1819 Stewart St.
  
 The Jazz on the Lawn summer concert series returns for its 14th year each Sunday in August. Everyone is invited to grab friends, family and dancing shoes for free concerts in the park. A sampling of jazz and world music genres, free dance lessons and intermission performances (on select dates), and some of the area’s finest food trucks will be presented in Gandara Park. Attendees are invited to arrive early to enjoy family-fun activities for all ages, like corn hole, giant blocks and more.
 
-<div class="image"><img src="/uploads/2018_8_26_18_JOTL_Orq_Tabaco_y_Ron_Javier_Guillen (196 of 345).jpg" height="300" alt="" /></div>
+<figure><img src="/uploads/2018_8_26_18_JOTL_Orq_Tabaco_y_Ron_Javier_Guillen (196 of 345).jpg" height="300" alt="" /></figure>
 
 Wonder Room 
 ------------
@@ -72,4 +72,4 @@ Tongva Park, 1615 Ocean Ave.
 
 An intimate and informal event that offer audiences the opportunity to experience the “rooms” of Tongva Park from different points of view through dance, art, music and interactive experiences.  
 
-<div class="image"><img src="/uploads/The Wonder Room 2015 - 2 William Short.jpg" height="300" alt="" /></div>
+<figure><img src="/uploads/The Wonder Room 2015 - 2 William Short.jpg" height="300" alt="" /></figure>

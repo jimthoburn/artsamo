@@ -4,7 +4,6 @@ title: Opportunities, Santa Monica
 
 <figure class="image">
   <img src="/uploads/coast-las-colibri.jpg" height="300" alt="Las Colibrí performing at Coast" data-aspect-ratio="3/2" />
-  <img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" style="opacity: 0.8" />
   <figcaption>Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a></figcaption>
 </figure>
 

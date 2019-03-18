@@ -4,7 +4,6 @@ title: Opportunities for Organizations, Santa Monica
 
 <figure>
   <img src="/uploads/coast-samba.jpg" height="300" alt="" />
-  <img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" />
 </figure>
 
 Opportunities for Organizations

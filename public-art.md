@@ -8,7 +8,6 @@ title: Public Art, Santa Monica
     height="300"
     alt=""
   />
-  <img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" />
 </figure>
 
 Public Art
@@ -33,7 +32,6 @@ Art makes the day better. And we're dedicated to integrating as much art as poss
     height="300"
     alt="Weather Field No. 1 by Inigo Mañglano-Ovalle Tongva Park, 2013."
   />
-  <img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" />
   <figcaption>
     <p>
       <em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle Tongva Park, 2013.

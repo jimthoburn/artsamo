@@ -42,6 +42,9 @@ h1, h2, h3, h4, h5, h6, p, ol, ul, dl, figure {
   margin-bottom: calc(var(--vertical-rhythm) * 1/2);
   max-width:     var(--line-length);
 }
+main > nav ul {
+  max-width: none;
+}
 
 h1, h2, h3, h4, h5, h6 {
   --font-size: 1em;
@@ -89,6 +92,7 @@ h1 img + br {
 h2 {
   --font-size: calc(var(--type-scale) * 2);
   font-weight: var(--light);
+  line-height: 1.25;
 }
 h3 {
   --font-size: calc(var(--type-scale) * 1);

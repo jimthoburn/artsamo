@@ -51,7 +51,7 @@ Artists in Residence
 
 *   ### Wally Rudolph
     
-    <div class="image"><img src="/uploads/wally-rudolph.png" height="300" alt="" /></div>
+    <figure><img src="/uploads/wally-rudolph.png" height="300" alt="" /></figure>
     
     January 16, 2019 – March 20, 2019
     
@@ -69,7 +69,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
 
 *   ### On and Off the Street
     
-    <div class="image"><img src="/uploads/cindy-bendat.jpg" height="300" alt="" /></div>
+    <figure><img src="/uploads/cindy-bendat.jpg" height="300" alt="" /></figure>
     
     January 21, 2019 - April 30, 2019
     
@@ -81,7 +81,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
   
 *   ### And then there is California.
     
-    <div class="image"><img src="/uploads/rainbow-face-by-hailey-magoon.jpg" height="200" alt="" /></div>
+    <figure><img src="/uploads/rainbow-face-by-hailey-magoon.jpg" height="200" alt="" /></figure>
     
     May 3, 2019 - September 2, 2019
     
@@ -93,7 +93,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
   
 *   ### Memories of Diaspora: Immigration Narratives of Los Angeles by Art Division
     
-    <div class="image"><img src="/uploads/art-division.png" height="200" alt="" /></div>
+    <figure><img src="/uploads/art-division.png" height="200" alt="" /></figure>
     
     September 9, 2019 - January 5, 2020
     
