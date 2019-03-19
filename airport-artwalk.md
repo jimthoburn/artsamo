@@ -55,4 +55,4 @@ Food
 About the Airport 
 ------------------
 
-The Santa Monica Airport is the oldest operating airport in LA County. The airport played a key role in the nation’s aviation revolution as the lift-off point of the first round-the-world flights, the workplace of Rosie the Riveter. During World War II and as an innovation incubator for the DC-3 which led to the birth of modern-day air travel. smgov.net/departments/airport
+The Santa Monica Airport is the oldest operating airport in LA County. The airport played a key role in the nation’s aviation revolution as the lift-off point of the first round-the-world flights, the workplace of Rosie the Riveter. During World War II and as an innovation incubator for the DC-3 which led to the birth of modern-day air travel. <a href="https://www.smgov.net/departments/airport/">smgov.net/departments/airport</a>
