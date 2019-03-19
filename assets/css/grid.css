@@ -37,14 +37,17 @@
       justify-self: end;
       text-align: right;
     }
-    main > h2 {
-      
-    }
+    main > h2,
     main > h3 {
       font-size: 1.5em;
       line-height: 1.125;
       max-width: 17.5em;
       grid-row: span 2;
+    }
+    main > h2 {
+      font-weight: var(--bold);
+      /*! text-transform: uppercase; */
+      /*! letter-spacing: 0.1em; */
     }
     main > figure,
     main > blockquote,
