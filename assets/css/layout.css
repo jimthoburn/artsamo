@@ -42,6 +42,13 @@ main > figure:first-child img {
   object-position: center;
   min-height: 33.333vw;
 }
+@media (max-aspect-ratio: 1/1) {
+  main > h1 + figure img,
+  main > figure:first-child img {
+    height: calc(100vw - 3em);
+    /*! min-height: 100%; */
+  }
+}
 main > h1 + figure img[src*="samba"],
 main > figure:first-child img[src*="samba"] {
   object-position: 10% 50%;
