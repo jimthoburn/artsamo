@@ -41,7 +41,7 @@ header ul {
 }
 @media (min-width: 32.5em) and (max-width: 42.5em) {
   header ul {
-    display: block;
+/*     display: block; */
   }
 }
 header li a {
@@ -52,40 +52,83 @@ header li a {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 0.1em;
+  /*! background: hsl(0, 0%, 95%); */
 }
 
 header {
   position: relative;
   z-index: 1;
+  display: grid;
+  grid-template-columns: auto;
+}
+header ul {
+  grid-row: 1 / 2;
 }
 
-@media (min-width: 32.5em) {
+@media (min-width: 42.5em) {
   header {
     display: grid;
-    grid-template-columns: max-content 1fr;
+    grid-template-columns: auto 1fr;
+  }
+  header ul {
+    grid-row: unset;
   }
 }
 
 header h2 {
   margin: 0;
-  display: grid;
+  /*! display: grid; */
+  /*! max-width: 19.5em; */
+  /*! margin-right: 6rem; */
+  align-self: end;
 }
 
 header ul {
   justify-self: stretch;
   padding: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 1.5);
   margin: 0;
-  background: white;
+  /*! background: white; */
   align-self: start;
   margin-bottom: calc(var(--vertical-rhythm) * 1);
   max-width: unset;
 }
+
+@media (max-width: 42.5em) {
+  header ul {
+    padding-top: calc(var(--vertical-rhythm) * 0.5);
+    padding-bottom: calc(var(--vertical-rhythm) * 0.5);
+    margin-bottom: 0;
+  }
+}
+
 header li {
   align-self: flex-end;
   justify-self: flex-end;
+/*   margin-bottom: 0.375em; */
+  /*! margin-top: -0.75em; */
 }
 
 body > p,
 footer {
   padding: var(--vertical-rhythm);
 }
+/* 
+@media (max-width: 45em) {
+  header ul {
+    position: absolute;
+    top: 1.5rem;
+    right: 0.75em;
+    width: 10em;
+    background: transparent;
+    padding: 0;
+  }
+  header li a {
+    background: hsl(0, 0%, 99%);
+  }
+}
+@media (max-width: 25em) {
+  header ul {
+    top: 9.125rem;
+  }
+}
+ */

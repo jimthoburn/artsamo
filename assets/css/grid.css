@@ -52,6 +52,13 @@
       /*! text-transform: uppercase; */
       /*! letter-spacing: 0.1em; */
     }
+    main > figure + h2,
+    main > figure + h2 + p,
+    main > figure + h1 + h2,
+    main > figure + h1 + h2 + p,
+    main > figure + h1 + p {
+      margin-top: 3rem;
+    }
     main > figure,
     main > blockquote,
     main > nav,

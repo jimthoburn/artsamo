@@ -29,6 +29,8 @@ body {
   font-size: calc(0.75em + 0.75vmin);
   margin: 0;
   padding: var(--vertical-rhythm);
+  background: hsl(0, 0%, 99%);
+  color: hsl(0, 0%, 10%);
 }
 
 @media (min-width: 40em) {
@@ -97,6 +99,13 @@ h2 {
 h3 {
   --font-size: calc(var(--type-scale) * 1);
   font-weight: normal;
+}
+h2, h3 {
+  font-size: 1.5em;
+  line-height: 1.125;
+}
+h2 {
+  font-weight: bold;
 }
 h4, h5, h6 {
   --font-size: 1em;
