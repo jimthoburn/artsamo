@@ -25,6 +25,7 @@ main > figure:first-child {
 @media (min-width: 19em) { /* wide enough for the menu items to fit on one line*/
   main > figure:first-child {
     margin-top: calc(var(--vertical-rhythm) * -2);
+    overflow: hidden;
   }
 }
 main > h1 + figure > *,
@@ -39,6 +40,7 @@ main > figure:first-child img {
   height: calc(100vh - calc(var(--vertical-rhythm) * 4 * 1.25));
   object-fit: cover;
   object-position: center;
+  min-height: 33.333vw;
 }
 main > h1 + figure img[src*="samba"],
 main > figure:first-child img[src*="samba"] {

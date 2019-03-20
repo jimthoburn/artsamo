@@ -20,6 +20,15 @@ a:focus {
 .action a {
   background-color: var(--aqua, gray);
   color: var(--snow, white);
+  /*! text-transform: uppercase; */
+  padding: calc(var(--vertical-rhythm) * 1/2) calc(var(--vertical-rhythm) * 1);
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: 0.1em;
+  font-size: 1.125em;
+  display: block;
+  text-align: center;
 }
 .action a:hover,
 .action a:active,

@@ -144,9 +144,11 @@ img[data-aspect-ratio] {
 .action ul {
   display: flex;
   flex-wrap: wrap;
+  /*! align-items: stretch; */
 }
 .action li {
   margin: 0.375em;
+  flex-grow: 1;
 }
 
 svg.icon {
@@ -178,3 +180,5 @@ dd {
 dd + dt {
   margin-top: calc(var(--vertical-rhythm) * 1/2);
 }
+
+

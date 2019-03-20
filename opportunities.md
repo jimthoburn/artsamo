@@ -10,12 +10,12 @@ title: Opportunities, Santa Monica
 Opportunities
 =============
 
-Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs helps create inspiring moments by welcoming and cultivating artists through grants and residencies for both individual artists and organizations. 
-
 <nav class="action" markdown="1">
 *   [Opportunities for Artists](/opportunities-for-artists/)
 *   [Opportunities for Organizations](/opportunities-for-organizations/)
 </nav>
+
+Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs helps create inspiring moments by welcoming and cultivating artists through grants and residencies for both individual artists and organizations.
 
 Other Resources
 ---------------
