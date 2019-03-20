@@ -160,3 +160,12 @@ strong, b {
   font-weight: bold;
 }
 
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-left: 0;
+}
+dd + dt {
+  margin-top: calc(var(--vertical-rhythm) * 1/2);
+}

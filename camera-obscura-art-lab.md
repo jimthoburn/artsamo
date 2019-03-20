@@ -18,13 +18,21 @@ The Camera Obscura Art Lab in Palisades Park is Santa Monica’s community arts 
 *   [Upcoming Events](#upcoming-events)
 </nav>
 
-The Camera Obscura Mechanism
-----------------------------
+### We’re located at:
+
+1450 Ocean Avenue  
+Palisades Park  
+Santa Monica, CA 90401
+
+310.458.2239
+
+[camera@smgov.net](mailto:camera@smgov.net)
+
+### The Camera Obscura Mechanism
 
 Enter the body of a camera for a magical perspective! Visitors can experience the Camera Obscura mechanism Monday through Friday 9 a.m. - 3 p.m. and Saturday 11 a.m. - 4 p.m. Admission is free. There are fourteen steps up a stairway to the device. Built in 1898 by Mayor Robert F. Jones to attract tourists and visitors, Santa Monica’s Camera Obscura mechanism was incorporated into its current home in 1955.
 
-The Camera Obscura Facility
----------------------------
+### The Camera Obscura Facility
 
 This mid-century modern building on the bluffs was designed by noted architect Weldon J. Fulton and made possible by a gift from Santa Monica resident Marcellus Joslyn.
 
@@ -137,17 +145,5 @@ _ [Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportati
 Workshops at the Camera Obscura Art Lab are wheelchair accessible and ADA compliant. NOTE: the camera obscura mechanism is located up fourteen steps and is not wheelchair accessible. If you require any special disability related accommodations please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
 
-We’re located at:
-------------
 
-**1450 Ocean Ave.**
-
-**Palisades Park**
-
-**Santa Monica, CA 90401**
-
-
-**310.458.2239**
-
-[camera@smgov.net](mailto:camera@smgov.net)
 

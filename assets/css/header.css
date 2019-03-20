@@ -9,12 +9,17 @@ header h2 a {
   text-decoration: none;
   background-color: var(--aqua, gray);
   color: var(--snow, white);
-  padding: var(--vertical-rhythm) calc(var(--vertical-rhythm) * 1.5);
+  padding: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 1.5);
   text-transform: uppercase;
   max-width: 10.5em;
   font-weight: 300;
   letter-spacing: 0.1em;
   font-size: 1.25em;
+  align-self: stretch;
+  display: flex;
+  /*! align-content: center; */
+  /*! justify-content: center; */
+  align-items: center;
 }
 header h2 a:hover,
 header h2 a:active,
@@ -63,15 +68,16 @@ header {
 
 header h2 {
   margin: 0;
+  display: grid;
 }
 
 header ul {
   justify-self: stretch;
-  padding: calc(var(--vertical-rhythm) * 1/2) var(--vertical-rhythm);
+  padding: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 1.5);
   margin: 0;
   background: white;
   align-self: start;
-  /*! margin-bottom: calc(var(--vertical-rhythm) * 1); */
+  margin-bottom: calc(var(--vertical-rhythm) * 1);
   max-width: unset;
 }
 header li {
