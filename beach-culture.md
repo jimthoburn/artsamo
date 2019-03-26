@@ -2,7 +2,7 @@
 title: Beach=Culture at Annenberg Community Beach House, Santa Monica
 ---
 
-<figure><img src="/uploads/beachhouse-500-heigh.jpg" height="300" alt="" /></figure>
+<figure><img src="/uploads/beach-culture.jpg" height="300" alt="" /></figure>
 
 <h1>
   <img src="/uploads/icon-beachhouse.png" height="50" alt="" /><br />
@@ -59,7 +59,7 @@ For more information about residency deadlines, please visit [Opportunities](/op
 Artists in Residence
 --------------------
 
-[Artists in Residence from 2009-2019](/annenberg-community-beach-house-artists/)
+[Artists in Residence from 2009-2019](/beach-culture-artists/)
 
 <div class="artists" markdown="1">
 

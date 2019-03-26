@@ -115,6 +115,13 @@ body > p,
 footer {
   padding: var(--vertical-rhythm);
 }
+
+footer {
+  background-color: var(--aqua, gray);
+  color: white;
+}
+
+
 /* 
 @media (max-width: 45em) {
   header ul {

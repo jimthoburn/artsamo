@@ -14,8 +14,8 @@
     </a>
   </li>
   <li>
-    <a href="/annenberg-community-beach-house/">
-      <img src="/uploads/beachhouse-500-heigh.jpg" height="150" alt="" /><br />
+    <a href="/beach-culture/">
+      <img src="/uploads/beach-culture.jpg" height="150" alt="" /><br />
       <img src="/uploads/icon-beachhouse.png" height="25" alt="" />
       Beach=Culture at Annenberg Community Beach House
     </a>
@@ -43,10 +43,10 @@
   ](https://www.smgov.net/departments/ccs/civicauditorium/)
 
 * [
-    ![](/uploads/beachhouse-500-heigh.jpg)  
+    ![](/uploads/beach-culture.jpg)  
     ![](/uploads/icon-beachhouse.png)
     Beach=Culture at Annenberg Community Beach House
-  ](/annenberg-community-beach-house/)
+  ](/beach-culture/)
 
 * [
     ![](/uploads/cameraobscura.jpg)  
