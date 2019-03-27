@@ -5,7 +5,14 @@
 :root {
   --aqua:      hsl(175, 54%, 47%);
   --aqua-dark: hsl(175, 54%, 32%);
+  --apple:     hsl(357, 100%, 63%);
+  --midnight:  hsl(0, 0%, 10%);
   --snow:      hsl(0, 0%, 99%);
+}
+
+body {
+  background-color: var(--snow);
+  color: var(--midnight);
 }
 
 a {

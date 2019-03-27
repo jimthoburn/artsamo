@@ -1,0 +1,58 @@
+
+
+/* =Subscribe
+----------------------------------------------- */
+
+.subscribe {
+  padding: var(--vertical-rhythm);
+}
+
+@media (min-width: 40em) {
+  .subscribe {
+    padding: calc(var(--vertical-rhythm) * 2) calc(var(--vertical-rhythm) * 3);
+  }
+}
+
+.subscribe {
+  background-color: var(--apple);
+  color: var(--snow);
+}
+
+.subscribe h2,
+.subscribe a {
+  color: inherit;
+}
+
+.subscribe h2 {
+  font-weight: var(--semibold);
+}
+
+.subscribe label span {
+  font-size: 0;
+  opacity: 0;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  position: absolute;
+}
+.subscribe label br {
+  display: none;
+}
+.subscribe input[type="email"] {
+  margin-right: 0.5em;
+}
+
+button,
+input[type="email"],
+input[type="text"] {
+  border-width: 0;
+  padding: calc(var(--vertical-rhythm) * 1/4) calc(var(--vertical-rhythm) * 1);
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  background-color: var(--snow);
+  color: var(--midnight);
+  border-radius: calc(var(--vertical-rhythm) * 1);
+}
+
+

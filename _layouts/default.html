@@ -25,6 +25,8 @@
   <link rel="stylesheet" href="/assets/css/layout.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/grid.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/header.css?v={{ site.version }}" />
+  <link rel="stylesheet" href="/assets/css/footer.css?v={{ site.version }}" />
+  <link rel="stylesheet" href="/assets/css/subscribe.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/artists.css?v={{ site.version }}" />
 
   <!-- TEMPORARY (until the new website is live) -->
@@ -129,31 +131,7 @@
   {{ content }}
 </main>
 
-<form class="subscribe" id="subscribe" action="https://smgov.us12.list-manage.com/subscribe/post?u=a5d6f52c79917c7b57cc5cef0&amp;id=8df381560e" method="post">
-  <h2>Stay up to date</h2>
-  <p>Sign up for email alerts to always be first to know about events, artist opportunities, or other important updates about art and culture in Santa Monica</p>
-  <p>
-    <label for="field-firstname">
-      <span>First name</span><br />
-      <input type="text" name="firstname" id="field-firstname" />
-    </label>
-  </p>
-  <p>
-    <label for="field-lastname">
-      <span>Last name</span><br />
-      <input type="text" name="lastname" id="field-lastname" />
-    </label>
-  </p>
-  <p>
-    <label for="field-email">
-      <span>Email</span><br />
-      <input type="email" name="email" id="field-email" />
-    </label>
-  </p>
-  <p>
-    <button type="submit">Submit</button>
-  </p>
-</form>
+{% include subscribe.html %}
 
 <footer>
 
