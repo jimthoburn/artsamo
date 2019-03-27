@@ -1,0 +1,13 @@
+
+/* =Featured Events
+----------------------------------------------- */
+
+.featured-events,
+.featured-events li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+
+

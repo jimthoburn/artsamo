@@ -1,4 +1,5 @@
-<ul>
+<ul class="featured-events">
+  <!--
   <li>
     <a href="/airport-artwalk/">
       <img src="/uploads/art-walk.jpg" height="300" alt="" /><br />
@@ -6,9 +7,10 @@
       Saturday, March 23 from 12-5pm. Rain or shine! Free admission
     </a>
   </li>
+  -->
   <li>
     <a href="/art-in-the-parks/">
-      <img src="/uploads/The Wonder Room 2015 - 2 William Short.jpg" height="300" alt="" /><br />
+      <img src="/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg" height="300" alt="" /><br />
       <strong>Art in the Parks</strong><br />
       Free Outdoor Performances to Look Forward to This Summer
     </a>

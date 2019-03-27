@@ -21,7 +21,7 @@ We are a community like no other. And the thread that binds the soul of our comm
 Events
 ------
 
-{% include events-featured.md %}
+{% include featured-events.md %}
 
 [See more events](/events/)
 
@@ -55,7 +55,9 @@ Public Art
   </figcaption>
 </figure>
 
+<p class="action" markdown="1">
 [See more public art](/public-art/)
+</p>
 
 
 
