@@ -16,6 +16,22 @@ We are a community like no other. And the thread that binds the soul of our comm
   <img src="/uploads/See.png" height="100" alt="See" />
   <img src="/uploads/Art.png" height="100" alt="Art" />
 </p>
+
+
+Events
+------
+
+{% include events-featured.md %}
+
+[See more events](/events/)
+
+
+Venues
+------
+
+Santa Monica Cultural Affairs Venues
+
+{% include venues.md %}
     
     
 Public Art
@@ -41,21 +57,6 @@ Public Art
 
 [See more public art](/public-art/)
 
-
-Events
-------
-
-{% include events-featured.md %}
-
-[See more events](/events/)
-
-
-Venues
-------
-
-Santa Monica Cultural Affairs Venues
-
-{% include venues.md %}
 
 
 Artist Opportunities

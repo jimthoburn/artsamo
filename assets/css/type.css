@@ -181,4 +181,9 @@ dd + dt {
   margin-top: calc(var(--vertical-rhythm) * 1/2);
 }
 
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 

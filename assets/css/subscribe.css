@@ -9,7 +9,7 @@
 
 @media (min-width: 40em) {
   .subscribe {
-    padding: calc(var(--vertical-rhythm) * 2) calc(var(--vertical-rhythm) * 3);
+    padding: calc(var(--vertical-rhythm) * 3) calc(var(--vertical-rhythm) * 3);
   }
 }
 
@@ -25,6 +25,10 @@
 
 .subscribe h2 {
   font-weight: var(--semibold);
+  margin-top: 0;
+}
+.subscribe p {
+  margin-bottom: 0;
 }
 
 .subscribe label span {

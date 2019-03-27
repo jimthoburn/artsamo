@@ -1,30 +1,38 @@
-<ul>
+<ul class="venues">
   <li>
     <a href="/miles-memorial-playhouse/">
-      <img src="/uploads/milesplayhouse.jpg" height="150" alt="" /><br />
-      <img src="/uploads/icon-miles-playhouse.png" height="25" alt="" />
-      Miles Memorial Playhouse
+      <span class="image"><img src="/uploads/milesplayhouse.jpg" height="150" alt="" /></span><br />
+      <span class="text">
+        <img src="/uploads/icon-miles-playhouse.png" height="25" alt="" class="icon" />
+        Miles Memorial Playhouse
+      </span>
     </a>
   </li>
   <li>
     <a href="https://www.smgov.net/departments/ccs/civicauditorium/">
-      <img src="/uploads/civicauditorium.jpg" height="150" alt="" /><br />
-      <img src="/uploads/icon-civic-auditorium.png" height="25" alt="" />
-      The Civic Auditorium
+      <span class="image"><img src="/uploads/civicauditorium.jpg" height="150" alt="" class="image" /></span><br />
+      <span class="text">
+        <img src="/uploads/icon-civic-auditorium.png" height="25" alt="" class="icon" />
+        The Civic Auditorium
+      </span>
     </a>
   </li>
   <li>
     <a href="/beach-culture/">
-      <img src="/uploads/beach-culture.jpg" height="150" alt="" /><br />
-      <img src="/uploads/icon-beachhouse.png" height="25" alt="" />
-      Beach=Culture at Annenberg Community Beach House
+      <span class="image"><img src="/uploads/beach-culture.jpg" height="150" alt="" class="image" /></span><br />
+      <span class="text">
+        <img src="/uploads/icon-beachhouse.png" height="25" alt="" class="icon" />
+        Beach=Culture<br />at Annenberg Community Beach House
+      </span>
     </a>
   </li>
   <li>
     <a href="/camera-obscura-art-lab/">
-      <img src="/uploads/cameraobscura.jpg" height="150" alt="" /><br />
-      <img src="/uploads/icon-camera-obscura.png" height="25" alt="" />
-      Camera Obscura Art Lab
+      <span class="image"><img src="/uploads/cameraobscura.jpg" height="150" alt="" class="image" /></span><br />
+      <span class="text">
+        <img src="/uploads/icon-camera-obscura.png" height="25" alt="" class="icon" />
+        Camera Obscura Art Lab
+      </span>
     </a>
   </li>
 </ul>
