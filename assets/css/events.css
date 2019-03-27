@@ -1,0 +1,89 @@
+
+/* =Events
+----------------------------------------------- */
+
+/*
+  Make the list of events look similar to the
+  calendar on the main City of Santa Monica page:
+  https://www.santamonica.gov/events
+*/
+.events,
+.events li {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+@media (min-width: 40em) {
+  .events {
+    grid-column: 1/-1;
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(25em, 1fr) );
+    max-width: none;
+    grid-column-gap: 3em;
+    grid-row-gap: 0.75em;
+  }
+  .events {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+}
+.events li {
+  margin-bottom: 1.5em;
+}
+.events .summary {
+  display: grid;
+  grid-template-columns: 7.5em 1fr;
+  grid-column-gap: 0.75em;
+}
+.events .summary > h3 {
+  grid-column: 1/2;
+  grid-row: span 3; 
+  align-self: stretch;
+  justify-self: stretch;
+  background-color: #3f3f3f;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 1.5em 0.75em;
+  margin: 0;
+}
+
+.events summary {
+  margin-bottom: 1.5em;
+  display: block;
+  list-style: none;
+  cursor: pointer;
+}
+.events summary h3 + p {
+  padding-top: 0.75em;
+  text-decoration: underline;
+}
+.events summary p {
+  margin: 0;
+}
+.events summary p:last-child {
+  padding-bottom: 0.75em;
+}
+.events details[open] summary h3 + p {
+  text-decoration: none;
+}
+
+.events details summary::-webkit-details-marker,
+.events details summary:focus::-webkit-details-marker {
+  display: none;
+}
+
+
+/* SHIM: For the venue details page (make calendar fill the viewport width) */
+.detail-venue .events-headline {
+  margin-top: 6rem;
+}
+@media (min-width: 58.75em) {
+  .detail-venue .events {
+    margin-right: calc(-50vw + 200px);
+    margin-left: 0;
+    margin-top: 3em;
+  }
+}
+
