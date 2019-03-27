@@ -1,7 +1,10 @@
+
+<section markdown="1">
+
 Follow us
 ---------
 
-<dl>
+<dl class="social">
   <dt>Santa Monica Cultural Affairs</dt>
   <dd>
     <a href="https://twitter.com/santamonicacity">
@@ -16,7 +19,7 @@ Follow us
   </dd>
   <dd>
     <a href="https://www.instagram.com/cityofsantamonica">
-      <svg aria-label="Instagram" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+      <svg aria-label="Instagram" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
         <title>Instagram</title>
         <switch>
            <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
@@ -27,7 +30,7 @@ Follow us
   </dd>
   <dd>
     <a href="https://www.facebook.com/Santa.Monica.Cultural.Affairs/">
-      <svg aria-label="Facebook" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+      <svg aria-label="Facebook" viewbox="0 0 264 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
         <title>Facebook</title>
         <switch>
            <path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path>
@@ -39,7 +42,7 @@ Follow us
   <dt>Miles Memorial Playhouse</dt>
   <dd>
     <a href="https://www.facebook.com/milesplayhouse/">
-      <svg aria-label="Facebook" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+      <svg aria-label="Facebook" viewbox="0 0 264 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
         <title>Facebook</title>
         <switch>
            <path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path>
@@ -48,10 +51,10 @@ Follow us
       </svg>
     </a>
   </dd>
-  <dt>Beach=Culture at Annenberg Community Beach House</dt>
+  <dt>Beach=Culture</dt>
   <dd>
     <a href="https://www.facebook.com/annenbergbeachhouse/">
-      <svg aria-label="Facebook" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+      <svg aria-label="Facebook" viewbox="0 0 264 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
         <title>Facebook</title>
         <switch>
            <path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path>
@@ -62,7 +65,7 @@ Follow us
   </dd>
   <dd>
     <a href="https://www.instagram.com/annenbergcommunitybeachhouse/">
-      <svg aria-label="Instagram" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+      <svg aria-label="Instagram" viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
         <title>Instagram</title>
         <switch>
            <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
@@ -74,7 +77,7 @@ Follow us
   <dt>Camera Obscura Art Lab</dt>
   <dd>
     <a href="https://www.facebook.com/1450Ocean/">
-      <svg aria-label="Facebook" viewbox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+      <svg aria-label="Facebook" viewbox="0 0 264 512" xmlns="http://www.w3.org/2000/svg" width="24" height="24">
         <title>Facebook</title>
         <switch>
            <path fill="currentColor" d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path>
@@ -85,10 +88,66 @@ Follow us
   </dd>
 </dl>
 
+</section>
+
+
+<section markdown="1">
+
+Visit us
+--------
+
+<dl class="locations">
+  <dt>
+    <a href="/miles-memorial-playhouse/">
+      <img src="/uploads/icon-miles-playhouse.png" height="25" alt="" /><br />
+      Miles Memorial Playhouse
+    </a>
+  </dt>
+  <dd>
+    1130 Lincoln Blvd<br />
+    Santa Monica, CA 90403
+  </dd>
+  <dt>
+    <a href="https://www.smgov.net/departments/ccs/civicauditorium/">
+      <img src="/uploads/icon-civic-auditorium.png" height="25" alt="" /><br />
+      Santa Monica Civic Auditorium
+    </a>
+  </dt>
+  <dd>
+    1855 Main St<br />
+    Santa Monica, CA 90401
+  </dd>
+  <dt>
+    <a href="beach-culture/">
+      <img src="/uploads/icon-beachhouse.png" height="25" alt="" /><br />
+      Beach=Culture<br />Annenberg Community Beach House
+    </a>
+  </dt>
+  <dd>
+    415 Pacific Coast Hwy<br />
+    Santa Monica, CA 90402
+  </dd>
+  <dt>
+    <a href="camera-obscura-art-lab/">
+      <img src="/uploads/icon-camera-obscura.png" height="25" alt="" /><br />
+      Camera Obscura Art Lab
+    </a>
+  </dt>
+  <dd>
+    1450 Ocean Ave<br />
+    Santa Monica, CA 90401
+  </dd>
+</dl>
+
+</section>
+
+
+<section markdown="1">
+
 Contact us
 ----------
 
-**Santa Monica Cultural Affairs Division**  
+Santa Monica Cultural Affairs Division  
 1437 4th Street, Suite 310  
 Santa Monica, CA 90401
 
@@ -96,41 +155,4 @@ Santa Monica, CA 90401
 
 [culture@smgov.net](mailto:culture@smgov.net)
 
-Visit us
---------
-
-<ul>
-  <li>
-    <a href="/miles-memorial-playhouse/">
-      <img src="/uploads/icon-miles-playhouse.png" height="25" alt="" /><br />
-      Miles Memorial Playhouse
-    </a><br />
-    1130 Lincoln Blvd<br />
-    Santa Monica, CA 90403
-  </li>
-  <li>
-    <a href="https://www.smgov.net/departments/ccs/civicauditorium/">
-      <img src="/uploads/icon-civic-auditorium.png" height="25" alt="" /><br />
-      Santa Monica Civic Auditorium
-    </a><br />
-    1855 Main St<br />
-    Santa Monica, CA 90401
-  </li>
-  <li>
-    <a href="beach-culture/">
-      <img src="/uploads/icon-beachhouse.png" height="25" alt="" /><br />
-      Beach=Culture at Annenberg Community Beach House
-    </a><br />
-    415 Pacific Coast Hwy<br />
-    Santa Monica, CA 90402
-  </li>
-  <li>
-    <a href="camera-obscura-art-lab/">
-      <img src="/uploads/icon-camera-obscura.png" height="25" alt="" /><br />
-      Camera Obscura Art Lab
-    </a><br />
-    1450 Ocean Ave<br />
-    Santa Monica, CA 90401
-  </li>
-</ul>
-
+</section>
