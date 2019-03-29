@@ -4,7 +4,7 @@ title: Public Art, Santa Monica
 
 <figure>
   <img
-    src="/uploads/coast-band.jpg"
+    src="/assets/images/go-see-art.jpg"
     height="300"
     alt=""
   />

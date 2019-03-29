@@ -3,9 +3,60 @@ title: Santa Monica Cultural Affairs
 ---
 
 <figure>
-  <img src="/assets/images/artsamo.jpg" height="300" alt="Public art in Santa Monica" />
+  <img height="300" style="opacity: 1;" />
   <img src="/assets/images/logotype/artsamo.svg" height="300" alt="ArtSaMo" />
 </figure>
+
+
+<script>
+
+(function() {
+
+  var images = [
+    {
+      title: "Public art in Santa Monica",
+      url: "/assets/images/artsamo.jpg"
+    },
+    {
+      title: "Public art in Santa Monica",
+      url: "/assets/images/go-see-art.jpg"
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "/uploads/coast-band.jpg"
+    }
+  ]
+
+  // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
+  /**
+   * Returns a random integer between min (inclusive) and max (inclusive)
+   * Using Math.round() will give you a non-uniform distribution!
+   */
+  function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  var randomNumber = getRandomInt(0, images.length - 1);
+
+  var featured = images[randomNumber];
+
+  document.querySelector("figure img").setAttribute("src", featured.url);
+  document.querySelector("figure img").setAttribute("alt", featured.title);
+
+  /*
+  var photoCredit = document.getElementById("photo-credit");
+  if (photoCredit) {
+    var link = photoCredit.querySelector("a")
+    if (link) {
+      link.setAttribute("href", featuredOrganization.url);
+      link.textContent = featuredOrganization.title;
+      photoCredit.style.display = "block";
+    }
+  }
+  */
+})();
+
+</script>
 
 <h2>Welcome to ArtSaMo</h2>
 
@@ -79,3 +130,4 @@ Artist Opportunities
     _March 27, 2019_
 1.   [Prequalified Artist Roster](https://artist.callforentry.org/festivals_unique_info.php?ID=6001)<br />
     _March 29, 2019_
+

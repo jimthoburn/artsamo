@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  --font-size: 8vw;
+  --font-size: 6vw;
   font-family: canada-type-gibson, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -86,7 +86,7 @@ h1 img {
   display: inline-block;
 }
 h1 img + br {
-  display: none;
+  /*! display: none; */
 }
 
 h2 {

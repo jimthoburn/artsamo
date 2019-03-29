@@ -6,7 +6,7 @@ title: Beach=Culture at Annenberg Community Beach House, Santa Monica
 
 <h1>
   <img src="/uploads/icon-beachhouse.png" height="50" alt="" /><br />
-  Beach=Culture<br /><small>at Annenberg Community Beach House</small>
+  Beach=Culture<br /><small>at Annenberg Community<br />Beach House</small>
 </h1>
 
 <nav class="action" markdown="1">
