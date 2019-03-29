@@ -11,7 +11,7 @@
   <li>
     <a href="/art-in-the-parks/">
       <span class="image">
-        <img src="/uploads/The-Wonder-Room-2015---2-William-Short.jpg" height="300" alt="" />
+        <img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" />
       </span><br />
       <span class="text">
         <strong>Art in the Parks</strong><br />
