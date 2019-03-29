@@ -6,7 +6,7 @@ title: About Santa Monica Cultural Affairs
   <img src="/uploads/wall.jpg" height="300" alt="" />
 </figure>
 
-About Santa Monica Cultural Affairs
+About <small>Santa Monica Cultural Affairs</small>
 =============
 
 <nav class="action" markdown="1">

@@ -118,7 +118,7 @@ Visit us
     Santa Monica, CA 90401
   </dd>
   <dt>
-    <a href="beach-culture/">
+    <a href="/beach-culture/">
       <img src="/uploads/icon-beachhouse.png" height="25" alt="" /><br />
       Beach=Culture<br />Annenberg Community Beach House
     </a>
@@ -128,7 +128,7 @@ Visit us
     Santa Monica, CA 90402
   </dd>
   <dt>
-    <a href="camera-obscura-art-lab/">
+    <a href="/camera-obscura-art-lab/">
       <img src="/uploads/icon-camera-obscura.png" height="25" alt="" /><br />
       Camera Obscura Art Lab
     </a>

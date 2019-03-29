@@ -6,7 +6,7 @@ title: Opportunities for Organizations, Santa Monica
   <img src="/uploads/coast-samba.jpg" height="300" alt="" />
 </figure>
 
-Opportunities for Organizations
+<small>Opportunities</small> for Organizations
 ===============================
 
 To ensure a robust arts and culture ecosystem for both residents and visitors to the City, Cultural Affairs offers five grant programs for Santa Monica-based arts and heritage nonprofits.

@@ -2,10 +2,8 @@
 title: Artists in Residence at Camera Obscura Art Lab, Santa Monica
 ---
 
-Artists in Residence at Camera Obscura Art Lab
+Artists in Residence<br /><small>at Camera Obscura Art Lab</small>
 ============================================
-
-![](https://www.santamonica.gov/Media/arts/CA/coast-painting.jpg)
 
 2019
 ----
