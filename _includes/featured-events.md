@@ -11,7 +11,7 @@
   <li>
     <a href="/art-in-the-parks/">
       <span class="image">
-        <img src="/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg" height="300" alt="" />
+        <img src="/uploads/The-Wonder-Room-2015---2-William-Short.jpg" height="300" alt="" />
       </span><br />
       <span class="text">
         <strong>Art in the Parks</strong><br />

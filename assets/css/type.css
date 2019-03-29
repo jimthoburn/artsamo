@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  --font-size: 7vw;
+  --font-size: 8vw;
   font-family: canada-type-gibson, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -193,8 +193,14 @@ blockquote {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-column-gap: calc(var(--vertical-rhythm) * 1);
-  color: white;
   text-decoration: none;
+}
+
+.go-see-art a,
+.go-see-art a:hover,
+.go-see-art a:active,
+.go-see-art a:focus {
+  color: white;
 }
 
 .go-see-art a > span {

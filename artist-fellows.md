@@ -5,8 +5,6 @@ title: Santa Monica Artist Fellows
 <small>Santa Monica</small> Artist Fellows
 ===========================
 
-![](/uploads/coast-painting.jpg)
-
 2018-19
 -------
 

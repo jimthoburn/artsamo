@@ -35,6 +35,10 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 
 {% include featured-events.md %}
 
+<p class="action" markdown="1" style="margin-top: 3em; margin-bottom: 4.5em;">
+[See more events](/events/#calendar)
+</p>
+
 
 Venues
 ======
