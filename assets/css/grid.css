@@ -72,9 +72,15 @@ main > nav ul {
     }
     main > figure + h2,
     main > figure + h2 + p,
+    main > figure + h2 + ol,
+    main > figure + h2 + ul,
     main > figure + h1 + h2,
     main > figure + h1 + h2 + p,
-    main > figure + h1 + p {
+    main > figure + h1 + h2 + ol,
+    main > figure + h1 + h2 + ul,
+    main > figure + h1 + p,
+    main > figure + h1 + ol,
+    main > figure + h1 + ul {
       margin-top: 3rem;
     }
     main > figure,

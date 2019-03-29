@@ -10,6 +10,13 @@ title: Opportunities for Artists, Santa Monica
 <small>Opportunities</small> for Artists
 =========================
 
+## Upcoming Deadlines
+
+1.   [Choreographer Residency](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/2019ACBH_Choreo_Res_Call.pdf)<br />
+    _March 27, 2019_
+1.   [Prequalified Artist Roster](https://artist.callforentry.org/festivals_unique_info.php?ID=6001)<br />
+    _March 29, 2019_
+
 Artist Fellowship
 -----------------
 

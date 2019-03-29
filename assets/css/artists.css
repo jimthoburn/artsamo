@@ -27,6 +27,7 @@
   object-fit: cover;
   float: none;
   margin-right: unset;
+  border-radius: 50%;
 }
 
 /* SHIM: Avoid cropping the Art Division logo on the Beach House venue page */

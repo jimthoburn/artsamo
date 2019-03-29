@@ -76,7 +76,7 @@ Public Art
 
 
 
-Artist Opportunities
+Opportunities for Artists
 --------------------
 
 ### Upcoming Deadlines
