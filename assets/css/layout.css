@@ -79,6 +79,8 @@ main > figure:first-child figcaption {
   /*! text-shadow: 0 0 2em hsl(0, 0%, 0%); */
   background: white;
   font-size: 0.875em;
+  position: relative;
+  z-index: 1;
 }
 @media (max-width: 50em) {
   main > h1 + figure figcaption,
