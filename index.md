@@ -15,95 +15,6 @@ title: Santa Monica Cultural Affairs
 
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
 
-<script>
-
-(function() {
-
-  var images = [
-    {
-      title: "Public art in Santa Monica",
-      url: "/assets/images/artsamo.jpg",
-      caption: "<em>Cradle</em> by Ball-Nogues Studio"
-    },
-    {
-      title: "Public art in Santa Monica",
-      url: "/assets/images/go-see-art.jpg",
-      caption: "<em>Wheels</em> by Anne Marie Karlsen"
-    },
-    {
-      title: "Musicians at the COAST event",
-      url: "/uploads/coast-band.jpg",
-      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
-    },
-    {
-      title: "Musicians at the COAST event",
-      url: "/uploads/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
-      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
-    },
-    {
-      title: "Rainbow Face at the COAST event",
-      url: "/uploads/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
-      caption: `<em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
-    },
-    {
-      title: "Dia De Los Muertos",
-      url: "/uploads/Dia De Los Muertos-059.jpg",
-      caption: `Dia De Los Muertos`
-    },
-    {
-      title: "Dia De Los Muertos",
-      url: "/uploads/Dia De Los Muertos-035.jpg",
-      caption: `Dia De Los Muertos`
-    },
-    {
-      title: "Dia De Los Muertos",
-      url: "/uploads/Dia De Los Muertos-063.jpg",
-      caption: `Dia De Los Muertos`
-    },
-    {
-      title: "Dia De Los Muertos",
-      url: "/uploads/Dia De Los Muertos-066.jpg",
-      caption: `Dia De Los Muertos`
-    },
-    
-    /*
-    {
-      title: "Las Colibrí performing at Coast",
-      url: "/uploads/coast-las-colibri.jpg",
-      caption: `Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
-    },
-    {
-      title: "Musicians at the COAST event",
-      url: "/uploads/Nick Mancini 4Tet at Fireside.jpg",
-      caption: `Nick Mancini 4Tet at Fireside, Miles Memorial Playhouse`
-    }
-    */
-  ]
-
-  // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
-  /**
-   * Returns a random integer between min (inclusive) and max (inclusive)
-   * Using Math.round() will give you a non-uniform distribution!
-   */
-  function getRandomInt(min, max) {
-      return Math.floor(Math.random() * (max - min + 1)) + min;
-  }
-
-  var randomNumber = getRandomInt(0, images.length - 1);
-
-  var featured = images[randomNumber];
-
-  document.querySelector("figure img").setAttribute("src", featured.url);
-  document.querySelector("figure img").setAttribute("alt", featured.title);
-
-  var photoCredit = document.querySelector("figcaption");
-  if (photoCredit) {
-    photoCredit.innerHTML = featured.caption;
-  }
-})();
-
-</script>
-
 <p class="go-see-art">
   <a href="#events">
     <span>
@@ -154,7 +65,7 @@ Public Art
   />
   <figcaption>
     <p>
-      <em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle Tongva Park, 2013.
+      <em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle, Tongva Park, 2013.
     </p>
   </figcaption>
 </figure>
@@ -175,3 +86,123 @@ Artist Opportunities
 1.   [Prequalified Artist Roster](https://artist.callforentry.org/festivals_unique_info.php?ID=6001)<br />
     _March 29, 2019_
 
+<script>
+
+(function() {
+
+  const images = [
+    {
+      title: "Public art in Santa Monica",
+      url: "/assets/images/artsamo.jpg",
+      caption: "<em>Cradle</em> by Ball-Nogues Studio"
+    },
+    {
+      title: "Public art in Santa Monica",
+      url: "/assets/images/go-see-art.jpg",
+      caption: "<em>Wheels</em> by Anne Marie Karlsen"
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "/uploads/coast-band.jpg",
+      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "/uploads/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
+      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Rainbow Face at the COAST event",
+      url: "/uploads/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
+      caption: `<em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "/uploads/Dia De Los Muertos-059.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "/uploads/Dia De Los Muertos-035.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "/uploads/Dia De Los Muertos-063.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "/uploads/Dia De Los Muertos-066.jpg",
+      caption: `Dia De Los Muertos`
+    }
+    
+    /*
+    {
+      title: "Las Colibrí performing at Coast",
+      url: "/uploads/coast-las-colibri.jpg",
+      caption: `Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "/uploads/Nick Mancini 4Tet at Fireside.jpg",
+      caption: `Nick Mancini 4Tet at Fireside, Miles Memorial Playhouse`
+    }
+    */
+  ]
+
+  // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
+  /**
+   * Returns a random integer between min (inclusive) and max (inclusive)
+   * Using Math.round() will give you a non-uniform distribution!
+   */
+  function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  let randomNumbers = [];
+
+  function getUniqueRandomNumber() {
+    let unique;
+  
+    do {
+      unique = getRandomInt(0, images.length - 1);
+    } while (randomNumbers.includes(unique) && randomNumbers.length < images.length);
+
+    if (!randomNumbers.includes(unique)) {
+      randomNumbers.push(unique);
+    }
+  
+    return unique;
+  }
+
+  (function() {
+    const image = images[getUniqueRandomNumber()];
+  
+    document.querySelector("figure img").setAttribute("src", image.url);
+    document.querySelector("figure img").setAttribute("alt", image.title);
+  
+    const photoCredit = document.querySelector("figcaption");
+    if (photoCredit) {
+      photoCredit.innerHTML = image.caption;
+    }
+  })();
+
+  (function() {
+    const image = images[getUniqueRandomNumber()];
+    document.querySelector(".go-see-art a > span:nth-of-type(1) img").setAttribute("src", image.url);
+  })();
+
+  (function() {
+    const image = images[getUniqueRandomNumber()];
+    document.querySelector(".go-see-art a > span:nth-of-type(2) img").setAttribute("src", image.url);
+  })();
+
+  (function() {
+    const image = images[getUniqueRandomNumber()];
+    document.querySelector(".go-see-art a > span:nth-of-type(3) img").setAttribute("src", image.url);
+  })();
+
+})();
+
+</script>

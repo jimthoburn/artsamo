@@ -37,7 +37,7 @@ Enter the body of a camera for a magical perspective! Visitors can experience th
 This mid-century modern building on the bluffs was designed by noted architect Weldon J. Fulton and made possible by a gift from Santa Monica resident Marcellus Joslyn.
 
 Artists in Residence
---------------------
+====
 
 [Artists in Residence from 2014-2019](/camera-obscura-art-lab-artists/)
 
@@ -116,7 +116,7 @@ Artists in Residence
 </div>
 
 Upcoming Events
----------------
+====
 
 <ol
   class="events"
@@ -125,7 +125,7 @@ Upcoming Events
 <script src="/assets/js/events.js"></script>
 
 Getting Here
-------------
+====
 
 [Train](http://metro.net/)
 
