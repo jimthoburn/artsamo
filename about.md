@@ -4,6 +4,7 @@ title: About Santa Monica Cultural Affairs
 
 <figure class="image">
   <img src="/uploads/wall.jpg" height="300" alt="" />
+  <figcaption>CONTRA-TIEMPO / Ana Maria Alvarez</figcaption>
 </figure>
 
 About<br /><small>Santa Monica Cultural Affairs</small>

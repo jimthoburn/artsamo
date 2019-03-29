@@ -61,7 +61,7 @@
   }
   .artists li figure {
     grid-column: 1/2;
-    grid-row: 1/span 4;
+    grid-row: 1/span 99;
     justify-self: end;
   }
   .artists p {

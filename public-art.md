@@ -6,8 +6,9 @@ title: Public Art, Santa Monica
   <img
     src="/assets/images/go-see-art.jpg"
     height="300"
-    alt=""
+    alt="Wheels by Anne Marie Karlsen"
   />
+  <figcaption><em>Wheels</em> by Anne Marie Karlsen</figcaption>
 </figure>
 
 Public Art
@@ -24,17 +25,5 @@ You will never regret taking time out of your busy day to go see art. Santa Moni
 
 Art makes the day better. And we're dedicated to integrating as much art as possible into our community’s daily life. We encourage you to notice it as you go about your day, and invite you to seek it out in areas you don't normally visit. Press a marker on the map below to get a peek at the public artworks in Santa Monica. To see more, visit the [Public Art Archive](http://www.publicartarchive.org/santamonica)! 
 
-<div class="map"><iframe width="300" height="150" style="border-width: 0; width: 100%; height: 50vh;" src="https://www.publicartarchive.org/paa_map/50303"></iframe></div>
+<div class="map"><iframe width="300" height="150" style="border-width: 0; width: 100%; height: calc(100vh - calc(var(--vertical-rhythm) * 2));" src="https://www.publicartarchive.org/paa_map/50303"></iframe></div>
 
-<figure>
-  <img
-    src="/uploads/weather-field-tongva.jpg"
-    height="300"
-    alt="Weather Field No. 1 by Inigo Mañglano-Ovalle Tongva Park, 2013."
-  />
-  <figcaption>
-    <p>
-      <em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle Tongva Park, 2013.
-    </p>
-  </figcaption>
-</figure>

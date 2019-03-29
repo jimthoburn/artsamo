@@ -8,7 +8,7 @@ title: Art in the Parks, Santa Monica
     src="/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg"
     height="300"
   />
-  <figcaption>Photo credit: Javier Guillen</figcaption>
+  <figcaption>Photo by Javier Guillen</figcaption>
 </figure>
 
 Art in the Parks

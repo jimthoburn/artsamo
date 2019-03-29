@@ -5,6 +5,7 @@ title: Santa Monica Cultural Affairs
 <figure>
   <img height="300" style="opacity: 1;" />
   <img src="/assets/images/logotype/artsamo.svg" height="300" alt="ArtSaMo" />
+  <figcaption></figcaption>
 </figure>
 
 
@@ -21,16 +22,62 @@ We are a community like no other. And the thread that binds the soul of our comm
   var images = [
     {
       title: "Public art in Santa Monica",
-      url: "/assets/images/artsamo.jpg"
+      url: "/assets/images/artsamo.jpg",
+      caption: "<em>Cradle</em> by Ball-Nogues Studio"
     },
     {
       title: "Public art in Santa Monica",
-      url: "/assets/images/go-see-art.jpg"
+      url: "/assets/images/go-see-art.jpg",
+      caption: "<em>Wheels</em> by Anne Marie Karlsen"
     },
     {
       title: "Musicians at the COAST event",
-      url: "/uploads/coast-band.jpg"
+      url: "/uploads/coast-band.jpg",
+      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "/uploads/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
+      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Rainbow Face at the COAST event",
+      url: "/uploads/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
+      caption: `<em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "/uploads/Dia De Los Muertos-059.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "/uploads/Dia De Los Muertos-035.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "/uploads/Dia De Los Muertos-063.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "/uploads/Dia De Los Muertos-066.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    
+    /*
+    {
+      title: "Las Colibrí performing at Coast",
+      url: "/uploads/coast-las-colibri.jpg",
+      caption: `Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "/uploads/Nick Mancini 4Tet at Fireside.jpg",
+      caption: `Nick Mancini 4Tet at Fireside, Miles Memorial Playhouse`
     }
+    */
   ]
 
   // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
@@ -49,17 +96,10 @@ We are a community like no other. And the thread that binds the soul of our comm
   document.querySelector("figure img").setAttribute("src", featured.url);
   document.querySelector("figure img").setAttribute("alt", featured.title);
 
-  /*
-  var photoCredit = document.getElementById("photo-credit");
+  var photoCredit = document.querySelector("figcaption");
   if (photoCredit) {
-    var link = photoCredit.querySelector("a")
-    if (link) {
-      link.setAttribute("href", featuredOrganization.url);
-      link.textContent = featuredOrganization.title;
-      photoCredit.style.display = "block";
-    }
+    photoCredit.innerHTML = featured.caption;
   }
-  */
 })();
 
 </script>
@@ -84,7 +124,9 @@ We are a community like no other. And the thread that binds the soul of our comm
 Events
 ======
 
+<!--
 Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calendar)
+-->
 
 {% include featured-events.md %}
 

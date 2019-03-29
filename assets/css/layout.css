@@ -69,18 +69,14 @@ main > figure:first-child img[src*="jpg"] {
 }
 main > h1 + figure figcaption,
 main > figure:first-child figcaption {
-  /*! position: relative; */
-  /*! z-index: 1; */
   justify-self: end;
-  /*! color: white; */
   align-self: end;
-  padding: 0 calc(6vmax * 1.125 * 0.25);
-  line-height: calc(6vmax * 0.675);
-  /*! text-shadow: 0 0 2em hsl(0, 0%, 0%); */
+  padding: calc(var(--vertical-rhythm) * 1/4) calc(var(--vertical-rhythm) * 1/2);
   background: white;
-  font-size: 0.875em;
+  font-size: 0.75em;
   position: relative;
   z-index: 1;
+  /* color: hsl(0, 0%, 50%); */
 }
 @media (max-width: 50em) {
   main > h1 + figure figcaption,
