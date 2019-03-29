@@ -14,16 +14,16 @@ We are a community like no other. And the thread that binds the soul of our comm
 <p class="go-see-art">
   <a href="#events">
     <span>
-      <img src="/uploads/go-see-art-1.jpg" height="100" alt="" />
-      <span>Go</span>
+      <span class="image"><img src="/uploads/go-see-art-1.jpg" height="100" alt="" /></span>
+      <span class="text">Go</span>
     </span>
     <span>
-      <img src="/uploads/go-see-art-2.jpg" height="100" alt="" />
-      <span>See</span>
+      <span class="image"><img src="/uploads/go-see-art-2.jpg" height="100" alt="" /></span>
+      <span class="text">See</span>
     </span>
     <span>
-      <img src="/uploads/go-see-art-3.jpg" height="100" alt="" />
-      <span>Art</span>
+      <span class="image"><img src="/uploads/go-see-art-3.jpg" height="100" alt="" /></span>
+      <span class="text">Art</span>
     </span>
   </a>
 </p>

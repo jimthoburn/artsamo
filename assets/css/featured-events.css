@@ -44,7 +44,7 @@
   font-size: calc(0.75em + 1vw);
   transform: skewY(-8deg);
   text-align: center;
-  padding: 0.5em 4em;
+  padding: 4.5em 1em;
 }
 
 .featured-events strong {
