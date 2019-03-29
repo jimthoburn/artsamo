@@ -8,7 +8,7 @@ title: Miles Memorial Playhouse, Santa Monica
 
 <h1>
   <img src="/uploads/icon-miles-playhouse.png" height="50" alt="" /><br />
-  Miles Memorial Playhouse
+  <small>Miles Memorial</small> Playhouse
 </h1>
 
 <nav class="action" markdown="1">

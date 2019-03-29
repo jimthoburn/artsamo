@@ -35,7 +35,7 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 
 {% include featured-events.md %}
 
-<p class="action" markdown="1" style="margin-top: 3em; margin-bottom: 4.5em;">
+<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
 [See more events](/events/#calendar)
 </p>
 
@@ -49,10 +49,7 @@ Venues
 Public Art
 ==========
 
-*   [Percent for Art Commissions](/public-art/#map)
-*   [Public Art Collection Care and Maintenance](/about/#maintenance)
-*   [Public Art Archive/Map](/public-art/)
-*   [Art Ordinances for Art](/about/#ordinances)
+<script></script>
 
 <figure>
   <img
@@ -67,7 +64,7 @@ Public Art
   </figcaption>
 </figure>
 
-<p class="action" markdown="1">
+<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
 [See more public art](/public-art/)
 </p>
 

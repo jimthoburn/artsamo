@@ -2,7 +2,7 @@
 title: Artists in Residence at Camera Obscura Art Lab, Santa Monica
 ---
 
-Artists in Residence<br /><small>at Camera Obscura Art Lab</small>
+Artists in Residence<br /><small>at Camera Obscura<br />Art Lab</small>
 ============================================
 
 2019

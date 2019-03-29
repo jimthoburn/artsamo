@@ -8,7 +8,7 @@ title: Camera Obscura Art Lab, Santa Monica
 
 <h1>
   <img src="/uploads/icon-camera-obscura.png" height="50" alt="" /><br />
-  Camera Obscura Art Lab
+  <small>Camera Obscura</small> Art Lab
 </h1>
 
 <nav class="action" markdown="1">
