@@ -10,9 +10,13 @@
   -->
   <li>
     <a href="/art-in-the-parks/">
-      <img src="/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg" height="300" alt="" /><br />
-      <strong>Art in the Parks</strong><br />
-      Free Outdoor Performances to Look Forward to This Summer
+      <span class="image">
+        <img src="/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg" height="300" alt="" />
+      </span><br />
+      <span class="text">
+        <strong>Art in the Parks</strong><br />
+        Free Outdoor Performances to Look Forward to This Summer
+      </span>
     </a>
   </li>
 </ul>

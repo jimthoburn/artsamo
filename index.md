@@ -4,7 +4,7 @@ title: Santa Monica Cultural Affairs
 
 <figure>
   <img src="/assets/images/artsamo.jpg" height="300" alt="Public art in Santa Monica" />
-  <img src="/assets/images/artsamo.svg" height="300" alt="ArtSaMo" />
+  <img src="/assets/images/logotype/artsamo.svg" height="300" alt="ArtSaMo" />
 </figure>
 
 <h2>Welcome to ArtSaMo</h2>
@@ -12,30 +12,38 @@ title: Santa Monica Cultural Affairs
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
 
 <p class="go-see-art">
-  <img src="/uploads/Go.png" height="100" alt="Go" />
-  <img src="/uploads/See.png" height="100" alt="See" />
-  <img src="/uploads/Art.png" height="100" alt="Art" />
+  <a href="#events">
+    <span>
+      <img src="/uploads/go-see-art-1.jpg" height="100" alt="" />
+      <span>Go</span>
+    </span>
+    <span>
+      <img src="/uploads/go-see-art-2.jpg" height="100" alt="" />
+      <span>See</span>
+    </span>
+    <span>
+      <img src="/uploads/go-see-art-3.jpg" height="100" alt="" />
+      <span>Art</span>
+    </span>
+  </a>
 </p>
 
-
 Events
-------
+======
+
+Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calendar)
 
 {% include featured-events.md %}
 
-[See more events](/events/)
-
 
 Venues
-------
-
-Santa Monica Cultural Affairs Venues
+======
 
 {% include venues.md %}
     
     
 Public Art
-----------
+==========
 
 *   [Percent for Art Commissions](/public-art/#map)
 *   [Public Art Collection Care and Maintenance](/about/#maintenance)

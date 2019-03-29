@@ -70,19 +70,21 @@ main > figure:first-child figcaption {
   /*! position: relative; */
   /*! z-index: 1; */
   justify-self: end;
-  color: white;
+  /*! color: white; */
   align-self: end;
-  padding: 0 calc(6vmax * 1.125 * 0.5);
-  line-height: calc(6vmax * 1.125);
-  text-shadow: 0 0 2em hsl(0, 0%, 0%);
+  padding: 0 calc(6vmax * 1.125 * 0.25);
+  line-height: calc(6vmax * 0.675);
+  /*! text-shadow: 0 0 2em hsl(0, 0%, 0%); */
+  background: white;
+  font-size: 0.875em;
 }
 @media (max-width: 50em) {
   main > h1 + figure figcaption,
   main > figure:first-child figcaption {
-    writing-mode: vertical-rl;
-    line-height: 1;
-    padding: 3rem 1.5rem 1.5rem 1.5rem;
-    align-self: start;
+    /*! writing-mode: vertical-rl; */
+    /*! line-height: 1; */
+    /*! padding: 3rem 1.5rem 1.5rem 1.5rem; */
+    /*! align-self: start; */
     /*! justify-self: start; */
   }
 }
@@ -132,7 +134,7 @@ main > *:first-child {
       /*! margin-top: -2.375em; */
       /*! background-color: white; */
       position: relative;
-      display: table;
+/*       display: table; */
       color: white;
       /*! position: absolute; */
       /*! z-index: 1; */
@@ -142,9 +144,9 @@ main > *:first-child {
       z-index: 1;
       /*! height: 0; */
       /*! justify-self: end; */
-      align-self: end;
+      align-self: center;
       margin-bottom: 0;
-      text-shadow: 0 0 1em rgba(0, 0, 0, 1);
+      /*text-shadow: 0 0 1em rgba(0, 0, 0, 1);*/
     }
   }
 }

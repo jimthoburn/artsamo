@@ -41,14 +41,14 @@
   z-index: 1;
   align-self: center;
   justify-self: center;
-  font-size: calc(0.75em + 1vw);
+  font-size: calc(0.75em + 1vmin);
   transform: skewY(-8deg);
   text-align: center;
-  padding: 0.5em 4em;
+  padding: 0.25em 0.375em;
 }
 
 .featured-events strong {
-  font-size: 4em;
+  font-size: calc(var(--golden-section) * 3.5 * 1em);
   text-transform: uppercase;
   display: block;
   line-height: 1;
@@ -60,7 +60,7 @@
   line-height: 1.125;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-/*   font-size: calc(0.75em + 7vw); */
+  font-size: calc(0.75em + 7vw);
 }
 
 .featured-events img {

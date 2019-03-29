@@ -7,7 +7,7 @@ Events
 
 {% include featured-events.md %}
 
-<h2 style="margin-top: 4.5em; margin-bottom: 3em; grid-column: 1/-1; max-width: none; text-align: center; justify-self: center;">Santa Monica Cultural Affairs Calendar</h2>
+<h2 style="margin-top: 4.5em; margin-bottom: 3em; grid-column: 1/-1; max-width: none; text-align: center; justify-self: center;" id="calendar">Santa Monica Cultural Affairs Calendar</h2>
 
 <ol
   class="events"
