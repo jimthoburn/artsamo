@@ -41,9 +41,19 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 
 {% include featured-events.md %}
 
-<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
+<h2 style="margin-top: 4.5em; margin-bottom: 3em; grid-column: 1/-1; max-width: none; text-align: center; justify-self: center;" id="calendar">Santa Monica Cultural Affairs Calendar</h2>
+
+<ol
+  class="events"
+  data-events-locations="Annenberg Community Beach House,Miles Memorial Playhouse,Palisades Park"
+  data-events-limit="6">
+</ol>
+<script src="/assets/js/events.js"></script>
+
+<p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
 [See more events](/events/#calendar)
 </p>
+<p data-events-fallback style="text-align: center;"><a href="https://www.santamonica.gov/events">City of Santa Monica Calendar</a></p>
 
 
 Venues

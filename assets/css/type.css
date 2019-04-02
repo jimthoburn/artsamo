@@ -84,6 +84,7 @@ h1 img {
   width: auto;
   vertical-align: -4%;
   display: inline-block;
+  transform: skewY(8deg);
 }
 h1 img + br {
   /*! display: none; */
@@ -242,6 +243,8 @@ blockquote {
   position: relative;
   padding-bottom: 100%;
   display: block;
+  border-radius: 50%;
+  background: black;
 }
 .go-see-art img {
   position: absolute;
@@ -252,6 +255,7 @@ blockquote {
   max-width: unset;
   object-fit: cover;
   border-radius: 50%;
+  opacity: 0.75;
 }
 
 

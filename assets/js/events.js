@@ -152,6 +152,13 @@ Example HTML
 
   function addItems(data) {
     // let template = document.getElementById('event-template')
+    let itemLimit = 99
+    if ( list.getAttribute("data-events-limit") && 
+         !isNaN(list.getAttribute("data-events-limit"))) {
+      itemLimit = Number(list.getAttribute("data-events-limit"))
+    }
+    let createdItems = 0
+    let itemLimitReached = false
     if (data && list && template) {
       data.sort(function(a, b) {
         let aDate = new Date(a.start_date)
@@ -169,13 +176,28 @@ Example HTML
       })
       for (let index = 0; index < data.length; index++) {
         if (isCulturalAffairsEvent(data[index])) {
-          createItem(data[index], list, template)
+          // console.log({ createdItems, itemLimit })
+          if (createdItems < itemLimit) {
+            if (createItem(data[index], list, template)) {
+              createdItems++
+            }
+          } else {
+            itemLimitReached = true
+          }
         }
       }
       if (list.querySelectorAll("li").length <= 0) {
         list.insertAdjacentHTML('beforebegin', "<p>More events are coming soon…</p>")
       }
     }
+
+    console.log({ itemLimitReached })
+
+    let more = document.querySelector("[data-events-more]")
+    if (itemLimitReached && more) more.style.visibility = "visible"
+
+    let fallback = document.querySelector("[data-events-fallback]")
+    if (fallback) fallback.parentNode.removeChild(fallback)
   }
 
   function paddedZeros(number) {
@@ -193,7 +215,6 @@ Example HTML
   }
 
   function createItem(itemData, list, template) {
-
     const daysOfTheWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 
     const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
@@ -263,7 +284,10 @@ Example HTML
     // If the event is happening in the future or if it happened recently
     if (startDate > threeDaysAgo) {
       list.insertAdjacentHTML('beforeend', html)
+      return true
     }
+
+    return false
   }
   function showLoadingMessage() {
     document.body.classList.add('loading');
