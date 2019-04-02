@@ -51,8 +51,7 @@ main > nav ul {
       /*! margin-bottom: 1.5rem; */
     }
     main > h2,
-    main > h3,
-    main > h4 {
+    main > h3 {
       margin: 0;
       grid-column: 1 / 2;
       justify-self: end;
@@ -69,6 +68,9 @@ main > nav ul {
       font-weight: var(--bold);
       /*! text-transform: uppercase; */
       /*! letter-spacing: 0.1em; */
+    }
+    main > h4 {
+      margin-top: 0;
     }
     main > figure + h2,
     main > figure + h2 + p,

@@ -53,11 +53,15 @@ The Public Art Committee is a standing committee of the Arts Commission, made up
 
 We meet the third Monday of each month, Ken Edwards Center, 5:00 p.m.
 
-> <img src="/uploads/The%20Wonder%20Room%202015%20-%202%20William%20Short.jpg" height="300" alt="" />
->
-> Art enables us to find ourselves and lose ourselves at the same time
->
-> \- Thomas Merton
+<div class="image-quote">
+  <span class="image">
+    <img src="/uploads/The%20Wonder%20Room%202015%20-%202%20William%20Short.jpg" height="300" alt="" />
+  </span>
+  <blockquote>
+    <span>Art is something that makes you breathe with a different kind of happiness.</span>
+    <small>Anni Albers</small>
+  </blockquote>
+</div>
 
 Santa Monica Arts Foundation
 ----------------------------
@@ -80,11 +84,15 @@ The City’s Cultural Policies exist to support our artistic legacy, while creat
 
 We’re always looking for ways to remain fresh. That’s why we’re excited to announce our 2019 Cultural Plan. This yearlong process will help craft a collective vision for the future of art in Santa Monica, and will seek input from our valued community members. That means you! Stay tuned.
 
-> <img src="/uploads/IMG_7837.jpg" height="300" alt="" />
->
-> Art and love are the same thing: it’s the process of seeing yourself in things that are not you.
->
-> \- Chuck Klosterman
+<div class="image-quote">
+  <span class="image">
+    <img src="/uploads/IMG_7837.jpg" height="300" alt="" />
+  </span>
+  <blockquote>
+    <span>Art and love are the same thing: it’s the process of seeing yourself in things that are not you.</span>
+    <small>Chuck Klosterman</small>
+  </blockquote>
+</div>
 
 Public Art Program
 ------------------
