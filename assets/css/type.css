@@ -95,15 +95,15 @@ h1 img + br {
 h2 {
   --font-size: calc(var(--type-scale) * 2);
   font-weight: var(--light);
-  line-height: 1.25;
+  /*! line-height: 1.25; */
 }
 h3 {
   --font-size: calc(var(--type-scale) * 1);
   font-weight: normal;
 }
 h2, h3 {
-  font-size: 1.5em;
-  line-height: 1.125;
+  --font-size: calc(var(--golden-section) * 1em);
+  /*! line-height: 1.125; */
 }
 h2 {
   font-weight: bold;
@@ -163,11 +163,20 @@ svg.icon {
 main > h2 + p,
 main > h2 + h3 + p,
 main > p:first-of-type {
-  font-size: 1.25em;
-  font-size: 1.618em;
-  line-height: 1.618;
+  /*! font-size: 1.25em; */
+  /*! font-size: 1.618em; */
+  /*! line-height: 1.618; */
   font-weight: 300;
   /*! margin-bottom: 1.5rem; */
+  --font-size: calc(var(--golden-section) * 1em);
+  /*! --font-size: 1em; */
+  /*! --line-height: calc(var(--unitless-vertical-rhythm) / var(--font-size)); */
+  --line-height: var(--golden-section);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  /*! margin-top: calc(var(--line-height) * 1.0em); */
+  margin-bottom: 0;
+  max-width: var(--line-length);
 }
 strong, b {
   font-weight: bold;
