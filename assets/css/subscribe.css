@@ -78,11 +78,21 @@ input[type="text"] {
   margin-right: auto;
 } */
 .subscribe h1 {
-  margin-bottom: 0.75em;
-  margin-top: 0.75em;
+  margin-bottom: 0.375em;
+  margin-top: 0.375em;
   color: inherit;
+  transform: none;
+  text-align: left;
+  max-width: none;
+}
+.subscribe h1 small {
+  font-weight: inherit;
+  font-size: inherit;
 }
 
+.subscribe p:first-of-type {
+  max-width: 36em;
+}
 
 /* These rules are duplicated in grid.css */
 
@@ -98,12 +108,12 @@ input[type="text"] {
       grid-column: 2 / 3;
     }
     .subscribe > h1 {
-      grid-column: 1 / -1;
+      grid-column: 2/3;
     }
   }
   @media (min-width: 70em) { /* @wide-enough-for-header-grid */
     .subscribe {
-      grid-template-columns: auto 52rem auto;
+      grid-template-columns: auto minmax(auto, 65rem) auto;
       grid-column-gap: 3em;
       grid-row-gap: 1.5em;
       align-items: start;

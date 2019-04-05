@@ -5,6 +5,7 @@
 
 
 footer h2 {
+  --font-size: inherit;
   font-family: canada-type-gibson, sans-serif;
   font-weight: 700;
   font-style: normal;
@@ -13,7 +14,7 @@ footer h2 {
   letter-spacing: 0.2em;
   /*! font-size: 0.5em; */
   /*! display: block; */
-  font-weight: var(--light);
+  font-weight: var(--semibold);
   margin-bottom: calc(var(--vertical-rhythm) * 1);
 }
 
