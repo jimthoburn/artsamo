@@ -22,6 +22,10 @@
 </tbody>
 </table>
 
+<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
+[More opportunities](/opportunities-for-artists/)
+</p>
+
 ### for Organizations
 
 <table>
@@ -46,3 +50,7 @@
 </tbody>
 </table>
 
+
+<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
+[More opportunities](/opportunities-for-organizations/)
+</p>

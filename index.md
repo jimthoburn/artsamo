@@ -105,10 +105,6 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 
 {% include opportunities.md %}
 
-<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
-[More opportunities](/opportunities/)
-</p>
-
 <script>
 
 (function() {
