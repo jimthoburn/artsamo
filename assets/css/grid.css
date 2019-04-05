@@ -2,7 +2,7 @@
 
 main > nav {
   grid-column: 1/-1;
-  margin: calc(var(--vertical-rhythm) * 1);
+  margin: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 3);
 }
 main > nav ul {
   margin: 0;

@@ -1,7 +1,7 @@
 
 <section markdown="1">
 
-Follow us
+Follow
 ---------
 
 <dl class="social">
@@ -93,7 +93,7 @@ Follow us
 
 <section markdown="1">
 
-Visit us
+Visit
 --------
 
 <dl class="locations">
@@ -144,7 +144,7 @@ Visit us
 
 <section markdown="1">
 
-Contact us
+Contact
 ----------
 
 Santa Monica Cultural Affairs Division  

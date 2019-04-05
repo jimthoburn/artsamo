@@ -16,7 +16,7 @@ title: Santa Monica Cultural Affairs
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
 
 <p class="go-see-art">
-  <a href="#events">
+  <a href="#go-see-art">
     <span>
       <span class="image"><img src="/uploads/go-see-art-1.jpg" height="100" alt="" /></span>
       <span class="text">Go</span>
@@ -31,6 +31,16 @@ We are a community like no other. And the thread that binds the soul of our comm
     </span>
   </a>
 </p>
+
+## Go see art
+
+You will never regret taking time out of your busy day to go see art. Santa Monica offers a rich collection of public art, self-produced art and more. Get out there, drink it in and let it refresh your soul. You can’t see it all, of course. But you can try!
+
+<nav class="action" markdown="1">
+*   [Events](/events/)
+*   [Venues](/venues/)
+*   [Public Art](/public-art/)
+</nav>
 
 <small>Events</small>
 ======
@@ -93,34 +103,11 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 <small>Opportunities</small>
 ========
 
-## For Artists
-
-<table>
-<thead>
-<tr>
-  <th scope="col">Description</th>
-  <th scope="col">Deadline</th>
-</tr>
-</thead>
-<tbody>
- 
-<tr>
-  <th scope="row"><a href="https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/2019ACBH_Choreo_Res_Call.pdf">Choreographer Residency</a></th>
-  <td>March 29, 2019</td>
-</tr>
- 
-<tr>
-  <th scope="row"><a href="https://artist.callforentry.org/festivals_unique_info.php?ID=6001">Prequalified Artist Roster</a></th>
-  <td>March 22, 2019</td>
-</tr>
- 
-</tbody>
-</table>
+{% include opportunities.md %}
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
 [More opportunities](/opportunities/)
 </p>
-
 
 <script>
 

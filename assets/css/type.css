@@ -172,6 +172,7 @@ main > h2 + p,
 main > h2 + h3 + p,
 main > p:first-of-type {
   --font-size: 1.25em;
+  --h2-font-size: calc(var(--golden-section) * 1em);
   font-weight: 300;
   font-size: var(--font-size);
   --line-height: calc(var(--unitless-vertical-rhythm) / var(--font-size));
@@ -180,12 +181,14 @@ main > p:first-of-type {
   max-width: var(--line-length);
 }
 
+
 @media (min-width: 40em) {
   main > h2 + p,
   main > h2 + h3 + p,
   main > p:first-of-type {
     /*! --font-size: calc(var(--golden-section) * 1em); */
     /*! --line-height: var(--golden-section); */
+    padding-top: 0.3em; /* SHIM: Line up with the headline */
   }
 }
 

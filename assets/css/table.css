@@ -8,26 +8,33 @@ table {
 }
 
 thead th {
-  text-transform: uppercase;
-  font-weight: 600; /* @semibold */
-  letter-spacing: 0.0625em; /* 1px / 16px */
+  text-transform: lowercase;
+  font-weight: var(--light); /* @semibold */
+  letter-spacing: 0.2em; /* 1px / 16px */
   white-space: nowrap;
+  /*! opacity: 0.1; */
+  font-variant: small-caps;
 }
 
 tbody th,
 tbody td {
-  /*! border-top: 1px solid rgb(177, 177, 177); */ /* @aluminum */
+  border-top: 1px solid rgb(225, 225, 225); /* @aluminum */
 }
 
 th,
 td {
   text-align: left;
-  padding: calc(var(--vertical-rhythm) * 0.375) calc(var(--vertical-rhythm) * 1.125);
+  padding: calc(var(--vertical-rhythm) * 1.125);
   vertical-align: top;
   /*! padding-top: 0; */
 }
+thead th {
+  padding-top: 0.625em;
+}
 th:first-child {
   padding-left: 0;
+  width: 20em;
+  max-width: 100%;
 }
 td:last-child {
   padding-right: 0;

@@ -15,10 +15,13 @@ Opportunities
 *   [Opportunities for Organizations](/opportunities-for-organizations/)
 </nav>
 
-Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs helps create inspiring moments by welcoming and cultivating artists through grants and residencies for both individual artists and organizations.
+Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs helps create inspiring moments by welcoming and cultivating artists through grants and residencies for both individual [artists](/opportunities-for-artists/) and [organizations](/opportunities-for-organizations/).
+ 
+## Upcoming opportunities
 
-Other Resources
----------------
+{% include opportunities.md %}
+
+## Resources
 
 *   [18th Street Arts Center](https://18thstreet.org/)
 *   [Mike Kelley Foundation for the Arts](http://www.mikekelleyfoundation.org/#!/grants/)
@@ -26,10 +29,10 @@ Other Resources
 *   [Los Angeles Department of Cultural Affairs](https://culturela.org/)
 *   [Santa Monica Library Foundation Center](https://smpl.org/Grants.aspx)
 *   [California Arts Council](http://cac.ca.gov/)
-*   [Center for Cultural Innovation](https://www.cciarts.org/)  
+*   [Center for Cultural Innovation](https://www.cciarts.org/) 
 
-FAQs
-----
+<!--
+#### FAQs
 
 *   How can I get a studio here?
 *   How can I/my organization apply for a grant here?
@@ -39,3 +42,5 @@ FAQs
 *   How do I find out about local art events?
 *   How do I find a job in the arts?
 *   Are there places to take classes in printmaking/pottery/metalwork/painting here?
+-->
+
