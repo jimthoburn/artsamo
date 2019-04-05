@@ -76,6 +76,12 @@ h1 {
   text-align: center;
 }
 
+/* @media (min-width: 75em) {
+  h1 {
+    --font-size: calc(calc(0.75em + 1vw) * 4);
+  }
+} */
+
 h1 small {
   font-size: 0.5em;
   display: block;
@@ -104,6 +110,7 @@ h3 {
 h2, h3 {
   --font-size: calc(var(--golden-section) * 1em);
   /*! line-height: 1.125; */
+  /*! --font-size: 2.375em; */
 }
 h2 {
   font-weight: bold;
@@ -163,21 +170,24 @@ svg.icon {
 main > h2 + p,
 main > h2 + h3 + p,
 main > p:first-of-type {
-  /*! font-size: 1.25em; */
-  /*! font-size: 1.618em; */
-  /*! line-height: 1.618; */
+  --font-size: 1.25em;
   font-weight: 300;
-  /*! margin-bottom: 1.5rem; */
-  --font-size: calc(var(--golden-section) * 1em);
-  /*! --font-size: 1em; */
-  /*! --line-height: calc(var(--unitless-vertical-rhythm) / var(--font-size)); */
-  --line-height: var(--golden-section);
   font-size: var(--font-size);
+  --line-height: calc(var(--unitless-vertical-rhythm) / var(--font-size));
   line-height: var(--line-height);
-  /*! margin-top: calc(var(--line-height) * 1.0em); */
-  margin-bottom: 0;
+  /*! margin-bottom: 0; */
   max-width: var(--line-length);
 }
+
+@media (min-width: 40em) {
+  main > h2 + p,
+  main > h2 + h3 + p,
+  main > p:first-of-type {
+    /*! --font-size: calc(var(--golden-section) * 1em); */
+    /*! --line-height: var(--golden-section); */
+  }
+}
+
 strong, b {
   font-weight: bold;
 }

@@ -125,7 +125,8 @@ Length
 : 14 Weeks in January, April, August
 
 Required
-: Weekly Workshops | Blog Posts
+: Weekly Workshops
+: Blog Posts
 
 ### Jazz on the Lawn Performance Opportunity
 

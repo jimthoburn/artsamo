@@ -9,14 +9,17 @@ title: Opportunities for Organizations, Santa Monica
 <small>Opportunities</small> for Organizations
 ===============================
 
-To ensure a robust arts and culture ecosystem for both residents and visitors to the City, Cultural Affairs offers five grant programs for Santa Monica-based arts and heritage nonprofits.
+To ensure a robust arts and culture ecosystem for both **residents** and **visitors** to the City, Cultural Affairs offers **five grant programs** for Santa Monica-based arts and heritage nonprofits.
 
 Organizational Support Program (OSP)
 ------------------------------------
 
-Deadline: March 18, 2019 | [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Organization_Support_Grant_Program/Guidelines OSP 2019-21 final.pdf)
+Deadline
+: March 18, 2019
+: [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Organization_Support_Grant_Program/Guidelines OSP 2019-21 final.pdf)
 
-Applications Will Be Available: February 2019
+Applications Will Be Available
+: February 2019
 
 General operating support grants are vital to a thriving cultural scene. Santa Monica’s Organizational Support Program (OSP) was created in 1996 to provide multiyear support to the City’s nonprofit cultural institutions. This robust program makes grants of up to ten percent of local organizations’ budgets. Grants are awarded after an application process, currently on a two-year cycle.
 
@@ -31,18 +34,23 @@ Resident organizations are defined as those whose primary administrative office 
 Community Access & Participation (CAP)
 --------------------------------------
 
-Deadline: April 2019 | Instructions and Previous Year’s [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/CAP_Grant_Program/CAP Program Guidelines 2018-19.pdf)
+Deadline
+: April 2019
+: Instructions and Previous Year’s [Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/CAP_Grant_Program/CAP Program Guidelines 2018-19.pdf)
 
-Applications Will Be Available: March 2019
+Applications Will Be Available
+: March 2019
 
 The Community Access & Participation (CAP) provides restricted funds to support programming at Santa Monica-based arts and heritage organizations. Grants of up to $7,000 are available to local agencies for cultural programs take place in Santa Monica and serve residents. Grants are awarded in three categories,  including youth-oriented programs (Building the Future) and programs that address Santa Monica’s rich Latino heritage (Latino CAP).
 
 Arts Transportation Grant 
 --------------------------
 
-There’s no deadline for applications, but we suggest you apply by mid-November 2018 to ensure funds are available.
+Deadline
+: There’s no deadline for applications, but we suggest you apply by mid-November 2018 to ensure funds are available.
 
-Applications Available: Annually in September in the week after Labor Day.
+Applications Available
+: Annually in September in the week after Labor Day.
 
 How might one person’s life change by being exposed to the arts? Applying for a grant that reimburses you for transportation costs can make it possible.
 
@@ -53,7 +61,8 @@ Support for this program comes from the Metropolitan Transit Authority’s Propo
 Strategic Sustainability Initiative (SSI)
 -----------------------------------------
 
-Deadline: Annually in November
+Deadline
+: Annually in November
 
 Applications Available: Annually in October
 
