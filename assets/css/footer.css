@@ -1,8 +1,21 @@
 
 
-/* =Subscribe
+/* =Footer
 ----------------------------------------------- */
 
+
+footer h2 {
+  font-family: canada-type-gibson, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.125;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  /*! font-size: 0.5em; */
+  /*! display: block; */
+  font-weight: var(--light);
+  margin-bottom: calc(var(--vertical-rhythm) * 1);
+}
 
 footer {
   padding: var(--vertical-rhythm);
@@ -18,6 +31,7 @@ footer {
 footer {
   background-color: var(--aqua, gray);
   color: var(--snow);
+  /*! margin: var(--vertical-rhythm); */
 }
 
 
@@ -43,7 +57,7 @@ footer a {
 }
 
 footer h2 {
-  font-weight: var(--semibold);
+  /*! font-weight: var(--semibold); */
 }
 
 /* Line the footer social links up in a row */

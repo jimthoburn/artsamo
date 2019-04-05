@@ -22,9 +22,9 @@ tbody td {
 th,
 td {
   text-align: left;
-  padding: 1.5em 1.5em;
+  padding: calc(var(--vertical-rhythm) * 0.375) calc(var(--vertical-rhythm) * 1.125);
   vertical-align: top;
-  padding-top: 0;
+  /*! padding-top: 0; */
 }
 th:first-child {
   padding-left: 0;

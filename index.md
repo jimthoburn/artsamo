@@ -93,7 +93,7 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 <small>Opportunities</small>
 ========
 
-## Upcoming Opportunities for Artists
+## For Artists
 
 <table>
 <thead>

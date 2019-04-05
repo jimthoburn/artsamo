@@ -5,6 +5,8 @@
 
 .subscribe {
   padding: var(--vertical-rhythm);
+  /* margin: var(--vertical-rhythm); 
+  */
 }
 
 @media (min-width: 40em) {
@@ -47,6 +49,10 @@
 }
 .subscribe input[type="email"] {
   margin-right: 0.5em;
+  margin-bottom: 1em;
+  width: 100%;
+  max-width: 20em;
+  box-sizing: border-box;
 }
 
 button,
@@ -63,7 +69,19 @@ input[type="text"] {
 }
 
 
-
+/* .subscribe {
+  text-align: center;
+} */
+/* .subscribe p {
+  max-width: 33rem !important;
+  margin-left: auto;
+  margin-right: auto;
+} */
+.subscribe h1 {
+  margin-bottom: 0.75em;
+  margin-top: 0.75em;
+  color: inherit;
+}
 
 
 /* These rules are duplicated in grid.css */
@@ -79,10 +97,13 @@ input[type="text"] {
     .subscribe > * {
       grid-column: 2 / 3;
     }
+    .subscribe > h1 {
+      grid-column: 1 / -1;
+    }
   }
   @media (min-width: 70em) { /* @wide-enough-for-header-grid */
     .subscribe {
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: auto 52rem auto;
       grid-column-gap: 3em;
       grid-row-gap: 1.5em;
       align-items: start;
@@ -90,24 +111,10 @@ input[type="text"] {
       padding-right: var(--vertical-rhythm);
     }
 
-    .subscribe > h2 {
-      margin: 0;
-      grid-column: 1 / 2;
-      justify-self: end;
-      text-align: right;
-    }
-    .subscribe > h2 {
-      font-size: 1.5em;
-      line-height: 1.125;
-      max-width: 17.5em;
-      grid-row: span 2;
-    }
-    .subscribe > h2 {
-      font-weight: var(--bold);
-    }
     .subscribe > p {
       margin: 0;
-      grid-column: 2 / -1;
+      max-width: none;
+      grid-column: 2 / 3;
     }
   }
 }

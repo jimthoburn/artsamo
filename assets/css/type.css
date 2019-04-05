@@ -167,6 +167,7 @@ svg.icon {
   vertical-align: middle;
 }
 
+.subscribe p:first-of-type,
 main > h2 + p,
 main > h2 + h3 + p,
 main > p:first-of-type {
