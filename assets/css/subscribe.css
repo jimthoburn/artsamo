@@ -16,6 +16,9 @@
 .subscribe {
   background-color: var(--apple);
   color: var(--snow);
+  background-image: url(/uploads/ATTN_artists.png);
+  background-size: cover;
+  background-position: bottom;
 }
 
 .subscribe h2,
