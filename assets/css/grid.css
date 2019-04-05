@@ -1,32 +1,32 @@
 
 
-.standard-layout > nav {
+main > nav {
   grid-column: 1/-1;
   margin: calc(var(--vertical-rhythm) * 1);
 }
-.standard-layout > nav ul {
+main > nav ul {
   margin: 0;
 }
 
 @supports (display: grid) {
-  .standard-layout {
+  main {
     display: grid;
   }
   @media (min-width: 40em) {
-    .standard-layout {
+    main {
       grid-template-columns: calc(var(--vertical-rhythm) * 2) 1fr calc(var(--vertical-rhythm) * 2);
     }
-    .standard-layout > * {
+    main > * {
       grid-column: 2 / 3;
     }
-    .standard-layout > h1,
-    .standard-layout > figure,
-    .standard-layout > .map {
+    main > h1,
+    main > figure,
+    main > .map {
       grid-column: 1 / -1;
     }
   }
   @media (min-width: 70em) { /* @wide-enough-for-header-grid */
-    .standard-layout {
+    main {
       grid-template-columns: 1fr 1fr 1fr;
       grid-column-gap: 3em;
       grid-row-gap: 1.5em;
@@ -36,72 +36,72 @@
     }
 
     /* Reduce the amount of margin around figures and sections, to account for the grid gap */
-    .standard-layout > figure {
+    main > figure {
       margin-top: 4.5em; /* usual margin - grid row gap = 6em - 1.5em = 4.5em */
       margin-bottom: 4.5em;
       /*! max-width: none; */
       grid-column: 2/3;
     }
-    .standard-layout > figure img {
+    main > figure img {
       /*! width: 100%; */
       /*! height: auto; */
     }
 
-    .standard-layout > h1:first-child {
+    main > h1:first-child {
       /*! margin-bottom: 1.5rem; */
     }
-    .standard-layout > h2,
-    .standard-layout > h3 {
+    main > h2,
+    main > h3 {
       margin: 0;
       grid-column: 1 / 2;
       justify-self: end;
       text-align: right;
     }
-    .standard-layout > h2,
-    .standard-layout > h3 {
+    main > h2,
+    main > h3 {
       font-size: 1.5em;
       line-height: 1.125;
       max-width: 17.5em;
       grid-row: span 2;
     }
-    .standard-layout > h2 {
+    main > h2 {
       font-weight: var(--bold);
       /*! text-transform: uppercase; */
       /*! letter-spacing: 0.1em; */
     }
-    .standard-layout > h4 {
+    main > h4 {
       margin-top: 0;
     }
-    .standard-layout > figure + h2,
-    .standard-layout > figure + h2 + p,
-    .standard-layout > figure + h2 + ol,
-    .standard-layout > figure + h2 + ul,
-    .standard-layout > figure + h1 + h2,
-    .standard-layout > figure + h1 + h2 + p,
-    .standard-layout > figure + h1 + h2 + ol,
-    .standard-layout > figure + h1 + h2 + ul,
-    .standard-layout > figure + h1 + p,
-    .standard-layout > figure + h1 + ol,
-    .standard-layout > figure + h1 + ul {
+    main > figure + h2,
+    main > figure + h2 + p,
+    main > figure + h2 + ol,
+    main > figure + h2 + ul,
+    main > figure + h1 + h2,
+    main > figure + h1 + h2 + p,
+    main > figure + h1 + h2 + ol,
+    main > figure + h1 + h2 + ul,
+    main > figure + h1 + p,
+    main > figure + h1 + ol,
+    main > figure + h1 + ul {
       margin-top: 3rem;
     }
-    .standard-layout > figure,
-    .standard-layout > blockquote,
-    .standard-layout > p,
-    .standard-layout > dl,
-    .standard-layout > table,
-    .standard-layout > ol,
-    .standard-layout > ul {
+    main > figure,
+    main > blockquote,
+    main > p,
+    main > dl,
+    main > table,
+    main > ol,
+    main > ul {
       margin: 0;
       grid-column: 2 / -1;
     }
-    .standard-layout > nav {
+    main > nav {
       grid-column: 1/-1;
     }
   }
 }
 
-.standard-layout > figure {
+main > figure {
   margin-left: 0;
   margin-right: 0;
   grid-column: 1/-1;
@@ -109,7 +109,7 @@
   margin-top: 3em;
   margin-bottom: 3em;
 }
-.standard-layout > figure img {
+main > figure img {
   width: 100%;
   height: 100%;
   object-fit: cover;
