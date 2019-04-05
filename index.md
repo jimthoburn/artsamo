@@ -32,7 +32,7 @@ We are a community like no other. And the thread that binds the soul of our comm
   </a>
 </p>
 
-Events
+<small>Events</small>
 ======
 
 <!--
@@ -51,18 +51,18 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 <script src="/assets/js/events.js"></script>
 
 <p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
-[See more events](/events/#calendar)
+[More events](/events/#calendar)
 </p>
 <p data-events-fallback style="text-align: center;"><a href="https://www.santamonica.gov/events">City of Santa Monica Calendar</a></p>
 
 
-Venues
+<small>Venues</small>
 ======
 
 {% include venues.md %}
     
     
-Public Art
+<small>Public Art</small>
 ==========
 
 <script></script>
@@ -85,15 +85,15 @@ Public Art
 {% endcomment %}
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
-[See more public art](/public-art/)
+[More public art](/public-art/)
 </p>
 
 
 
-Opportunities
+<small>Opportunities</small>
 ========
 
-### Upcoming Opportunities for Artists
+## Upcoming Opportunities for Artists
 
 <table>
 <thead>
@@ -118,7 +118,7 @@ Opportunities
 </table>
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
-[See more opportunities](/opportunities/)
+[More opportunities](/opportunities/)
 </p>
 
 

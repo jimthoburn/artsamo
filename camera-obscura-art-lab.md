@@ -114,7 +114,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
 </div>
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
-[See more artists](/camera-obscura-art-lab-artists/)
+[More artists](/camera-obscura-art-lab-artists/)
 </p>
 
 <small>Upcoming Events</small>
@@ -128,7 +128,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
 <script src="/assets/js/events.js"></script>
 
 <p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
-[See more events](/camera-obscura-art-lab-events/)
+[More events](/camera-obscura-art-lab-events/)
 </p>
 
 <small>Getting Here</small>

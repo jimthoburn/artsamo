@@ -45,7 +45,7 @@ For information about residency deadlines, please visit [Opportunities](/opportu
 </div>
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
-[See more artists](/beach-culture-artists/)
+[More artists](/beach-culture-artists/)
 </p>
 
 2019<br /><small>Gallery Exhibition Season</small>
@@ -106,7 +106,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
 <script src="/assets/js/events.js"></script>
 
 <p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
-[See more events](/beach-culture-events/)
+[More events](/beach-culture-events/)
 </p>
 
 <small>Getting Here</small>
