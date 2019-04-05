@@ -3,7 +3,7 @@ title: Santa Monica Cultural Affairs
 ---
 
 <figure>
-  <img height="300" style="opacity: 1;" />
+  <img height="300" alt="" />
   <img src="/assets/images/logotype/artsamo.svg" height="300" alt="ArtSaMo" />
   <figcaption></figcaption>
 </figure>
@@ -67,6 +67,9 @@ Public Art
 
 <script></script>
 
+{% include public-art.md %}
+
+{% comment %}
 <figure>
   <img
     src="/uploads/weather-field-tongva.jpg"
@@ -79,6 +82,7 @@ Public Art
     </p>
   </figcaption>
 </figure>
+{% endcomment %}
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
 [See more public art](/public-art/)
@@ -86,15 +90,37 @@ Public Art
 
 
 
-Opportunities for Artists
---------------------
+Opportunities
+========
 
-### Upcoming Deadlines
+### Upcoming Opportunities for Artists
 
-1.   [Choreographer Residency](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/2019ACBH_Choreo_Res_Call.pdf)<br />
-    _March 27, 2019_
-1.   [Prequalified Artist Roster](https://artist.callforentry.org/festivals_unique_info.php?ID=6001)<br />
-    _March 29, 2019_
+<table>
+<thead>
+<tr>
+  <th scope="col">Description</th>
+  <th scope="col">Deadline</th>
+</tr>
+</thead>
+<tbody>
+ 
+<tr>
+  <th scope="row"><a href="https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/2019ACBH_Choreo_Res_Call.pdf">Choreographer Residency</a></th>
+  <td>March 29, 2019</td>
+</tr>
+ 
+<tr>
+  <th scope="row"><a href="https://artist.callforentry.org/festivals_unique_info.php?ID=6001">Prequalified Artist Roster</a></th>
+  <td>March 22, 2019</td>
+</tr>
+ 
+</tbody>
+</table>
+
+<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
+[See more opportunities](/opportunities/)
+</p>
+
 
 <script>
 

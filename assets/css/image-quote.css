@@ -5,6 +5,8 @@
 .image-quote {
   grid-column: 1 / -1;
   max-width: none;
+  margin-top: calc(var(--vertical-rhythm) * 2);
+  margin-bottom: calc(var(--vertical-rhythm) * 2);
 }
 
 .image-quote {

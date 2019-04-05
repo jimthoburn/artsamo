@@ -105,7 +105,7 @@ Public Art Program
 
 [Public Art Committee](#public-art-committee)
 
-### Maintenance of Collection
+### Maintenance of Collection <a id="maintenance"></a>
 
 Maintaining the original, inspirational appearance of our vast art collection requires constant care. In 2015, the Santa Monica Cultural Affairs Public Art team commissioned Rosa Lowinger and Associates to conduct a comprehensive needs assessment. Now regular maintenance on our most important pieces ensures they’ll be around for years to come.
 

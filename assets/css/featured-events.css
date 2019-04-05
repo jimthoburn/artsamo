@@ -42,7 +42,7 @@
   align-self: center;
   justify-self: center;
   font-size: calc(0.75em + 1vw);
-  transform: skewY(-8deg);
+  /*! transform: skewY(-8deg); */
   text-align: center;
   padding: 4.5em 1em;
 }
