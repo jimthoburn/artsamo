@@ -36,21 +36,26 @@ Santa Monica, CA 90403
 
 Coming soon...
 
-Upcoming Events
+<small>Upcoming Events</small>
 ========
 
 <ol
   class="events"
-  data-events-locations="Miles Memorial Playhouse">
+  data-events-locations="Miles Memorial Playhouse"
+  data-events-limit="6">
 </ol>
 <script src="/assets/js/events.js"></script>
 
-Getting Here
+<p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
+[See more events](/miles-memorial-playhouse-events/)
+</p>
+
+<small>Getting Here</small>
 =======
 
 The Miles Memorial Playhouse is wheelchair accessible and ADA compliant. If you require any special disability related accommodations (i.e. sign language interpreting, access to an amplified sound system, etc.), please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
-_ Shared Mobility Devices cannot be used within the venue._
+_ [Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/Shared-Mobility-Services/) cannot be used within the venue._
 
 ### Train
 

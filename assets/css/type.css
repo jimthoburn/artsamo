@@ -31,6 +31,8 @@ body {
   padding: var(--vertical-rhythm);
   background: hsl(0, 0%, 99%);
   color: hsl(0, 0%, 10%);
+  /*! font-size: 100%; */
+  font-size: calc(0.875em + 0.5vmin);
 }
 
 @media (min-width: 40em) {
@@ -162,6 +164,7 @@ main > h2 + p,
 main > h2 + h3 + p,
 main > p:first-of-type {
   font-size: 1.25em;
+  font-size: 1.618em;
   line-height: 1.618;
   font-weight: 300;
   /*! margin-bottom: 1.5rem; */

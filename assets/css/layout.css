@@ -108,7 +108,7 @@ main {
 
 @media (min-width: 40em) {
   main {
-    padding: var(--vertical-rhythm) var(--vertical-rhythm) calc(var(--vertical-rhythm) * 3);
+    padding: var(--vertical-rhythm) var(--vertical-rhythm) calc(var(--vertical-rhythm) * 6);
   }
 }
 

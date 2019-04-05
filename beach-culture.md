@@ -25,13 +25,10 @@ Santa Monica, CA 90402
 [culture@smgov.net](mailto:culture@smgov.net)[](mailto:culture@smgov.net)  
 <a href="https://annenbergbeachhouse.com">annenbergbeachhouse.com</a>
 
-Artists in Residence
---------------------
-
-[Artists in Residence from 2009-2019](/beach-culture-artists/)
+<small>Artists in Residence</small>
+========
 
 For information about residency deadlines, please visit [Opportunities](/opportunities-for-artists/).
-
 
 <div class="artists" markdown="1">
 
@@ -47,8 +44,12 @@ For information about residency deadlines, please visit [Opportunities](/opportu
   
 </div>
 
-2019 Gallery Exhibition Season
-------------------------------
+<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
+[See more artists](/beach-culture-artists/)
+</p>
+
+2019<br /><small>Gallery Exhibition Season</small>
+========
 
 ### Annenberg Beach House 2019 Gallery Program
 
@@ -94,41 +95,41 @@ Three exhibits each year showcase the work of regional artists and artist groups
 
 </div>
 
-# Upcoming Events
-
-<!-- <p>
-  <a href="https://annenbergbeachhouse.com/beachculture">RSVP for an event</a>
-</p>
-<p>
-  <a href="https://www.eventbrite.com/o/beachculture-at-the-annenberg-community-beach-house-199463539">View all events on Eventbrite</a>
-</p> -->
+<small>Upcoming Events</small>
+====
 
 <ol
   class="events"
-  data-events-locations="Annenberg Community Beach House">
+  data-events-locations="Annenberg Community Beach House"
+  data-events-limit="6">
 </ol>
 <script src="/assets/js/events.js"></script>
 
-Getting Here
-------------
+<p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
+[See more events](/beach-culture-events/)
+</p>
 
-[Train](http://metro.net/)
-
-Take the Expo line to Downtown Santa Monica Station. The beach house is 1.8 miles away from the station.
-
-Bus
-
-Take the [Big Blue Bus](http://bigbluebus.com/) or [Metro](http://metro.net/) Bus.
-
- [Bikes ](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
-
-Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at the beach house.
-
-[Parking](http://www.smgov.net/parking)
-
-Parking is available at the Beach House and in Beach Lots 9 & 8 North. Machines in three areas of the Beach House lot take cards and cash. For evening events, please note that the lot stays open after stated times and payments are still required.
-
-_[Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/Shared-Mobility-Services/) cannot be used within the facility. Electric scooters are not allowed on the bike path._
+<small>Getting Here</small>
+=======
 
 Annenberg Community Beach House is wheelchair accessible and ADA compliant. If you require any special disability related accommodations (i.e. sign language interpreting, access to an amplified sound system, etc.), please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
+_[Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/Shared-Mobility-Services/) cannot be used within the facility. Electric scooters are not allowed on the bike path._
+
+### Train
+
+Take the Expo line to Downtown Santa Monica Station. The beach house is 1.8 miles away from the station. [Metro information](http://metro.net/)
+
+### Bus
+
+Take the [Big Blue Bus](http://bigbluebus.com/) or [Metro](http://metro.net/) Bus.
+
+### Bikes
+
+Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at the beach house. [Information for bicyclists](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
+
+### Parking
+
+Parking is available at the Beach House and in Beach Lots 9 & 8 North. Machines in three areas of the Beach House lot take cards and cash. For evening events, please note that the lot stays open after stated times and payments are still required.
+
+[Parking information](http://www.smgov.net/parking)

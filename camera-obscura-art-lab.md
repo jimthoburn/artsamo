@@ -36,10 +36,8 @@ Enter the body of a camera for a magical perspective! Visitors can experience th
 
 This mid-century modern building on the bluffs was designed by noted architect Weldon J. Fulton and made possible by a gift from Santa Monica resident Marcellus Joslyn.
 
-Artists in Residence
+<small>Artists in Residence</small>
 ====
-
-[Artists in Residence from 2014-2019](/camera-obscura-art-lab-artists/)
 
 <div class="artists" markdown="1">
 
@@ -115,38 +113,46 @@ Artists in Residence
   
 </div>
 
-Upcoming Events
+<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
+[See more artists](/camera-obscura-art-lab-artists/)
+</p>
+
+<small>Upcoming Events</small>
 ====
 
 <ol
   class="events"
-  data-events-locations="Palisades Park">
+  data-events-locations="Palisades Park"
+  data-events-limit="6">
 </ol>
 <script src="/assets/js/events.js"></script>
 
-Getting Here
-====
+<p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
+[See more events](/camera-obscura-art-lab-events/)
+</p>
 
-[Train](http://metro.net/)
-
-Expo line to Downtown Santa Monica Station: **Camera Obscura Art Lab** is 4 blocks away.
-
-Bus
-
-Take the [Big Blue Bus](http://bigbluebus.com/) or [Metro](http://metro.net/) Bus.
-
- [Bikes ](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
-
-Take a Metro Bikes from Downtown Santa Monica Station; bike racks are available here.
-
-[Parking](http://smgov.net/parking)
-
-Parking Structure 6, Pier, Civic Center or Civic Auditorium
-
-_ [Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/Shared-Mobility-Services/) cannot be used within the park around the Camera Obscura Art Lab._
+<small>Getting Here</small>
+=======
 
 Workshops at the Camera Obscura Art Lab are wheelchair accessible and ADA compliant. NOTE: the camera obscura mechanism is located up fourteen steps and is not wheelchair accessible. If you require any special disability related accommodations please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
+_ [Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/Shared-Mobility-Services/) cannot be used within the park around the Camera Obscura Art Lab._
 
+### Train
 
+Take the Expo line to Downtown Santa Monica Station. _Camera Obscura Art Lab_ is 4 blocks away. [Metro information](http://metro.net/)
+
+### Bus
+
+Take the [Big Blue Bus](http://bigbluebus.com/) or [Metro](http://metro.net/) Bus.
+
+### Bikes
+
+Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at _Camera Obscura Art Lab_. [Information for bicyclists](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
+
+### Parking
+
+Parking Structure 6, Pier, Civic Center or Civic Auditorium
+
+[Parking information](http://www.smgov.net/parking)
 
