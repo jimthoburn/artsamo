@@ -9,14 +9,18 @@ title: Beach=Culture at Annenberg Community Beach House, Santa Monica
   Beach=Culture<br /><small>at Annenberg Community<br />Beach House</small>
 </h1>
 
-<nav class="action" markdown="1">
-*   [Getting Here](#getting-here)
-*   [Upcoming Events](#upcoming-events)
-</nav>
+## Come join us
 
 Welcome to Beach=Culture, a year-round series of free arts and culture events at the Annenberg Community Beach House. Beach=Culture features quarterly exhibitions, artist residencies, ongoing literary programs and more. Come join us to experience something new, and broaden your perspective.
 
-### We’re located at:
+<nav class="action" markdown="1">
+*   [Artists in Residence](#artists-in-residence)
+*   [Gallery Exhibition](#2019gallery-exhibition-season)
+*   [Upcoming Events](#upcoming-events)
+*   [Getting Here](#getting-here)
+</nav>
+
+## We’re located at:
 
 415 Pacific Coast Hwy  
 Santa Monica, CA 90402

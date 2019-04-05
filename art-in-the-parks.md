@@ -68,7 +68,7 @@ Wonder Room
 
 **Saturday, October 5, 2019**  
 7:30 – 9:30 p.m., Free   
-Tongva Park, 1615 Ocean Ave. 
+Tongva Park, 1615 Ocean Ave.
 
 An intimate and informal event that offer audiences the opportunity to experience the “rooms” of Tongva Park from different points of view through dance, art, music and interactive experiences.  
 

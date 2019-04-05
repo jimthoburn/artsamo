@@ -32,7 +32,7 @@ We are a community like no other. And the thread that binds the soul of our comm
   </a>
 </p>
 
-## Go see art
+## Let it refresh your soul <a id="go-see-art"></a>
 
 You will never regret taking time out of your busy day to go see art. Santa Monica offers a rich collection of public art, self-produced art and more. Get out there, drink it in and let it refresh your soul. You can’t see it all, of course. But you can try!
 
@@ -113,7 +113,7 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
     {
       title: "Public art in Santa Monica",
       url: "/assets/images/artsamo.jpg",
-      caption: "<em>Cradle</em> by Ball-Nogues Studio"
+      caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
     },
     {
       title: "Public art in Santa Monica",

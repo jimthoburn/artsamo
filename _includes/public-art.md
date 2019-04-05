@@ -1,6 +1,6 @@
 <ul class="venues">
   <li>
-    <a href="/public-art/">
+    <a href="https://www.publicartarchive.org/node/72128">
       <span class="image"><img src="/uploads/weather-field-tongva.jpg" height="150" alt="" /></span><br />
       <span class="text">
         <span>
@@ -11,19 +11,19 @@
     </a>
   </li>
   <li>
-    <a href="/public-art/">
+    <a href="https://www.publicartarchive.org/node/50713">
       <span class="image"><img src="/assets/images/artsamo.jpg" height="150" alt="" /></span><br />
       <span class="text">
         <span>
           <em>Cradle</em><br />
-          <small>by Ball-Nogues Studio.</small>
+          <small>by Ball-Nogues Studio. Photo by Monica Nouwens.</small>
         </span>
       </span>
     </a>
   </li>
   <!--
   <li>
-    <a href="/public-art/">
+    <a href="https://www.publicartarchive.org/node/50624">
       <span class="image"><img src="/assets/images/go-see-art.jpg" height="150" alt="" /></span><br />
       <span class="text">
         <span>

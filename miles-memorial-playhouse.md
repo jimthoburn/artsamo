@@ -11,14 +11,17 @@ title: Miles Memorial Playhouse, Santa Monica
   <small>Miles Memorial</small> Playhouse
 </h1>
 
+## Located in Reed Park, this historic playhouse has entertained audiences since 1929.
+
+Santa Monica Cultural Affairs offers [youth programs](https://www.facebook.com/groups/downbeat720/), as well as the world-class “Fireside at the Miles” performance series every January and February. The rest of the year, the venue is [available for rent](/miles-memorial-playhouse-theater-rental/) to local and regional non-profit performing arts companies.
+
 <nav class="action" markdown="1">
-*   [Getting Here](#getting-here)
+*   [Theater Rental](/miles-memorial-playhouse-theater-rental/)
 *   [Upcoming Events](#upcoming-events)
+*   [Getting Here](#getting-here)
 </nav>
 
-Located in Reed Park, this historic playhouse has entertained audiences since 1929. Santa Monica Cultural Affairs offers [youth programs](https://www.facebook.com/groups/downbeat720/), as well as the world-class “Fireside at the Miles” performance series every January and February. The rest of the year, the venue is available for rent to local and regional non-profit performing arts companies.
-
-### We’re located at:
+## We’re located at:
 
 1130 Lincoln Blvd  
 Reed Park  
@@ -27,14 +30,6 @@ Santa Monica, CA 90403
 310.458.8634
 
 [milesplayhouse@smgov.net](mailto:milesplayhouse@smgov.net)
-
-### Theater Rental
-
-[Rent the Miles Memorial Playhouse](/miles-memorial-playhouse-theater-rental/)
-
-### Rental Events Open to the Public
-
-Coming soon...
 
 <small>Upcoming Events</small>
 ========

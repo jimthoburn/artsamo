@@ -14,6 +14,10 @@ title: Public Art, Santa Monica
 Public Art
 ==========
 
+## Art makes the day better
+
+We're dedicated to integrating as much art as possible into our community’s daily life. We encourage you to notice it as you go about your day, and invite you to seek it out in areas you don't normally visit. Press a marker on [the map below](#map) to get a peek at the public artworks in Santa Monica. Or visit the [Public Art Archive](http://www.publicartarchive.org/santamonica).
+
 <nav class="action" markdown="1">
 <!--
 *   [Percent for Art Commissions](#map)
@@ -23,10 +27,6 @@ Public Art
 *   [Maintenance](/about/#maintenance)
 *   [Ordinances](/about/#ordinances)
 </nav>
-
-## Art makes the day better
-
-We're dedicated to integrating as much art as possible into our community’s daily life. We encourage you to notice it as you go about your day, and invite you to seek it out in areas you don't normally visit. Press a marker on [the map below](#map) to get a peek at the public artworks in Santa Monica. Or visit the [Public Art Archive](http://www.publicartarchive.org/santamonica).
 
 
 <small>Map / Archive</small>
