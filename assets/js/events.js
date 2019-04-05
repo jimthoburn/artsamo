@@ -56,7 +56,7 @@ Example HTML
             <dd>310-458-8350</dd>
           </dl>
 
-          <p class="action"><a href="{{ url }}">Event details on {{ url_domain }}</a></p>
+          <p><a href="{{ url }}">Event details on {{ url_domain }}</a></p>
         </div>
       </details>
     </li>
