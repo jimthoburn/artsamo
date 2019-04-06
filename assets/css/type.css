@@ -73,7 +73,7 @@ h1 {
   line-height: 1.125;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  transform: skewY(-8deg);
+  transform: skewY(-8deg) translateY(-17.5%);
   text-align: center;
 }
 

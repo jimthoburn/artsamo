@@ -69,7 +69,9 @@
 <header>
   <h2>
     <a href="/">
+      <!--
       <img src="/assets/images/city-logo.svg" height="50" alt="" onclick="event.preventDefault(); window.location = 'https://www.santamonica.gov/'" />
+      -->
       Santa Monica Cultural Affairs
     </a>
   </h2>
@@ -81,6 +83,12 @@
     <li><a href="/about/"         {% if page.url == '/about/' %}         class="active" {% endif %}>About</a></li>
     <li><a href="/contact/"       {% if page.url == '/contact/' %}       class="active" {% endif %}>Contact</a></li>
   </ul>
+  <p class="city">
+    <a href="https://www.santamonica.gov/">
+      <img src="/assets/images/city-logo.svg" height="50" alt="" />
+      <span>City of Santa Monica</span>
+    </a>
+  </p>
 </header>
 
 {% comment %}
