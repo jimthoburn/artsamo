@@ -175,6 +175,35 @@
 {% include subscribe.html %}
 
 <footer>
+
+  {% capture myInclude %}{% include contact.markdown %}{% endcapture %}
+  {{ myInclude | markdownify }}
+
+  <section>
+    <h3><a href="/miles-memorial-playhouse/">Miles Memorial Playhouse</a></h3>
+    <ul>
+      <li><a href="/miles-memorial-playhouse/#getting-here">Getting Here</a></li>
+      <li><a href="/miles-memorial-playhouse-events/">Events</a></li>
+      <li><a href="/miles-memorial-playhouse-theater-rental/">Theater Rental</a></li>
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/camera-obscura-art-lab/">Camera Obscura Art Lab</a></h3>
+    <ul>
+      <li><a href="/camera-obscura-art-lab/#getting-here">Getting Here</a></li>
+      <li><a href="/camera-obscura-art-lab-events/">Events</a></li>
+      <li><a href="/camera-obscura-art-lab-artists/">Artists</a></li>
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/beach-culture/" aria-label="Beach Culture">Beach=Culture</a></h3>
+    <ul>
+      <li><a href="/beach-culture/#getting-here">Getting Here</a></li>
+      <li><a href="/beach-culture-events/">Events</a></li>
+      <li><a href="/beach-culture-artists/">Artists</a></li>
+      <li><a href="/beach-culture/#2019gallery-exhibition-season">Gallery Exhibition</a></li>
+    </ul>
+  </section>
   <section>
     <h3><a href="/">Go See Art</a></h3>
     <ul>
@@ -184,12 +213,19 @@
       <li><a href="/public-art/#map">Map / Archive</a></li>
     </ul>
   </section>
+  <!-- <section>
+    <h3><a href="/events/">Events</a></h3>
+    <ul>
+      <li><a href="/art-in-the-parks/">Art in the Parks</a></li>
+      <li><a href="/airport-artwalk/">Airport Artwalk</a></li>
+    </ul>
+  </section> -->
   <section>
     <h3><a href="/opportunities/">Opportunities</a></h3>
     <ul>
-      <li><a href="/opportunities-for-artists/">Artists</a></li>
-      <li><a href="/opportunities-for-organizations/">Organizations</a></li>
-      <li><a href="/miles-memorial-playhouse-theater-rental/">Theater Rental</a></li>
+      <li><a href="/opportunities-for-artists/">Opportunities for Artists</a></li>
+      <li><a href="/opportunities-for-organizations/">Opportunities for Organizations</a></li>
+      <li><a href="/artist-fellows/">Artist Fellows</a></li>
     </ul>
   </section>
   <section>
@@ -199,11 +235,9 @@
       <li><a href="/about/#foundation">Foundation</a></li>
       <li><a href="/about/#policy-and-planning">Policy &amp; Planning</a></li>
       <li><a href="/about/#public-art-program">Public Art Program</a></li>
+      <li><a href="/arts-commission-agendas/">Arts Commission</a></li>
     </ul>
   </section>
-
-  {% capture myInclude %}{% include contact.markdown %}{% endcapture %}
-  {{ myInclude | markdownify }}
 
   <section class="artsamo">
     <h2>

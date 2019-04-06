@@ -23,6 +23,7 @@ header h2 a {
   /*! justify-content: center; */
   align-items: center;
   justify-self: stretch;
+  /*! font-variant: small-caps; */
 }
 header h2 a:hover,
 header h2 a:active,
@@ -68,7 +69,7 @@ header li a {
   text-decoration: none;
 /*   text-transform: uppercase; */
   font-weight: 400;
-  letter-spacing: 0.1em;
+  /* letter-spacing: 0.1em; */
 /*   background-color: hsl(0, 0%, 95%); */
   display: block;
   /*! text-align: center; */
@@ -244,12 +245,12 @@ header h3 {
   font-size: inherit;
   line-height: inherit;
   margin: 0;
-  text-transform: lowercase;
+  /* text-transform: lowercase;
   font-weight: var(--light);
   letter-spacing: 0.2em;
   white-space: nowrap;
   opacity: 1;
-  font-variant: small-caps;
+  font-variant: small-caps; */
   padding-top: calc(var(--vertical-rhythm) * 1);
   border-bottom: 1px solid hsla(0, 0%, 0%, 0.1);
   margin-bottom: calc(var(--vertical-rhythm) * 1/4);
@@ -260,6 +261,12 @@ header h3 a {
   color: inherit;
   padding: calc(var(--vertical-rhythm) * 1/4) calc(var(--vertical-rhythm) * 1/4);
   display: block;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  letter-spacing: 0.2em;
+  white-space: nowrap;
+  font-family: canada-type-gibson, sans-serif;
+  font-weight: 500;
 }
 header a:hover,
 header a:active,

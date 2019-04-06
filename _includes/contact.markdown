@@ -1,4 +1,70 @@
 
+
+<section markdown="1">
+
+### <a href="/contact/">Contact</a>
+
+Santa Monica Cultural Affairs Division  
+1437 4th Street, Suite 310  
+Santa Monica, CA 90401
+
+310-458-8350
+
+[culture@smgov.net](mailto:culture@smgov.net)
+
+</section>
+
+
+<section markdown="1">
+
+### <a href="/venues/">Visit</a>
+
+<dl class="locations">
+  <dt>
+    <a href="/miles-memorial-playhouse/">
+      <img src="/uploads/icon-miles-playhouse.png" height="25" alt="" /><br />
+      Miles Memorial Playhouse
+    </a>
+  </dt>
+  <dd>
+    1130 Lincoln Blvd<br />
+    Santa Monica, CA 90403
+  </dd>
+  <dt>
+    <a href="https://www.smgov.net/departments/ccs/civicauditorium/">
+      <img src="/uploads/icon-civic-auditorium.png" height="25" alt="" /><br />
+      Santa Monica Civic Auditorium
+    </a>
+  </dt>
+  <dd>
+    1855 Main St<br />
+    Santa Monica, CA 90401
+  </dd>
+  <dt>
+    <a href="/beach-culture/">
+      <img src="/uploads/icon-beachhouse.png" height="25" alt="" /><br />
+      Beach=Culture<br />Annenberg Community Beach House
+    </a>
+  </dt>
+  <dd>
+    415 Pacific Coast Hwy<br />
+    Santa Monica, CA 90402
+  </dd>
+  <dt>
+    <a href="/camera-obscura-art-lab/">
+      <img src="/uploads/icon-camera-obscura.png" height="25" alt="" /><br />
+      Camera Obscura Art Lab
+    </a>
+  </dt>
+  <dd>
+    1450 Ocean Ave<br />
+    Santa Monica, CA 90401
+  </dd>
+</dl>
+
+</section>
+
+
 <section markdown="1">
 
 ### Follow
@@ -89,67 +155,3 @@
 
 </section>
 
-
-<section markdown="1">
-
-### <a href="/venues/">Visit</a>
-
-<dl class="locations">
-  <dt>
-    <a href="/miles-memorial-playhouse/">
-      <img src="/uploads/icon-miles-playhouse.png" height="25" alt="" /><br />
-      Miles Memorial Playhouse
-    </a>
-  </dt>
-  <dd>
-    1130 Lincoln Blvd<br />
-    Santa Monica, CA 90403
-  </dd>
-  <dt>
-    <a href="https://www.smgov.net/departments/ccs/civicauditorium/">
-      <img src="/uploads/icon-civic-auditorium.png" height="25" alt="" /><br />
-      Santa Monica Civic Auditorium
-    </a>
-  </dt>
-  <dd>
-    1855 Main St<br />
-    Santa Monica, CA 90401
-  </dd>
-  <dt>
-    <a href="/beach-culture/">
-      <img src="/uploads/icon-beachhouse.png" height="25" alt="" /><br />
-      Beach=Culture<br />Annenberg Community Beach House
-    </a>
-  </dt>
-  <dd>
-    415 Pacific Coast Hwy<br />
-    Santa Monica, CA 90402
-  </dd>
-  <dt>
-    <a href="/camera-obscura-art-lab/">
-      <img src="/uploads/icon-camera-obscura.png" height="25" alt="" /><br />
-      Camera Obscura Art Lab
-    </a>
-  </dt>
-  <dd>
-    1450 Ocean Ave<br />
-    Santa Monica, CA 90401
-  </dd>
-</dl>
-
-</section>
-
-
-<section markdown="1">
-
-### <a href="/contact/">Contact</a>
-
-Santa Monica Cultural Affairs Division  
-1437 4th Street, Suite 310  
-Santa Monica, CA 90401
-
-310-458-8350
-
-[culture@smgov.net](mailto:culture@smgov.net)
-
-</section>
