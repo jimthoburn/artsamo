@@ -16,7 +16,7 @@
 }
 
 .subscribe {
-  background-color: var(--midnight);
+  background-color: var(--apple);
   color: var(--snow);
   position: relative;
   background-size: cover;
@@ -38,8 +38,9 @@
   left: 0;
   width: 100%;
   height: 100%;
-  opacity: 0.6;
+  opacity: 0.8;
   background-color: var(--midnight);
+  background-color: var(--apple-dark, gray);
 }
 
 .subscribe h2,
