@@ -57,6 +57,12 @@ footer a {
   color: inherit;
 }
 
+footer a:hover,
+footer a:active,
+footer a:focus {
+  color: inherit;
+}
+
 footer h2 {
   /*! font-weight: var(--semibold); */
 }

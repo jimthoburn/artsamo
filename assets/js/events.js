@@ -25,11 +25,11 @@ Example HTML
   if (!list) return
 
   let template = `
-    <li>
+    <li class="{{ className }}" data-categories="{{ dataCategories }}" data-description="{{ dataDescription }}">
       <details>
         <summary>
           <div class="summary">
-            <h3><abbr aria-label="{{ weekday }}">{{ weekdayAbbreviation }}</abbr><br /><abbr aria-label="{{ month }}">{{ monthAbbreviation }}</abbr> {{ day }}</h3>
+            <h3><span><abbr aria-label="{{ weekday }}">{{ weekdayAbbreviation }}</abbr><br /><abbr aria-label="{{ month }}">{{ monthAbbreviation }}</abbr> {{ day }}</span></h3>
             <p>{{ title }}</p>
             <p>{{ time }}</p>
             <p>{{ location }}</p>
@@ -56,7 +56,7 @@ Example HTML
             <dd>310-458-8350</dd>
           </dl>
 
-          <p><a href="{{ url }}">Event details on {{ url_domain }}</a></p>
+          <p><a href="{{ url }}">Event details on {{ urlDomain }}</a></p>
         </div>
       </details>
     </li>
@@ -178,7 +178,14 @@ Example HTML
         if (isCulturalAffairsEvent(data[index])) {
           // console.log({ createdItems, itemLimit })
           if (createdItems < itemLimit) {
-            if (createItem(data[index], list, template)) {
+            let success = null
+            try {
+              success = createItem(data[index], list, template)
+            } catch(e) {
+              console.error(`Something went wrong while rendering an event using this data: `)
+              console.dir({ data: data[index] })
+            }
+            if (success) {
               createdItems++
             }
           } else {
@@ -244,7 +251,20 @@ Example HTML
     let categories  = itemData.event_types
     let ages        = itemData.age_groups
     let url         = itemData.signup_url
-    let url_domain  = url.split("/")[2]
+    let urlDomain   = url.split("/")[2]
+    let dataCategories = itemData.event_types ? itemData.event_types.toLowerCase() : null
+    let dataDescription = itemData.description ? itemData.description.toLowerCase() : null
+
+    let className   = ""
+    if (location.toLowerCase().includes("palisades")) {
+      className = "palisades";
+    }
+    if (location.toLowerCase().includes("miles")) {
+      className = "miles";
+    }
+    if (location.toLowerCase().includes("beach")) {
+      className = "beach";
+    }
 
     let html = template
       .replace(/\{\{ weekday \}\}/g,     weekday)
@@ -259,7 +279,11 @@ Example HTML
       .replace(/\{\{ location \}\}/g,    location)
       .replace(/\{\{ address \}\}/g,    address)
       .replace(/\{\{ url \}\}/g,         url)
-      .replace(/\{\{ url_domain \}\}/g,  url_domain)
+      .replace(/\{\{ urlDomain \}\}/g,  urlDomain)
+      .replace(/\{\{ className \}\}/g,  className)
+      .replace(/\{\{ dataCategories \}\}/g,  dataCategories)
+      .replace(/\{\{ dataDescription \}\}/g,  dataDescription)
+      
   
     if (categories) {
       html = html.replace(/\{\{ categories \}\}/g, categories)

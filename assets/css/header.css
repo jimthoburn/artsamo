@@ -64,6 +64,12 @@ header li a {
   /*! background: hsl(0, 0%, 95%); */
 }
 
+header li a:hover,
+header li a:active,
+header li a:focus {
+  color: var(--primary-color);
+}
+
 header {
   position: relative;
   z-index: 1;

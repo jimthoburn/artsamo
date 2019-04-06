@@ -20,7 +20,7 @@ Welcome to Beach=Culture, a year-round series of free arts and culture events at
 *   [Getting Here](#getting-here)
 </nav>
 
-## We’re located at:
+### We’re located at:
 
 415 Pacific Coast Hwy  
 Santa Monica, CA 90402
