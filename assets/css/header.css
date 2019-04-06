@@ -73,6 +73,12 @@ header li a {
 /*   background-color: hsl(0, 0%, 95%); */
   display: block;
   /*! text-align: center; */
+  font-variant: small-caps;
+  text-transform: lowercase;
+  letter-spacing: 0.2em;
+  white-space: nowrap;
+  font-family: canada-type-gibson, sans-serif;
+  font-weight: 500;
 }
 header ul:nth-of-type(1) a {
   color: var(--orange);
@@ -199,6 +205,12 @@ header nav {
   justify-self: start;
 }
 
+@media (min-width: 50em) and (min-height: 50em) {
+  header nav {
+    font-size: 2.25vmin;
+  }
+}
+
 header nav ul {
   padding: 0;
   /*! margin-top: calc(var(--vertical-rhythm) * 1/4); */
@@ -267,6 +279,7 @@ header h3 a {
   white-space: nowrap;
   font-family: canada-type-gibson, sans-serif;
   font-weight: 500;
+  font-size: ;
 }
 header a:hover,
 header a:active,

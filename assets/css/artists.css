@@ -44,7 +44,7 @@
   /*! grid-template-columns: 1fr 1fr 1fr; */
 }
 
-@media (min-width: 40em) {
+@media (min-width: 60em) {
   .artists li {
     display: grid;
     /*! grid-template-columns: 1fr max-content 1fr; */
