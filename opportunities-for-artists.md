@@ -128,7 +128,9 @@ Required
 : Weekly Workshops
 : Blog Posts
 
-### Jazz on the Lawn Performance Opportunity
+## Performance Opportunities
+
+### Jazz on the Lawn
 
 Deadline
 : Rolling, Closing Mid-April Annually 

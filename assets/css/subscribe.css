@@ -39,8 +39,7 @@
   width: 100%;
   height: 100%;
   opacity: 0.8;
-  background-color: var(--midnight);
-  background-color: var(--apple-dark, gray);
+  background-color: var(--apple, gray);
 }
 
 .subscribe h2,
