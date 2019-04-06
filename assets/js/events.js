@@ -201,7 +201,11 @@ Example HTML
     console.log({ itemLimitReached })
 
     let more = document.querySelector("[data-events-more]")
-    if (itemLimitReached && more) more.style.visibility = "visible"
+    if (itemLimitReached && more) {
+      more.style.visibility = "visible"
+    } else {
+      more.style.display = "none"
+    }
 
     let fallback = document.querySelector("[data-events-fallback]")
     if (fallback) fallback.parentNode.removeChild(fallback)

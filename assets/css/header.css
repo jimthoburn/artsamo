@@ -182,7 +182,7 @@ header .city a {
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 0.1em;
-  background-color: #0e76bb;
+  background-color: hsl(204, 86%, 39%);
   display: inline-flex;
   align-items: center;
   /*! opacity: 0.5; */
@@ -192,7 +192,8 @@ header .city a {
 header .city a:hover,
 header .city a:active,
 header .city a:focus {
-  opacity: 1;
+  /* opacity: 1; */
+  background-color: hsl(204, 76%, 29%);
 }
 header .city a img {
   /* vertical-align: -65%; */
