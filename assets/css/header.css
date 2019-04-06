@@ -51,7 +51,7 @@ header ul {
   justify-content: flex-start;
   align-items: center;
 }
-@media (min-width: 40em) {
+@media (min-width: 50em) {
   header ul {
     display: flex;
   }
@@ -164,7 +164,7 @@ header .city {
   max-width: none;
   /*! text-align: right; */
   align-self: end;
-  justify-self: end;
+  /* justify-self: end; */
   /*! writing-mode: vertical-lr; */
   /*! position: absolute; */
   /*! top: 100vh; */
@@ -172,6 +172,7 @@ header .city {
   left: 0;
   white-space: nowrap;
   z-index: 1;
+  text-align: right;
 }
 header .city a {
   color: inherit;
@@ -182,7 +183,7 @@ header .city a {
   font-weight: 400;
   letter-spacing: 0.1em;
   background-color: #0e76bb;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   /*! opacity: 0.5; */
   /* transform: rotate(180deg); */
@@ -205,7 +206,7 @@ header .city a span {
   /*! transform: rotate(180deg); */
 }
 
-@media (max-width: 40em) {
+@media (max-width: 25em) {
   header h2 {
     margin-top: calc(var(--vertical-rhythm) * 1);
   }
@@ -213,6 +214,7 @@ header .city a span {
     writing-mode: vertical-rl;
     max-height: 12em;
     transform: rotate(180deg);
+    padding: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 0.5);
   }
 }
 
