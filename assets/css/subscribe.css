@@ -79,7 +79,7 @@ button,
 input[type="email"],
 input[type="text"] {
   border-width: 0;
-  padding: calc(var(--vertical-rhythm) * 1/4) calc(var(--vertical-rhythm) * 1);
+  padding: calc(var(--vertical-rhythm) * 1/2) calc(var(--vertical-rhythm) * 1);
   font-family: inherit;
   line-height: inherit;
   font-size: inherit;

@@ -14,6 +14,7 @@ main > figure:first-child {
   /*! overflow: hidden; */
   background: hsl(0, 0%, 0%);
   margin-bottom: 0;
+  width: calc(100vw - calc(var(--vertical-rhythm) * 2));
 }
 @media (min-width: 10em) {
   main > h1 + figure,
@@ -159,6 +160,9 @@ main > h1:first-child {
       margin-bottom: 0;
       /*text-shadow: 0 0 1em rgba(0, 0, 0, 1);*/
       /*! background: gray; */
+      width: calc(100vw - calc(var(--unitless-vertical-rhythm) * 2rem));
+      box-sizing: border-box;
+      overflow-wrap: break-word;
     }
   }
 }

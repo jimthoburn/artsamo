@@ -1,11 +1,19 @@
 
-
-main > nav {
-  grid-column: 1/-1;
-  margin: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 3);
+@media (min-width: 40em) {
+  main > nav {
+    grid-column: 1/-1;
+    margin: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 3);
+  }
 }
 main > nav ul {
   margin: 0;
+}
+
+
+main > h2 {
+  font-weight: var(--bold);
+  /*! text-transform: uppercase; */
+  /*! letter-spacing: 0.1em; */
 }
 
 @supports (display: grid) {
@@ -65,11 +73,6 @@ main > nav ul {
       grid-row: span 2;
       /*! font-size: 1.618em; */
       /*! font-size: 2.375em; */
-    }
-    main > h2 {
-      font-weight: var(--bold);
-      /*! text-transform: uppercase; */
-      /*! letter-spacing: 0.1em; */
     }
     main > h4 {
       margin-top: 0;

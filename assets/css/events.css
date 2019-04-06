@@ -30,10 +30,12 @@
 .events li {
   margin-bottom: 1.5em;
 }
-.events .summary {
-  display: grid;
-  grid-template-columns: calc(var(--vertical-rhythm) * 7) 1fr;
-  grid-column-gap: calc(var(--vertical-rhythm) * 1);
+@media (min-width: 30em) {
+  .events .summary {
+    display: grid;
+    grid-template-columns: calc(var(--vertical-rhythm) * 7) 1fr;
+    grid-column-gap: calc(var(--vertical-rhythm) * 1);
+  }
 }
 .events .summary > h3 {
   grid-column: 1/2;

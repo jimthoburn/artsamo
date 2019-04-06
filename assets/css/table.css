@@ -5,6 +5,9 @@ table {
   margin-bottom: 4.5em;
   border-collapse: collapse;
   justify-self: start;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-wrap: break-word;
 }
 
 thead th {
