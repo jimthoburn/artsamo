@@ -11,8 +11,7 @@ title: Opportunities for Organizations, Santa Monica
 
 To ensure a robust arts and culture ecosystem for both **residents** and **visitors** to the City, Cultural Affairs offers **five grant programs** for Santa Monica-based arts and heritage nonprofits.
 
-Organizational Support Program (OSP)
-------------------------------------
+### Organizational Support Program (OSP)
 
 Deadline
 : March 18, 2019
@@ -31,8 +30,7 @@ Resident organizations are defined as those whose primary administrative office 
 *   Position the City as an international creative center
 *   Open avenues of discourse to broad topics of human creativity and learning among the general public
 
-Community Access & Participation (CAP)
---------------------------------------
+### Community Access & Participation (CAP)
 
 Deadline
 : April 2019
@@ -43,8 +41,7 @@ Applications Will Be Available
 
 The Community Access & Participation (CAP) provides restricted funds to support programming at Santa Monica-based arts and heritage organizations. Grants of up to $7,000 are available to local agencies for cultural programs take place in Santa Monica and serve residents. Grants are awarded in three categories,  including youth-oriented programs (Building the Future) and programs that address Santa Monica’s rich Latino heritage (Latino CAP).
 
-Arts Transportation Grant 
---------------------------
+### Arts Transportation Grant
 
 Deadline
 : There’s no deadline for applications, but we suggest you apply by mid-November 2018 to ensure funds are available.
@@ -58,8 +55,7 @@ The City of Santa Monica Arts Transportation Grant Program provides access to ar
 
 Support for this program comes from the Metropolitan Transit Authority’s Proposition A Local Return funds.
 
-Strategic Sustainability Initiative (SSI)
------------------------------------------
+### Strategic Sustainability Initiative (SSI)
 
 Deadline
 : Annually in November
@@ -68,8 +64,7 @@ Applications Available: Annually in October
 
 The purpose of the City of Santa Monica’s Strategic Sustainability Initiative (SSI) is to invest in the medium-to-long term sustainability of the City’s core cultural agencies. The program makes grants of up to $20,000 available to current OSP grantees for one-time strategic initiatives. 
 
-Current Arts and Cultural Grantees of the City of Santa Monica - Organizations
-------------------------------------------------------------------------------
+### Current Arts and Cultural Grantees of the City of Santa Monica - Organizations
 
 *   18th Street Art Center
 *   Broad Stage

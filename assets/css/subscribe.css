@@ -104,12 +104,13 @@ button {
   margin-right: auto;
 } */
 .subscribe h1 {
-  margin-bottom: 0.375em;
+  margin-bottom: 0;
   margin-top: 0.375em;
   color: inherit;
   transform: none;
   text-align: left;
   max-width: none;
+  /*! line-height: 1; */
 }
 .subscribe h1 small {
   font-weight: inherit;
@@ -118,6 +119,7 @@ button {
 
 .subscribe p:first-of-type {
   max-width: 36em;
+  margin-bottom: 1em;
 }
 
 /* These rules are duplicated in grid.css */
@@ -145,6 +147,8 @@ button {
       align-items: start;
       padding-left: var(--vertical-rhythm);
       padding-right: var(--vertical-rhythm);
+      padding-top: 10vw;
+      padding-bottom: 10vw;
     }
 
     .subscribe > p {
