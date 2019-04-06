@@ -1,4 +1,4 @@
-<form class="subscribe standard-layout" id="subscribe" method="post"
+<form class="subscribe" id="subscribe" method="post"
   action="https://smgov.us12.list-manage.com/subscribe/post?u=a5d6f52c79917c7b57cc5cef0&amp;id=8df381560e">
 
   <h1><small>Stay up to date</small></h1>
@@ -28,3 +28,84 @@
   </p>
 
 </form>
+
+ 
+ <script>
+ 
+ (function() {
+ 
+   const images = [
+     // '/uploads/miles-memorial-playhouse/String Theory at Miles.jpg',
+     '/uploads/miles-memorial-playhouse/Nick Mancini 4Tet at Fireside.jpg',
+     '/uploads/miles-memorial-playhouse/On Ensemble Fireside.jpg',
+     // '/uploads/miles-memorial-playhouse/MM2.png',
+     // '/uploads/miles-memorial-playhouse/MixMatch Dance FESTIVAL.png',
+     // '/uploads/miles-memorial-playhouse/74_07_15_17_StringTheory_ReedPark_highrez_©KristinaSado.jpg',
+     '/uploads/miles-memorial-playhouse/Hart Pulse Fireside.jpg',
+     // '/uploads/miles-memorial-playhouse/63_07_15_17_StringTheory_ReedPark_highrez_©KristinaSado.jpg',
+     '/uploads/miles-memorial-playhouse/53_07_15_17_StringTheory_ReedPark_highrez_©KristinaSado.jpg',
+     '/uploads/Beach=Culture/2010_CAiRHollyRothschild_ThisIsNotHere_StaffPhotog.jpg.JPG',
+     '/uploads/Beach=Culture/2010_CAiRHollyRothschild_ThisIsNotHere.jpg',
+     '/uploads/Beach=Culture/2012_1_22_12_PST_Channa_Horwitz_Rehearsal_ACBH_StaffPhotog (3).JPG',
+     '/uploads/Beach=Culture/2012_1_22_12_PST_Channa_Horwitz_Rehearsal_ACBH_StaffPhotog (8).JPG',
+     '/uploads/Beach=Culture/2014_CAiRAnaMariaAlvarezContratiempo_StaffPhotog (9).JPG',
+     '/uploads/Beach=Culture/2015_7_28_Dance_Hall_Jessica_Fichot_Shanghai_Jazz_ACBH_StaffPhotographer (10).JPG',
+     // '/uploads/Beach=Culture/2016_9_27_16_Rinde_Eckert_ACBH_StaffPhotographer (3).JPG',
+     '/uploads/Beach=Culture/2016_PSA_RedHen_PoetryByHarryetteMullenPaintingByLisaSlavin_ACBH_StaffPhotog.JPG',
+     '/uploads/Beach=Culture/2017_2_7_17_Kimberly_Truhler_Fashion_in_Film_1960s_ACBH_StaffPhotographer (1).JPG',
+     '/uploads/Beach=Culture/2017-7_OotB_KielJohnson-TheOneida_ACBH_StaffPhotog.JPG',
+     '/uploads/Beach=Culture/2018_6_10_18_BeachDances_ACBH_JayCarlon_drummerKevinYokota_photoJasonAbraham.jpg',
+     '/uploads/Beach=Culture/2018_6_10_18_BeachDances_ACBH_SarahElgart_DancerAlexandraDeFato_photoJasonAbraham_15.jpg',
+     '/uploads/Beach=Culture/2018_6_10_18_BeachDances_ACBH_SarahElgart_dancerAlexandraDeFato_photoJasonAbraham_39.jpg',
+     '/uploads/camera-obscura-art-lab/2017_ShannonFreshwater_Weaving_COAL_StaffPhotog (8).JPG',
+     '/uploads/camera-obscura-art-lab/2017_ShannonFreshwater_FinalShow_COAL_StaffPhotog (15).JPG',
+     '/uploads/camera-obscura-art-lab/2017_ShannonFreshwater_FinalShow_COAL_StaffPhotog (18).JPG',
+     '/uploads/camera-obscura-art-lab/2017_ShannonFreshwater_Foil_Embossing_COAL_StaffPhotog (3).jpg',
+     '/uploads/camera-obscura-art-lab/2017_7_29_17_Tracy_Bromwich_Final_Show_CameraObscura_MaddyPaull (16).JPG',
+     // '/uploads/camera-obscura-art-lab/2017_7_29_17_Tracy_Bromwich_Final_Show_CameraObscura_MaddyPaull (31).JPG',
+     '/uploads/camera-obscura-art-lab/2017_CCS_Library_Teambuilding_CameraObscura_StaffPhotographer (2).JPG',
+     '/uploads/camera-obscura-art-lab/2017_Coast_CameraObscuraLightsOn_photoby_Jason_Abraham.png',
+     // '/uploads/camera-obscura-art-lab/2017_Juanita DavisGenesis Hernandez_DinahBerland_Poetry_CameraObscura_StaffPhotog.jpg',
+     '/uploads/camera-obscura-art-lab/2017_3_11_17_Dumplings_Grace_Hwang_Residency_CameraObscura_StaffPhotographer (1).jpg',
+     '/uploads/camera-obscura-art-lab/2017_7_15_17_Indigo_Dye_Tote_with_Tracy_Bromwich_CameraObscura_StaffPhotographer (13).JPG',
+     '/uploads/camera-obscura-art-lab/2016_FrankValdez_Final_Show_CameraObscura_StaffPhotog (35).JPG',
+     '/uploads/camera-obscura-art-lab/2016_FrankValdez_LongPose_CameraObscura_StaffPhotog (17).JPG',
+     // '/uploads/camera-obscura-art-lab/2016_Zeal_Harris_Residency_CameraObscura_StaffPhotographer (23).JPG',
+     '/uploads/camera-obscura-art-lab/2015_ZeinaBaltagiMilesLewis_FinalShow_Staffphotog.JPG',
+     '/uploads/camera-obscura-art-lab/2016_1_PatriciaMitchell_ChineColle_CameraObscura_StaffPhotog (29).JPG',
+     '/uploads/camera-obscura-art-lab/2016_3_Patricia itchell_Screenprinting_CameraObscura_StaffPhotog (3).JPG',
+     // '/uploads/camera-obscura-art-lab/2016_3_PatriciaMitchell_Leather_Masks_CameraObscura_StaffPhotog (11).JPG',
+     '/uploads/camera-obscura-art-lab/2015_Alexis_Macnab_Studio_Progress_CameraObscura_StaffPhotographer (3).JPG',
+     '/uploads/camera-obscura-art-lab/2015_Zeina_Baltagi_Miles_Lewis_Printmaking_Residency_CameraObscura_StaffPhotographer.jpg',
+     '/uploads/camera-obscura-art-lab/2015_3_21_Miles_Lewis_Egg_Tempera (8).JPG',
+     '/uploads/camera-obscura-art-lab/2015_7_1_15_Zeina_Baltagi_Xerox_Lithography_CameraObscura_StaffPhotographer (16).JPG',
+     '/uploads/camera-obscura-art-lab/2015_3_10_15_AlexisMacnab_ShadowPuppetry_CameraObscura_StaffPhotog (5).JPG',
+     '/uploads/camera-obscura-art-lab/2015_2_14_15_Copperplate_with_Miles_Lewis_CameraObscura_StaffPhotographer (35).JPG',
+     '/uploads/camera-obscura-art-lab/2015_1_30_15_Linocut_with_Zeina_CameraObscura_StaffPhotographer (1).JPG',
+     '/uploads/camera-obscura-art-lab/2015_1_21_15_Multimedia_Graphics_CameraObscura_StaffPhotographer (2).JPG'
+   ]
+ 
+   // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
+   /**
+    * Returns a random integer between min (inclusive) and max (inclusive)
+    * Using Math.round() will give you a non-uniform distribution!
+    */
+   function getRandomInt(min, max) {
+       return Math.floor(Math.random() * (max - min + 1)) + min;
+   }
+ 
+   (function() {
+     const image = images[getRandomInt(0, images.length - 1)];
+   
+     document.querySelector(".subscribe").setAttribute("style", `--background-image: url('${image}')`);
+   
+     // const photoCredit = document.querySelector("figcaption");
+     // if (photoCredit) {
+     //   photoCredit.innerHTML = image.caption;
+     // }
+   })();
+ 
+ })();
+ 
+ </script>
+

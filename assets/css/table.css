@@ -27,6 +27,7 @@ td {
   padding: calc(var(--vertical-rhythm) * 1.125);
   vertical-align: top;
   /*! padding-top: 0; */
+  font-weight: inherit;
 }
 thead th {
   padding-top: 0.625em;

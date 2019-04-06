@@ -38,14 +38,14 @@
 .events .summary > h3 {
   grid-column: 1/2;
   grid-row: span 3; 
-  align-self: stretch;
+  align-self: start;
   justify-self: stretch;
   background-color: #3f3f3f;
   color: #fff;
   text-align: center;
   text-transform: uppercase;
   font-weight: var(--light);
-  padding: calc(var(--vertical-rhythm) * 0.5);
+  padding: calc(var(--vertical-rhythm) * 0.75) calc(var(--vertical-rhythm) * 0.25);
   margin: 0;
   line-height: 1.25;
   position: relative;
