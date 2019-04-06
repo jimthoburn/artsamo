@@ -1,8 +1,7 @@
 
 <section markdown="1">
 
-Follow
----------
+### Follow
 
 <dl class="social">
   <dt>Santa Monica Cultural Affairs</dt>
@@ -93,8 +92,7 @@ Follow
 
 <section markdown="1">
 
-Visit
---------
+### <a href="/venues/">Visit</a>
 
 <dl class="locations">
   <dt>
@@ -144,8 +142,7 @@ Visit
 
 <section markdown="1">
 
-Contact
-----------
+### <a href="/contact/">Contact</a>
 
 Santa Monica Cultural Affairs Division  
 1437 4th Street, Suite 310  

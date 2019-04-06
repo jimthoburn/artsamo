@@ -20,6 +20,8 @@
   <link rel="stylesheet" href="{{ url }}?v={{ site.version }}" />
   {% endfor %}
 
+  <link href="https://www.santamonica.gov/Themes/CSM.BootstrapBase/Images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
   <link rel="stylesheet" href="/assets/css/type.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/color.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/layout.css?v={{ site.version }}" />
@@ -75,6 +77,24 @@
       Santa Monica Cultural Affairs
     </a>
   </h2>
+  <nav>
+    <h3><a href="/">Go See Art</a></h3>
+    <ul>
+      <li><a href="/events/">Events</a></li>
+      <li><a href="/venues/">Venues</a></li>
+      <li><a href="/public-art/">Public Art</a></li>
+    </ul>
+    <h3><a href="/opportunities/">Opportunities</a></h3>
+    <ul>
+      <li><a href="/opportunities-for-artists/">Artists</a></li>
+      <li><a href="/opportunities-for-organizations/">Organizations</a></li>
+    </ul>
+    <h3><a href="/about/">About</a></h3>
+    <ul>
+      <li><a href="/contact/">Contact</a></li>
+    </ul>
+  </nav>
+  {% comment %}
   <ul>
     <li><a href="/events/"        {% if page.url == '/events/' %}        class="active" {% endif %}>Events</a></li>
     <li><a href="/venues/"        {% if page.url == '/venues/' %}        class="active" {% endif %}>Venues</a></li>
@@ -89,6 +109,7 @@
       </a>
     </li> -->
   </ul>
+  {% endcomment %}
   <p class="city">
     <a href="https://www.santamonica.gov/">
       <img src="/assets/images/city-logo-white.svg" height="50" alt="" />
@@ -117,7 +138,7 @@
   </ul>
   <h3>Opportunities</h3>
   <ul>
-    <li><a href="/opportunities-for-artists">For Artists</a></li>
+    <li><a href="/opportunities-for-artists/">For Artists</a></li>
     <li><a href="/opportunities-for-organizations/">For Organizations</a></li>
   </ul>
   <h3>About</h3>
@@ -154,10 +175,36 @@
 {% include subscribe.html %}
 
 <footer>
+  <section>
+    <h3><a href="/">Go See Art</a></h3>
+    <ul>
+      <li><a href="/events/">Events</a></li>
+      <li><a href="/venues/">Venues</a></li>
+      <li><a href="/public-art/">Public Art</a></li>
+      <li><a href="/public-art/#map">Map / Archive</a></li>
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/opportunities/">Opportunities</a></h3>
+    <ul>
+      <li><a href="/opportunities-for-artists/">Artists</a></li>
+      <li><a href="/opportunities-for-organizations/">Organizations</a></li>
+      <li><a href="/miles-memorial-playhouse-theater-rental/">Theater Rental</a></li>
+    </ul>
+  </section>
+  <section>
+    <h3><a href="/about/">About</a></h3>
+    <ul>
+      <li><a href="/about/#leadership">Leadership</a></li>
+      <li><a href="/about/#foundation">Foundation</a></li>
+      <li><a href="/about/#policy-and-planning">Policy &amp; Planning</a></li>
+      <li><a href="/about/#public-art-program">Public Art Program</a></li>
+    </ul>
+  </section>
 
   {% capture myInclude %}{% include contact.markdown %}{% endcapture %}
   {{ myInclude | markdownify }}
-  
+
   <section class="artsamo">
     <h2>
       <span class="artsamo-image">
