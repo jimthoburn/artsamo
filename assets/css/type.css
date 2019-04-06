@@ -62,6 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 
   max-width: var(--line-length);
+  font-weight: var(--heavy);
 }
 
 h1 {
@@ -107,13 +108,16 @@ h3 {
   --font-size: calc(var(--type-scale) * 1);
   font-weight: normal;
 }
-h2, h3 {
+h2 {
+  --font-size: calc(var(--golden-section) * 1.25em);
+}
+h3 {
   --font-size: calc(var(--golden-section) * 1em);
   /*! line-height: 1.125; */
   /*! --font-size: 2.375em; */
 }
 h2 {
-  font-weight: bold;
+  font-weight: var(--heavy);
 }
 h4, h5, h6 {
   --font-size: 1em;
@@ -183,12 +187,19 @@ main > p:first-of-type {
 
 
 @media (min-width: 40em) {
-  main > h2 + p,
-  main > h2 + h3 + p,
+  main > h2 + * {
+    padding-top: 0.875rem; /* SHIM: Line up with the headline */
+  }
+  main > h3 + * {
+    padding-top: 0.75rem; /* SHIM: Line up with the headline */
+  }
+  main > h2 + h3 + p {
+    padding-top: 1.325rem; /* SHIM: Line up with the headline */
+  }
   main > p:first-of-type {
     /*! --font-size: calc(var(--golden-section) * 1em); */
     /*! --line-height: var(--golden-section); */
-    padding-top: 0.3em; /* SHIM: Line up with the headline */
+/*     padding-top: 0.675em; /* SHIM: Line up with the headline */ */
   }
 }
 

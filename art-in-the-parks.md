@@ -19,8 +19,7 @@ Free Outdoor Performances to Look Forward to This Summer
 
 The City of Santa Monica greets Spring, Summer and Fall with Art in the Parks, a smorgasbord of free art and performances in parks throughout the City starting in May and running through October. Art in the Parks invites everyone to explore the City’s many parks through a range of art experiences including live music, dance and visual art for all ages.
 
-Indigenous Now
---------------
+### Indigenous Now
 
 **Saturday, May 11, 2019**  
 5-7 p.m., Free  
@@ -28,8 +27,7 @@ Tongva Park, 1615 Ocean Ave.
  
 An intimate encounter with contemporary indigenous art from local, regional and visiting nations.
 
-Meet Me at Reed 
-----------------
+### Meet Me at Reed 
 
 **Saturdays: June 15 to July 27, 2019**  
 5-7 p.m., Free   
@@ -40,8 +38,7 @@ The 3rd annual Meet Me at Reed outdoor performance series hosts six Saturday con
 
 <figure><img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" /></figure>
 
-Make Music Los Angeles
-----------------------
+### Make Music Los Angeles
 
 **Friday, June 21, 2019**  
 Various times throughout the day, Free   
@@ -51,8 +48,7 @@ Santa Monica celebrates the summer solstice and music-making with a variety of f
  
 [Makemusicla.org.](http://makemusicla.org/) Check website in June for the list of events and locations.
 
-Jazz on the Lawn 
------------------
+### Jazz on the Lawn 
 
 **Sundays: August 4 to August 25, 2019**  
 5-7 p.m., Free   
@@ -63,8 +59,7 @@ The Jazz on the Lawn summer concert series returns for its 14th year each Sunday
 
 <figure><img src="/uploads/2018_8_26_18_JOTL_Orq_Tabaco_y_Ron_Javier_Guillen (196 of 345).jpg" height="300" alt="" /></figure>
 
-Wonder Room 
-------------
+### Wonder Room
 
 **Saturday, October 5, 2019**  
 7:30 – 9:30 p.m., Free   

@@ -99,9 +99,7 @@ We’re always looking for ways to remain fresh. That’s why we’re excited to
 Public Art Program
 ------------------
 
-### Public Art Map
-
-[Public Art Archive/Map](/public-art/#map)
+[Archive/Map](/public-art/#map)
 
 ### Leadership
 

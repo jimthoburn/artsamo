@@ -55,7 +55,7 @@ For information about residency deadlines, please visit [Opportunities](/opportu
 2019<br /><small>Gallery Exhibition Season</small>
 ========
 
-### Annenberg Beach House 2019 Gallery Program
+## Annenberg Beach House 2019 Gallery Program
 
 Three exhibits each year showcase the work of regional artists and artist groups – both emerging and established. This gallery program is designed to embolden and inspire Santa Monicans to see and hear art in new contexts that are fun, challenging, and provocative.
 

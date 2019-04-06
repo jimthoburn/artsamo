@@ -35,6 +35,11 @@ We're dedicated to integrating as much art as possible into our community’s da
 <div class="map" id="map"><iframe width="300" height="150" style="border-width: 0; width: 100%; height: calc(100vh - calc(var(--vertical-rhythm) * 2));" src="https://www.publicartarchive.org/paa_map/50303"></iframe></div>
 
 
+<small>Featured Art</small>
+==========
+
+{% include public-art.md %}
+
 <script>
 
 (function() {
@@ -43,7 +48,7 @@ We're dedicated to integrating as much art as possible into our community’s da
     {
       title: "Public art in Santa Monica",
       url: "/assets/images/artsamo.jpg",
-      caption: "<em>Cradle</em> by Ball-Nogues Studio"
+      caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
     },
     {
       title: "Public art in Santa Monica",

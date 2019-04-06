@@ -7,7 +7,7 @@ header h2 {
 header h2 a {
   display: inline-block;
   text-decoration: none;
-  background-color: var(--aqua, gray);
+  background-color: var(--primary-color, gray);
   color: var(--snow, white);
   padding: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm) * 1);
   text-transform: uppercase;
@@ -24,7 +24,7 @@ header h2 a {
 header h2 a:hover,
 header h2 a:active,
 header h2 a:focus {
-  background-color: var(--aqua-dark, black);
+  background-color: var(--primary-color-dark, black);
   color: var(--snow, white);
 }
 header h2 img {
@@ -40,9 +40,13 @@ header li {
 }
 header ul {
   text-align: right;
-  display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
+}
+@media (min-width: 24em) {
+  header ul {
+    display: flex;
+  }
 }
 @media (min-width: 32.5em) and (max-width: 42.5em) {
   header ul {
@@ -116,6 +120,9 @@ header li {
 /*   margin-bottom: 0.375em; */
 }
 
+header li a.active {
+  color: var(--primary-color);
+}
 
 /* 
 @media (max-width: 45em) {

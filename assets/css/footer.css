@@ -30,7 +30,7 @@ footer {
 
 
 footer {
-  background-color: var(--aqua, gray);
+  background-color: var(--primary-color, gray);
   color: var(--snow);
   /*! margin: var(--vertical-rhythm); */
 }
@@ -85,7 +85,7 @@ footer dd {
 footer dd a {
   background-color: white;
   border-radius: 50%;
-  color: var(--aqua, gray);
+  color: var(--primary-color, gray);
   display: inline-block;
   padding: calc(var(--vertical-rhythm) * 1/5);
 }

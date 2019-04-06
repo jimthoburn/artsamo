@@ -86,7 +86,7 @@ main > nav ul {
     main > figure + h1 + ol,
     main > figure + h1 + ul {
       margin-top: calc(var(--unitless-vertical-rhythm) * 2rem);
-      margin-bottom: calc(var(--unitless-vertical-rhythm) * 2rem);
+      /*! margin-bottom: calc(var(--unitless-vertical-rhythm) * 2rem); */
     }
     main > figure,
     main > blockquote,

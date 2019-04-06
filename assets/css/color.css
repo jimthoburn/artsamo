@@ -4,10 +4,36 @@
 ----------------------------------------------- */
 :root {
   --aqua:      hsl(175, 54%, 47%);
-  --aqua-dark: hsl(175, 54%, 32%);
+  --aqua-dark: hsl(175, 44%, 37%);
   --apple:     hsl(357, 100%, 63%);
+  --apple:     hsl(357, 90%, 53%);
+  --orange:    hsl(15, 88%, 55%);
+  --orange-dark: hsl(15, 78%, 45%);
   --midnight:  hsl(0, 0%, 10%);
   --snow:      hsl(0, 0%, 99%);
+  --sky:       hsl(195, 89%, 55%);
+
+  /*
+  --aqua-complimentary: hsl(355, 54%, 47%);
+  --blueberry:      hsl(193, 100%, 50%);
+  --blueberry-dark: hsl(193, 90%, 40%);
+  --apple:          hsl(1, 81%, 57%);
+  --lime:           hsl(84, 63%, 39%);
+  --plum:           hsl(281, 72%, 78%);
+  */
+
+  --primary-color:        var(--aqua);
+  --primary-color-dark:   var(--aqua-dark);
+  --secondary-color:      var(--orange);
+  --secondary-color-dark: var(--orange-dark);
+
+
+  /*
+  --aqua:      hsl(164, 71%, 55%);
+  --aqua-dark: hsl(164, 61%, 45%);
+  --apple:     hsl(344, 71%, 55%);
+  --sky:       hsl(194, 71%, 55%);
+  */
 }
 
 body {
@@ -15,17 +41,22 @@ body {
   color: var(--midnight);
 }
 
+body.venues-page {
+  --primary-color:        var(--sky);
+  --secondary-color:      var(--sky);
+}
+
 a {
-  color: var(--aqua, gray);
+  color: var(--secondary-color, gray);
   transition: color 0.2s, background-color 0.2s;
 }
 a:hover,
 a:active,
 a:focus {
-  color: var(--aqua-dark);
+  color: var(--secondary-color-dark);
 }
 .action a {
-  background-color: var(--aqua, gray);
+  background-color: var(--primary-color, gray);
   color: var(--snow, white);
   /*! text-transform: uppercase; */
   padding: calc(var(--vertical-rhythm) * 1/2) calc(var(--vertical-rhythm) * 1);
@@ -40,16 +71,16 @@ a:focus {
 .action a:hover,
 .action a:active,
 .action a:focus {
-  background-color: var(--aqua-dark, black);
+  background-color: var(--primary-color-dark, black);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--aqua, gray);
+  color: var(--primary-color, gray);
 }
 
 /*
 .welcome {
-  background-color: var(--aqua, black);
+  background-color: var(--primary-color, black);
   color: white;
   padding: calc(var(--vertical-rhythm) * 1) calc(var(--vertical-rhythm));
 }
