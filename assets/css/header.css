@@ -205,7 +205,7 @@ header nav ul {
 }
 
 
-@media (min-width: 40em) and (max-width: 60em) {
+@media (min-width: 35em) and (max-width: 42.5em) {
   header nav {
     /*! grid-template-columns: repeat( auto-fit, auto ); */
   }
@@ -227,7 +227,7 @@ header nav ul {
   }
 }
 
-@media (min-width: 60em) {
+@media (min-width: 42.5em) {
   header nav {
     /*! grid-template-columns: repeat( auto-fit, auto ); */
   }
@@ -328,7 +328,7 @@ header .city a span {
   /*! transform: rotate(180deg); */
 }
 
-@media (max-width: 25em) {
+@media (max-width: 50em) {
   header h2 {
     margin-top: calc(var(--vertical-rhythm) * 1);
   }
