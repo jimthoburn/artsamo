@@ -78,37 +78,44 @@
     </a>
   </h2>
   <nav>
-    <h3><a href="/">Go See Art</a></h3>
+    <h3><a href="/"{% if page.url == '/' %}        class="active" {% endif %}>Go See Art</a></h3>
     <ul>
-      <li><a href="/events/">Events</a></li>
-      <li><a href="/venues/">Venues</a></li>
-      <li><a href="/public-art/">Public Art</a></li>
+      <li><a href="/events/"     {% if page.url == '/events/' %}        class="active" {% endif %}>Events</a></li>
+      <li><a href="/venues/"     {% if page.url == '/venues/' %}        class="active" {% endif %}>Venues</a></li>
+      <li><a href="/public-art/" {% if page.url == '/public-art/' %}    class="active" {% endif %}>Public Art</a></li>
     </ul>
-    <h3><a href="/opportunities/">Opportunities</a></h3>
+    <h3><a href="/opportunities/" {% if page.url == '/opportunities/' %} class="active" {% endif %}>Opportunities</a></h3>
     <ul>
-      <li><a href="/opportunities-for-artists/">Artists</a></li>
-      <li><a href="/opportunities-for-organizations/">Organizations</a></li>
+      <li><a href="/opportunities-for-artists/"       {% if page.url == '/opportunities-for-artists/' %}         class="active" {% endif %}>Artists</a></li>
+      <li><a href="/opportunities-for-organizations/" {% if page.url == '/opportunities-for-organizations/' %}         class="active" {% endif %}>Organizations</a></li>
     </ul>
-    <h3><a href="/about/">About</a></h3>
+    <h3><a href="/about/" {% if page.url == '/about/' %}         class="active" {% endif %}>About</a></h3>
     <ul>
-      <li><a href="/contact/">Contact</a></li>
+      <li><a href="/contact/" {% if page.url == '/contact/' %}       class="active" {% endif %}>Contact</a></li>
     </ul>
   </nav>
   {% comment %}
-  <ul>
-    <li><a href="/events/"        {% if page.url == '/events/' %}        class="active" {% endif %}>Events</a></li>
-    <li><a href="/venues/"        {% if page.url == '/venues/' %}        class="active" {% endif %}>Venues</a></li>
-    <li><a href="/public-art/"    {% if page.url == '/public-art/' %}    class="active" {% endif %}>Public Art</a></li>
-    <li><a href="/opportunities/" {% if page.url == '/opportunities/' %} class="active" {% endif %}>Opportunities</a></li>
-    <li><a href="/about/"         {% if page.url == '/about/' %}         class="active" {% endif %}>About</a></li>
-    <li><a href="/contact/"       {% if page.url == '/contact/' %}       class="active" {% endif %}>Contact</a></li>
-    <!-- <li>
-      <a href="https://www.santamonica.gov/">
-        <img src="/assets/images/city-logo.svg" height="50" alt="" />
-        City of Santa Monica
-      </a>
-    </li> -->
-  </ul>
+    <ul>
+      <li><a href="/events/"        {% if page.url == '/events/' %}        class="active" {% endif %}>Events</a></li>
+      <li><a href="/venues/"        {% if page.url == '/venues/' %}        class="active" {% endif %}>Venues</a></li>
+      <li><a href="/public-art/"    {% if page.url == '/public-art/' %}    class="active" {% endif %}>Public Art</a></li>
+      <li><a href="/opportunities/" {% if page.url == '/opportunities/' %} class="active" {% endif %}>Opportunities</a></li>
+      <li><a href="/about/"         {% if page.url == '/about/' %}         class="active" {% endif %}>About</a></li>
+      <li><a href="/contact/"       {% if page.url == '/contact/' %}       class="active" {% endif %}>Contact</a></li>
+    </ul>
+  {% endcomment %}
+  {% comment %}
+    <h3>Search</h3>
+    <form role="search" action="https://duckduckgo.com/" method="get">
+      <input type="hidden" name="sites" value="santamonica.gov">
+      <p>
+        <label>
+          <span>Keywords</span>
+          <input type="search" name="q">
+        </label>
+        <button type="submit">Search</button>
+      </p>
+    </form>
   {% endcomment %}
   <p class="city">
     <a href="https://www.santamonica.gov/">
@@ -118,55 +125,6 @@
   </p>
 </header>
 
-{% comment %}
-<header>
-  <h2>
-    <a href="/">
-      Santa Monica Cultural Affairs
-    </a>
-  </h2>
-  <p>
-    <a href="https://santamonica.gov">
-      <img src="/assets/images/city-of-santa-monica.png" alt="Brought to you by the City of Santa Monica" width="100" height="100" />
-    </a>
-  </p>
-  <h3>Go See Art</h3>
-  <ul>
-    <li><a href="/public-art/">Public Art</a></li>
-    <li><a href="/events/">Events</a></li>
-    <li><a href="/venues/">Venues</a></li>
-  </ul>
-  <h3>Opportunities</h3>
-  <ul>
-    <li><a href="/opportunities-for-artists/">For Artists</a></li>
-    <li><a href="/opportunities-for-organizations/">For Organizations</a></li>
-  </ul>
-  <h3>About</h3>
-  <ul>
-    <li><a href="/about/#leadership">Leadership</a></li>
-    <li><a href="/about/#foundation">Foundation</a></li>
-    <li><a href="/about/#policy-and-planning">Policy &amp; Planning</a></li>
-    <li><a href="/about/#public-art-program">Public Art Program</a></li>
-  </ul>
-  <h3></h3>
-  <ul>
-    <li><a href="/about/#faqs">FAQs</a></li>
-    <li><a href="/about/#faqs">Resources</a></li>
-    <li><a href="/contact/">Contact</a></li>
-  </ul>
-  <h3>Search</h3>
-  <form role="search" action="https://duckduckgo.com/" method="get">
-    <input type="hidden" name="sites" value="santamonica.gov">
-    <p>
-      <label>
-        <span>Keywords</span>
-        <input type="search" name="q">
-      </label>
-      <button type="submit">Search</button>
-    </p>
-  </form>
-</header>
-{% endcomment %}
 
 <main>
   {{ content }}

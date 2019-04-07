@@ -15,8 +15,8 @@ title: Santa Monica Cultural Affairs
 
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
 
-<p class="go-see-art" id="go-see-art">
-  <a>
+<p class="go-see-art">
+  <a href="#go-see-art">
     <span>
       <span class="image"><img src="/uploads/go-see-art-1.jpg" height="100" alt="" /></span>
       <span class="text">Go</span>

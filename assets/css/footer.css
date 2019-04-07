@@ -98,6 +98,7 @@ footer img[src*="city"] {
     position: relative;
     margin-left: auto;
     margin-right: auto;
+    font-size: calc(0.5em + 0.75vw);
   }
   footer .artsamo-image img {
     position: absolute;
@@ -179,6 +180,7 @@ footer .locations img + br {
 }
 
 footer .artsamo {
+  margin-top: calc(var(--vertical-rhythm) * 4);
   grid-column: 1/-1;
   justify-self: center;
   text-align: center;
