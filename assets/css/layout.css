@@ -76,6 +76,7 @@ main > figure:first-child figcaption {
   align-self: end;
   padding: calc(var(--vertical-rhythm) * 1/4) calc(var(--vertical-rhythm) * 1/2);
   background: white;
+  background: var(--snow);
   font-size: 0.75em;
   position: relative;
   z-index: 1;

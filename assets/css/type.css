@@ -26,13 +26,12 @@ body {
   font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: var(--unitless-vertical-rhythm);
   font-size: 100%;
-  font-size: calc(0.75em + 0.75vmin);
   margin: 0;
   padding: var(--vertical-rhythm);
   background: hsl(0, 0%, 99%);
   color: hsl(0, 0%, 10%);
   /*! font-size: 100%; */
-  font-size: calc(0.875em + 0.5vmin);
+  font-size: calc(0.75em + 0.5vw);
 }
 
 @media (min-width: 40em) {
@@ -73,7 +72,7 @@ h1 {
   line-height: 1.125;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  transform: skewY(-8deg) translateY(-17.5%);
+  transform: skewY(-8deg) translateY(-5%);
   text-align: center;
 }
 h1 small {
