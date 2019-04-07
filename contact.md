@@ -6,14 +6,14 @@ Contact
 =======
 
 <p id="contact">
-  <strong>Santa Monica Cultural Affairs Division</strong><br />
+  <strong>Santa Monica<br />Cultural Affairs Division</strong><br />
   1437 4th Street, Suite 310<br />
   Santa Monica, CA 90401
 </p>
 <p>310-458-8350</p>
 <p><a href="mailto:culture@smgov.net">culture@smgov.net</a></p>
 
-### Santa Monica Cultural Affairs Staff
+### Santa Monica<br />Cultural Affairs Staff
 
 *   [Shannon Daut](mailto:shannon.daut@smgov.net), Cultural Affairs Manager
 *   [Nathan Birnbaum](mailto:nathan.birnbaum@smgov.net), Cultural Affairs Administrator, Grants & Special Projects

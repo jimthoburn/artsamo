@@ -89,6 +89,7 @@ footer img[src*="city"] {
   /* footer .artsamo-image-fallback {
     display: none;
   } */
+  
   footer .artsamo-image {
     display: block;
     width: 15.3125em;
@@ -98,7 +99,12 @@ footer img[src*="city"] {
     position: relative;
     margin-left: auto;
     margin-right: auto;
-    font-size: calc(0.5em + 0.75vw);
+    font-size: 0.375em;
+  }
+  @media (min-width: 30em) {
+    footer .artsamo-image {
+      font-size: calc(0.5em + 1vw);
+    }
   }
   footer .artsamo-image img {
     position: absolute;

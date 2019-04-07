@@ -23,17 +23,24 @@ tbody th,
 tbody td {
   border-top: 1px solid rgb(225, 225, 225); /* @aluminum */
 }
-
 th,
 td {
   text-align: left;
-  padding: calc(var(--vertical-rhythm) * 1.125);
+  padding: calc(var(--vertical-rhythm) * 0.5);
   vertical-align: top;
   /*! padding-top: 0; */
   font-weight: inherit;
 }
+
+@media (min-width: 30em) {
+  th,
+  td {
+    padding: calc(var(--vertical-rhythm) * 1.125);
+  }
+}
+
 thead th {
-  padding-top: 0.625em;
+  padding-top: 0.325em;
 }
 th:first-child {
   padding-left: 0;

@@ -219,7 +219,7 @@ header ul {
 
 header nav {
   display: grid;
-  padding: calc(var(--vertical-rhythm) * 4/4) calc(var(--vertical-rhythm) * 5/4) calc(var(--vertical-rhythm) * 4/4) calc(var(--vertical-rhythm) * 5/4);
+  padding: calc(var(--vertical-rhythm) * 3/4) calc(var(--vertical-rhythm) * 3/4) calc(var(--vertical-rhythm) * 5/4);
   margin-bottom: calc(var(--vertical-rhythm) * 1);
   grid-column-gap: calc(var(--vertical-rhythm) * 4/4);
   align-self: end;
@@ -227,6 +227,15 @@ header nav {
   text-align: right;
   grid-row: 1/-1;
   grid-column: 2/-1;
+}
+
+@media (min-width: 25em) {
+  header nav {
+    padding: calc(var(--vertical-rhythm) * 3/4)
+             calc(var(--vertical-rhythm) * 5/4)
+             calc(var(--vertical-rhythm) * 5/4)
+             calc(var(--vertical-rhythm) * 5/4);
+  }
 }
 
 @media (min-width: 50em) and (min-height: 50em) {
@@ -247,15 +256,14 @@ header nav ul {
 }
 
 
-@media (max-width: 42.5em) {
+/* @media (max-width: 42.5em) {
   header nav {
     padding-top: 0;
-    /*! grid-template-columns: repeat( auto-fit, auto ); */
   }
   header nav h3 {
     margin-top: calc(var(--vertical-rhythm) * 4/4);
   }
-}
+} */
 @media (min-width: 30em) and (max-width: 42.5em) {
   header nav h3:nth-of-type(1),
   header nav h3:nth-of-type(2) {
@@ -305,6 +313,7 @@ header h3 {
 header h3 a {
   text-decoration: none;
   color: inherit;
+  color: var(--color);
   padding: calc(var(--vertical-rhythm) * 1/4) calc(var(--vertical-rhythm) * 2/4);
   display: block;
   font-variant: small-caps;
@@ -325,6 +334,7 @@ header h3 a.active {
 header h3 a:hover,
 header h3 a:active,
 header h3 a:focus {
+  color: var(--color);
   text-decoration: underline;
 }
 

@@ -76,19 +76,22 @@ h1 {
   transform: skewY(-8deg) translateY(-17.5%);
   text-align: center;
 }
-
-@media (max-width: 50em) {
-  h1 ~ h1 {
-    --font-size: 3em;
-    /*! overflow-wrap: break-word; */
-  }
-}
-
 h1 small {
   font-size: 0.5em;
   display: block;
   font-weight: var(--light);
 }
+
+@media (max-width: 50em) {
+  h1 ~ h1 {
+    --font-size: 2.5em;
+    /*! overflow-wrap: break-word; */
+  }
+  h1 ~ h1 small {
+    font-weight: normal;
+  }
+}
+
 h1 img {
   height: 0.75em;
   width: auto;
