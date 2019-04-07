@@ -18,15 +18,15 @@ We are a community like no other. And the thread that binds the soul of our comm
 <p class="go-see-art">
   <a href="#go-see-art">
     <span>
-      <span class="image"><img src="/uploads/go-see-art-1.jpg" height="100" alt="" /></span>
+      <span class="image"><img src="" height="100" alt="" /></span>
       <span class="text">Go</span>
     </span>
     <span>
-      <span class="image"><img src="/uploads/go-see-art-2.jpg" height="100" alt="" /></span>
+      <span class="image"><img src="" height="100" alt="" /></span>
       <span class="text">See</span>
     </span>
     <span>
-      <span class="image"><img src="/uploads/go-see-art-3.jpg" height="100" alt="" /></span>
+      <span class="image"><img src="" height="100" alt="" /></span>
       <span class="text">Art</span>
     </span>
   </a>
@@ -213,17 +213,23 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 
   (function() {
     const image = images[getUniqueRandomNumber()];
-    document.querySelector(".go-see-art a > span:nth-of-type(1) img").setAttribute("src", image.url);
+    let url = image.url;
+    if (url.includes("2048-wide")) url = url.replace("2048-wide", "1024-wide")
+    document.querySelector(".go-see-art a > span:nth-of-type(1) img").setAttribute("src", url);
   })();
 
   (function() {
     const image = images[getUniqueRandomNumber()];
-    document.querySelector(".go-see-art a > span:nth-of-type(2) img").setAttribute("src", image.url);
+    let url = image.url;
+    if (url.includes("2048-wide")) url = url.replace("2048-wide", "1024-wide")
+    document.querySelector(".go-see-art a > span:nth-of-type(2) img").setAttribute("src", url);
   })();
 
   (function() {
     const image = images[getUniqueRandomNumber()];
-    document.querySelector(".go-see-art a > span:nth-of-type(3) img").setAttribute("src", image.url);
+    let url = image.url;
+    if (url.includes("2048-wide")) url = url.replace("2048-wide", "1024-wide")
+    document.querySelector(".go-see-art a > span:nth-of-type(3) img").setAttribute("src", url);
   })();
 
 })();
