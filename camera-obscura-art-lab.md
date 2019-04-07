@@ -139,7 +139,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
 
 Workshops at the Camera Obscura Art Lab are wheelchair accessible and ADA compliant. NOTE: the camera obscura mechanism is located up fourteen steps and is not wheelchair accessible. If you require any special disability related accommodations please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
-_ [Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/Shared-Mobility-Services/) cannot be used within the park around the Camera Obscura Art Lab._
+_[Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/Shared-Mobility-Services/) cannot be used within the park around the Camera Obscura Art Lab._
 
 ### Train
 

@@ -4,11 +4,11 @@ title: Public Art, Santa Monica
 
 <figure>
   <img
-    src="/assets/images/go-see-art.jpg"
+    src=""
     height="300"
-    alt="Wheels by Anne Marie Karlsen"
+    alt=""
   />
-  <figcaption><em>Wheels</em> by Anne Marie Karlsen</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 Public Art

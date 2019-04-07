@@ -204,7 +204,7 @@ Example HTML
     if (itemLimitReached && more) {
       more.style.visibility = "visible"
     } else {
-      more.style.display = "none"
+      if (more) more.style.display = "none"
     }
 
     let fallback = document.querySelector("[data-events-fallback]")
