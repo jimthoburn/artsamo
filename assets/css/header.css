@@ -336,7 +336,7 @@ header li {
 
 header .city {
   grid-row: 1/-1;
-  grid-column: -2/-1;
+  grid-column: 1/-1;
   margin: 0;
   /*! background-color: hsla(0, 0%, 0%, 0.1); */
   max-width: none;
