@@ -352,6 +352,9 @@ header .city {
   z-index: 1;
   text-align: right;
   align-self: start;
+  /*! background: red; */
+  justify-self: end;
+  margin-left: auto; /* For Safari */
 }
 
 @media (max-width: 90em) {
