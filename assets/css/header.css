@@ -61,10 +61,7 @@ header li a {
   color: var(--aqua);
   display: block;
   padding:
-    calc(var(--vertical-rhythm) * 1/4)
-    calc(var(--vertical-rhythm) * 2/4)
-    calc(var(--vertical-rhythm) * 1/4)
-    calc(var(--vertical-rhythm) * 0/4);
+    calc(var(--vertical-rhythm) * 2/4) calc(var(--vertical-rhythm) * 3/4) calc(var(--vertical-rhythm) * 2/4) calc(var(--vertical-rhythm) * 0/4);
   text-decoration: none;
 /*   text-transform: uppercase; */
   font-weight: 400;
@@ -72,15 +69,16 @@ header li a {
 /*   background-color: hsl(0, 0%, 95%); */
   /*! display: block; */
   /*! text-align: center; */
-  font-variant: small-caps;
-  text-transform: lowercase;
-  letter-spacing: 0.2em;
-  font-family: canada-type-gibson, sans-serif;
-  font-weight: 500;
+  /*! font-variant: small-caps; */
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  /*! font-family: canada-type-gibson, sans-serif; */
+  font-weight: 400;
   line-height: 1;
-  font-size: 1.375em;
+  /*! font-size: 1.375em; */
+  font-size: 0.925em;
   color: var(--color);
-  border-right: 0.25em solid hsl(0, 0%, 95%);
+  border-right: 0.375em solid hsl(0, 0%, 95%);
 }
 header h3:nth-of-type(1) a,
 header ul:nth-of-type(1) a {
@@ -209,7 +207,7 @@ header ul {
 
 header nav {
   display: grid;
-    padding: calc(var(--vertical-rhythm) * 4/4);
+  padding: calc(var(--vertical-rhythm) * 4/4);
   margin-bottom: calc(var(--vertical-rhythm) * 1);
   grid-column-gap: calc(var(--vertical-rhythm) * 4/4);
   align-self: end;
@@ -225,14 +223,11 @@ header nav {
   }
 }
  */
-@media (min-width: 50em) and (min-height: 50em) {
+@media (min-width: 30em) and (min-height: 30em) {
   header nav {
     /* font-size: 2.25vmin; */
 /*     grid-column-gap: calc(var(--vertical-rhythm) * 7/4); */
-/*     padding: calc(var(--vertical-rhythm) * 6/4)
-             calc(var(--vertical-rhythm) * 4/4)
-             calc(var(--vertical-rhythm) * 6/4)
-             calc(var(--vertical-rhythm) * 7/4); */
+    padding: calc(var(--vertical-rhythm) * 8/4);
   }
 }
 
@@ -251,7 +246,7 @@ header nav ul {
     margin-top: calc(var(--vertical-rhythm) * 4/4);
   }
 } */
-@media (min-width: 30em) and (max-width: 42.5em) {
+@media (min-width: 40em) and (max-width: 55em) {
   header nav h3:nth-of-type(1) {
     grid-row: 1/2;
   }
@@ -272,7 +267,7 @@ header nav ul {
   }
 }
 
-@media (min-width: 42.5em) {
+@media (min-width: 55em) {
   header nav {
     /*! grid-template-columns: repeat( auto-fit, auto ); */
   }
@@ -303,19 +298,20 @@ header h3 a {
   text-decoration: none;
   color: inherit;
   color: var(--color);
-  padding: calc(var(--vertical-rhythm) * 1/4) calc(var(--vertical-rhythm) * 2/4);
+  padding: calc(var(--vertical-rhythm) * 2/4) calc(var(--vertical-rhythm) * 3/4) calc(var(--vertical-rhythm) * 2/4) 0;
   display: block;
-  font-variant: small-caps;
-  text-transform: lowercase;
-  letter-spacing: 0.2em;
+  /*! font-variant: small-caps; */
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
   white-space: nowrap;
-  font-family: canada-type-gibson, sans-serif;
-  font-weight: 500;
+  /*! font-family: canada-type-gibson, sans-serif; */
+  font-weight: 400;
   font-size: ;
   line-height: 1;
-  font-size: 1.375em;
-  border-right: 0.25em solid hsl(0, 0%, 95%);
+  /*! font-size: 1.375em; */
+  border-right: 0.375em solid hsl(0, 0%, 95%);
   /*! border-radius: 0.25em; */
+  font-size: 0.925em;
 }
 header h3 a.active {
   border-color: var(--color);
@@ -398,7 +394,7 @@ header .city a span {
   /*! transform: rotate(180deg); */
 }
 
-@media (max-width: 60em) {
+@media (max-width: 70em) {
   header h2 {
     margin-top: calc(var(--vertical-rhythm) * 1);
   }
