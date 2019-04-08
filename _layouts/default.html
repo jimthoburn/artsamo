@@ -83,7 +83,9 @@
       <li><a href="/events/"     {% if page.url == '/events/' %}        class="active" {% endif %}>Events</a></li>
       <li class="nav-item-with-venues">
         <a href="/venues/"     {% if page.url == '/venues/' %}        class="active" {% endif %}>Venues</a>
-        <ul>
+        <ul {% if page.url == '/miles-memorial-playhouse/'
+               or page.url == '/beach-culture/'
+               or page.url == '/camera-obscura-art-lab/' %} class="active" {% endif %}>
           <li>
             <a href="/miles-memorial-playhouse/">
               <img src="/uploads/icon-miles-playhouse.png" height="25" alt="Miles Memorial Playhouse" />

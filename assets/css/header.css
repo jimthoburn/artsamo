@@ -444,6 +444,7 @@ header .city a span {
   display: grid;
 }
 .nav-item-with-venues ul {
+  --color: var(--aqua);
   display: flex;
   /*! order: -1; */
   /*! margin-right: 1em; */
@@ -456,13 +457,16 @@ header .city a span {
   border-right: 0.375em solid hsl(0, 0%, 95%);
   padding: calc(var(--vertical-rhythm) * 2/8) calc(var(--vertical-rhythm) * 2/4) calc(var(--vertical-rhythm) * 3/8) calc(var(--vertical-rhythm) * 0/4);
 }
+.nav-item-with-venues ul.active {
+  border-color: var(--color);
+}
 .nav-item-with-venues li {
   /*! line-height: 1; */
 }
 .nav-item-with-venues img {
-  width: auto;
+  width: calc(var(--vertical-rhythm) * 1);
   height: calc(var(--vertical-rhythm) * 1);
   /*! vertical-align: -50%; */
-  margin: 0 0.375em;
+  margin: 0 calc(var(--vertical-rhythm) * 1/4);
   display: block;
 }
