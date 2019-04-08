@@ -120,11 +120,6 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
       caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
     },
     {
-      title: "Public art in Santa Monica",
-      url: "/assets/images/go-see-art.jpg",
-      caption: "<em>Wheels</em> by Anne Marie Karlsen"
-    },
-    {
       title: "Musicians at the COAST event",
       url: "/uploads/coast-band.jpg",
       caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`

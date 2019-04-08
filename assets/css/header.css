@@ -60,7 +60,11 @@ header ul {
 header li a {
   color: var(--aqua);
   display: block;
-  padding: calc(var(--vertical-rhythm) * 1/4) calc(var(--vertical-rhythm) * 2/4);
+  padding:
+    calc(var(--vertical-rhythm) * 1/4)
+    calc(var(--vertical-rhythm) * 2/4)
+    calc(var(--vertical-rhythm) * 1/4)
+    calc(var(--vertical-rhythm) * 0/4);
   text-decoration: none;
 /*   text-transform: uppercase; */
   font-weight: 400;
@@ -71,11 +75,10 @@ header li a {
   font-variant: small-caps;
   text-transform: lowercase;
   letter-spacing: 0.2em;
-  white-space: nowrap;
   font-family: canada-type-gibson, sans-serif;
   font-weight: 500;
   line-height: 1;
-  font-size: 1.125em;
+  font-size: 1.375em;
   color: var(--color);
   border-right: 0.25em solid hsl(0, 0%, 95%);
 }
@@ -118,7 +121,8 @@ header {
   position: relative;
   z-index: 1;
   display: grid;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: max-content 1fr max-content;
+  grid-template-rows: auto auto;
 }
 /* header ul {
   grid-row: 2 / 3;
@@ -137,7 +141,7 @@ header h2 {
   /*! display: grid; */
   position: relative;
   z-index: 1;
-  grid-row: 1/2;
+  grid-row: 2/-1;
 }
 
 header ul {
@@ -205,33 +209,30 @@ header ul {
 
 header nav {
   display: grid;
-  padding: calc(var(--vertical-rhythm) * 3/4) calc(var(--vertical-rhythm) * 3/4) calc(var(--vertical-rhythm) * 5/4);
+    padding: calc(var(--vertical-rhythm) * 4/4);
   margin-bottom: calc(var(--vertical-rhythm) * 1);
   grid-column-gap: calc(var(--vertical-rhythm) * 4/4);
   align-self: end;
   justify-self: start;
   text-align: right;
-  grid-row: 1/-1;
+  grid-row: -2/-1;
   grid-column: 2/-1;
 }
-
+/* 
 @media (min-width: 25em) {
   header nav {
-    padding: calc(var(--vertical-rhythm) * 3/4)
-             calc(var(--vertical-rhythm) * 5/4)
-             calc(var(--vertical-rhythm) * 5/4)
-             calc(var(--vertical-rhythm) * 5/4);
+    padding: calc(var(--vertical-rhythm) * 4/4);
   }
 }
-
+ */
 @media (min-width: 50em) and (min-height: 50em) {
   header nav {
     /* font-size: 2.25vmin; */
-    grid-column-gap: calc(var(--vertical-rhythm) * 7/4);
-    padding: calc(var(--vertical-rhythm) * 6/4)
-             calc(var(--vertical-rhythm) * 7/4)
+/*     grid-column-gap: calc(var(--vertical-rhythm) * 7/4); */
+/*     padding: calc(var(--vertical-rhythm) * 6/4)
+             calc(var(--vertical-rhythm) * 4/4)
              calc(var(--vertical-rhythm) * 6/4)
-             calc(var(--vertical-rhythm) * 7/4);
+             calc(var(--vertical-rhythm) * 7/4); */
   }
 }
 
@@ -250,26 +251,28 @@ header nav ul {
     margin-top: calc(var(--vertical-rhythm) * 4/4);
   }
 } */
-@media (min-width: 34em) and (max-width: 47.5em) {
-  header nav h3:nth-of-type(1),
-  header nav h3:nth-of-type(2) {
+@media (min-width: 30em) and (max-width: 42.5em) {
+  header nav h3:nth-of-type(1) {
     grid-row: 1/2;
   }
-  header nav ul:nth-of-type(1),
-  header nav ul:nth-of-type(2) {
+  header nav ul:nth-of-type(1) {
     grid-row: 2/3;
   }
-  header nav h3:nth-of-type(3),
-  header nav h3:nth-of-type(4) {
+  header nav h3:nth-of-type(3) {
+    grid-row: 1/2;
+  }
+  header nav ul:nth-of-type(3) {
+    grid-row: 2/3;
+  }
+  header nav h3:nth-of-type(2) {
     grid-row: 3/4;
   }
-  header nav ul:nth-of-type(3),
-  header nav ul:nth-of-type(4) {
+  header nav ul:nth-of-type(2) {
     grid-row: 4/5;
   }
 }
 
-@media (min-width: 47.5em) {
+@media (min-width: 42.5em) {
   header nav {
     /*! grid-template-columns: repeat( auto-fit, auto ); */
   }
@@ -310,7 +313,7 @@ header h3 a {
   font-weight: 500;
   font-size: ;
   line-height: 1;
-  font-size: 1.125em;
+  font-size: 1.375em;
   border-right: 0.25em solid hsl(0, 0%, 95%);
   /*! border-radius: 0.25em; */
 }
@@ -331,7 +334,7 @@ header li {
 }
 
 header .city {
-  grid-row: 1/-1;
+  grid-row: 1/2;
   grid-column: 1/-1;
   margin: 0;
   /*! background-color: hsla(0, 0%, 0%, 0.1); */
@@ -352,11 +355,14 @@ header .city {
   justify-self: end;
   margin-left: auto; /* For Safari */
 }
-
-@media (max-width: 95em) {
-  header nav {
+header nav {
+  justify-self: unset;
+}
+@media (max-width: 100em) {
+/*   header nav {
     margin-top: calc(var(--vertical-rhythm) * 3);
-  }
+    justify-self: unset;
+  } */
 }
 
 header .city a {
