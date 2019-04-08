@@ -81,7 +81,31 @@
     <h3><a href="/"{% if page.url == '/' %}        class="active" {% endif %}>Go See Art</a></h3>
     <ul>
       <li><a href="/events/"     {% if page.url == '/events/' %}        class="active" {% endif %}>Events</a></li>
-      <li><a href="/venues/"     {% if page.url == '/venues/' %}        class="active" {% endif %}>Venues</a></li>
+      <li class="nav-item-with-venues">
+        <a href="/venues/"     {% if page.url == '/venues/' %}        class="active" {% endif %}>Venues</a>
+        <ul>
+          <li>
+            <a href="/miles-memorial-playhouse/">
+              <img src="/uploads/icon-miles-playhouse.png" height="25" alt="Miles Memorial Playhouse" />
+            </a>
+          </li>
+          <li>
+            <a href="https://www.smgov.net/departments/ccs/civicauditorium/">
+              <img src="/uploads/icon-civic-auditorium.png" height="25" alt="Santa Monica Civic Auditorium" />
+            </a>
+          </li>
+          <li>
+            <a href="/beach-culture/">
+              <img src="/uploads/icon-beachhouse.png" height="25" alt="Beach=Culture at Annenberg Community Beach House" />
+            </a>
+          </li>
+          <li>
+            <a href="/camera-obscura-art-lab/">
+              <img src="/uploads/icon-camera-obscura.png" height="25" alt="amera Obscura Art Lab" />
+            </a>
+          </li>
+        </ul>
+      </li>
       <li><a href="/public-art/" {% if page.url == '/public-art/' %}    class="active" {% endif %}>Public Art</a></li>
     </ul>
     <h3><a href="/opportunities/" {% if page.url == '/opportunities/' %} class="active" {% endif %}>Opportunities</a></h3>
@@ -94,16 +118,6 @@
       <li><a href="/contact/" {% if page.url == '/contact/' %}       class="active" {% endif %}>Contact</a></li>
     </ul>
   </nav>
-  {% comment %}
-    <ul>
-      <li><a href="/events/"        {% if page.url == '/events/' %}        class="active" {% endif %}>Events</a></li>
-      <li><a href="/venues/"        {% if page.url == '/venues/' %}        class="active" {% endif %}>Venues</a></li>
-      <li><a href="/public-art/"    {% if page.url == '/public-art/' %}    class="active" {% endif %}>Public Art</a></li>
-      <li><a href="/opportunities/" {% if page.url == '/opportunities/' %} class="active" {% endif %}>Opportunities</a></li>
-      <li><a href="/about/"         {% if page.url == '/about/' %}         class="active" {% endif %}>About</a></li>
-      <li><a href="/contact/"       {% if page.url == '/contact/' %}       class="active" {% endif %}>Contact</a></li>
-    </ul>
-  {% endcomment %}
   {% comment %}
     <h3>Search</h3>
     <form role="search" action="https://duckduckgo.com/" method="get">
