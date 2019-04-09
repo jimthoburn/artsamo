@@ -35,7 +35,9 @@ main > figure:first-child > * {
   grid-row: 1 / -1;
 }
 main > h1 + figure img,
-main > figure:first-child img {
+main > figure:first-child img,
+main > h1 + figure video,
+main > figure:first-child video {
   width: 100%;
   height: 100%;
   height: calc(100vh - calc(var(--vertical-rhythm) * 4 * 1.25));
@@ -44,11 +46,21 @@ main > figure:first-child img {
   object-fit: cover;
   object-position: center;
   min-height: 33.333vw;
+}
+main > h1 + figure video,
+main > figure:first-child video {
+  position: relative;
+  z-index: 1;
+}
+main > h1 + figure img,
+main > figure:first-child img {
   opacity: 0.75;
 }
 @media (max-aspect-ratio: 1/1) {
   main > h1 + figure img,
-  main > figure:first-child img {
+  main > figure:first-child img,
+  main > h1 + figure video,
+  main > figure:first-child video {
     height: calc(100vw - 3em);
     /*! min-height: 100%; */
   }
@@ -66,6 +78,8 @@ main > figure:first-child img[src*="svg"] {
   /*! object-position: bottom; */
   transform: scale(1.05);
   opacity: 1;
+  position: relative;
+  z-index: 2;
 }
 main > figure:first-child img[src*="jpg"] {
   /*! transform: scale(1.4) translate(0, 20%); */

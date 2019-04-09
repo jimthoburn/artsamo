@@ -4,12 +4,21 @@ title: Santa Monica Cultural Affairs
 
 <figure>
   <img height="300" alt="" />
+  <script type="text/template">
+    <video width="1920" height="1080" autoplay loop muted playsinline>
+      <source src="https://jimthoburn.com/artsamo/2018_BeachDances_ACBH_JayCarlon_4TrianglesVideo.mp4" type="video/mp4" />
+      <!-- <source src=".webm" type="video/webm" /> -->
+    </video>
+  </script>
+  <script type="text/template">
+    <video width="1920" height="1080" autoplay loop muted playsinline>
+      <source src="https://jimthoburn.com/artsamo/Beach Dances 2018  1 min CityTV spot.mp4" type="video/mp4" />
+      <!-- <source src=".webm" type="video/webm" /> -->
+    </video>
+  </script>
   <img src="/assets/images/logotype/artsamo.svg" height="300" alt="ArtSaMo" />
   <figcaption></figcaption>
 </figure>
-
-
-
 
 <h2>Welcome to ArtSaMo</h2>
 
@@ -194,9 +203,31 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
     return unique;
   }
 
+  function showVideo(number) {
+    let videoTemplates = document.querySelectorAll("figure script[type='text/template']");
+    console.dir({ template: videoTemplates[number], number: number })
+    if (videoTemplates.length > 0 && videoTemplates[number]) {
+      videoTemplates[number].parentNode.insertAdjacentHTML("afterbegin", videoTemplates[number].innerHTML);
+      return true;
+    }
+  }
+
   (function() {
+    let imageOrVideo = getRandomInt(0, images.length + 1);
+    
+    let success = false
+    if (imageOrVideo > images.length - 1) {
+      success = showVideo(imageOrVideo - images.length)
+      
+    }
+    if (success) {
+      const photoCredit = document.querySelector("figcaption");
+      if (photoCredit) photoCredit.parentNode.removeChild(photoCredit);
+      return
+    }
+    
     const image = images[getUniqueRandomNumber()];
-  
+
     document.querySelector("figure img").setAttribute("src", image.url);
     document.querySelector("figure img").setAttribute("alt", image.title);
   
