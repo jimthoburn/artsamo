@@ -65,14 +65,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  --font-size: 6vw;
+  --font-size: calc(0.75em + 4vw);
   font-family: canada-type-gibson, sans-serif;
   font-weight: 700;
   font-style: normal;
   line-height: 1.125;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  transform: skewY(-8deg) translateY(-5%);
+  transform: skewY(-8deg);
   text-align: center;
 }
 h1 small {

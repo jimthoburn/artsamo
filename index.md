@@ -204,6 +204,8 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
   }
 
   function showVideo(number) {
+    return false;
+
     let videoTemplates = document.querySelectorAll("figure script[type='text/template']");
     console.dir({ template: videoTemplates[number], number: number })
     if (videoTemplates.length > 0 && videoTemplates[number]) {
