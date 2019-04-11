@@ -56,7 +56,7 @@ Example HTML
             <dd>310-458-8350</dd>
           </dl>
 
-          <p class="action"><a href="{{ url }}">Get {{ urlType }}</a></p>
+          <p class="action"><a href="{{ url }}">Can you come?</a></p>
         </div>
       </details>
     </li>
@@ -255,10 +255,10 @@ Example HTML
     let categories  = itemData.event_types
     let ages        = itemData.age_groups
     let url         = itemData.detail_url
-    let urlDomain   = url.split("/")[2]
-    let urlType     = urlDomain.includes("activecommunities.com") ||
-                      urlDomain.includes("eventbrite.com") ? "tickets"
-                                                           : "more details"
+    // let urlDomain   = url.split("/")[2]
+    // let urlType     = urlDomain.includes("activecommunities.com") ||
+    //                   urlDomain.includes("eventbrite.com") ? "tickets"
+    //                                                        : "more details"
     let dataCategories = itemData.event_types ? itemData.event_types.toLowerCase() : null
     let dataDescription = itemData.description ? itemData.description.toLowerCase() : null
 
@@ -286,8 +286,8 @@ Example HTML
       .replace(/\{\{ location \}\}/g,    location)
       .replace(/\{\{ address \}\}/g,    address)
       .replace(/\{\{ url \}\}/g,         url)
-      .replace(/\{\{ urlType \}\}/g,     urlType)
-      .replace(/\{\{ urlDomain \}\}/g,  urlDomain)
+      // .replace(/\{\{ urlType \}\}/g,     urlType)
+      // .replace(/\{\{ urlDomain \}\}/g,  urlDomain)
       .replace(/\{\{ className \}\}/g,  className)
       .replace(/\{\{ dataCategories \}\}/g,  dataCategories)
       .replace(/\{\{ dataDescription \}\}/g,  dataDescription)
