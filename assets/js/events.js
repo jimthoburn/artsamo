@@ -56,7 +56,7 @@ Example HTML
             <dd>310-458-8350</dd>
           </dl>
 
-          <p><a href="{{ url }}">Get {{ urlType }} on {{ urlDomain }}</a></p>
+          <p class="action"><a href="{{ url }}">Get {{ urlType }}</a></p>
         </div>
       </details>
     </li>
