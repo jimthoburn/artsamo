@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  --font-size: calc(0.75em + 4vw);
+  --font-size: calc(0.75em + 6vw);
   font-family: canada-type-gibson, sans-serif;
   font-weight: 700;
   font-style: normal;

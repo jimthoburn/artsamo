@@ -143,10 +143,10 @@ main > h1:first-child {
   margin-top: 0.75em;
 }
 
-@media (min-width: 10em) {
-  main > h1:first-of-type {
-    padding: 0.25em 0.375em;
-  }
+main > h1:first-child,
+main > figure + h1:first-of-type {
+  /* padding: 0.25em 0.375em; */
+  --font-size: calc(0.75em + 4vw);
 }
 @supports (display: grid) {
   main > figure + h1:first-of-type {

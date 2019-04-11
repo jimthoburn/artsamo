@@ -20,6 +20,8 @@ title: Santa Monica Cultural Affairs
   <figcaption></figcaption>
 </figure>
 
+<h1 style="position: absolute;left: -9999px;">ArtSaMo</h1>
+
 <h2>Welcome to ArtSaMo</h2>
 
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
