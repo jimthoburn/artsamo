@@ -400,9 +400,27 @@ header .city a img {
   width: calc(var(--vertical-rhythm) * 1.5);
 }
 
-header .city a span {
-  /*! transform: rotate(180deg); */
+
+@media (false) {
+  header .city {
+    position: absolute;
+  }
+  header .city a img {
+    margin-right: 0;
+  }
+  header .city a {
+    padding: calc(var(--vertical-rhythm) * 0.5);
+  }
+  header .city a span {
+    /*! transform: rotate(180deg); */
+    position: absolute;
+    left: -9999px;
+  }
 }
+
+
+
+
 
 @media (max-width: 70em) {
   header h2 {

@@ -56,7 +56,7 @@ Example HTML
             <dd>310-458-8350</dd>
           </dl>
 
-          <p><a href="{{ url }}">Event details on {{ urlDomain }}</a></p>
+          <p><a href="{{ url }}">Get {{ urlType }} on {{ urlDomain }}</a></p>
         </div>
       </details>
     </li>
@@ -152,7 +152,7 @@ Example HTML
 
   function addItems(data) {
     // let template = document.getElementById('event-template')
-    let itemLimit = 99
+    let itemLimit = 999
     if ( list.getAttribute("data-events-limit") && 
          !isNaN(list.getAttribute("data-events-limit"))) {
       itemLimit = Number(list.getAttribute("data-events-limit"))
@@ -254,8 +254,11 @@ Example HTML
     let description = itemData.description
     let categories  = itemData.event_types
     let ages        = itemData.age_groups
-    let url         = itemData.signup_url
+    let url         = itemData.detail_url
     let urlDomain   = url.split("/")[2]
+    let urlType     = urlDomain.includes("activecommunities.com") ||
+                      urlDomain.includes("eventbrite.com") ? "tickets"
+                                                           : "more details"
     let dataCategories = itemData.event_types ? itemData.event_types.toLowerCase() : null
     let dataDescription = itemData.description ? itemData.description.toLowerCase() : null
 
@@ -283,6 +286,7 @@ Example HTML
       .replace(/\{\{ location \}\}/g,    location)
       .replace(/\{\{ address \}\}/g,    address)
       .replace(/\{\{ url \}\}/g,         url)
+      .replace(/\{\{ urlType \}\}/g,     urlType)
       .replace(/\{\{ urlDomain \}\}/g,  urlDomain)
       .replace(/\{\{ className \}\}/g,  className)
       .replace(/\{\{ dataCategories \}\}/g,  dataCategories)

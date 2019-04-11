@@ -6,13 +6,16 @@
   --aqua:        hsl(175, 54%, 47%);
   --aqua-dark:   hsl(175, 44%, 37%);
   --aqua-bright: hsla(175, 54%, 47%, 0.2);
-  --apple:     hsl(357, 100%, 63%);
-  --apple-dark:     hsl(357, 90%, 53%);
-  --orange:    hsl(15, 88%, 55%);
+  --apple:       hsl(357, 100%, 63%);
+  --apple-dark:  hsl(357, 90%, 53%);
+  --orange:      hsl(16, 86%, 53%);
   --orange-dark: hsl(15, 8%, 5%);
-  --midnight:  hsl(0, 0%, 10%);
-  --snow:      hsl(0, 0%, 99%);
-  --sky:       hsl(195, 89%, 55%);
+  --olive:       hsl(146, 17%, 56%);
+  --mango:       hsl(37, 94%, 60%);
+  --midnight:    hsl(0, 0%, 10%);
+  --snow:        hsl(0, 0%, 99%);
+  --sky:         hsl(195, 89%, 55%);
+  --ocean:       hsl(195, 63%, 38%);
 
   /*
   --aqua-complimentary: hsl(355, 54%, 47%);

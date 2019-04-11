@@ -42,7 +42,7 @@
   grid-row: span 3; 
   align-self: start;
   justify-self: stretch;
-  background-color: #3f3f3f;
+  background-color: var(--mango);
   color: #fff;
   text-align: center;
   text-transform: uppercase;
@@ -373,6 +373,27 @@
 .events .miles:nth-child(3n+2) .summary > h3::before {
   background-image: url('/uploads-optimized/miles-memorial-playhouse/768-wide/53_07_15_17_StringTheory_ReedPark_highrez_©KristinaSado.jpg');
 } */
+
+
+.events .palisades .summary > h3 {
+  background-color: var(--olive);
+}
+.events .miles .summary > h3 {
+  background-color: var(--orange);
+}
+.events .beach .summary > h3 {
+  background-color: var(--ocean);
+}
+.events .palisades .summary > h3::before {
+  content: none;
+}
+.events .miles .summary > h3::before {
+  content: none;
+}
+.events .beach .summary > h3::before {
+  content: none;
+}
+
 
 
 .events .summary > h3 > * {
