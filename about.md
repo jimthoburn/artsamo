@@ -57,7 +57,7 @@ We meet the third Monday of each month, Ken Edwards Center, 5:00 p.m.
 
 <div class="image-quote">
   <span class="image">
-    <img src="/uploads/The%20Wonder%20Room%202015%20-%202%20William%20Short.jpg" height="300" alt="" />
+    <img src="/uploads/The-Wonder-Room-2015---2-William-Short.jpg" height="300" alt="" />
   </span>
   <blockquote>
     <span>Art is something that makes you breathe with a different kind of happiness.</span>
