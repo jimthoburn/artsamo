@@ -14,6 +14,10 @@
   max-width: none;
 }
 
+.featured-events li + li {
+  margin-top: calc(var(--vertical-rhythm) * 1/8);
+}
+
 .featured-events a {
   display: grid;
   text-decoration: none;
