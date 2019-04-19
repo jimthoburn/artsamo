@@ -98,7 +98,7 @@ Example HTML
   //   "naomi.okuyama@smgov.net"
   // ]
 
-  const EVENT_TYPES = list.getAttribute("data-events-types").split(",")
+  const EVENT_TYPES = list.getAttribute("data-events-types") ? list.getAttribute("data-events-types").split(",") : []
 
   // https://data.smgov.net/resource/tu9m-76aw.json?$where=contact_name = 'culture@smgov.net' OR contact_name = 'naomi.okuyama@smgov.net'
   //https://data.smgov.net/resource/tu9m-76aw.json?$where=contact_emails = 'culture@smgov.net' OR contact_emails = 'naomi.okuyama@smgov.net'
