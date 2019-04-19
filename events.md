@@ -11,6 +11,7 @@ Events
 
 <ol
   class="events"
+  data-events-types="Art Event,Arts/Crafts,Concerts/Dance,Festival/Celebration,Lecture/Panel,Movies/Film,Play/Performance Art"
   data-events-locations="Annenberg Community Beach House,Miles Memorial Playhouse,Palisades Park">
 </ol>
 <script src="/assets/js/events.js"></script>
