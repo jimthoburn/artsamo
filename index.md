@@ -66,6 +66,7 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 
 <ol
   class="events"
+  data-events-types="Art Event,Arts/Crafts,Concerts/Dance,Festival/Celebration,Lecture/Panel,Movies/Film,Play/Performance Art"
   data-events-locations="Annenberg Community Beach House,Miles Memorial Playhouse,Palisades Park"
   data-events-limit="6">
 </ol>

@@ -312,8 +312,9 @@ Example HTML
     // https://stackoverflow.com/questions/6963311/add-days-to-a-date-object
     const MILLISECONDS_PER_DAY = 24 * 60 * 60 * 1000;
     const THREE_DAYS = 3 * MILLISECONDS_PER_DAY;
+    const ONE_DAY    = 1 * MILLISECONDS_PER_DAY;
     let today = new Date();
-    let threeDaysAgo = new Date(today.setTime( today.getTime() - THREE_DAYS ));
+    let threeDaysAgo = new Date(today.setTime( today.getTime() - ONE_DAY ));
 
     // If the event is happening in the future or if it happened recently
     if (startDate > threeDaysAgo) {
