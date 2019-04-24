@@ -68,7 +68,8 @@ main > h2 {
       max-width: 17.5em;
       grid-row: span 2;
     }
-    main > h4 {
+    main > h2 + h4,
+    main > h3 + h4 {
       margin-top: 0;
     }
     main > figure + h2,

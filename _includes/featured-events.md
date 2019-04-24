@@ -20,9 +20,20 @@
     </a>
   </li>
   <li>
-    <a href="/art-in-the-parks/">
+    <a href="/indigenous-now/">
       <span class="image">
         <img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" />
+      </span><br />
+      <span class="text">
+        <strong>Meet Me at Reed</strong><br />
+        Saturdays: June 15 to July 27, 2019, Free admission
+      </span>
+    </a>
+  </li>
+  <li>
+    <a href="/art-in-the-parks/">
+      <span class="image">
+        <img src="/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg" height="300" alt="" />
       </span><br />
       <span class="text">
         <strong>Art in the Parks</strong><br />
