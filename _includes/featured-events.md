@@ -20,7 +20,7 @@
     </a>
   </li>
   <li>
-    <a href="/indigenous-now/">
+    <a href="/meet-me-at-reed/">
       <span class="image">
         <img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" />
       </span><br />
