@@ -12,7 +12,7 @@ About<br /><small>Santa Monica Cultural Affairs</small>
 
 ## Turning art into reality
 
-Santa Monica Cultural Affairs (SMCA) is dedicated to turning art into reality. We do that in so many ways. We distribute grants that support local arts organizations, schools and artists. We create and promote arts programs. We nurture and grow the City’s one-of-a-kind public art collection. SMCA is dedicated to making every day better by bringing more art into the world.
+Santa Monica Cultural Affairs (SMCA) connects people to art. We do that by distributing grants that support local arts organizations, schools and artists. We create and promote art experiences. We steward and grow the City’s notable public art collection. And we work with and for the communities of Santa Monica to leverage the power of art for change.
 
 <nav class="action" markdown="1">
 *   [Leadership](#leadership)
@@ -30,13 +30,13 @@ Leadership
 *   [Nathan Birnbaum](mailto:nathan.birnbaum@smgov.net), Cultural Affairs Administrator, Grants & Special Projects
 *   [Chris Guerra,](mailto:chris.guerra@smgov.net) Cultural Affairs Supervisor, Public Art
 *   [Nan Friedman](mailto:nan.friedman@smgov.net), Beach House Venue Manager
-*   [Naomi Okuyama](mailto:naomi.okuyama@smgov.net), Cultural Affairs Supervisor, Beach=Culture, Camera Obscura Art Lab
+*   [Naomi Okuyama](mailto:naomi.okuyama@smgov.net), Cultural Affairs Supervisor, Beach=Culture & Camera Obscura Art Lab
 *   [Allison Ostrovsky](mailto:allison.ostrovsky@smgov.net), Cultural Affairs Supervisor, Events & Marketing
 *   [Justin Yoffe](mailto:justin.yoffe@smgov.net), Cultural Affairs Venue Manager, Miles Memorial Playhouse
 *   [Elizabeth Dugan](mailto:elizabeth.dugan@smgov.net), Sales & Marketing Coordinator, Beach House
-*   [Thomas Poon](mailto:thomas.poon@smgov.net), Senior Administrative Analyst
+*   [Jonathan Carr](mailto:Jonathan.Carr@SMGOV.NET), Senior Administrative Analyst, Cultural Affairs
+*   [Joyce C. Perez](mailto:joyce.perez@smgov.net), Senior Administrative Analyst, Beach House
 *   [Joyce Locke](mailto:joyce.locke@smgov.net), Staff Assistant III
-*   [Joyce C. Perez](mailto:joyce.perez@smgov.net), Senior Administrative Analyst, Beach House Billing & Accounting
 
 ### Santa Monica Arts Commission
 
@@ -68,12 +68,10 @@ We meet the third Monday of each month, Ken Edwards Center, 5:00 p.m.
 Santa Monica Arts Foundation <a id="foundation"></a>
 ----------------------------
 
-The Santa Monica Arts Foundation is a nonprofit agency dedicated to promoting and supporting the arts in Santa Monica. The Foundation is staffed by Santa Monica Cultural Affairs.
+The [Santa Monica Arts Foundation](https://www.facebook.com/SantaMonicaArtsFoundation/) is a nonprofit agency dedicated to promoting and supporting the arts in Santa Monica. The Foundation is staffed by Santa Monica Cultural Affairs.
 
 Recognizing Great Arts Leaders in Santa Monica  
-The Santa Monica Arts Foundation sponsors the Arts Leadership Awards, which recognizes exemplary leaders who support Santa Monica’s creative community. Nominations of exceptional volunteers, philanthropists and creative businesses that make a difference in the arts in Santa Monica may be submitted year-round. Awardees are celebrated at the Arts Leadership Awards Ceremony and Reception, which occurs annually. Guidelines and nomination forms are available at [smgov.net/artsleaders](https://www.smgov.net/Portals/Culture/Resources/Arts_Leadership_Awards.aspx).
-
-For more information, call (310) 458-8350.
+The Santa Monica Arts Foundation sponsors the Arts Leadership Awards, which recognizes exemplary leaders who support Santa Monica’s creative community.  The 2019 awards will be presented at the Annenberg Community Beach House in Santa Monica on [Wednesday, April 24, 2019](https://www.eventbrite.com/e/2019-santa-monica-arts-foundation-arts-leadership-awards-ceremony-tickets-59739799348).
 
 Policy & Planning <a id="policy-and-planning"></a>
 -----------------
@@ -111,18 +109,27 @@ Maintaining the original, inspirational appearance of our vast art collection re
 
 [Read the report](https://www.santamonica.gov/Media/arts/CA/RLA_City of Santa Monica_Public Art Survey_Summary.Revised 7.13.2015.pdf)
 
+### Percent for Art
+
+The Percent for Art Program embodies the City’s commitment to sustainable funding for the arts by setting aside1%percent of the total budget of all eligible capital projects for art projects. Santa Monica Cultural Affairs manages the City’s public art program and its Percent for Art requirement in both public and private development. 
+
 ### Ordinances
 
-In art, there are no rules. There are, however, ordinances. These ordinances outline the ways public art is created and maintained. The Santa Monica Cultural Affairs’ Public Art Program operates under these ordinances and policies, in collaboration with City staff, the Arts Commission, the Public Art Committee and City Council.
+In art, there may be no rules, but in civic art there are definitely ordinances. These ordinances outline the ways public art is created and maintained. Santa Monica Cultural Affairs’ Public Art Program operates under these ordinances and policies, under the direction of City staff, the Arts Commission, the Public Art Committee and City Council.
 
 [See the ordinances](https://www.santamonica.gov/Media/arts/CA/Ord2212.pdf).
 
-*   See specific ordinances:
-*   Artist Selection Procedures
-*   Collection Management Procedures
-*   Mural Conservation Policy
-*   Percent for Art Resolution
-*   Private Developer Cultural Arts Requirement Ordinance
-*   Private Developer Fee Flowchart
-*   Public Art Program Administration Guidelines
+#### Legislation
+
+*   [Percent for Art Resolution](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/SM%20Percent%20for%20Art%20Resolution.PDF)
+*   [Private Developer Cultural Arts Requirement Ordinance](http://www.qcode.us/codes/santamonica/view.php?topic=9-3-9_30&showAll=1&frames=on)
+
+#### Administrative policies and procedures
+
+*   [Public Art Program Administration Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/Admin%20Guidelines%20-%20Pub.%20Art%20Program.9-04.pdf)
+*   [Artist Selection Procedures](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/Artist%20Selection%20Procedures%20%209-04.pdf)
+*   [Private Developer Fee Flowchart](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/Private%20Developer%20Flow%20Chart.pdf )
+*   [Collection Management Procedures](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/Collect.Mgmt%20Proc.9-04.pdf )
+*   [Mural Conservation Policy](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/Mural%20Conservation%20Policy.pdf)
+
 
