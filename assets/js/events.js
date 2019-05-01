@@ -256,7 +256,12 @@ Example HTML
     let description = itemData.description
     let categories  = itemData.event_types
     let ages        = itemData.age_groups
-    let url         = itemData.detail_url
+    let url
+    if (typeof(itemData.detail_url) == "object") {
+      url = itemData.detail_url.url
+    } else {
+      url = itemData.detail_url
+    }
     // let urlDomain   = url.split("/")[2]
     // let urlType     = urlDomain.includes("activecommunities.com") ||
     //                   urlDomain.includes("eventbrite.com") ? "tickets"
