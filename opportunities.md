@@ -23,6 +23,7 @@ Imagine what can happen when the right artist meets the right opportunity. Santa
 
 {% include opportunities.md %}
 
+<!--
 ## Resources
 
 *   [18th Street Arts Center](https://18thstreet.org/)
@@ -33,7 +34,6 @@ Imagine what can happen when the right artist meets the right opportunity. Santa
 *   [California Arts Council](http://cac.ca.gov/)
 *   [Center for Cultural Innovation](https://www.cciarts.org/) 
 
-<!--
 #### FAQs
 
 *   How can I get a studio here?
