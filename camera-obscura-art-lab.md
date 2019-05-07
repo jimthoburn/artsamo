@@ -13,7 +13,7 @@ title: Camera Obscura Art Lab, Santa Monica
 
 ## Community arts practice space
 
-The Camera Obscura Art Lab in Palisades Park is Santa Monica’s community arts practice space. Residents can work with local artists to learn and hone their skills, meet their neighbors and share projects. The Camera hosts an ever-changing roster of artists-in-residence, and offers workshops, artist events, pop-up exhibits and more.
+The Camera Obscura Art Lab in Palisades Park is Santa Monica’s community arts practice space, where all are invited to find a new perspective! Community members work with local artists to learn and hone their skills, meet their neighbors and share projects. The Camera hosts an ever-changing roster of artists-in-residence, and offers workshops for adults, artist events, pop-up exhibits and more.
 
 <nav class="action" markdown="1">
 *   [Artists in Residence](#artists-in-residence)
@@ -33,7 +33,7 @@ Santa Monica, CA 90401
 
 ### The Camera Obscura Mechanism
 
-Enter the body of a camera for a magical perspective! Visitors can experience the Camera Obscura mechanism Monday through Friday 9 a.m. - 3 p.m. and Saturday 11 a.m. - 4 p.m. Admission is free. There are fourteen steps up a stairway to the device. Built in 1898 by Mayor Robert F. Jones to attract tourists and visitors, Santa Monica’s Camera Obscura mechanism was incorporated into its current home in 1955.
+Enter the body of a camera for a magical view! Visitors can experience the Camera Obscura mechanism Monday through Friday 9 a.m. - 3 p.m. and Saturday 11 a.m. - 4 p.m. Admission is free. There are fourteen steps up a stairway to the device. Built in 1898 by Mayor Robert F. Jones to attract tourists and visitors, Santa Monica’s Camera Obscura mechanism was incorporated into its current home in 1955.
 
 ### The Camera Obscura Facility
 
@@ -44,38 +44,16 @@ This mid-century modern building on the bluffs was designed by noted architect W
 
 <div class="artists" markdown="1">
 
-*   ### Max King Cap
-  
-    <figure><img src="/uploads/max-king.png" height="300" alt="Max King Cap" /></figure>
-    
-    January 9 – April 17, 2019
-    
-    [maxkingcap.com](https://maxkingcap.com/)
-    
-    Multidisciplinary artist Max King Cap continues his Broadsides series of  politically radical text statements and creates new paintings for his Exonerated series, which memorializes the experience of incarcerated people. He will also work on a play about power and powerlessness titled _59_ _Inches_, and lead flash playwriting, manifesto writing, and painting workshops.
-    
-    [Upcoming Public Workshops](#upcoming-events), [final event](https://www.eventbrite.com/e/daeun-jung-and-max-king-cap-new-works-tickets-52985082809), and [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-max-king-cap)
-  
-*   ### DaEun Jung
-  
-    <figure><img src="/uploads/daeun-kung.png" height="300" alt="DaEun Jung" /></figure>
-    
-    January 9 – April 17, 2019
-    
-    Choreographer DaEun Jung is composing an “Earthian Folk Dance,” conceived as a vernacular dance for all residents of the planet. As a bi-cultural Korean American choreographer, she draws upon traditional Korean dance and contemporary movement practices in her work, which challenges notions of authorship. She also combines a deep investigation into traditional movement forms and aleatory practices. Jung presents workshops in drumming, mask making, and traditional and contemporary dance. 
-    
-    [Upcoming Public Workshops](#upcoming-events), [final event](https://www.eventbrite.com/e/daeun-jung-and-max-king-cap-new-works-tickets-52985082809), and [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-daeun-jung)
-  
 *   ### Dahn Gim
-  
+
     <figure><img src="/uploads/dahn-gim.png" height="300" alt="Dahn Gim" /></figure>
-    
+
     April 24 – July 31, 2019
-    
+
     [dahngim.com](http://cargocollective.com/dahngim)
-    
+
     Sculptor Dahn Gim creates a series of sound/kinetic sculptures made of collected seaside waste and plastic remnants from 3D printers, with a focus on transforming and recontextualizing notions of trash and debris.
-    
+
     [Upcoming Public Workshops](#upcoming-events)
   
 *   ### Alex Wand
@@ -113,6 +91,28 @@ This mid-century modern building on the bluffs was designed by noted architect W
     Costume Designer and Photographer Mimi Haddon will be working with the idea of adaptations and territories through mask, costume and movement. Haddon will document the archetypes and characters that the participants create, for a book about the newly forged narratives and communities that emerge out of the process.
     
     [Upcoming Public Workshops](#upcoming-events)
+
+*   ### Max King Cap
+  
+    <figure><img src="/uploads/max-king.png" height="300" alt="Max King Cap" /></figure>
+    
+    January 9 – April 17, 2019
+    
+    [maxkingcap.com](https://maxkingcap.com/)
+    
+    Multidisciplinary artist Max King Cap continues his Broadsides series of  politically radical text statements and creates new paintings for his Exonerated series, which memorializes the experience of incarcerated people. He will also work on a play about power and powerlessness titled _59_ _Inches_, and lead flash playwriting, manifesto writing, and painting workshops.
+    
+    [Upcoming Public Workshops](#upcoming-events), [final event](https://www.eventbrite.com/e/daeun-jung-and-max-king-cap-new-works-tickets-52985082809), and [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-max-king-cap)
+  
+*   ### DaEun Jung
+  
+    <figure><img src="/uploads/daeun-kung.png" height="300" alt="DaEun Jung" /></figure>
+    
+    January 9 – April 17, 2019
+    
+    Choreographer DaEun Jung is composing an “Earthian Folk Dance,” conceived as a vernacular dance for all residents of the planet. As a bi-cultural Korean American choreographer, she draws upon traditional Korean dance and contemporary movement practices in her work, which challenges notions of authorship. She also combines a deep investigation into traditional movement forms and aleatory practices. Jung presents workshops in drumming, mask making, and traditional and contemporary dance. 
+    
+    [Upcoming Public Workshops](#upcoming-events), [final event](https://www.eventbrite.com/e/daeun-jung-and-max-king-cap-new-works-tickets-52985082809), and [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-daeun-jung)
   
 </div>
 
