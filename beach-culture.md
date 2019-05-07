@@ -11,7 +11,7 @@ title: Beach=Culture at Annenberg Community Beach House, Santa Monica
 
 ## Come join us
 
-Welcome to Beach=Culture, a year-round series of free arts and culture events at the Annenberg Community Beach House. Beach=Culture features quarterly exhibitions, artist residencies, ongoing literary programs and more. Come join us to experience something new, and broaden your perspective.
+Welcome to Beach=Culture, a year-round series of free arts and culture events at the Annenberg Community Beach House. Beach=Culture features exhibitions, artist residencies, literary programs and other scheduled and pop-up arts experiences. Come down to the beach and find the unexpected - poetry amidst the swimmers, sculpture alongside volleyball players, dance in the middle of the sand.
 
 <nav class="action" markdown="1">
 *   [Artists in Residence](#artists-in-residence)
@@ -32,8 +32,9 @@ Santa Monica, CA 90402
 <small>Artists in Residence</small>
 ========
 
-For information about residency deadlines, please visit [Opportunities](/opportunities-for-artists/).
+For more information about artist residency applications and calls for curators, please visit [Opportunities](/opportunities-for-artists/).
 
+<!--
 <div class="artists" markdown="1">
 
 *   ### Wally Rudolph
@@ -47,54 +48,59 @@ For information about residency deadlines, please visit [Opportunities](/opportu
     [Upcoming Public Events](#upcoming-events) and [interview](https://www.santamonica.gov/blog/meet-spring-2019-beach-house-writer-in-residence-wally-rudolph)
   
 </div>
+-->
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
 [More artists](/beach-culture-artists/)
 </p>
 
-2019<br /><small>Gallery Exhibition Season</small>
+<small>Gallery Exhibitions</small>
 ========
 
-## Annenberg Beach House 2019 Gallery Program
+### 2019 Program
 
-Three exhibits each year showcase the work of regional artists and artist groups – both emerging and established. This gallery program is designed to embolden and inspire Santa Monicans to see and hear art in new contexts that are fun, challenging, and provocative.
+Three exhibits each year showcase the work of regional artists and artist groups – both emerging and established. The gallery program is designed to inspire Beach House guests with fun, challenging, and provocative art in an unexpected context. This year's exhibitions take as their theme collective memory and celebration.
 
 <div class="artists" markdown="1">
 
 *   ### On and Off the Street
-    
+   
     <figure><img src="/uploads/cindy-bendat.jpg" height="300" alt="" /></figure>
-    
+
     January 21, 2019 - April 30, 2019
-    
+
     Curated by M. Robert Markovich.
 
     Featured artists are Philip Adam, Cindy Bendat, Tommi Cahill, M. Robert Markovich, Douglas McCulloh, and William Purcell.
 
     An exhibition of street photography examining the blurred lines of overlapping public, private and personal space.
-
-*   ### And then there is California.
     
+    Image: Cindy Bendat, _Flag Woman: L.A. Woman’s March, 2017._
+   
+*   ### And then there is California
+   
     <figure><img src="/uploads/rainbow-face-by-hailey-magoon.jpg" height="200" alt="" /></figure>
-    
+
     May 3, 2019 - September 2, 2019
-    
-    Curated by Beck+Col.
-    
-    Featured artists are Santiago Acero, Diego Barrientos (Dee), Kira Doutt, Philipp Farra, Hanieh Khatibi, Serena Himmelfarb, Chloe Levaillant, Lydon MacGregor (Frank), Alicia Piller, Kelly Wall, & Beck+Col.
-    
-    These ten artists all share an interpretation of southern California which they have adopted as their home.
-  
+
+    Curated by [Beck+Col](http://beckandcol.com/).
+
+    Featured artists are Alia Ali, Santiago Acero, Diego Barrientos, Kira Doutt, Philipp Farra, Hanieh Khatibi, Serena Himmelfarb, Chloe Levaillant, Lydon Frank, Alicia Piller, Kelly Wall, & Beck+Col.
+
+    These eleven artists all share an interpretation of southern California which they have adopted as their home.
+
+    Image: Beck+Col, _Rainbow Face, 2017._ Photo credit: Hailey Magoon.
+   
 *   ### Memories of Diaspora: Immigration Narratives of Los Angeles by Art Division
-    
+   
     <figure><img src="/uploads/art-division.png" height="200" alt="" /></figure>
-    
+
     September 9, 2019 - January 5, 2020
-    
-    Curated by Daniel McCleary
-    
+
+    Curated by Daniel McCleary of [Art Division](https://www.artdivision.org/).
+
     Featured artists are Demian Flores, Javier Carrillo, Luis Serrano, Jessica Cuautle, Sanda Maldonado, Narsiso Martinez, Otis Woods, Diego Rodarte Planter, Rosario/La Pitzola, Luis Hernandez, Luis Mateo, Victor Reyes, Maria Galicia, Emmanuel Galvez, & Sergio Teran.
-    
+
     The unbroken horizon between ocean and sky is one of the most iconic images of Los Angeles. For those of us born and raised in California, the horizon is part of our everyday life, we may take for granted as just another beautiful view in our home city. For the thousands of immigrants who have come to Los Angeles over generations, the horizon over the Pacific Ocean is a symbol of hope, freedom, and the promise of new life.
 
 </div>
