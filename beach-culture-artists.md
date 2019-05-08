@@ -10,7 +10,7 @@ Artists in Residence<br /><small>at Annenberg Community<br />Beach House</small>
 
 <div class="artists" markdown="1">
 
-*   ### Wally Rudolph, Writer, _The Ox, The Horse & The Boar_
+*   ### Writer - Wally Rudolph: _The Ox, The Horse & The Boar_
     
     <figure><img src="/uploads/wally-rudolph.png" height="300" alt="" /></figure>
     
@@ -27,71 +27,72 @@ Artists in Residence<br /><small>at Annenberg Community<br />Beach House</small>
 2018
 ----
 
-*   [Writer Luis Alfaro Mother of the Row & The Golden State](https://dramaticarts.usc.edu/luis-alfaro/)  
-  [interview](https://www.santamonica.gov/press/2018/01/17/playwright-luis-alfaro-named-writer-in-residence-at-the-annenberg-community-beach-house)
-*   [Public Practice Therese Kelly Under the Umbrella](http://www.theresekelly.com/)  
-  [interview](https://www.santamonica.gov/blog/architect-and-social-practice-artist-therese-kelly-to-lead-tours-illuminating-our-relationship-with-water)
-*   [Public Practice Molly Allis The Storytelling Machine](https://www.mollyallis.com/)  
-  [interview](https://www.santamonica.gov/blog/artist-molly-allis-focuses-on-accessibility-and-joy-in-her-process)
-*   [Writer Catherine Coan Mistakes Have Been Made](https://catherinecoan.com/)  
-  [interview](https://beachhouseair.blogspot.com/2018/12/following-and-reconciling-different.html)
+*   [Writer - Luis Alfaro: _Mother of the Row_ & _The Golden State_](https://dramaticarts.usc.edu/luis-alfaro/)  
+   [interview](https://www.santamonica.gov/press/2018/01/17/playwright-luis-alfaro-named-writer-in-residence-at-the-annenberg-community-beach-house), [video](https://www.youtube.com/watch?v=H4PK2-gA36Y)
+*   [Public Practice - Therese Kelly: _Under the Umbrella_](http://www.theresekelly.com/)  
+   [interview](https://www.santamonica.gov/blog/architect-and-social-practice-artist-therese-kelly-to-lead-tours-illuminating-our-relationship-with-water)
+*   [Public Practice - Molly Allis: _The Storytelling Machine_](https://www.mollyallis.com/)  
+   [interview](https://www.santamonica.gov/blog/artist-molly-allis-focuses-on-accessibility-and-joy-in-her-process)
+*   [Writer - Catherine Coan: _Mistakes Have Been Made_](https://catherinecoan.com/)  
+   [interview](https://beachhouseair.blogspot.com/2018/12/following-and-reconciling-different.html)
+*   Public Practice - Beach Dances; Mecca Vazie Andrews, Suchi Branfman, [Rebecca Bruno](https://www.rebeccabruno.net/), [Jay Carlon](https://www.jaycarlon.com/), [Sarah Elgart](http://sarahelgart.com/), Jeremy Hahn, [No)One. Art House](https://noonearthouse.org/), [Alexx Shilling](http://alexxmakesdances.com/), and [Pieter Performance Space](https://pieterpasd.com/).
 
 2017
 ----
 
-*   Writer Dinah Berland Fugue for a New Life
-*   [Choreographer Jay Carlon Out of Bounds](https://www.jaycarlon.com/)  
-  [interview](https://www.santamonica.gov/blog/artist-jay-carlon-explores-migration-and-displacement-through-dance-at-the-beach-house)
-*   Writer Sakae Manning Kimono Blues  
-  [interview](https://www.santamonica.gov/blog/writer-sakae-manning-forges-alliances-between-women-of-color-through-storytelling)
+*   Writer - Dinah Berland: _Fugue for a New Life_
+*   [Choreographer - Jay Carlon: _Out of Bounds_](https://www.jaycarlon.com/)  
+   [interview](https://www.santamonica.gov/blog/artist-jay-carlon-explores-migration-and-displacement-through-dance-at-the-beach-house)
+*   Writer - Sakae Manning: _Kimono Blues_  
+   [interview](https://www.santamonica.gov/blog/writer-sakae-manning-forges-alliances-between-women-of-color-through-storytelling)
 
 2016
 ----
 
-*   [Writer Jennifer Caloyeras Time May Change Me](http://www.jennifercaloyeras.com/)
-*   [Theater Post Mortem Dance Theater Company Ubuntu](http://postmortemmovement.wixsite.com/)
-*   [Public Practice Machine Project Snorkel Dreams, the Machine Project Guide to Art Underwater](https://machineproject.com/2016/projects/snorkel-dreams-a-machine-project-guide-to-art-underwater/)
+*   [Writer - Jennifer Caloyeras: _Time May Change Me_](http://www.jennifercaloyeras.com/)
+*   [Theater - Post Mortem Dance Theater Company: _Ubuntu_](http://postmortemmovement.wixsite.com/)
+*   [Public Practice - Machine Project: _Snorkel Dreams, the Machine Project Guide to Art Underwater_](https://machineproject.com/2016/projects/snorkel-dreams-a-machine-project-guide-to-art-underwater/)
 
 2015
 ----
 
-*   Writer Laurie Horowitz Hemlock Gorge
-*   [Choreographer Rebecca Bruno Fixtures](https://www.rebeccabruno.net/)
+*   Writer - Laurie Horowitz: _Hemlock Gorge_
+*   [Choreographer - Rebecca Bruno: _Fixtures_](https://www.rebeccabruno.net/)
 
 2014
 ----
 
-*   [Writer Helen Lessick](http://helenlessick.net/)
-*   [Theater Four Clowns Noah & Jonah](http://fourclowns.org/)
-*   [Choreographer Ana Maria Alvarez / Contra-tiempo Agua Furiosa](http://www.contra-tiempo.org/)
+*   [Writer - Helen Lessick](http://helenlessick.net/)
+*   [Theater - Four Clowns: _Noah & Jonah_](http://fourclowns.org/)
+*   [Choreographer - Ana Maria Alvarez / Contra-tiempo Urban Latin Dance Theater: _Agua Furiosa_](http://www.contra-tiempo.org/)
 
 2013
 ----
 
-*   [Writer Charles Hood](https://charleshoodbooks.viewbook.com/)
-*   [Theater Rogue Artists Ensemble Hyperbole: Bard](https://www.rogueartists.org/)
+*   [Writer - Charles Hood](https://charleshoodbooks.viewbook.com/)
+*   [Theater - Rogue Artists Ensemble: _Hyperbole: Bard_](https://www.rogueartists.org/)
 
 2012
 ----
 
-*   Writer Lucy Wang
-*   [Theater Salty Shakespeare Salty Shakespeare’s Hamlet](http://www.saltyshakespeare.org/)
-*   [Choreographer Sheetal Gandhi I Am You](http://sheetalgandhi.com/)
+*   Writer - Lucy Wang
+*   [Theater - Salty Shakespeare: _Salty Shakespeare’s Hamlet_](http://www.saltyshakespeare.org/)
+*   [Choreographer - Sheetal Gandhi: _I Am You_](http://sheetalgandhi.com/)
 
 2011
 ----
 
-*   Writer Sandro Meallet
-*   [Theater Santa Monica Rep The Tempest!](https://www.santamonicarep.org/)
-*   [Choreographer Keith Glassman Timeless: Marxist Dances at the Beach](http://www.keithglassman.org/)
+*   Writer - Sandro Meallet
+*   [Theater - Santa Monica Rep: _The Tempest!_](https://www.santamonicarep.org/index.html)
+*   [Choreographer - Keith Glassman: _Timeless: Marxist Dances at the Beach_](http://www.keithglassman.org/)
 
 2010
 ----
 
-*   [Choreographer Holly Rothschild This is Not Here](http://strangeandelegant.com/)
-*   [Theater Shakespeare Santa Monica Merchant of Venice](http://notmanapart.com/shakespeare-santa-monica)
+*   [Choreographer - Holly Rothschild: _This is Not Here_](http://strangeandelegant.com/)
+*   [Theater - Shakespeare Santa Monica: _Merchant of Venice_](http://notmanapart.com/shakespeare-santa-monica)
 
 2009
 ----
 
-*   Writer Majid Naficy
+*   Writer - Majid Naficy
