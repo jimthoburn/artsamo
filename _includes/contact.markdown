@@ -22,7 +22,7 @@ Santa Monica, CA 90401
 <dl class="locations">
   <dt>
     <a href="/miles-memorial-playhouse/">
-      <img src="/uploads/icon-miles-playhouse.png" height="25" alt="" /><br />
+      <img src="/assets/images/icon-miles-playhouse.png" height="25" alt="" /><br />
       Miles Memorial Playhouse
     </a>
   </dt>
@@ -32,7 +32,7 @@ Santa Monica, CA 90401
   </dd>
   <dt>
     <a href="https://www.smgov.net/departments/ccs/civicauditorium/">
-      <img src="/uploads/icon-civic-auditorium.png" height="25" alt="" /><br />
+      <img src="/assets/images/icon-civic-auditorium.png" height="25" alt="" /><br />
       Santa Monica Civic Auditorium
     </a>
   </dt>
@@ -42,7 +42,7 @@ Santa Monica, CA 90401
   </dd>
   <dt>
     <a href="/beach-culture/">
-      <img src="/uploads/icon-beachhouse.png" height="25" alt="" /><br />
+      <img src="/assets/images/icon-beachhouse.png" height="25" alt="" /><br />
       Beach=Culture<br />Annenberg Community Beach House
     </a>
   </dt>
@@ -52,7 +52,7 @@ Santa Monica, CA 90401
   </dd>
   <dt>
     <a href="/camera-obscura-art-lab/">
-      <img src="/uploads/icon-camera-obscura.png" height="25" alt="" /><br />
+      <img src="/assets/images/icon-camera-obscura.png" height="25" alt="" /><br />
       Camera Obscura Art Lab
     </a>
   </dt>

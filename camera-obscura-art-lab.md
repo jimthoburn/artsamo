@@ -7,7 +7,7 @@ title: Camera Obscura Art Lab, Santa Monica
 </figure>
 
 <h1>
-  <img src="/uploads/icon-camera-obscura.png" height="50" alt="" /><br />
+  <img src="/assets/images/icon-camera-obscura.png" height="50" alt="" /><br />
   <small>Camera Obscura</small> Art Lab
 </h1>
 
@@ -117,7 +117,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
 </div>
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
-[More artists](/camera-obscura-art-lab-artists/)
+[Past artists](/camera-obscura-art-lab-artists/)
 </p>
 
 <small>Upcoming Events</small>

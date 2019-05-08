@@ -5,7 +5,7 @@ title: Beach=Culture at Annenberg Community Beach House, Santa Monica
 <figure><img src="/uploads/beach-culture.jpg" height="300" alt="" /></figure>
 
 <h1>
-  <img src="/uploads/icon-beachhouse.png" height="50" alt="" /><br />
+  <img src="/assets/images/icon-beachhouse.png" height="50" alt="" /><br />
   Beach=Culture<br /><small>at Annenberg Community<br />Beach House</small>
 </h1>
 
@@ -35,7 +35,7 @@ Santa Monica, CA 90402
 For more information about artist residency applications and calls for curators, please visit [Opportunities](/opportunities-for-artists/).
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
-[More artists](/beach-culture-artists/)
+[Past artists](/beach-culture-artists/)
 </p>
 
 <small>Gallery Exhibitions</small>

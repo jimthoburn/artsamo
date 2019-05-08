@@ -143,32 +143,32 @@ The Palette is a weekly Wednesday email that highlights a handful of Santa Monic
     },
     {
       title: "Musicians at the COAST event",
-      url: "/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
+      url: "/assets/images/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
       caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
     },
     {
       title: "Rainbow Face at the COAST event",
-      url: "/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
+      url: "/assets/images/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
       caption: `<em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
     },
     {
       title: "Dia De Los Muertos",
-      url: "/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-059.jpg",
+      url: "/assets/images/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-059.jpg",
       caption: `Dia De Los Muertos`
     },
     {
       title: "Dia De Los Muertos",
-      url: "/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-035.jpg",
+      url: "/assets/images/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-035.jpg",
       caption: `Dia De Los Muertos`
     },
     {
       title: "Dia De Los Muertos",
-      url: "/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-063.jpg",
+      url: "/assets/images/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-063.jpg",
       caption: `Dia De Los Muertos`
     },
     {
       title: "Dia De Los Muertos",
-      url: "/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-066.jpg",
+      url: "/assets/images/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-066.jpg",
       caption: `Dia De Los Muertos`
     }
     

@@ -39,25 +39,25 @@
 {% comment %}
 * [
     ![](/uploads/milesplayhouse.jpg)  
-    ![](/uploads/icon-miles-playhouse.png)
+    ![](/assets/images/icon-miles-playhouse.png)
     Miles Memorial Playhouse
   ](/miles-memorial-playhouse/)
 
 * [
     ![](/uploads/civicauditorium.jpg)  
-    ![](/uploads/icon-civic-auditorium.png)
+    ![](/assets/images/icon-civic-auditorium.png)
     The Civic Auditorium
   ](https://www.smgov.net/departments/ccs/civicauditorium/)
 
 * [
     ![](/uploads/beach-culture.jpg)  
-    ![](/uploads/icon-beachhouse.png)
+    ![](/assets/images/icon-beachhouse.png)
     Beach=Culture at Annenberg Community Beach House
   ](/beach-culture/)
 
 * [
     ![](/uploads/cameraobscura.jpg)  
-    ![](/uploads/icon-camera-obscura.png)
+    ![](/assets/images/icon-camera-obscura.png)
     Camera Obscura Art Lab
   ](/camera-obscura-art-lab/)
 {% endcomment %}

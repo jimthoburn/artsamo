@@ -8,7 +8,7 @@ body_class: orange
 </figure>
 
 <h1>
-  <img src="/uploads/icon-miles-playhouse.png" height="50" alt="" /><br />
+  <img src="/assets/images/icon-miles-playhouse.png" height="50" alt="" /><br />
   <small>Miles Memorial</small> Playhouse
 </h1>
 
