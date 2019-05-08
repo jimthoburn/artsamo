@@ -26,6 +26,8 @@ title: Santa Monica Cultural Affairs
 
 We are a community like no other. And the thread that binds the soul of our community is art. Poetry, music, painting, acting. Some of us create it. Some of us simply appreciate it. But we all need it. The soul needs art to breathe. And ArtSaMo connects the soul to art.
 
+Santa Monica’s eight-plus square miles contain a wealth of art and culture. Santa Monica Cultural Affairs (SMCA) funds local artists and organizations, stewards the city’s public art collection, and produces events large and small. Stop by our theaters, galleries, and art centers, or find art outdoors throughout the city. Follow [#ArtSaMo on Twitter](https://twitter.com/search?q=%23ArtSaMo) for more!
+
 <p class="go-see-art">
   <a href="#go-see-art">
     <span>
