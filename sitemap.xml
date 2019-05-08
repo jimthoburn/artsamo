@@ -1,0 +1,88 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+{% comment %}
+######### Pages #########
+{% endcomment %}
+
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/public-art/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/opportunities/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/opportunities-for-artists/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/opportunities-for-organizations/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/artist-fellows/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/about/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/arts-commission-agendas/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/contact/</loc>
+  </url>
+
+{% comment %}
+######### Events #########
+{% endcomment %}
+
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/events/</loc>
+  </url>
+{% for event in site.events %}
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la{{ event.url }}</loc>
+  </url>
+{% endfor %}
+
+{% comment %}
+######### Venues #########
+{% endcomment %}
+
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/venues/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/beach-culture/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/beach-culture-artists/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/beach-culture-events/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/camera-obscura-art-lab/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/camera-obscura-art-lab-artists/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/camera-obscura-art-lab-events/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/miles-memorial-playhouse/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/miles-memorial-playhouse-theater-rental/</loc>
+  </url>
+  <url>
+    <loc>https://beta-artsamo.digitalservice.la/miles-memorial-playhouse-events/</loc>
+  </url>
+
+</urlset>
