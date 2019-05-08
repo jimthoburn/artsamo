@@ -15,7 +15,7 @@ Welcome to Beach=Culture, a year-round series of free arts and culture events at
 
 <nav class="action" markdown="1">
 *   [Artists in Residence](#artists-in-residence)
-*   [Gallery Exhibition](#2019gallery-exhibition-season)
+*   [Gallery Exhibitions](#gallery-exhibitions)
 *   [Upcoming Events](#upcoming-events)
 *   [Getting Here](#getting-here)
 </nav>
@@ -33,22 +33,6 @@ Santa Monica, CA 90402
 ========
 
 For more information about artist residency applications and calls for curators, please visit [Opportunities](/opportunities-for-artists/).
-
-<!--
-<div class="artists" markdown="1">
-
-*   ### Wally Rudolph
-    
-    <figure><img src="/uploads/wally-rudolph.png" height="300" alt="" /></figure>
-    
-    January 16, 2019 – March 20, 2019
-    
-    Born in Canada to Chinese-Jamaican immigrant parents and raised in Texas, Wally Rudolph settled in Los Angeles after a peripatetic youth. He is a multidisciplinary artist and diversity advocate whose debut novel, Four Corners (Counterpoint/Soft Skull, 2014), garnered praise for its unflinching prose and drew comparisons to the hard-edged but compassionate work of Denis Johnson, among others. His second novel Mighty, Mighty, was published to critical praise in 2015.
-    
-    [Upcoming Public Events](#upcoming-events) and [interview](https://www.santamonica.gov/blog/meet-spring-2019-beach-house-writer-in-residence-wally-rudolph)
-  
-</div>
--->
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
 [More artists](/beach-culture-artists/)
