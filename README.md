@@ -1,10 +1,10 @@
 # Santa Monica Cultural Affairs (ArtSaMo)
 
-This is a preview website for Cultural Affairs at the City of Santa Monica.
+This is a beta website for Cultural Affairs at the City of Santa Monica.
 
 https://beta-artsamo.digitalservice.la
 
-The current official web site is located at:
+The official website is located at:
 
 https://www.santamonica.gov/arts/
 
