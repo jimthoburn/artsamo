@@ -77,6 +77,9 @@ Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calend
 </p>
 <p data-events-fallback style="text-align: center;"><a href="https://www.santamonica.gov/events">City of Santa Monica Calendar</a></p>
 
+## The Palette
+
+The Palette is a weekly Wednesday email that highlights a handful of Santa Monica art and culture events happening that week. [Learn more](/events/#the-palette)
 
 <small>Venues</small>
 ======
