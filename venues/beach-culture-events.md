@@ -1,5 +1,6 @@
 ---
 title: Events at Annenberg Community Beach House, Santa Monica
+permalink: /beach-culture-events/
 ---
 
 Events<br /><small>at Annenberg Community<br />Beach House</small>

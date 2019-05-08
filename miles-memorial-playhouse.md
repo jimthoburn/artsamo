@@ -18,7 +18,7 @@ Located in Reed Park, this historic playhouse has entertained audiences since 19
 
 <nav class="action" markdown="1">
 *   [Theater Rental](/miles-memorial-playhouse-theater-rental/)
-*   [Upcoming Events](#upcoming-events)
+*   [Events](#upcoming-events)
 *   [Getting Here](#getting-here)
 </nav>
 
