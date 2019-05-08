@@ -9,9 +9,9 @@ Artists in Residence<br /><small>at Camera Obscura Art Lab</small>
 ----
 
 *   [DaEun Jun](https://www.daeunjung.com/)  
-  [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-daeun-jung)
+    [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-daeun-jung)
 *   [Max King Cap](https://maxkingcap.com/home.html)  
-  [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-max-king-cap)
+    [interview](https://www.santamonica.gov/blog/get-to-know-camera-obscura-art-lab-studio-resident-max-king-cap)
 *   [Dahn Gim](http://cargocollective.com/dahngim/ABOUT)
 *   [Alex Wand](http://www.alexwand.com/)
 *   [Natalja Kent](http://www.nataljakent.com/)
@@ -21,19 +21,19 @@ Artists in Residence<br /><small>at Camera Obscura Art Lab</small>
 ----
 
 *   [Huong Nguyen](https://www.facebook.com/addictedtoshibori/)  
-  [announcement](https://www.santamonica.gov/press/2018/01/11/debra-disman-and-huong-nguyen-announced-as-next-studio-artists-in-residence-at-the-camera-obscura-art-lab)
+    [announcement](https://www.santamonica.gov/press/2018/01/11/debra-disman-and-huong-nguyen-announced-as-next-studio-artists-in-residence-at-the-camera-obscura-art-lab)
 *   [Debra Disman](http://debradisman.com/)  
-  [announcement](https://www.santamonica.gov/press/2018/01/11/debra-disman-and-huong-nguyen-announced-as-next-studio-artists-in-residence-at-the-camera-obscura-art-lab)
+    [announcement](https://www.santamonica.gov/press/2018/01/11/debra-disman-and-huong-nguyen-announced-as-next-studio-artists-in-residence-at-the-camera-obscura-art-lab)
 *   [Kate Ingold](http://www.kateingold.com/FlatFile/)  
-  [interview](https://www.santamonica.gov/blog/q-a-with-artist-kate-ingold)
+    [interview](https://www.santamonica.gov/blog/q-a-with-artist-kate-ingold)
 *   [Brittany Ransom](https://www.brittanyransom.com/)  
-  [interview](https://www.santamonica.gov/blog/artist-in-residence-brittany-ransom-creates-3d-objects-to-interrogate-socioecological-form-function)
+    [interview](https://www.santamonica.gov/blog/artist-in-residence-brittany-ransom-creates-3d-objects-to-interrogate-socioecological-form-function)
 *   [Aparna Sindhoor](http://www.navarasa.org/)  
-  [interview](https://www.santamonica.gov/blog/resident-artist-aparna-sindhoor-wants-you-to-fall-in-love-with-dance)
+    [interview](https://www.santamonica.gov/blog/resident-artist-aparna-sindhoor-wants-you-to-fall-in-love-with-dance)
 *   [Lisa Diane Wedgeworth](https://www.lisadianewedgeworth.com/)  
-  [interview](https://www.santamonica.gov/blog/artist-in-residence-lisa-diane-wedgeworth-champions-empowerment-and-creativity)
+    [interview](https://www.santamonica.gov/blog/artist-in-residence-lisa-diane-wedgeworth-champions-empowerment-and-creativity)
 *   [Echo Park Film Center’s](http://www.echoparkfilmcenter.org/) [I’ll Be Your Mirror project](https://vimeo.com/314120172)  
-  [interview](https://www.santamonica.gov/blog/echo-park-film-center-celebrates-santa-monica-s-camera-obscura)
+    [interview](https://www.santamonica.gov/blog/echo-park-film-center-celebrates-santa-monica-s-camera-obscura)
 
 2017
 ----
@@ -41,9 +41,9 @@ Artists in Residence<br /><small>at Camera Obscura Art Lab</small>
 *   [Grace Hwang](https://cargocollective.com/gracejoannehwang)
 *   [Tracy Bromwich](http://www.wonderwoven.com/contact)
 *   [Shannon Freshwater](https://www.shannonfreshwater.com/)  
-  [interview](https://www.santamonica.gov/blog/get-to-know-shannon-freshwater)
+    [interview](https://www.santamonica.gov/blog/get-to-know-shannon-freshwater)
 *   [Frau Fiber’s Tailor Made project](https://fraufiber.wordpress.com/)  
-  [interview](https://www.santamonica.gov/blog/frau-fiber-brings-an-alternative-to-black-friday)
+    [interview](https://www.santamonica.gov/blog/frau-fiber-brings-an-alternative-to-black-friday)
 
 2016
 ----
