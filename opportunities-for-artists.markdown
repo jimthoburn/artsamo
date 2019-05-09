@@ -1,6 +1,6 @@
 ---
 title: Opportunities for Artists
-position: 6
+position: 7
 ---
 
 <figure>
