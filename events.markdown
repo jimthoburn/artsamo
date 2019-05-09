@@ -6,8 +6,10 @@ Events
 ==========
 
 <nav class="action" markdown="1">
+
 *   [Calendar](#calendar)
 *   [Weekly Newsletter](#the-palette)
+
 </nav>
 
 {% include featured-events.markdown %}

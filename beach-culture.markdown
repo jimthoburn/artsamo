@@ -14,10 +14,12 @@ title: Beach=Culture at Annenberg Community Beach House
 Welcome to Beach=Culture, a year-round series of free arts and culture events at the Annenberg Community Beach House. Beach=Culture features exhibitions, artist residencies, literary programs and other scheduled and pop-up arts experiences. Come down to the beach and find the unexpected - poetry amidst the swimmers, sculpture alongside volleyball players, dance in the middle of the sand.
 
 <nav class="action" markdown="1">
+
 *   [Artists](#artists-in-residence)
 *   [Gallery Exhibitions](#gallery-exhibitions)
 *   [Events](#upcoming-events)
 *   [Getting Here](#getting-here)
+
 </nav>
 
 ### We’re located at:
