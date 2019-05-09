@@ -1,5 +1,5 @@
 ---
-title: Public Art, Santa Monica
+title: Public Art
 ---
 
 <figure>

@@ -1,5 +1,5 @@
 ---
-title: About Santa Monica Cultural Affairs
+title: About
 ---
 
 <figure class="image">

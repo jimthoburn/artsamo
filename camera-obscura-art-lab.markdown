@@ -1,5 +1,5 @@
 ---
-title: Camera Obscura Art Lab, Santa Monica
+title: Camera Obscura Art Lab
 ---
 
 <figure>

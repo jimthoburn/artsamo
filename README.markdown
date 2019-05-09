@@ -9,6 +9,8 @@ The official website is located at:
 https://www.santamonica.gov/arts/
 
 * [How to make changes](#how-to-make-changes)
+* [How to add an event page](#how-to-add-an-event-page)
+* [How to hide an event page](#how-to-hide-an-event-page)
 * [How to add an image](#how-to-add-an-image)
 * [How to see a preview of your changes](#how-to-see-a-preview-of-your-changes)
 * [How to develop locally](#how-to-develop-locally)
@@ -21,6 +23,71 @@ The website is published with [GitHub Pages](https://pages.github.com) and the f
 As you make changes and commit/push them to GitHub, the [website](https://beta-artsamo.digitalservice.la) will automatically update.
 
 For example, if you [edit the _About_ page](https://github.com/jimthoburn/artsamo/edit/master/about.md) on GitHub, and then press the “Commit changes” button–you should see your changes on the [_About_ page](https://beta-artsamo.digitalservice.la/about/) of the website within a few minutes.
+
+## How to add an event page
+
+*The easist way to add an event page is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Jim has a Siteleaf account and can send you an invite.)*
+
+![Events List](https://user-images.githubusercontent.com/926616/57425473-21759100-71d0-11e9-9ed0-624e3827e62d.png)
+
+![New Event](https://user-images.githubusercontent.com/926616/57425475-22a6be00-71d0-11e9-9833-2ea7551f0dd0.png)
+
+*You can also follow these steps, to add an event page using GitHub…*
+
+1. Open the [\_events](https://github.com/jimthoburn/artsamo/tree/master/_events) folder.
+
+2. Press the `create new file` button: https://github.com/jimthoburn/artsamo/new/master/_events
+
+3. Name the file with the name of the event. It’s best to use lowercase letters and dashes instead of spaces for your filename. For example:
+```
+meet-me-at-reed.markdown
+```
+
+3. Copy and paste this text into your new post, and then change it to your liking:
+```
+---
+title: Meet Me at Reed
+description: Saturdays, June 15 to July 27, 2019, Free admission
+image: https://static-artsamo.digitalservice.la/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen
+  (195 of 281).jpg
+image_title: Taiko Festival
+image_description: Music performers playing drums at the Taiko Festival
+image_credit: Javier Guillen
+---
+
+Your first paragraph of text can go here.
+
+## And here’s an example of a title
+
+To see more examples, try opening some of the other event pages, or read the markdown guide:
+https://guides.github.com/features/mastering-markdown/
+```
+
+*You can also use one of the other [event pages](https://github.com/jimthoburn/artsamo/tree/master/_events) as a starting point.*
+
+4. Press the `Commit changes` button
+
+Your new event should appear on the [featured events page](https://beta-artsamo.digitalservice.la/events/) within a few minutes.
+
+## How to hide an event page
+
+*The easist way to hide an event page is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Jim has a Siteleaf account and can send you an invite.)*
+
+![Hidden Event](https://user-images.githubusercontent.com/926616/57425477-23d7eb00-71d0-11e9-9fd2-1d8b2eee1eed.png)
+
+*You can also follow these steps, to hide an event page using GitHub…*
+
+While editing an event file, look for this line:
+```
+published: true
+```
+
+To hide the event, set the value of published to `false`:
+```
+published: false
+```
+
+To show the event again, set the value of published back to `true`.
 
 ## How to add an image
 

@@ -1,14 +1,13 @@
 ---
-title: Meet Me at Reed, Santa Monica Cultural Affairs
+title: Meet Me at Reed
+position: 1
+description: 'Saturdays: June 15 to July 27, 2019, Free admission'
+image: https://static-artsamo.digitalservice.la/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen
+  (195 of 281).jpg
+image_title: Taiko Festival
+image_description: Music performers playing drums at the Taiko Festival
+image_credit: Javier Guillen
 ---
-
-<figure>
-  <img src="https://static-artsamo.digitalservice.la/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="Music performers playing drums at the Taiko Festival" />
-  <figcaption>Taiko Festival / Photo by Javier Guillen</figcaption>
-</figure>
-
-Meet Me at Reed
-===============
 
 ## Family Fun + Art in the Parks 
 

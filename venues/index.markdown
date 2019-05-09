@@ -1,5 +1,5 @@
 ---
-title: Venues, Santa Monica Cultural Affairs
+title: Venues
 body_class: blueberry
 ---
 

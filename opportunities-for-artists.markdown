@@ -1,5 +1,5 @@
 ---
-title: Opportunities for Artists, Santa Monica
+title: Opportunities for Artists
 ---
 
 <figure>

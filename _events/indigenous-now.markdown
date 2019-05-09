@@ -1,14 +1,12 @@
 ---
-title: Indigenous Now, Santa Monica Cultural Affairs
+title: Indigenous Now
+position: 0
+description: Saturday, May 11 from 12 – 4 p.m., Free admission
+image: https://static-artsamo.digitalservice.la/uploads/2018_Tongva_Park_Jason_Abraham-(4-of-52).jpg
+image_title: Tongva Park
+image_description: Tongva Park
+image_credit: Jason Abraham
 ---
-
-<figure>
-  <img src="https://static-artsamo.digitalservice.la/uploads/2018_Tongva_Park_Jason_Abraham-(4-of-52).jpg" height="300" alt="Tongva Park" />
-  <figcaption>Tongva Park / Photo by Jason Abraham</figcaption>
-</figure>
-
-Indigenous Now
-===============
 
 **Saturday, May 11, 2019**  
 **12 – 4 p.m., Free admission**  

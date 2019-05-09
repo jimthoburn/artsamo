@@ -1,5 +1,5 @@
 ---
-title: Opportunities, Santa Monica
+title: Opportunities
 ---
 
 <figure class="image">

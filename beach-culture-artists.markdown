@@ -1,5 +1,5 @@
 ---
-title: Artists in Residence at Annenberg Community Beach House, Santa Monica
+title: Artists in Residence at Annenberg Community Beach House
 ---
 
 Artists in Residence<br /><small>at Annenberg Community<br />Beach House</small>

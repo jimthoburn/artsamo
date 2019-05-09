@@ -1,5 +1,5 @@
 ---
-title: Events, Santa Monica Cultural Affairs
+title: Events
 ---
 
 Events

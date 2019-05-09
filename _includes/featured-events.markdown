@@ -1,3 +1,28 @@
+<ol class="featured-events">
+
+{% assign data_collection = site.collections | where: "label", "events" | first %}
+{% assign data_list = data_collection.docs %}
+{% assign data_list = data_list | sort: "position" %}
+
+{% for event in data_list %}
+
+<li>
+  <a href="{{ event.url }}">
+    <span class="image">
+      <img src="{{ event.image }}" height="300" alt="" />
+    </span><br />
+    <span class="text">
+      <strong>{{ event.title }}</strong><br />
+      {{ event.description }}
+    </span>
+  </a>
+</li>
+
+{% endfor %}
+
+</ol>
+
+{% comment %}
 <ul class="featured-events">
   <!--
   <li>
@@ -42,3 +67,4 @@
     </a>
   </li>
 </ul>
+{% endcomment %}

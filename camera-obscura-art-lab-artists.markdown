@@ -1,5 +1,5 @@
 ---
-title: Artists in Residence at Camera Obscura Art Lab, Santa Monica
+title: Artists in Residence at Camera Obscura Art Lab
 ---
 
 Artists in Residence<br /><small>at Camera Obscura Art Lab</small>

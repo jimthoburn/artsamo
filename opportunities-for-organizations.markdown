@@ -1,5 +1,5 @@
 ---
-title: Grants for Organizations, Santa Monica
+title: Grants for Organizations
 ---
 
 <figure>
