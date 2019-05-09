@@ -1,6 +1,6 @@
 ---
 title: Opportunities
-position: 6
+position: 7
 ---
 
 <figure class="image">
