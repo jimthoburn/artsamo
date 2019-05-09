@@ -2,10 +2,12 @@
 title: Public Art
 figures:
 - image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
-  description: People walking by an art sculpture hanging on a wall
+  description: People walking by an art sculpture composed of silver orbs, hanging
+    on a wall
   caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
 - image: https://static-artsamo.digitalservice.la/uploads/go-see-art.jpg
-  description: Public art painted on a wall
+  description: A wall outdoors with art composed of colored tiles, forming a ring
+    of circles orbiting around a circle in the middle
   caption: "<em>Wheels</em> by Anne Marie Karlsen"
 - image: https://static-artsamo.digitalservice.la/uploads/weather-field-tongva.jpg
   description: Weather instruments at an outdoor park on a sunny day
