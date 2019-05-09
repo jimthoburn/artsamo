@@ -2,7 +2,6 @@
 title: Arts Commission Agendas & Minutes, Santa Monica Cultural Affairs
 ---
 
-
 <small>Arts Commission</small> Agendas & Minutes
 =================================
 

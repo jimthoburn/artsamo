@@ -1,38 +1,35 @@
-
+---
 title: Santa Monica Cultural Affairs
-description: >-
-  Santa Monica Cultural Affairs (SMCA) funds local artists and organizations,
-  stewards the city’s public art collection, and produces events large and small. 
-image: https://beta-artsamo.digitalservice.lahttps://static-artsamo.digitalservice.la/uploads/artsamo.jpg
-
-permalink: pretty
-
-exclude:
-  - CNAME
-  - README
-  - Gemfile
-  - Gemfile.lock
-  - _node
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-  - scope:
-      path: ""
-      type: events
-    values:
-      layout: default
-
+timezone: America/Los_Angeles
 collections:
-  uploads:
-    title: Uploads
-    output: true
   events:
     title: Events
     output: true
-    permalink: /:path/
-
-# For cache busting
+    permalink: "/:path/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: events
+  values:
+    layout: default
+description: Santa Monica Cultural Affairs (SMCA) funds local artists and organizations,
+  stewards the city’s public art collection, and produces events large and small.
+image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
+permalink: pretty
+exclude:
+- CNAME
+- README
+- Gemfile
+- Gemfile.lock
+- _node
 version: 0.0.0
