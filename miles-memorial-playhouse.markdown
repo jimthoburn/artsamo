@@ -1,5 +1,5 @@
 ---
-title: Miles Memorial Playhouse, Santa Monica
+title: Miles Memorial Playhouse
 body_class: orange
 ---
 

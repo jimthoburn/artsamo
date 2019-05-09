@@ -1,5 +1,5 @@
 ---
-title: Santa Monica Artist Fellows
+title: Artist Fellows
 ---
 
 <small>Santa Monica</small> Artist Fellows

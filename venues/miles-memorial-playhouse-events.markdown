@@ -1,5 +1,5 @@
 ---
-title: Events at Miles Memorial Playhouse, Santa Monica
+title: Events at Miles Memorial Playhouse
 permalink: "/miles-memorial-playhouse-events/"
 ---
 

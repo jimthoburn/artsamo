@@ -1,5 +1,5 @@
 ---
-title: Contact information for Santa Monica Cultural Affairs
+title: Contact
 ---
 
 Contact

@@ -1,5 +1,5 @@
 ---
-title: Theater Rental at Miles Memorial Playhouse, Santa Monica
+title: Theater Rental at Miles Memorial Playhouse
 ---
 
 Theater Rental <small>at Miles Memorial Playhouse</small>

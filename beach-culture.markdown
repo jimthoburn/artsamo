@@ -1,5 +1,5 @@
 ---
-title: Beach=Culture at Annenberg Community Beach House, Santa Monica
+title: Beach=Culture at Annenberg Community Beach House
 ---
 
 <figure><img src="https://static-artsamo.digitalservice.la/uploads/beach-culture.jpg" height="300" alt="" /></figure>

@@ -1,5 +1,5 @@
 ---
-title: Events at Camera Obscura Art Lab, Santa Monica
+title: Events at Camera Obscura Art Lab
 permalink: "/camera-obscura-art-lab-events/"
 ---
 
