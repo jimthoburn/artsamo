@@ -13,17 +13,22 @@ title: Opportunities for Artists
 Artist Fellowship
 -----------------
 
-Deadline: Closed for 2019-2020 | [Guidelines](/Media/arts/CA/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202019-20%20ES-EN-1.pdf)
-
-Applications available: TBA 
-
 The purpose of the Santa Monica Artist Fellowship program is to nourish and stimulate the creation of new work by Santa Monica artists, recognize excellence, and reinforce our community’s high regard for creativity and innovation. Five Fellowships are awarded annually: two fellowships of $20,000 by means of a nomination process, and three $4,200 Project Fellowships by application.
 
-[Artist fellows from 2010-2019](/arts/artist-fellows)
+Guidelines
+: [Santa Monica Artist and Project Fellowships 2019-20 Guidelines](https://www.santamonica.gov/Media/arts/CA/Santa%20Monica%20Artist%20Fellowship%20Guidelines%202019-20%20ES-EN-1.pdf)
 
-### Eligibility
+Deadline
+: Closed for 2019-2020
 
-Professional artists who create, rather than interpret, original work, and who either reside in the City or maintain a studio and business license in the city, are eligible to apply. Applicants must have met the residency requirements for at least one year. (Five years for nominated Fellows.)
+Applications Will Be Available
+: _TBA_
+
+Past Fellows
+: [Artist fellows from 2010-2019](/artist-fellows/)
+
+Eligibility
+: Professional artists who create, rather than interpret, original work, and who either reside in the City or maintain a studio and business license in the city, are eligible to apply. Applicants must have met the residency requirements for at least one year. (Five years for nominated Fellows.)
 
 Artist Residencies
 ------------------
@@ -32,95 +37,155 @@ Residency programs promote a diverse variety of artistic endeavors in Santa Moni
 
 ### ACBH Fall and Spring Writer Residency
 
-Deadline: July
+Where
+: [Annenberg Community Beach House, 415 PCH](/beach-culture/)
 
-Where: Annenberg Community Beach House, 415 PCH
+Deadline
+: July
 
-Applications available: Annually in May
+Applications Will Be Available
+: Annually in May
 
-Eligible: LA County residents; writers of poetry, plays, and fiction
+Eligibility
+: LA County residents; writers of poetry, plays, and fiction
 
-Length: 9 weeks per residency | Fall is October - December | Spring is January - March
+Length
+: 9 weeks per residency
+: Fall is October - December
+: Spring is January - March
 
-Required: Public Events | Office Hours | Weekly Blog posts
+Required
+: Public Events
+: Office Hours
+: Weekly Blog posts
 
 ### ACBH Public Practice Immersion Residency: Out of the Blue
 
-Deadline: April of same year
+Where
+: [Annenberg Community Beach House, 415 PCH](/beach-culture/)
 
-Where: Annenberg Community Beach House, 415 PCH
+Deadline
+: April of same year
 
-Applications available: Biennially (odd years) in February
+Applications Will Be Available
+: Biennially (odd years) in February
 
-Eligible: LA County Residents
+Eligibility
+: LA County Residents
 
-Length: 1 - 7 Weeks | July and August
+Length
+: 1 - 7 Weeks
+: July and August
 
-Required: Site Sensitive Public Oriented Work | Public Practice | Weekly Blog posts
+Required
+: Site Sensitive Public Oriented Work
+: Public Practice
+: Weekly Blog posts
 
 ### ACBH Choreographer Residency
 
-Deadline: March of same year
+Where
+: [Annenberg Community Beach House, 415 PCH](/beach-culture/)
 
-Where: Annenberg Community Beach House, 415 PCH
+Guidelines
+: [Call for Choreographers, Public Practice Residency Annenberg Community Beach House](https://www.smgov.net/uploadedFiles/Portals/Culture/Public_Art_Program/2019ACBH_Choreo_Res_Call.pdf)
 
-Applications available: Biennially (even years) in January
+Deadline
+: March of same year
 
-Eligible: LA County Residents
+Applications Will Be Available
+: Biennially (even years) in January
 
-Length: 3 Months Planning and 5+ Weeks rehearsal/perfomance in September and October
+Eligibility
+: LA County Residents
 
-Required: Site Sensitive Public Oriented Work | Public Practice | Blog Posts
+Length
+: 3 Months Planning and 5+ Weeks rehearsal/perfomance in September and October
+
+Required
+: Site Sensitive Public Oriented Work
+: Public Practice
+: Blog Posts
 
 ### Camera Obscura Art Lab Studio Residency
 
-Deadline: October
+Deadline
+: October 
 
-Where: Camera Obscura Art Lab, 1450 Ocean Ave.
+Where
+: [Camera Obscura Art Lab, 1450 Ocean Ave.](/camera-obscura-art-lab/)
 
-Applications available: August
+Applications Will Be Available
+: August
 
-Eligible: LA County Residents
+Eligibility
+: LA County Residents
 
-Length: 14 Weeks in January, April, August
+Length
+: 14 Weeks in January, April, August
 
-Required: Weekly Workshops | Blog Posts | Culminating Exhibit/Performance
+Required
+: Weekly Workshops
+: Blog Posts
+: Culminating Exhibit/Performance
+
 
 Performance Opportunities
 -------------------------
 
 ### Jazz on the Lawn
 
-Deadline: Rolling, Closing Mid-April Annually 
+Deadline
+: Rolling, Closing Mid-April Annually 
 
-Where: Gandara Park, 1819 Stewart St.
+Where
+: Gandara Park, 1819 Stewart St.
 
-To apply: Email name of band, brief 3-5 word genre description (ex. Ragtime, New Orleans Jazz), 2-3 sentences description of band (including the number of musicians and style of music), website link, link to an online video to:  [Allison Ostrovsky](mailto:allison.ostrovsky@smgov.net), Cultural Affairs Supervisor. Notifications will be sent by June 1. 
+To Apply
+: Email name of band, brief 3-5 word genre description (ex. Ragtime, New Orleans Jazz), 2-3 sentences description of band (including the number of musicians and style of music), website link, link to an online video to:  [Allison Ostrovsky](mailto:allison.ostrovsky@smgov.net), Cultural Affairs Supervisor. Notifications will be sent by June 1. 
 
-Eligibility: Professional Jazz and Jazz-Related Bands Based in Southern California
+Eligibility
+: Professional Jazz and Jazz-Related Bands Based in Southern California
 
-Length: Single Performance During Event Series. Events Are Every Sunday in August 5pm-7pm
+Length
+: Single Performance During Event Series. Events Are Every Sunday in August 5pm-7pm
+
 
 ACBH Gallery Group Exhibits
 ---------------------------
 
-Deadline: TBA
+Deadline
+: TBA
 
-Where: Annenberg Community Beach House, 415 PCH
+Where
+: [Annenberg Community Beach House, 415 PCH](/beach-culture/)
 
-Applications Will Be Available: Late Summer
+Applications Will Be Available
+: Late Summer
 
-Eligibility: Greater Southern California Residents 
+Eligible
+: Greater Southern California Residents 
 
-Length: Exhibits on Display for 2-4 Months
+Length
+: Exhibits on Display for 2-4 Months
 
-Required: 3 or More Artists Per Show | Artwork Ready to Hang | Curatorial Statement 
+Required
+: 3 or More Artists Per Show
+: Artwork Ready to Hang
+: Curatorial Statement
 
-Artist Roster | Rolling Call for Qualifications
+
+Artist Roster
 -----------------------------------------------
 
-Deadline: Reviewed quarterly | [Application](https://artist.callforentry.org/festivals_unique_info.php?ID=6001) 
+### Rolling Call for Qualifications
 
-Applications: The next deadline for applications is March 29, 2019, by 10:59 PM PST
+Santa Monica Cultural Affairs invites local, regional, national and international artists/teams to submit qualifications for a prequalified artists roster. The Artist Roster, a curated shortlist of artists, will enable us to connect amazing qualified artists to projects and opportunities in Santa Monica. Cultural Affairs believes artwork is labor, and will ensure that funding is allocated in project budgets to pay artists for their time. All entities using the Santa Monica Cultura Affairs’ prequalified roster will be strongly encouraged to budget artists' fees when planning potential projects.
 
-Santa Monica Cultural Affairs invites local, regional, national and international artists/teams to submit qualifications for a prequalified artists roster. The Artist Roster, a curated shortlist of artists, will enable us to connect amazing qualified artists to projects and opportunities in Santa Monica. Cultural Affairs believes artwork is labor, and will ensure that funding is allocated in project budgets to pay artists for their time. All entities using the Santa Monica Cultura Affairs' prequalified roster will be strongly encouraged to budget artists' fees when planning potential projects. 
+Deadline
+: Reviewed quarterly
+: [Application](https://artist.callforentry.org/festivals_unique_info.php?ID=6001) 
+
+Applications
+: The next deadline for applications is March 29, 2019, by 10:59 PM PST
+
