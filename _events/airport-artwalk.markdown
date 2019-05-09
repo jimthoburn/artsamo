@@ -1,7 +1,8 @@
 ---
 title: Airport Artwalk
 image: https://static-artsamo.digitalservice.la/uploads/PhotoCredit_AnnieDimas3.jpg
-image_description: People enjoying pottery work by artists, with a band playing music in the background
+image_description: People enjoying pottery work by artists, with a band playing music
+  in the background
 image_credit: Annie Dimas
 ---
 

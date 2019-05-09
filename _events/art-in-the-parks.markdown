@@ -1,6 +1,7 @@
 ---
 title: Art in the Parks
-image: https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg
+image: https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen
+  (135 of 144).jpg
 image_description: Santa Monica Symphony Orchestra playing for Meet me at Reed
 image_credit: Javier Guillen
 ---
