@@ -2,7 +2,7 @@
 title: Artists in Residence at Annenberg Community Beach House
 ---
 
-Artists in Residence<br /><small>at Annenberg Community<br />Beach House</small>
+Artists in Residence<br /><small>Beach=Culture</small>
 =====================================================
 
 2019
@@ -28,13 +28,13 @@ Artists in Residence<br /><small>at Annenberg Community<br />Beach House</small>
 ----
 
 *   [Writer - Luis Alfaro: _Mother of the Row_ & _The Golden State_](https://dramaticarts.usc.edu/luis-alfaro/)  
-   [interview](https://www.santamonica.gov/press/2018/01/17/playwright-luis-alfaro-named-writer-in-residence-at-the-annenberg-community-beach-house), [video](https://www.youtube.com/watch?v=H4PK2-gA36Y)
+    [interview](https://www.santamonica.gov/press/2018/01/17/playwright-luis-alfaro-named-writer-in-residence-at-the-annenberg-community-beach-house), [video](https://www.youtube.com/watch?v=H4PK2-gA36Y)
 *   [Public Practice - Therese Kelly: _Under the Umbrella_](http://www.theresekelly.com/)  
-   [interview](https://www.santamonica.gov/blog/architect-and-social-practice-artist-therese-kelly-to-lead-tours-illuminating-our-relationship-with-water)
+    [interview](https://www.santamonica.gov/blog/architect-and-social-practice-artist-therese-kelly-to-lead-tours-illuminating-our-relationship-with-water)
 *   [Public Practice - Molly Allis: _The Storytelling Machine_](https://www.mollyallis.com/)  
-   [interview](https://www.santamonica.gov/blog/artist-molly-allis-focuses-on-accessibility-and-joy-in-her-process)
+    [interview](https://www.santamonica.gov/blog/artist-molly-allis-focuses-on-accessibility-and-joy-in-her-process)
 *   [Writer - Catherine Coan: _Mistakes Have Been Made_](https://catherinecoan.com/)  
-   [interview](https://beachhouseair.blogspot.com/2018/12/following-and-reconciling-different.html)
+    [interview](https://beachhouseair.blogspot.com/2018/12/following-and-reconciling-different.html)
 *   Public Practice - Beach Dances; Mecca Vazie Andrews, Suchi Branfman, [Rebecca Bruno](https://www.rebeccabruno.net/), [Jay Carlon](https://www.jaycarlon.com/), [Sarah Elgart](http://sarahelgart.com/), Jeremy Hahn, [No)One. Art House](https://noonearthouse.org/), [Alexx Shilling](http://alexxmakesdances.com/), and [Pieter Performance Space](https://pieterpasd.com/).
 
 2017
@@ -42,9 +42,9 @@ Artists in Residence<br /><small>at Annenberg Community<br />Beach House</small>
 
 *   Writer - Dinah Berland: _Fugue for a New Life_
 *   [Choreographer - Jay Carlon: _Out of Bounds_](https://www.jaycarlon.com/)  
-   [interview](https://www.santamonica.gov/blog/artist-jay-carlon-explores-migration-and-displacement-through-dance-at-the-beach-house)
+    [interview](https://www.santamonica.gov/blog/artist-jay-carlon-explores-migration-and-displacement-through-dance-at-the-beach-house)
 *   Writer - Sakae Manning: _Kimono Blues_  
-   [interview](https://www.santamonica.gov/blog/writer-sakae-manning-forges-alliances-between-women-of-color-through-storytelling)
+    [interview](https://www.santamonica.gov/blog/writer-sakae-manning-forges-alliances-between-women-of-color-through-storytelling)
 
 2016
 ----
