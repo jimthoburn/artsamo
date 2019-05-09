@@ -3,11 +3,7 @@ title: Public Art
 ---
 
 <figure>
-  <img
-    src=""
-    height="300"
-    alt=""
-  />
+  <img height="1" alt="" />
   <figcaption></figcaption>
 </figure>
 

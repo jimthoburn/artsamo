@@ -3,7 +3,8 @@ title: Santa Monica Cultural Affairs
 ---
 
 <figure>
-  <img height="300" alt="" />
+  <img height="1" alt="" />
+  {% comment %}
   <script type="text/template">
     <video width="1920" height="1080" autoplay loop muted playsinline>
       <source src="https://jimthoburn.com/artsamo/2018_BeachDances_ACBH_JayCarlon_4TrianglesVideo.mp4" type="video/mp4" />
@@ -16,7 +17,8 @@ title: Santa Monica Cultural Affairs
       <!-- <source src=".webm" type="video/webm" /> -->
     </video>
   </script>
-  <img src="/assets/images/logotype/artsamo.svg" height="300" alt="ArtSaMo" />
+  {% endcomment %}
+  <img src="/assets/images/logotype/artsamo.svg" height="1" alt="" />
   <figcaption></figcaption>
 </figure>
 
@@ -34,15 +36,15 @@ Santa Monica’s eight-plus square miles contain a wealth of art and culture. Sa
 <p class="go-see-art">
   <a href="#go-see-art">
     <span>
-      <span class="image"><img src="" height="100" alt="" /></span>
+      <span class="image"><img height="1" alt="" /></span>
       <span class="text">Go</span>
     </span>
     <span>
-      <span class="image"><img src="" height="100" alt="" /></span>
+      <span class="image"><img height="1" alt="" /></span>
       <span class="text">See</span>
     </span>
     <span>
-      <span class="image"><img src="" height="100" alt="" /></span>
+      <span class="image"><img height="1" alt="" /></span>
       <span class="text">Art</span>
     </span>
   </a>
