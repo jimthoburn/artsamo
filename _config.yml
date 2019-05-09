@@ -22,6 +22,7 @@ defaults:
     type: events
   values:
     image: ''
+    description: ''
     image_title: ''
     image_description: ''
     image_credit: ''

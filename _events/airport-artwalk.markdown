@@ -1,9 +1,11 @@
 ---
 title: Airport Artwalk
+description: Saturday, March 23 from 12-5pm. Rain or shine! Free admission
 image: https://static-artsamo.digitalservice.la/uploads/PhotoCredit_AnnieDimas3.jpg
 image_description: People enjoying pottery work by artists, with a band playing music
   in the background
 image_credit: Annie Dimas
+published: false
 ---
 
 13th Annual Santa Monica Airport ArtWalk Returns March 23

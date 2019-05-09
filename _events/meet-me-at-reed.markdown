@@ -1,5 +1,6 @@
 ---
 title: Meet Me at Reed
+description: 'Saturdays: June 15 to July 27, 2019, Free admission'
 image: https://static-artsamo.digitalservice.la/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen
   (195 of 281).jpg
 image_title: Taiko Festival
