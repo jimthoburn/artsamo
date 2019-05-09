@@ -27,6 +27,8 @@ main > h2 {
     main > * {
       grid-column: 2 / 3;
     }
+
+    main > hr + h2,
     main > h1,
     main > figure,
     main > .map {
@@ -67,6 +69,12 @@ main > h2 {
       padding-left: calc(var(--unitless-vertical-rhythm) * 2rem);
       max-width: 17.5em;
       grid-row: span 2;
+    }
+    main > hr + h2 {
+      justify-self: unset;
+      padding-left: unset;
+      grid-row: unset;
+      max-width: unset;
     }
     main > h2 + h4,
     main > h3 + h4 {

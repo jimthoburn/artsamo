@@ -11,8 +11,9 @@ title: About
   </figcaption>
 </figure>
 
+
 About<br /><small>Santa Monica Cultural Affairs</small>
-=============
+=======================================================
 
 ## Turning art into reality
 
@@ -26,6 +27,7 @@ Santa Monica Cultural Affairs (SMCA) connects people to art. We do that by distr
 *   [Public Art Program](#public-art-program)
 
 </nav>
+
 
 Leadership
 ----------
@@ -71,16 +73,18 @@ We meet the third Monday of each month, Ken Edwards Center, 5:00 p.m.
   </blockquote>
 </div>
 
+
 Santa Monica Arts Foundation <a id="foundation"></a>
-----------------------------
+----------------------------------------------------
 
 The [Santa Monica Arts Foundation](https://www.facebook.com/SantaMonicaArtsFoundation/) is a nonprofit agency dedicated to promoting and supporting the arts in Santa Monica. The Foundation is staffed by Santa Monica Cultural Affairs.
 
 Recognizing Great Arts Leaders in Santa Monica  
 The Santa Monica Arts Foundation sponsors the Arts Leadership Awards, which recognizes exemplary leaders who support Santa Monica’s creative community.  The 2019 awards will be presented at the Annenberg Community Beach House in Santa Monica on [Wednesday, April 24, 2019](https://www.eventbrite.com/e/2019-santa-monica-arts-foundation-arts-leadership-awards-ceremony-tickets-59739799348).
 
+
 Policy & Planning <a id="policy-and-planning"></a>
------------------
+--------------------------------------------------
 
 ### Cultural Policy
 
@@ -99,6 +103,7 @@ We’re always looking for ways to remain fresh. That’s why we’re excited to
     <small>Chuck Klosterman</small>
   </blockquote>
 </div>
+
 
 Public Art Program
 ------------------

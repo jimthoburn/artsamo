@@ -7,6 +7,7 @@ title: Opportunities
   <figcaption>Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham</figcaption>
 </figure>
 
+
 Opportunities
 =============
 
@@ -16,8 +17,8 @@ Imagine what can happen when the right artist meets the right opportunity. Santa
 
 <nav class="action" markdown="1">
 
-*   [Opportunities for Artists](/opportunities-for-artists/)
-*   [Opportunities for Organizations](/opportunities-for-organizations/)
+*   [For Artists](/opportunities-for-artists/)
+*   [For Organizations](/opportunities-for-organizations/)
 
 </nav>
  

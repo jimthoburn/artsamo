@@ -2,16 +2,32 @@
 title: Beach=Culture at Annenberg Community Beach House
 ---
 
-<figure><img src="https://static-artsamo.digitalservice.la/uploads/beach-culture.jpg" height="300" alt="" /></figure>
+<figure>
+  <img
+    src="https://static-artsamo.digitalservice.la/uploads/beach-culture.jpg"
+    alt="A crowd of people watching a performance outdoors at the beach"
+    height="300" />
+</figure>
+
 
 <h1>
-  <img src="/assets/images/icon-beachhouse.png" height="50" alt="" /><br />
-  Beach=Culture<br /><small>at Annenberg Community<br />Beach House</small>
+  <img src="/assets/images/icon-beachhouse.png" height="50" alt="" />
+  <br />
+  Beach=Culture
+  <br />
+  <small>
+    at Annenberg Community
+    <br />
+    Beach House
+  </small>
 </h1>
 
-## Come join us
+
+Come join us
+------------
 
 Welcome to Beach=Culture, a year-round series of free arts and culture events at the Annenberg Community Beach House. Beach=Culture features exhibitions, artist residencies, literary programs and other scheduled and pop-up arts experiences. Come down to the beach and find the unexpected - poetry amidst the swimmers, sculpture alongside volleyball players, dance in the middle of the sand.
+
 
 <nav class="action" markdown="1">
 
@@ -22,6 +38,7 @@ Welcome to Beach=Culture, a year-round series of free arts and culture events at
 
 </nav>
 
+
 ### We’re located at:
 
 415 Pacific Coast Hwy  
@@ -31,17 +48,27 @@ Santa Monica, CA 90402
 [culture@smgov.net](mailto:culture@smgov.net)[](mailto:culture@smgov.net)  
 <a href="https://annenbergbeachhouse.com">annenbergbeachhouse.com</a>
 
-<small>Artists in Residence</small>
-========
+
+* * *
+
+
+Artists in Residence
+--------------------
 
 For more information about artist residency applications and calls for curators, please visit [Opportunities](/opportunities-for-artists/).
 
-<p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
+<p class="action" markdown="1">
+
 [Past artists](/beach-culture-artists/)
+
 </p>
 
-<small>Gallery Exhibitions</small>
-========
+
+* * *
+
+
+Gallery Exhibitions
+-------------------
 
 ### 2019 Program
 
@@ -91,8 +118,12 @@ Three exhibits each year showcase the work of regional artists and artist groups
 
 </div>
 
-<small>Upcoming Events</small>
-====
+
+* * *
+
+
+Upcoming Events
+---------------
 
 <ol
   class="events"
@@ -101,12 +132,18 @@ Three exhibits each year showcase the work of regional artists and artist groups
 </ol>
 <script src="/assets/js/events.js"></script>
 
-<p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
+<p data-events-more class="action" markdown="1" style="visibility: hidden;">
+
 [More events](/beach-culture-events/)
+
 </p>
 
-<small>Getting Here</small>
-=======
+
+* * *
+
+
+Getting Here
+------------
 
 Annenberg Community Beach House is wheelchair accessible and ADA compliant. If you require any special disability related accommodations (i.e. sign language interpreting, access to an amplified sound system, etc.), please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 
