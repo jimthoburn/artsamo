@@ -1,6 +1,6 @@
 ---
 title: Venues
-position: 1
+position: 2
 body_class: blueberry
 ---
 
