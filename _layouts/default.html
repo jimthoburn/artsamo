@@ -4,9 +4,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  {% capture title %}{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
+  {% capture title %}{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}{% endcapture %}
   <title>{{ title }}{% unless title contains site.title %} / {{ site.title }}{% endunless %}</title>
-  <title>{{ page.title }}</title>
 
   <!-- Jim’s Typekit account -->
   <link rel="stylesheet" href="https://use.typekit.net/bwp8iid.css" />
@@ -160,7 +159,7 @@
     <ul>
       <li><a href="/miles-memorial-playhouse/#getting-here">Getting Here</a></li>
       <li><a href="/miles-memorial-playhouse-events/">Events</a></li>
-      <li><a href="/miles-memorial-playhouse-theater-rental/">Theater Rental</a></li>
+      <li><a href="/miles-memorial-playhouse-rental/">Theater Rental</a></li>
     </ul>
   </section>
   <section>
@@ -177,7 +176,7 @@
       <li><a href="/beach-culture/#getting-here">Getting Here</a></li>
       <li><a href="/beach-culture-events/">Events</a></li>
       <li><a href="/beach-culture-artists/">Artists</a></li>
-      <li><a href="/beach-culture/#2019gallery-exhibition-season">Gallery Exhibition</a></li>
+      <li><a href="/beach-culture/#gallery-exhibitions">Gallery Exhibitions</a></li>
     </ul>
   </section>
   <section>

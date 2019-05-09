@@ -14,11 +14,11 @@ body_class: orange
 
 ## Entertaining since 1929
 
-Located in Reed Park, this historic playhouse has entertained audiences since 1929. Santa Monica Cultural Affairs offers [youth programs](https://www.facebook.com/groups/downbeat720/), as well as the world-class “Fireside at the Miles” performance series every January and February. The rest of the year, the venue is [available for rent](/miles-memorial-playhouse-theater-rental/) to local and regional non-profit performing arts companies.
+Located in Reed Park, this historic playhouse has entertained audiences since 1929. Santa Monica Cultural Affairs offers [youth programs](https://www.facebook.com/groups/downbeat720/), as well as the world-class “Fireside at the Miles” performance series every January and February. The rest of the year, the venue is [available for rent](/miles-memorial-playhouse-rental/) to local and regional non-profit performing arts companies.
 
 <nav class="action" markdown="1">
 
-*   [Theater Rental](/miles-memorial-playhouse-theater-rental/)
+*   [Theater Rental](/miles-memorial-playhouse-rental/)
 *   [Events](#upcoming-events)
 *   [Getting Here](#getting-here)
 
