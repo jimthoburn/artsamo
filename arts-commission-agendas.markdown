@@ -1,5 +1,6 @@
 ---
 title: Arts Commission Agendas & Minutes
+position: 18
 ---
 
 <small>Arts Commission</small> Agendas & Minutes

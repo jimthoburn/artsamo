@@ -1,5 +1,6 @@
 ---
 title: Public Art
+position: 3
 figures:
 - image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
   description: People walking by an art sculpture composed of silver orbs, hanging
