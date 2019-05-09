@@ -1,7 +1,7 @@
 ---
 title: Events at Camera Obscura Art Lab
 permalink: "/camera-obscura-art-lab-events/"
-position: 14
+position: 13
 ---
 
 <h1>

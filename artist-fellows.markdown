@@ -1,6 +1,6 @@
 ---
 title: Artist Fellows
-position: 16
+position: 15
 ---
 
 <small>Santa Monica</small> Artist Fellows
