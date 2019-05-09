@@ -1,6 +1,6 @@
 ---
 title: Artists in Residence at Annenberg Community Beach House
-position: 7
+position: 8
 ---
 
 Artists in Residence<br /><small>Beach=Culture</small>
