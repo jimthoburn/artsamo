@@ -50,9 +50,11 @@ Santa Monica’s eight-plus square miles contain a wealth of art and culture. Sa
 You will never regret taking time out of your busy day to go see art. Santa Monica offers a rich collection of public art, self-produced art and more. Get out there, drink it in and let it refresh your soul. You can’t see it all, of course. But you can try!
 
 <nav class="action" markdown="1">
+
 *   [Events](/events/)
 *   [Venues](/venues/)
 *   [Public Art](/public-art/)
+
 </nav>
 
 <small>Events</small>

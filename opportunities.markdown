@@ -15,8 +15,10 @@ Opportunities
 Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs welcomes and cultivates artists through fellowships, residencies, and grants for both individual [artists](/opportunities-for-artists/) and [organizations](/opportunities-for-organizations/).
 
 <nav class="action" markdown="1">
+
 *   [Opportunities for Artists](/opportunities-for-artists/)
 *   [Opportunities for Organizations](/opportunities-for-organizations/)
+
 </nav>
  
 ## Upcoming opportunities

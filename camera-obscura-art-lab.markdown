@@ -16,9 +16,11 @@ title: Camera Obscura Art Lab
 The Camera Obscura Art Lab in Palisades Park is Santa Monica’s community arts practice space, where all are invited to find a new perspective! Community members work with local artists to learn and hone their skills, meet their neighbors and share projects. The Camera hosts an ever-changing roster of artists-in-residence, and offers workshops for adults, artist events, pop-up exhibits and more.
 
 <nav class="action" markdown="1">
+
 *   [Artists](#artists-in-residence)
 *   [Events](#upcoming-events)
 *   [Getting Here](#getting-here)
+
 </nav>
 
 ### We’re located at:
