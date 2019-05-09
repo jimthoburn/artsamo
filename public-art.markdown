@@ -1,12 +1,23 @@
 ---
 title: Public Art
+images:
+  - url: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
+    description: People walking by an art sculpture hanging on a wall
+    caption: <em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens
+  - url: https://static-artsamo.digitalservice.la/uploads/go-see-art.jpg
+    description: Public art painted on a wall
+    caption: <em>Wheels</em> by Anne Marie Karlsen
+  - url: https://static-artsamo.digitalservice.la/uploads/weather-field-tongva.jpg
+    description: Weather instruments at an outdoor park on a sunny day
+    caption: <em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle / Tongva Park, 2013
 ---
 
+{% if page.images %}
 <figure>
   <img height="1" alt="" />
   <figcaption></figcaption>
 </figure>
-
+{% endif %}
 
 Public Art
 ==========
@@ -47,4 +58,6 @@ Featured Art
 
 
 
+{% if page.images %}
 {% include random-image-public-art.html %}
+{% endif %}

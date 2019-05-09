@@ -3,59 +3,13 @@
 (function() {
 
   const images = [
+    {% for data in page.images %}
     {
-      title: "Public art in Santa Monica",
-      url: "https://static-artsamo.digitalservice.la/uploads/artsamo.jpg",
-      caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
-    },
-    {
-      title: "Musicians at the COAST event",
-      url: "https://static-artsamo.digitalservice.la/uploads/coast-band.jpg",
-      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
-    },
-    {
-      title: "Musicians at the COAST event",
-      url: "https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
-      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
-    },
-    {
-      title: "Rainbow Face at the COAST event",
-      url: "https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
-      caption: `<em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
-    },
-    {
-      title: "Dia De Los Muertos",
-      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-059.jpg",
-      caption: `Dia De Los Muertos`
-    },
-    {
-      title: "Dia De Los Muertos",
-      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-035.jpg",
-      caption: `Dia De Los Muertos`
-    },
-    {
-      title: "Dia De Los Muertos",
-      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-063.jpg",
-      caption: `Dia De Los Muertos`
-    },
-    {
-      title: "Dia De Los Muertos",
-      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-066.jpg",
-      caption: `Dia De Los Muertos`
-    }
-    
-    /*
-    {
-      title: "Las Colibrí performing at Coast",
-      url: "https://static-artsamo.digitalservice.la/uploads/coast-las-colibri.jpg",
-      caption: `Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
-    },
-    {
-      title: "Musicians at the COAST event",
-      url: "https://static-artsamo.digitalservice.la/uploads/Nick Mancini 4Tet at Fireside.jpg",
-      caption: `Nick Mancini 4Tet at Fireside, Miles Memorial Playhouse`
-    }
-    */
+      url: `{{ data.url }}`,
+      description: `{{ data.description }}`,
+      caption: `{{ data.caption }}`
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   ]
 
   // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
@@ -111,7 +65,7 @@
     const image = images[getUniqueRandomNumber()];
 
     document.querySelector("figure img").setAttribute("src", image.url);
-    document.querySelector("figure img").setAttribute("alt", image.title);
+    document.querySelector("figure img").setAttribute("alt", image.description);
   
     const photoCredit = document.querySelector("figcaption");
     if (photoCredit) {

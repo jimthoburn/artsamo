@@ -3,21 +3,13 @@
 (function() {
 
   const images = [
+    {% for data in page.images %}
     {
-      title: "Public art in Santa Monica",
-      url: "https://static-artsamo.digitalservice.la/uploads/artsamo.jpg",
-      caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
-    },
-    {
-      title: "Public art in Santa Monica",
-      url: "https://static-artsamo.digitalservice.la/uploads/go-see-art.jpg",
-      caption: "<em>Wheels</em> by Anne Marie Karlsen"
-    },
-    {
-      title: "Public art in Santa Monica",
-      url: "https://static-artsamo.digitalservice.la/uploads/weather-field-tongva.jpg",
-      caption: "<em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle. Tongva Park, 2013."
-    }
+      url: `{{ data.url }}`,
+      description: `{{ data.description }}`,
+      caption: `{{ data.caption }}`
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
   ]
 
   // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
@@ -49,7 +41,7 @@
     const image = images[getUniqueRandomNumber()];
   
     document.querySelector("figure img").setAttribute("src", image.url);
-    document.querySelector("figure img").setAttribute("alt", image.title);
+    document.querySelector("figure img").setAttribute("alt", image.description);
   
     const photoCredit = document.querySelector("figcaption");
     if (photoCredit) {
