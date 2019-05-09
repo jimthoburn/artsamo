@@ -1,6 +1,6 @@
 ---
 title: Events at Camera Obscura Art Lab, Santa Monica
-permalink: /camera-obscura-art-lab-events/
+permalink: "/camera-obscura-art-lab-events/"
 ---
 
 <h1>
