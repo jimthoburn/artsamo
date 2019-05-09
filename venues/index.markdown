@@ -6,4 +6,4 @@ body_class: blueberry
 Venues
 ==========
 
-{% include venues.md %}
+{% include venues.markdown %}

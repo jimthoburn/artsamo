@@ -38,7 +38,7 @@ We’re dedicated to integrating as much art as possible into our community’s 
 <small>Featured Art</small>
 ==========
 
-{% include public-art.md %}
+{% include public-art.markdown %}
 
 <script>
 

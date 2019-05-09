@@ -62,7 +62,7 @@ You will never regret taking time out of your busy day to go see art. Santa Moni
 Find more events in the [Santa Monica Cultural Affairs Calendar](/events/#calendar)
 -->
 
-{% include featured-events.md %}
+{% include featured-events.markdown %}
 
 <h2 style="margin-top: 4.5em; margin-bottom: 3em; grid-column: 1/-1; max-width: none; text-align: center; justify-self: center;" id="calendar">Santa Monica Cultural Affairs Calendar</h2>
 
@@ -86,7 +86,7 @@ The Palette is a weekly Wednesday email that highlights a handful of Santa Monic
 <small>Venues</small>
 ======
 
-{% include venues.md %}
+{% include venues.markdown %}
     
     
 <small>Public Art</small>
@@ -94,7 +94,7 @@ The Palette is a weekly Wednesday email that highlights a handful of Santa Monic
 
 <script></script>
 
-{% include public-art.md %}
+{% include public-art.markdown %}
 
 {% comment %}
 <figure>
@@ -120,7 +120,7 @@ The Palette is a weekly Wednesday email that highlights a handful of Santa Monic
 <small>Opportunities</small>
 ========
 
-{% include opportunities.md %}
+{% include opportunities.markdown %}
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
 [More opportunities](/opportunities/)
