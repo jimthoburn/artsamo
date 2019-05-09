@@ -1,6 +1,6 @@
 ---
 title: Beach=Culture at Annenberg Community Beach House
-position: 5
+position: 8
 ---
 
 <figure>
