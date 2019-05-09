@@ -1,16 +1,25 @@
 ---
 title: Public Art
+figures:
+- image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
+  description: People walking by an art sculpture composed of silver orbs, hanging
+    on a wall
+  caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
+- image: https://static-artsamo.digitalservice.la/uploads/go-see-art.jpg
+  description: A wall outdoors with art composed of colored tiles, forming a ring
+    of circles orbiting around a circle in the middle
+  caption: "<em>Wheels</em> by Anne Marie Karlsen"
+- image: https://static-artsamo.digitalservice.la/uploads/weather-field-tongva.jpg
+  description: Weather instruments at an outdoor park on a sunny day
+  caption: "<em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle / Tongva Park, 2013"
 ---
 
+{% if page.figures %}
 <figure>
-  <img
-    src=""
-    height="300"
-    alt=""
-  />
+  <img height="1" alt="" />
   <figcaption></figcaption>
 </figure>
-
+{% endif %}
 
 Public Art
 ==========
@@ -51,4 +60,6 @@ Featured Art
 
 
 
+{% if page.figures %}
 {% include random-image-public-art.html %}
+{% endif %}

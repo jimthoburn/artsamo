@@ -1,24 +1,45 @@
 ---
 title: Santa Monica Cultural Affairs
+figures:
+- image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
+  description: People walking by an art sculpture composed of silver orbs, hanging
+    on a wall
+  caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
+- image: https://static-artsamo.digitalservice.la/uploads/coast-band.jpg
+  description: Musicians playing brass instruments, with crowds of people walking
+    together, in the center of a street
+  caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a>
+    / Photo by Jason Abraham
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg
+  description: Musicians playing brass instruments, with crowds of people walking
+    together, in the center of a street
+  caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a>
+    / Photo by Jason Abraham
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham%20(3).jpg
+  description: Rainbow Face at the COAST event
+  caption: <em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a>
+    / Photo by Jason Abraham
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia%20De%20Los%20Muertos-059.jpg
+  description: Dia De Los Muertos
+  caption: Dia De Los Muertos
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia%20De%20Los%20Muertos-035.jpg
+  description: Dia De Los Muertos
+  caption: Dia De Los Muertos
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia%20De%20Los%20Muertos-063.jpg
+  description: Dia De Los Muertos
+  caption: Dia De Los Muertos
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia%20De%20Los%20Muertos-066.jpg
+  description: Dia De Los Muertos
+  caption: Dia De Los Muertos
 ---
 
+{% if page.figures %}
 <figure>
-  <img height="300" alt="" />
-  <script type="text/template">
-    <video width="1920" height="1080" autoplay loop muted playsinline>
-      <source src="https://jimthoburn.com/artsamo/2018_BeachDances_ACBH_JayCarlon_4TrianglesVideo.mp4" type="video/mp4" />
-      <!-- <source src=".webm" type="video/webm" /> -->
-    </video>
-  </script>
-  <script type="text/template">
-    <video width="1920" height="1080" autoplay loop muted playsinline>
-      <source src="https://jimthoburn.com/artsamo/Beach Dances 2018  1 min CityTV spot.mp4" type="video/mp4" />
-      <!-- <source src=".webm" type="video/webm" /> -->
-    </video>
-  </script>
-  <img src="/assets/images/logotype/artsamo.svg" height="300" alt="ArtSaMo" />
+  <img height="1" alt="" />
+  <img src="/assets/images/logotype/artsamo.svg" height="1" alt="" />
   <figcaption></figcaption>
 </figure>
+{% endif %}
 
 <h1 style="position: absolute; left: -9999px;">Santa Monica Cultural Affairs</h1>
 
@@ -30,24 +51,25 @@ We are a community like no other. And the thread that binds the soul of our comm
 
 Santa Monica’s eight-plus square miles contain a wealth of art and culture. Santa Monica Cultural Affairs (SMCA) funds local artists and organizations, stewards the city’s public art collection, and produces events large and small. Stop by our theaters, galleries, and art centers, or find art outdoors throughout the city. Follow [#ArtSaMo on Twitter](https://twitter.com/search?q=%23ArtSaMo) for more!
 
-
+{% if page.figures %}
 <p class="go-see-art">
   <a href="#go-see-art">
     <span>
-      <span class="image"><img src="" height="100" alt="" /></span>
+      <span class="image"><img height="1" alt="" /></span>
       <span class="text">Go</span>
     </span>
     <span>
-      <span class="image"><img src="" height="100" alt="" /></span>
+      <span class="image"><img height="1" alt="" /></span>
       <span class="text">See</span>
     </span>
     <span>
-      <span class="image"><img src="" height="100" alt="" /></span>
+      <span class="image"><img height="1" alt="" /></span>
       <span class="text">Art</span>
     </span>
   </a>
 </p>
 {% include random-image-home.html %}
+{% endif %}
 
 
 ## Art makes the day better <a id="go-see-art"></a>
