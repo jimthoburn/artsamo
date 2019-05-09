@@ -1,7 +1,7 @@
 ---
 title: Events at Annenberg Community Beach House
 permalink: "/beach-culture-events/"
-position: 13
+position: 14
 ---
 
 Events<br /><small>at Annenberg Community<br />Beach House</small>
