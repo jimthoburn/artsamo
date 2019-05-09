@@ -134,6 +134,10 @@ main > *:first-child {
   margin-top: 0;
 }
 
+main > hr + h2 {
+  margin-bottom: 2.25em;
+  margin-top: 2.25em;
+}
 main > h1 {
   margin-bottom: 1.5em;
   margin-top: 1.5em;

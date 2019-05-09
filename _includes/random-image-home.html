@@ -1,0 +1,145 @@
+<script>
+
+(function() {
+
+  const images = [
+    {
+      title: "Public art in Santa Monica",
+      url: "https://static-artsamo.digitalservice.la/uploads/artsamo.jpg",
+      caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "https://static-artsamo.digitalservice.la/uploads/coast-band.jpg",
+      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
+      caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Rainbow Face at the COAST event",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
+      caption: `<em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-059.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-035.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-063.jpg",
+      caption: `Dia De Los Muertos`
+    },
+    {
+      title: "Dia De Los Muertos",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-066.jpg",
+      caption: `Dia De Los Muertos`
+    }
+    
+    /*
+    {
+      title: "Las Colibrí performing at Coast",
+      url: "https://static-artsamo.digitalservice.la/uploads/coast-las-colibri.jpg",
+      caption: `Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
+    },
+    {
+      title: "Musicians at the COAST event",
+      url: "https://static-artsamo.digitalservice.la/uploads/Nick Mancini 4Tet at Fireside.jpg",
+      caption: `Nick Mancini 4Tet at Fireside, Miles Memorial Playhouse`
+    }
+    */
+  ]
+
+  // https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range#1527820
+  /**
+   * Returns a random integer between min (inclusive) and max (inclusive)
+   * Using Math.round() will give you a non-uniform distribution!
+   */
+  function getRandomInt(min, max) {
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+  }
+
+  let randomNumbers = [];
+
+  function getUniqueRandomNumber() {
+    let unique;
+  
+    do {
+      unique = getRandomInt(0, images.length - 1);
+    } while (randomNumbers.includes(unique) && randomNumbers.length < images.length);
+
+    if (!randomNumbers.includes(unique)) {
+      randomNumbers.push(unique);
+    }
+  
+    return unique;
+  }
+
+  function showVideo(number) {
+    return false;
+
+    let videoTemplates = document.querySelectorAll("figure script[type='text/template']");
+    console.dir({ template: videoTemplates[number], number: number })
+    if (videoTemplates.length > 0 && videoTemplates[number]) {
+      videoTemplates[number].parentNode.insertAdjacentHTML("afterbegin", videoTemplates[number].innerHTML);
+      return true;
+    }
+  }
+
+  (function() {
+    let imageOrVideo = getRandomInt(0, images.length + 1);
+    
+    let success = false
+    if (imageOrVideo > images.length - 1) {
+      success = showVideo(imageOrVideo - images.length)
+      
+    }
+    if (success) {
+      const photoCredit = document.querySelector("figcaption");
+      if (photoCredit) photoCredit.parentNode.removeChild(photoCredit);
+      return
+    }
+    
+    const image = images[getUniqueRandomNumber()];
+
+    document.querySelector("figure img").setAttribute("src", image.url);
+    document.querySelector("figure img").setAttribute("alt", image.title);
+  
+    const photoCredit = document.querySelector("figcaption");
+    if (photoCredit) {
+      photoCredit.innerHTML = image.caption;
+    }
+  })();
+
+  (function() {
+    const image = images[getUniqueRandomNumber()];
+    let url = image.url;
+    if (url.includes("2048-wide")) url = url.replace("2048-wide", "1024-wide")
+    document.querySelector(".go-see-art a > span:nth-of-type(1) img").setAttribute("src", url);
+  })();
+
+  (function() {
+    const image = images[getUniqueRandomNumber()];
+    let url = image.url;
+    if (url.includes("2048-wide")) url = url.replace("2048-wide", "1024-wide")
+    document.querySelector(".go-see-art a > span:nth-of-type(2) img").setAttribute("src", url);
+  })();
+
+  (function() {
+    const image = images[getUniqueRandomNumber()];
+    let url = image.url;
+    if (url.includes("2048-wide")) url = url.replace("2048-wide", "1024-wide")
+    document.querySelector(".go-see-art a > span:nth-of-type(3) img").setAttribute("src", url);
+  })();
+
+})();
+
+</script>

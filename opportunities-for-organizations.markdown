@@ -6,6 +6,7 @@ title: Grants for Organizations
   <img src="https://static-artsamo.digitalservice.la/uploads/coast-samba.jpg" height="300" alt="" />
 </figure>
 
+
 <small>Grants</small> for Organizations
 ===============================
 

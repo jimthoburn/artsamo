@@ -64,6 +64,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: var(--heavy);
 }
 
+main > hr {
+  border-width: 0;
+}
+
+main > hr + h2,
 h1 {
   --font-size: calc(0.75em + 6vw);
   font-family: canada-type-gibson, sans-serif;
@@ -74,6 +79,12 @@ h1 {
   letter-spacing: 0.2em;
   transform: skewY(-8deg);
   text-align: center;
+}
+main > hr + h2 {
+  display: block;
+  --font-size: calc(0.375em + 3vw);
+  font-weight: var(--light);
+  letter-spacing: 0.4em;
 }
 h1 small {
   font-size: 0.5em;
@@ -86,20 +97,24 @@ h1 small {
     --font-size: 2.5em;
     /*! overflow-wrap: break-word; */
   }
+  main > hr + h2 {
+    --font-size: 1.875em;
+  }
+
+  main > hr + h2,
   h1 ~ h1 small {
     font-weight: normal;
   }
 }
 
+
+main > hr + h2 img,
 h1 img {
   height: 0.75em;
   width: auto;
   vertical-align: -4%;
   display: inline-block;
   transform: skewY(8deg);
-}
-h1 img + br {
-  /*! display: none; */
 }
 
 h2 {
@@ -172,6 +187,14 @@ img[data-aspect-ratio] {
   .action li {
     width: 100%;
   }
+}
+
+main > p.action {
+  margin-top: 1.5em;
+  margin-bottom: 4.5em;
+  max-width: none;
+  grid-column: 1/-1;
+  justify-self: center;
 }
 
 svg.icon {

@@ -7,6 +7,7 @@ body_class: orange
   <img src="https://static-artsamo.digitalservice.la/uploads/playhouse-500-heigh.jpg" height="300" alt="Camera Obscura Art Lab" />
 </figure>
 
+
 <h1>
   <img src="/assets/images/icon-miles-playhouse.png" height="50" alt="" /><br />
   <small>Miles Memorial</small> Playhouse
@@ -34,8 +35,12 @@ Santa Monica, CA 90403
 
 [milesplayhouse@smgov.net](mailto:milesplayhouse@smgov.net)
 
-<small>Upcoming Events</small>
-========
+
+* * *
+
+
+Upcoming Events
+---------------
 
 <ol
   class="events"
@@ -44,12 +49,18 @@ Santa Monica, CA 90403
 </ol>
 <script src="/assets/js/events.js"></script>
 
-<p data-events-more class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center; visibility: hidden;">
+<p data-events-more class="action" markdown="1" style="visibility: hidden;">
+
 [More events](/miles-memorial-playhouse-events/)
+
 </p>
 
-<small>Getting Here</small>
-=======
+
+* * *
+
+
+Getting Here
+------------
 
 The Miles Memorial Playhouse is wheelchair accessible and ADA compliant. If you require any special disability related accommodations (i.e. sign language interpreting, access to an amplified sound system, etc.), please contact us at [culture@smgov.net](mailto:culture@smgov.net), call us at (310) 458-8350 or TDD: (310) 458-8696 at least 5 days prior to the event.
 

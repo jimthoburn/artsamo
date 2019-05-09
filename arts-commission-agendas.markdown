@@ -3,7 +3,7 @@ title: Arts Commission Agendas & Minutes
 ---
 
 <small>Arts Commission</small> Agendas & Minutes
-=================================
+================================================
 
 The Arts Commission meets regularly on the third Monday of each month at the Ken Edwards Center beginning at 6:30pm. Please check the meeting date schedule and agenda for any changes.
 
