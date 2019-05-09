@@ -1,6 +1,6 @@
 ---
 title: Grants for Organizations
-position: 7
+position: 6
 ---
 
 <figure>

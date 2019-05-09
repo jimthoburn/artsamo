@@ -1,6 +1,6 @@
 ---
 title: Miles Memorial Playhouse
-position: 4
+position: 7
 body_class: orange
 ---
 
