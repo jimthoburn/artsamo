@@ -2,7 +2,7 @@
 
 {% assign data_collection = site.collections | where: "label", "events" | first %}
 {% assign data_list = data_collection.docs %}
-{% assign data_list = data_list | sort: "order" %}
+{% assign data_list = data_list | sort: "position" %}
 
 {% for event in data_list %}
 
