@@ -3,8 +3,12 @@ title: About
 ---
 
 <figure class="image">
-  <img src="https://static-artsamo.digitalservice.la/uploads/wall.jpg" height="300" alt="" />
-  <figcaption>CONTRA-TIEMPO / Ana Maria Alvarez</figcaption>
+  <img src="https://static-artsamo.digitalservice.la/uploads/wall.jpg"
+       alt="Four dancers practicing outdoors"
+       height="300" />
+  <figcaption>
+    CONTRA-TIEMPO / Ana Maria Alvarez
+  </figcaption>
 </figure>
 
 About<br /><small>Santa Monica Cultural Affairs</small>
@@ -15,10 +19,12 @@ About<br /><small>Santa Monica Cultural Affairs</small>
 Santa Monica Cultural Affairs (SMCA) connects people to art. We do that by distributing grants that support local arts organizations, schools and artists. We create and promote art experiences. We steward and grow the City’s notable public art collection. And we work with and for the communities of Santa Monica to leverage the power of art for change.
 
 <nav class="action" markdown="1">
+
 *   [Leadership](#leadership)
 *   [Foundation](#foundation)
 *   [Policy & Planning](#policy-and-planning)
 *   [Public Art Program](#public-art-program)
+
 </nav>
 
 Leadership
@@ -107,11 +113,11 @@ Public Art Program
 
 Maintaining the original, inspirational appearance of our vast art collection requires constant care. In 2015, the Santa Monica Cultural Affairs Public Art team commissioned Rosa Lowinger and Associates to conduct a comprehensive needs assessment. Now regular maintenance on our most important pieces ensures they’ll be around for years to come.
 
-[Read the report](https://www.santamonica.gov/Media/arts/CA/RLA_City of Santa Monica_Public Art Survey_Summary.Revised 7.13.2015.pdf)
+[Read the report](https://www.santamonica.gov/Media/arts/CA/RLA_City%20of%20Santa%20Monica_Public%20Art%20Survey_Summary.Revised%207.13.2015.pdf)
 
 ### Percent for Art
 
-The Percent for Art Program embodies the City’s commitment to sustainable funding for the arts by setting aside1%percent of the total budget of all eligible capital projects for art projects. Santa Monica Cultural Affairs manages the City’s public art program and its Percent for Art requirement in both public and private development. 
+The Percent for Art Program embodies the City’s commitment to sustainable funding for the arts by setting aside one percent of the total budget of all eligible capital projects for art projects. Santa Monica Cultural Affairs manages the City’s public art program and its Percent for Art requirement in both public and private development. 
 
 ### Ordinances
 
