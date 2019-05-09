@@ -4,7 +4,7 @@ body_class: orange
 ---
 
 <figure>
-  <img src="/uploads/playhouse-500-heigh.jpg" height="300" alt="Camera Obscura Art Lab" />
+  <img src="https://static-artsamo.digitalservice.la/uploads/playhouse-500-heigh.jpg" height="300" alt="Camera Obscura Art Lab" />
 </figure>
 
 <h1>

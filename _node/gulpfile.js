@@ -69,26 +69,26 @@ function generateNext() { // https://hacks.mozilla.org/2015/05/es6-in-depth-dest
 gulp.task("default", function() {
   // sizesCursor = 0;
   // sourceImagePath     = '../_uploads/Beach=Culture';
-  // generatedImagePath  = '../assets/images/uploads-optimized/Beach=Culture';
+  // generatedImagePath  = '..https://static-artsamo.digitalservice.la/uploads-optimized/Beach=Culture';
   // generateNext();
 
   // sizesCursor = 0;
   // sourceImagePath     = '../_uploads/camera-obscura-art-lab';
-  // generatedImagePath  = '../assets/images/uploads-optimized/camera-obscura-art-lab';
+  // generatedImagePath  = '..https://static-artsamo.digitalservice.la/uploads-optimized/camera-obscura-art-lab';
   // generateNext();
 
   // sizesCursor = 0;
   // sourceImagePath     = '../_uploads/miles-memorial-playhouse';
-  // generatedImagePath  = '../assets/images/uploads-optimized/miles-memorial-playhouse';
+  // generatedImagePath  = '..https://static-artsamo.digitalservice.la/uploads-optimized/miles-memorial-playhouse';
   // generateNext();
 
   // sizesCursor = 0;
   // sourceImagePath     = '../_uploads/coast';
-  // generatedImagePath  = '../assets/images/uploads-optimized/coast';
+  // generatedImagePath  = '..https://static-artsamo.digitalservice.la/uploads-optimized/coast';
   // generateNext();
 
   // sizesCursor = 0;
   // sourceImagePath     = '../_uploads/dia-de-los-muertos';
-  // generatedImagePath  = '../assets/images/uploads-optimized/dia-de-los-muertos';
+  // generatedImagePath  = '..https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos';
   // generateNext();
 });

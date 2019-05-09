@@ -3,7 +3,7 @@ title: Meet Me at Reed, Santa Monica Cultural Affairs
 ---
 
 <figure>
-  <img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="Music performers playing drums at the Taiko Festival" />
+  <img src="https://static-artsamo.digitalservice.la/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="Music performers playing drums at the Taiko Festival" />
   <figcaption>Taiko Festival / Photo by Javier Guillen</figcaption>
 </figure>
 

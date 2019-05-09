@@ -2,7 +2,7 @@
   <!--
   <li>
     <a href="/airport-artwalk/">
-      <img src="/uploads/art-walk.jpg" height="300" alt="" /><br />
+      <img src="https://static-artsamo.digitalservice.la/uploads/art-walk.jpg" height="300" alt="" /><br />
       <strong>Santa Monica Airport Artwalk 2019</strong><br />
       Saturday, March 23 from 12-5pm. Rain or shine! Free admission
     </a>
@@ -11,7 +11,7 @@
   <li>
     <a href="/indigenous-now/">
       <span class="image">
-        <img src="/uploads/2018_Tongva_Park_Jason_Abraham-(4-of-52).jpg" height="300" alt="" />
+        <img src="https://static-artsamo.digitalservice.la/uploads/2018_Tongva_Park_Jason_Abraham-(4-of-52).jpg" height="300" alt="" />
       </span><br />
       <span class="text">
         <strong>Indigenous Now</strong><br />
@@ -22,7 +22,7 @@
   <li>
     <a href="/meet-me-at-reed/">
       <span class="image">
-        <img src="/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" />
+        <img src="https://static-artsamo.digitalservice.la/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen (195 of 281).jpg" height="300" alt="" />
       </span><br />
       <span class="text">
         <strong>Meet Me at Reed</strong><br />
@@ -33,7 +33,7 @@
   <li>
     <a href="/art-in-the-parks/">
       <span class="image">
-        <img src="/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg" height="300" alt="" />
+        <img src="https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg" height="300" alt="" />
       </span><br />
       <span class="text">
         <strong>Art in the Parks</strong><br />

@@ -3,7 +3,7 @@ title: Camera Obscura Art Lab, Santa Monica
 ---
 
 <figure>
-  <img src="/uploads/camera-obscura-2048x1365.jpg" height="300" alt="Camera Obscura Art Lab" />
+  <img src="https://static-artsamo.digitalservice.la/uploads/camera-obscura-2048x1365.jpg" height="300" alt="Camera Obscura Art Lab" />
 </figure>
 
 <h1>
@@ -46,7 +46,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
 
 *   ### Dahn Gim
 
-    <figure><img src="/uploads/dahn-gim.png" height="300" alt="Dahn Gim" /></figure>
+    <figure><img src="https://static-artsamo.digitalservice.la/uploads/dahn-gim.png" height="300" alt="Dahn Gim" /></figure>
 
     April 24 – July 31, 2019
 
@@ -58,7 +58,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
    
 *   ### Alex Wand
   
-    <figure><img src="/uploads/alex-wand.png" height="300" alt="Alex Wand" /></figure>
+    <figure><img src="https://static-artsamo.digitalservice.la/uploads/alex-wand.png" height="300" alt="Alex Wand" /></figure>
     
     April 24 – July 31, 2019
     
@@ -70,7 +70,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
    
 *   ### Natalja Kent
   
-    <figure><img src="/uploads/natalja-kent.png" height="300" alt="Natalja Kent" /></figure>
+    <figure><img src="https://static-artsamo.digitalservice.la/uploads/natalja-kent.png" height="300" alt="Natalja Kent" /></figure>
     
     August 7 – November 13, 2019
 
@@ -82,7 +82,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
   
 *   ### Mimi Haddon
   
-    <figure><img src="/uploads/mimi-haddon.png" height="300" alt="Mimi Haddon" /></figure>
+    <figure><img src="https://static-artsamo.digitalservice.la/uploads/mimi-haddon.png" height="300" alt="Mimi Haddon" /></figure>
     
     August 7 – November 13, 2019
     
@@ -94,7 +94,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
    
 *   ### Max King Cap
    
-    <figure><img src="/uploads/max-king.png" height="300" alt="Max King Cap" /></figure>
+    <figure><img src="https://static-artsamo.digitalservice.la/uploads/max-king.png" height="300" alt="Max King Cap" /></figure>
 
     January 9 – April 17, 2019
 
@@ -106,7 +106,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
    
 *   ### DaEun Jung
    
-    <figure><img src="/uploads/daeun-kung.png" height="300" alt="DaEun Jung" /></figure>
+    <figure><img src="https://static-artsamo.digitalservice.la/uploads/daeun-kung.png" height="300" alt="DaEun Jung" /></figure>
 
     January 9 – April 17, 2019
 

@@ -57,7 +57,7 @@ We’re dedicated to integrating as much art as possible into our community’s 
     },
     {
       title: "Public art in Santa Monica",
-      url: "/uploads/weather-field-tongva.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads/weather-field-tongva.jpg",
       caption: "<em>Weather Field No. 1</em> by Inigo Mañglano-Ovalle. Tongva Park, 2013."
     }
   ]

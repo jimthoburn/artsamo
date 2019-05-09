@@ -12,7 +12,7 @@ Artists in Residence<br /><small>at Annenberg Community<br />Beach House</small>
 
 *   ### Writer - Wally Rudolph: _The Ox, The Horse & The Boar_
     
-    <figure><img src="/uploads/wally-rudolph.png" height="300" alt="" /></figure>
+    <figure><img src="https://static-artsamo.digitalservice.la/uploads/wally-rudolph.png" height="300" alt="" /></figure>
     
     January 16, 2019 – March 20, 2019
     

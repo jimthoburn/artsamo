@@ -3,7 +3,7 @@ title: Indigenous Now, Santa Monica Cultural Affairs
 ---
 
 <figure>
-  <img src="/uploads/2018_Tongva_Park_Jason_Abraham-(4-of-52).jpg" height="300" alt="Tongva Park" />
+  <img src="https://static-artsamo.digitalservice.la/uploads/2018_Tongva_Park_Jason_Abraham-(4-of-52).jpg" height="300" alt="Tongva Park" />
   <figcaption>Tongva Park / Photo by Jason Abraham</figcaption>
 </figure>
 

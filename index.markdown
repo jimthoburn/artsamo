@@ -99,7 +99,7 @@ The Palette is a weekly Wednesday email that highlights a handful of Santa Monic
 {% comment %}
 <figure>
   <img
-    src="/uploads/weather-field-tongva.jpg"
+    src="https://static-artsamo.digitalservice.la/uploads/weather-field-tongva.jpg"
     height="300"
     alt="Weather Field No. 1 by Inigo Mañglano-Ovalle Tongva Park, 2013."
   />
@@ -138,49 +138,49 @@ The Palette is a weekly Wednesday email that highlights a handful of Santa Monic
     },
     {
       title: "Musicians at the COAST event",
-      url: "/uploads/coast-band.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads/coast-band.jpg",
       caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
     },
     {
       title: "Musicians at the COAST event",
-      url: "/assets/images/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg",
       caption: `<em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
     },
     {
       title: "Rainbow Face at the COAST event",
-      url: "/assets/images/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg",
       caption: `<em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
     },
     {
       title: "Dia De Los Muertos",
-      url: "/assets/images/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-059.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-059.jpg",
       caption: `Dia De Los Muertos`
     },
     {
       title: "Dia De Los Muertos",
-      url: "/assets/images/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-035.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-035.jpg",
       caption: `Dia De Los Muertos`
     },
     {
       title: "Dia De Los Muertos",
-      url: "/assets/images/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-063.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-063.jpg",
       caption: `Dia De Los Muertos`
     },
     {
       title: "Dia De Los Muertos",
-      url: "/assets/images/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-066.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-066.jpg",
       caption: `Dia De Los Muertos`
     }
     
     /*
     {
       title: "Las Colibrí performing at Coast",
-      url: "/uploads/coast-las-colibri.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads/coast-las-colibri.jpg",
       caption: `Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham`
     },
     {
       title: "Musicians at the COAST event",
-      url: "/uploads/Nick Mancini 4Tet at Fireside.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads/Nick Mancini 4Tet at Fireside.jpg",
       caption: `Nick Mancini 4Tet at Fireside, Miles Memorial Playhouse`
     }
     */

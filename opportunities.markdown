@@ -3,7 +3,7 @@ title: Opportunities, Santa Monica
 ---
 
 <figure class="image">
-  <img src="/uploads/coast-las-colibri.jpg" height="300" alt="Las Colibrí performing at Coast" data-aspect-ratio="3/2" />
+  <img src="https://static-artsamo.digitalservice.la/uploads/coast-las-colibri.jpg" height="300" alt="Las Colibrí performing at Coast" data-aspect-ratio="3/2" />
   <figcaption>Las Colibrí performing at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham</figcaption>
 </figure>
 

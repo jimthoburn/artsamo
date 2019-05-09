@@ -3,7 +3,7 @@ title: Opportunities for Artists, Santa Monica
 ---
 
 <figure>
-  <img src="/uploads/coast-painting.jpg" height="300" alt="" />
+  <img src="https://static-artsamo.digitalservice.la/uploads/coast-painting.jpg" height="300" alt="" />
   <figcaption><em>Ron Squared</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham</figcaption>
 </figure>
 

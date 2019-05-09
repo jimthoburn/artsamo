@@ -3,7 +3,7 @@ title: About Santa Monica Cultural Affairs
 ---
 
 <figure class="image">
-  <img src="/uploads/wall.jpg" height="300" alt="" />
+  <img src="https://static-artsamo.digitalservice.la/uploads/wall.jpg" height="300" alt="" />
   <figcaption>CONTRA-TIEMPO / Ana Maria Alvarez</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ We meet the third Monday of each month, Ken Edwards Center, 5:00 p.m.
 
 <div class="image-quote">
   <span class="image">
-    <img src="/uploads/The-Wonder-Room-2015---2-William-Short.jpg" height="300" alt="" />
+    <img src="https://static-artsamo.digitalservice.la/uploads/The-Wonder-Room-2015---2-William-Short.jpg" height="300" alt="" />
   </span>
   <blockquote>
     <span>Art is something that makes you breathe with a different kind of happiness.</span>
@@ -86,7 +86,7 @@ We’re always looking for ways to remain fresh. That’s why we’re excited to
 
 <div class="image-quote">
   <span class="image">
-    <img src="/uploads/IMG_7837.jpg" height="300" alt="" />
+    <img src="https://static-artsamo.digitalservice.la/uploads/IMG_7837.jpg" height="300" alt="" />
   </span>
   <blockquote>
     <span>Art and love are the same thing: it’s the process of seeing yourself in things that are not you.</span>
