@@ -2,14 +2,17 @@
 title: Santa Monica Cultural Affairs
 figures:
 - image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
-  description: Public art in Santa Monica
+  description: People walking by an art sculpture composed of silver orbs, hanging
+    on a wall
   caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
 - image: https://static-artsamo.digitalservice.la/uploads/coast-band.jpg
-  description: Musicians at the COAST event
+  description: Musicians playing brass instruments, with crowds of people walking
+    together, in the center of a street
   caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a>
     / Photo by Jason Abraham
 - image: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg
-  description: Musicians at the COAST event
+  description: Musicians playing brass instruments, with crowds of people walking
+    together, in the center of a street
   caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a>
     / Photo by Jason Abraham
 - image: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham%20(3).jpg
@@ -33,20 +36,6 @@ figures:
 {% if page.figures %}
 <figure>
   <img height="1" alt="" />
-  {% comment %}
-  <script type="text/template">
-    <video width="1920" height="1080" autoplay loop muted playsinline>
-      <source src="https://jimthoburn.com/artsamo/2018_BeachDances_ACBH_JayCarlon_4TrianglesVideo.mp4" type="video/mp4" />
-      <!-- <source src=".webm" type="video/webm" /> -->
-    </video>
-  </script>
-  <script type="text/template">
-    <video width="1920" height="1080" autoplay loop muted playsinline>
-      <source src="https://jimthoburn.com/artsamo/Beach Dances 2018  1 min CityTV spot.mp4" type="video/mp4" />
-      <!-- <source src=".webm" type="video/webm" /> -->
-    </video>
-  </script>
-  {% endcomment %}
   <img src="/assets/images/logotype/artsamo.svg" height="1" alt="" />
   <figcaption></figcaption>
 </figure>
