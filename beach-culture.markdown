@@ -49,7 +49,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
 
 *   ### On and Off the Street
    
-    <figure><img src="https://static-artsamo.digitalservice.la/uploads/cindy-bendat.jpg" height="300" alt="" /></figure>
+    <figure><img src="/uploads/cindy-bendat.jpg" height="300" alt="" /></figure>
 
     January 21, 2019 - April 30, 2019
 
@@ -63,7 +63,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
    
 *   ### And then there is California
    
-    <figure><img src="https://static-artsamo.digitalservice.la/uploads/rainbow-face-by-hailey-magoon.jpg" height="200" alt="" /></figure>
+    <figure><img src="/uploads/rainbow-face-by-hailey-magoon.jpg" height="200" alt="" /></figure>
 
     May 3, 2019 - September 2, 2019
 
@@ -77,7 +77,7 @@ Three exhibits each year showcase the work of regional artists and artist groups
    
 *   ### Memories of Diaspora: Immigration Narratives of Los Angeles by Art Division
    
-    <figure><img src="https://static-artsamo.digitalservice.la/uploads/art-division.png" height="200" alt="" /></figure>
+    <figure><img src="/uploads/art-division.png" height="200" alt="" /></figure>
 
     September 9, 2019 - January 5, 2020
 
