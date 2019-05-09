@@ -133,7 +133,7 @@ The Palette is a weekly Wednesday email that highlights a handful of Santa Monic
   const images = [
     {
       title: "Public art in Santa Monica",
-      url: "/assets/images/artsamo.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads/artsamo.jpg",
       caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
     },
     {

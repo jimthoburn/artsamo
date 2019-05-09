@@ -47,12 +47,12 @@ We’re dedicated to integrating as much art as possible into our community’s 
   const images = [
     {
       title: "Public art in Santa Monica",
-      url: "/assets/images/artsamo.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads/artsamo.jpg",
       caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
     },
     {
       title: "Public art in Santa Monica",
-      url: "/assets/images/go-see-art.jpg",
+      url: "https://static-artsamo.digitalservice.la/uploads/go-see-art.jpg",
       caption: "<em>Wheels</em> by Anne Marie Karlsen"
     },
     {

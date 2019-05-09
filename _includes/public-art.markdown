@@ -12,7 +12,7 @@
   </li>
   <li>
     <a href="https://www.publicartarchive.org/node/50713">
-      <span class="image"><img src="/assets/images/artsamo.jpg" height="150" alt="" /></span><br />
+      <span class="image"><img src="https://static-artsamo.digitalservice.la/uploads/artsamo.jpg" height="150" alt="" /></span><br />
       <span class="text">
         <span>
           <em>Cradle</em><br />
@@ -24,7 +24,7 @@
   <!--
   <li>
     <a href="https://www.publicartarchive.org/node/50624">
-      <span class="image"><img src="/assets/images/go-see-art.jpg" height="150" alt="" /></span><br />
+      <span class="image"><img src="https://static-artsamo.digitalservice.la/uploads/go-see-art.jpg" height="150" alt="" /></span><br />
       <span class="text">
         <span>
           <em>Wheels</em><br />
