@@ -1,6 +1,6 @@
 ---
 title: Events
-position: 2
+position: 3
 ---
 
 Events
