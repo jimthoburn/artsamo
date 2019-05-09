@@ -1,18 +1,9 @@
 ---
-title: Art in the Parks, Santa Monica
+title: Art in the Parks
+image: https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg
+image_description: Santa Monica Symphony Orchestra playing for Meet me at Reed
+image_credit: Javier Guillen
 ---
-
-<figure>
-  <img
-    alt="Santa Monica Symphony Orchestra playing for Meet me at Reed"
-    src="https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen (135 of 144).jpg"
-    height="300"
-  />
-  <figcaption>Photo by Javier Guillen</figcaption>
-</figure>
-
-Art in the Parks
-================
 
 Free Outdoor Performances to Look Forward to This Summer
 --------------------------------------------------------

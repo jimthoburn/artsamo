@@ -4,6 +4,8 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+  {% capture title %}{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}{% endcapture %}
+  <title>{{ title }}{% unless title contains site.title %} / {{ site.title }}{% endunless %}</title>
   <title>{{ page.title }}</title>
 
   <!-- Jim’s Typekit account -->

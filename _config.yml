@@ -21,7 +21,11 @@ defaults:
     path: ''
     type: events
   values:
-    layout: default
+    image: ''
+    image_title: ''
+    image_description: ''
+    image_credit: ''
+    layout: event
 description: Santa Monica Cultural Affairs (SMCA) funds local artists and organizations,
   stewards the city’s public art collection, and produces events large and small.
 image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg

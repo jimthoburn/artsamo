@@ -1,14 +1,9 @@
 ---
-title: Airport Artwalk, Santa Monica Cultural Affairs
+title: Airport Artwalk
+image: https://static-artsamo.digitalservice.la/uploads/PhotoCredit_AnnieDimas3.jpg
+image_description: People enjoying pottery work by artists, with a band playing music in the background
+image_credit: Annie Dimas
 ---
-
-<figure>
-  <img src="https://static-artsamo.digitalservice.la/uploads/PhotoCredit_AnnieDimas3.jpg" height="300" alt="People enjoying pottery work by artists, with a band playing music in the background" />
-  <figcaption>(Photo Credit: Annie Dimas)</figcaption>
-</figure>
-
-Airport Artwalk
-===============
 
 13th Annual Santa Monica Airport ArtWalk Returns March 23
 ---------------------------------------------------------

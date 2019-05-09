@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% if page.image and page.image_description %}
+<figure>
+  <img src="{{ page.image }}" height="300" alt="{{ page.image_description }}" />
+  {% if page.image_credit %}
+  <figcaption>{% if page.image_title %}{{ page.image_title }} / {% endif %}Photo by {{ page.image_credit }}</figcaption>
+  {% endif %}
+</figure>
+{% endif %}
+
+<h1>{{ page.title }}</h1>
+
+{{ content }}
