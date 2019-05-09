@@ -1,6 +1,6 @@
 ---
 title: Santa Monica Cultural Affairs
-timezone: UTC
+timezone: America/Los_Angeles
 collections:
   events:
     title: Events
@@ -24,7 +24,7 @@ defaults:
     layout: default
 description: 'Santa Monica Cultural Affairs (SMCA) funds local artists and organizations,
   stewards the city’s public art collection, and produces events large and small. '
-image: https://beta-artsamo.digitalservice.lahttps://static-artsamo.digitalservice.la/uploads/artsamo.jpg
+image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
 permalink: pretty
 exclude:
 - CNAME
