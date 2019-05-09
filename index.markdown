@@ -1,38 +1,38 @@
 ---
 title: Santa Monica Cultural Affairs
 images:
-  - description: Public art in Santa Monica
-    url: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
-    caption: <em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens
-
-  - description: Musicians at the COAST event
-    url: https://static-artsamo.digitalservice.la/uploads/coast-band.jpg
-    caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham
-
-  - description: Musicians at the COAST event
-    url: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg
-    caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham
-
-  - description: Rainbow Face at the COAST event
-    url: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham (3).jpg
-    caption: <em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham
-
-  - description: Dia De Los Muertos
-    url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-059.jpg
-    caption: Dia De Los Muertos
-
-  - description: Dia De Los Muertos
-    url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-035.jpg
-    caption: Dia De Los Muertos
-
-  - description: Dia De Los Muertos
-    url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-063.jpg
-    caption: Dia De Los Muertos
-
-  - description: Dia De Los Muertos
-    url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia De Los Muertos-066.jpg
-    caption: Dia De Los Muertos
-
+- description: Public art in Santa Monica
+  url: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
+  caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
+- description: Musicians at the COAST event
+  url: https://static-artsamo.digitalservice.la/uploads/coast-band.jpg
+  caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a>
+    / Photo by Jason Abraham
+- description: Musicians at the COAST event
+  url: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg
+  caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a>
+    / Photo by Jason Abraham
+- description: Rainbow Face at the COAST event
+  url: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham
+    (3).jpg
+  caption: <em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a>
+    / Photo by Jason Abraham
+- description: Dia De Los Muertos
+  url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia
+    De Los Muertos-059.jpg
+  caption: Dia De Los Muertos
+- description: Dia De Los Muertos
+  url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia
+    De Los Muertos-035.jpg
+  caption: Dia De Los Muertos
+- description: Dia De Los Muertos
+  url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia
+    De Los Muertos-063.jpg
+  caption: Dia De Los Muertos
+- description: Dia De Los Muertos
+  url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia
+    De Los Muertos-066.jpg
+  caption: Dia De Los Muertos
 ---
 
 {% if page.images %}
