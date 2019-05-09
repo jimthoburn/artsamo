@@ -1,6 +1,6 @@
 ---
 title: Theater Rental at Miles Memorial Playhouse
-position: 19
+position: 14
 ---
 
 Theater Rental <small>at Miles Memorial Playhouse</small>
