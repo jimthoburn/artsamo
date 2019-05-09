@@ -1,41 +1,33 @@
 ---
 title: Santa Monica Cultural Affairs
-images:
-- description: Public art in Santa Monica
-  url: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
+figures:
+- image: https://static-artsamo.digitalservice.la/uploads/artsamo.jpg
+  description: Public art in Santa Monica
   caption: "<em>Cradle</em> by Ball-Nogues Studio / Photo by Monica Nouwens"
-- description: Musicians at the COAST event
-  url: https://static-artsamo.digitalservice.la/uploads/coast-band.jpg
-  caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a>
-    / Photo by Jason Abraham
-- description: Musicians at the COAST event
-  url: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg
-  caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a>
-    / Photo by Jason Abraham
-- description: Rainbow Face at the COAST event
-  url: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham
-    (3).jpg
-  caption: <em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a>
-    / Photo by Jason Abraham
-- description: Dia De Los Muertos
-  url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia
-    De Los Muertos-059.jpg
+- image: https://static-artsamo.digitalservice.la/uploads/coast-band.jpg
+  description: Musicians at the COAST event
+  caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_Superbroke_photoby_Jason_Abraham.jpg
+  description: Musicians at the COAST event
+  caption: <em>Superbroke</em> at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/coast/2048-wide/2017_Coast_RainbowFace_by_Beck+Col_photoby_Jason_Abraham%20(3).jpg
+  description: Rainbow Face at the COAST event
+  caption: <em>Rainbow Face</em> by Beck+Col at <a href="https://www.santamonica.com/event/coast/">COAST</a> / Photo by Jason Abraham
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia%20De%20Los%20Muertos-059.jpg
+  description: Dia De Los Muertos
   caption: Dia De Los Muertos
-- description: Dia De Los Muertos
-  url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia
-    De Los Muertos-035.jpg
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia%20De%20Los%20Muertos-035.jpg
+  description: Dia De Los Muertos
   caption: Dia De Los Muertos
-- description: Dia De Los Muertos
-  url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia
-    De Los Muertos-063.jpg
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia%20De%20Los%20Muertos-063.jpg
+  description: Dia De Los Muertos
   caption: Dia De Los Muertos
-- description: Dia De Los Muertos
-  url: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia
-    De Los Muertos-066.jpg
+- image: https://static-artsamo.digitalservice.la/uploads-optimized/dia-de-los-muertos/2048-wide/Dia%20De%20Los%20Muertos-066.jpg
+  description: Dia De Los Muertos
   caption: Dia De Los Muertos
 ---
 
-{% if page.images %}
+{% if page.figures %}
 <figure>
   <img height="1" alt="" />
   {% comment %}
@@ -67,7 +59,7 @@ We are a community like no other. And the thread that binds the soul of our comm
 
 Santa Monica’s eight-plus square miles contain a wealth of art and culture. Santa Monica Cultural Affairs (SMCA) funds local artists and organizations, stewards the city’s public art collection, and produces events large and small. Stop by our theaters, galleries, and art centers, or find art outdoors throughout the city. Follow [#ArtSaMo on Twitter](https://twitter.com/search?q=%23ArtSaMo) for more!
 
-{% if page.images %}
+{% if page.figures %}
 <p class="go-see-art">
   <a href="#go-see-art">
     <span>

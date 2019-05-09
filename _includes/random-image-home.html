@@ -3,9 +3,9 @@
 (function() {
 
   const images = [
-    {% for data in page.images %}
+    {% for data in page.figures %}
     {
-      url: `{{ data.url }}`,
+      url: `{{ data.image }}`,
       description: `{{ data.description }}`,
       caption: `{{ data.caption }}`
     }{% unless forloop.last %},{% endunless %}
