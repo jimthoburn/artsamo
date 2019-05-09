@@ -1,6 +1,6 @@
 ---
 title: Artists in Residence at Camera Obscura Art Lab
-position: 10
+position: 11
 ---
 
 Artists in Residence<br /><small>at Camera Obscura Art Lab</small>

@@ -1,6 +1,6 @@
 ---
 title: About
-position: 16
+position: 17
 ---
 
 <figure class="image">
