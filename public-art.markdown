@@ -44,10 +44,10 @@ We’re dedicated to integrating as much art as possible into our community’s 
 * * *
 
 
-Map / Archive
--------------
+Map / Archive <a id="map"></a>
+------------------------------
 
-<div class="map" id="map"><iframe width="300" height="150" style="border-width: 0; width: 100%; height: calc(100vh - calc(var(--vertical-rhythm) * 2));" src="https://www.publicartarchive.org/paa_map/50303"></iframe></div>
+<div class="map"><iframe width="300" height="150" style="border-width: 0; width: 100%; height: calc(100vh - calc(var(--vertical-rhythm) * 2));" src="https://www.publicartarchive.org/paa_map/50303"></iframe></div>
 
 
 * * *

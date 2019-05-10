@@ -21,7 +21,7 @@ Third Friday in September: For all production proposals for the upcoming March �
 
 ## Rental Rates
 
-(Divided as follows)
+### (Divided as follows)
 
 Weekly Rental
 : $800 per week. Includes 25 hours of free load-in tech. Up to 4 shows.
@@ -33,7 +33,7 @@ _As of 7/1/2015, some of the Miles Playhouse Performance rental rates have incre
 
 ## Definitions
 
-#### Weekly Rental
+### Weekly Rental
 
 A “Weekly Rental” reserves the Theater, Green Room and Auditorium for a user group from Monday at 9 a.m. through Sunday at 11 p.m., except for the 2nd and 4th Tuesday evenings of every month (to be discussed with Playhouse Manager). It includes 25 hours of free time, primarily used during the first week (load-in week), and up to 4 scheduled public performances between Thursday at 6 p.m. through Sunday at 11 p.m. Most rentals perform Friday and Saturday night at 8 p.m., with two shows on Sunday (2 p.m. and 7 p.m.). Some choose to do a single show Thursday – Sunday. Others choose to do only two or three shows. Performance start times are up to user group but must be approved by Playhouse Director.
 
@@ -49,15 +49,15 @@ A “Weekly Rental” reserves the Theater, Green Room and Auditorium for a user
 6 week rental
 : $4800
 
-#### Single Weekend Evening
+### Single Weekend Evening
 
 When available, the charge for a single performance beginning on a Thursday – Sunday between 4-8 p.m. will be $300. These rentals are second in priority to full weekend rentals and are only available when schedule allows. Single weekend evening rentals do not include free tech and rehearsal time, which will be billed at $20 per hour, as arranged with Playhouse Staff.
 
-#### Weekend Matinees
+### Weekend Matinees
 
 For those organizations that have already booked a Weekly Rental, the opportunity to add a fifth show is available for an additional $300 charge.
 
-#### Single Weekend Matinee
+### Single Weekend Matinee
 
 These are individually scheduled low-tech, low-prop shows, geared toward the toddler and pre-teen audience. Up to two performances per weekend day will be allowed. The show must be under one hour in length, and must be struck (clear of the theater) by 4:00 p.m. Single weekend matinee rates are $150 per show.
 

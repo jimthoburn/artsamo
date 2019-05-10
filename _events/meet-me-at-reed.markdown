@@ -19,6 +19,8 @@ Christine Emerson Reed Park
 1133 7th Street  
 Santa Monica, CA 90403
 
+* * *
+
 ## June
 
 ### Pups in the Park
@@ -55,6 +57,8 @@ Get active with Super Soccer Stars, MadScience, Fun in the Sun Music, HoopFitnes
 5-7 p.m., Free admission
 
 Pre-concert activities for all ages begin at 3 p.m.
+
+* * *
 
 ## July
 
