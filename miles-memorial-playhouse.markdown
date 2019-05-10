@@ -56,6 +56,8 @@ Upcoming Events
 
 </p>
 
+<p data-events-fallback style="text-align: center;"><a href="https://www.santamonica.gov/events">City of Santa Monica Calendar</a></p>
+
 
 * * *
 

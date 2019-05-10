@@ -8,7 +8,7 @@ Events
 
 <nav class="action" markdown="1">
 
-*   [Calendar](#calendar)
+*   [Calendar](/events-calendar/)
 *   [Weekly Newsletter](#weekly-newsletter)
 
 </nav>
@@ -19,20 +19,24 @@ Events
 * * *
 
 
-Santa Monica Cultural Affairs Calendar <a id="calendar"></a>
-------------------------------------------------------------
+Calendar <a id="calendar"></a>
+------------------------------
 
 <ol
-  id="calendar"
   class="events"
   data-events-types="Art Event,Arts/Crafts,Concerts/Dance,Festival/Celebration,Lecture/Panel,Movies/Film,Play/Performance Art"
-  data-events-locations="Annenberg Community Beach House,Miles Memorial Playhouse,Palisades Park">
+  data-events-locations="Annenberg Community Beach House,Miles Memorial Playhouse,Palisades Park"
+  data-events-limit="6">
 </ol>
 <script src="/assets/js/events.js"></script>
 
-<p style="margin-top: 3em; margin-bottom: 3em; grid-column: 1/-1; max-width: none; text-align: center; justify-self: center;" markdown="1">
-You can find more events on the [Santa Monica Travel and Tourism Calendar](https://www.santamonica.com/things-to-do/arts-culture/) and the [Los Angeles County Event Calendar](https://www.discoverlosangeles.com/events).
+<p data-events-more class="action" markdown="1" style="visibility: hidden;">
+
+[More events](/events-calendar/)
+
 </p>
+
+<p data-events-fallback style="text-align: center;"><a href="https://www.santamonica.gov/events">City of Santa Monica Calendar</a></p>
 
 
 * * *
@@ -65,4 +69,11 @@ To have your artwork featured as a banner image, email [artpalette.mailbox@smgov
 *   Images must be JPGs in landscape/horizontal format (6" wide x 2" tall or 800 px wide)
 *   Please send one or two images along with the above information (and photo credits/art attribution if applicable).
 *   There is no deadline: images are accepted year round. Selected artists will be featured for one to two weeks.
+
+* * *
+
+More calendars
+--------------
+
+You can find more events on the [Santa Monica Travel and Tourism Calendar](https://www.santamonica.com/things-to-do/arts-culture/) and the [Los Angeles County Event Calendar](https://www.discoverlosangeles.com/events).
 
