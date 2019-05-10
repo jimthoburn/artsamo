@@ -1,6 +1,5 @@
 ---
 title: Calendar
-position: 1
 ---
 
 <small>Santa Monica Cultural Affairs</small> Calendar

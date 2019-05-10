@@ -1,6 +1,6 @@
 ---
 title: Art in the Parks
-position: 2
+published: true
 description: Free Outdoor Performances to Look Forward to This Summer
 image: https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen
   (135 of 144).jpg

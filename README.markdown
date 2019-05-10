@@ -26,37 +26,29 @@ For example, if you [edit the _About_ page](https://github.com/jimthoburn/artsam
 
 ## How to add an event page
 
-*The easist way to add an event page is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Jim has a Siteleaf account and can send you an invite.)*
-
-![Events List](https://user-images.githubusercontent.com/926616/57425473-21759100-71d0-11e9-9ed0-624e3827e62d.png)
-
-![New Event](https://user-images.githubusercontent.com/926616/57425475-22a6be00-71d0-11e9-9833-2ea7551f0dd0.png)
-
-*You can also follow these steps, to add an event page using GitHub…*
-
 1. Open the [\_events](https://github.com/jimthoburn/artsamo/tree/master/_events) folder.
 
 2. Press the `create new file` button: https://github.com/jimthoburn/artsamo/new/master/_events
 
-3. Name the file with the name of the event. It’s best to use lowercase letters and dashes instead of spaces for your filename. For example:
+3. Name the file with the name of the event. It’s best to use lowercase letters and dashes instead of spaces for your filename. And you can use _.markdown_ as a file extension. For example:
 ```
-meet-me-at-reed.markdown
+the-name-of-your-event.markdown
 ```
 
-3. Copy and paste this text into your new post, and then change it to your liking:
+3. Copy and paste this text into your new event file, and then change it to your liking:
 ```
 ---
-title: Your event title
-description: Saturdays in Summer, 2019, Free admission
+title: The name of your event
+description: A single line of text (this will appear below the event title on the events page)
 image: /path/to/your-image.jpg
-image_title: Taiko Festival
-image_description: Music performers playing drums at the Taiko Festival
-image_credit: Javier Guillen
+image_title: The name of your image (this will appear in the caption)
+image_description: A description for your image (this will be used in the _alt_ attribute, to make the image  accessible and findable on the web)
+image_credit: The name of your image’s photographer (this will appear in the caption)
 ---
 
-Your first paragraph of text can go here.
+This is the first paragraph of text.
 
-## And here’s an example of a title
+## And here’s an example of a second-level heading
 
 To see more examples, try opening some of the other event pages, or read the markdown guide:
 https://guides.github.com/features/mastering-markdown/
@@ -70,31 +62,27 @@ Your new event should appear on the [featured events page](https://beta-artsamo.
 
 ## How to hide an event page
 
-*The easist way to hide an event page is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Jim has a Siteleaf account and can send you an invite.)*
-
-![Hidden Event](https://user-images.githubusercontent.com/926616/57425477-23d7eb00-71d0-11e9-9fd2-1d8b2eee1eed.png)
-
-*You can also follow these steps, to hide an event page using GitHub…*
-
-While editing an event file, look for this line:
+While editing an event file, look for the `published` line:
 ```
+title: Meet me at Reed
 published: true
 ```
 
+(If you don’t see the `published` line, you can add it.)
+
 To hide the event, set the value of published to `false`:
 ```
+title: Meet me at Reed
 published: false
 ```
 
-To show the event again, set the value of published back to `true`.
+To show the event again, set the value of published to `true`.
+```
+title: Meet me at Reed
+published: true
+```
 
 ## How to add an image
-
-*The easist way to add an image is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Jim has a Siteleaf account and can send you an invite.)*
-
-![uploads](https://user-images.githubusercontent.com/926616/57423334-757c7780-71c8-11e9-838e-9513baa0d9fe.png)
-
-*Here are more details, if you want to add an image using GitHub instead…*
 
 If you want to add an image (or any file) to the website, you can upload it to one of the folders on GitHub.
 
@@ -173,5 +161,4 @@ jekyll serve
 * [Liquid for Designers](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 * [Jekyll](https://jekyllrb.com/docs/home/)
 * [GitHub Pages](https://pages.github.com)
-* [Siteleaf](https://www.siteleaf.com)
 

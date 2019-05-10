@@ -1,6 +1,5 @@
 ---
 title: Camera Obscura Art Lab
-position: 9
 ---
 
 <figure>
