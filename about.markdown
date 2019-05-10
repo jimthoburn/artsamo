@@ -56,7 +56,7 @@ We meet the third Monday of each month, Ken Edwards Center, 6:30 p.m.
 #### Details and Agendas
 
 *   [Arts Commission Board Details](https://www.smgov.net/departments/clerk/boards.aspx?id=53687092546)
-*   [Arts Commission Agendas & Minutes](/arts-commission-agendas/)
+*   [Arts Commission Agendas & Minutes](/arts-commission/)
 
 ### Public Art Committee
 
@@ -123,7 +123,7 @@ Maintaining the original, inspirational appearance of our vast art collection re
 
 ### Percent for Art
 
-The Percent for Art Program embodies the City’s commitment to sustainable funding for the arts by setting aside one percent of the total budget of all eligible capital projects for art projects. Santa Monica Cultural Affairs manages the City’s public art program and its Percent for Art requirement in both public and private development. 
+The Percent for Art Program embodies the City’s commitment to sustainable funding for the arts by setting aside one percent of the total budget of all eligible capital projects for art projects. Santa Monica Cultural Affairs manages the City’s public art program and its Percent for Art requirement in both public and private development.
 
 ### Ordinances
 

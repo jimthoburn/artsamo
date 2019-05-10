@@ -68,7 +68,7 @@ main > h2 {
       text-align: right;
       padding-left: calc(var(--unitless-vertical-rhythm) * 2rem);
       max-width: 17.5em;
-      grid-row: span 2;
+      /*! grid-row: span 2; */
     }
     main > hr + h2 {
       justify-self: unset;
@@ -76,8 +76,7 @@ main > h2 {
       grid-row: unset;
       max-width: unset;
     }
-    main > h2 + h4,
-    main > h3 + h4 {
+    main > h4 {
       margin-top: 0;
     }
     main > figure + h2,
