@@ -26,14 +26,6 @@ For example, if you [edit the _About_ page](https://github.com/jimthoburn/artsam
 
 ## How to add an event page
 
-*The easist way to add an event page is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Jim has a Siteleaf account and can send you an invite.)*
-
-![Events List](https://user-images.githubusercontent.com/926616/57425473-21759100-71d0-11e9-9ed0-624e3827e62d.png)
-
-![New Event](https://user-images.githubusercontent.com/926616/57425475-22a6be00-71d0-11e9-9833-2ea7551f0dd0.png)
-
-*You can also follow these steps, to add an event page using GitHub…*
-
 1. Open the [\_events](https://github.com/jimthoburn/artsamo/tree/master/_events) folder.
 
 2. Press the `create new file` button: https://github.com/jimthoburn/artsamo/new/master/_events
@@ -70,12 +62,6 @@ Your new event should appear on the [featured events page](https://beta-artsamo.
 
 ## How to hide an event page
 
-*The easist way to hide an event page is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Jim has a Siteleaf account and can send you an invite.)*
-
-![Hidden Event](https://user-images.githubusercontent.com/926616/57425477-23d7eb00-71d0-11e9-9fd2-1d8b2eee1eed.png)
-
-*You can also follow these steps, to hide an event page using GitHub…*
-
 While editing an event file, look for the `published` line:
 ```
 title: Meet me at Reed
@@ -97,12 +83,6 @@ published: true
 ```
 
 ## How to add an image
-
-*The easist way to add an image is to use [Siteleaf](https://www.siteleaf.com). If you make a change in Siteleaf, it will appear on the [staging website](#how-to-see-a-preview-of-your-changes). (Jim has a Siteleaf account and can send you an invite.)*
-
-![uploads](https://user-images.githubusercontent.com/926616/57423334-757c7780-71c8-11e9-838e-9513baa0d9fe.png)
-
-*Here are more details, if you want to add an image using GitHub instead…*
 
 If you want to add an image (or any file) to the website, you can upload it to one of the folders on GitHub.
 
