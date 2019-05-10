@@ -38,25 +38,25 @@ For example, if you [edit the _About_ page](https://github.com/jimthoburn/artsam
 
 2. Press the `create new file` button: https://github.com/jimthoburn/artsamo/new/master/_events
 
-3. Name the file with the name of the event. It’s best to use lowercase letters and dashes instead of spaces for your filename. For example:
+3. Name the file with the name of the event. It’s best to use lowercase letters and dashes instead of spaces for your filename. And you can use _.markdown_ as a file extension. For example:
 ```
-meet-me-at-reed.markdown
+the-name-of-your-event.markdown
 ```
 
-3. Copy and paste this text into your new post, and then change it to your liking:
+3. Copy and paste this text into your new event file, and then change it to your liking:
 ```
 ---
-title: Your event title
-description: Saturdays in Summer, 2019, Free admission
+title: The name of your event
+description: A single line of text (this will appear below the event title on the events page)
 image: /path/to/your-image.jpg
-image_title: Taiko Festival
-image_description: Music performers playing drums at the Taiko Festival
-image_credit: Javier Guillen
+image_title: The name of your image (this will appear in the caption)
+image_description: A description for your image (this will be used in the _alt_ attribute, to make the image  accessible and findable on the web)
+image_credit: The name of your image’s photographer (this will appear in the caption)
 ---
 
-Your first paragraph of text can go here.
+This is the first paragraph of text.
 
-## And here’s an example of a title
+## And here’s an example of a second-level heading
 
 To see more examples, try opening some of the other event pages, or read the markdown guide:
 https://guides.github.com/features/mastering-markdown/
