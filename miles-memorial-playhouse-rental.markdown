@@ -12,7 +12,7 @@ We book the Playhouse **6 months in advance**. Proposals for calendar months Mar
 
 We **do not** rent the playhouse for private events such as weddings, bar mitzvahs, benefits, fundraisers, birthday parties or social clubs. We **do not** rent the playhouse to for-profit entities or producers unless they are affiliated with a non-profit and dedicating proceeds to that approved organization.
 
-### Booking Deadlines
+## Booking Deadlines
 
 Third Friday in March: For all production proposals for the upcoming August – December time period.
 
@@ -20,25 +20,37 @@ Third Friday in September: For all production proposals for the upcoming March �
 
 **NOTE:** January and February are **reserved** for the City-produced Fireside at the Miles series.
 
-### Rental Rates (Divided as Follows)
+## Rental Rates
+
+(Divided as follows)
 
 As of 7/1/2015, some of the Miles Playhouse Performance rental rates have increased. If you have any questions about this rate increase, please contact Cultural Venue Manager Justin Yoffe at [justin.yoffe@smgov.net](mailto:justin.yoffe@smgov.net)
 
-### Weekly Rental
+#### Weekly Rental
 
 $800 per week. Includes 25 hours of free load-in tech. Up to 4 shows.
 
-### Daily Rental
+#### Daily Rental
 
 $300 per single show. (Only when available. Same-day load.)
 
-### Definitions
+## Definitions
 
 #### Weekly Rental
 
 A “Weekly Rental” reserves the Theater, Green Room and Auditorium for a user group from Monday at 9 a.m. through Sunday at 11 p.m., except for the 2nd and 4th Tuesday evenings of every month (to be discussed with Playhouse Manager). It includes 25 hours of free time, primarily used during the first week (load-in week), and up to 4 scheduled public performances between Thursday at 6 p.m. through Sunday at 11 p.m. Most rentals perform Friday and Saturday night at 8 p.m., with two shows on Sunday (2 p.m. and 7 p.m.). Some choose to do a single show Thursday – Sunday. Others choose to do only two or three shows. Performance start times are up to user group but must be approved by Playhouse Director.
 
-1 Week Rental = $800 / 3 week rental = $2400 / 4 week rental = $3200 / 6 week rental - $4800
+1 week rental
+: $800
+
+3 week rental
+: $2400
+
+4 week rental
+: $3200
+
+6 week rental
+: $4800
 
 #### Single Weekend Evening
 
@@ -57,31 +69,27 @@ These are individually scheduled low-tech, low-prop shows, geared toward the tod
 *   [Facility Use Guidelines](https://www.smgov.net/uploadedFiles/Departments/CCS/Places_Parks_Beach/Miles_Playhouse/Rentals/MilesFacilityUseGuidelines.pdf)
 *   [Miles Producer Tips](https://www.smgov.net/uploadedFiles/Departments/CCS/Places_Parks_Beach/Miles_Playhouse/Rentals/MilesPlayhouseProducerTips.pdf)
 
-### Rehearsal / Meeting / Reading Rentals
+## Rehearsal / Meeting / Reading Rentals
 
 The Miles Memorial Playhouse is now available to the general public for non fee-charging, performing arts-related rehearsals, meetings and readings at the following rates:
 
 Weekdays before 6 p.m.
-
-$20 per hour
+: $20 per hour
 
 Weekdays 6-11 p.m.
-
-$30 per hour
+: $30 per hour
 
 Weekends before 6 p.m.
-
-$25 per hour
+: $25 per hour
 
 Weekends 6-11 p.m.
+: $35 per hour
 
-$35 per hour
-
-### Theater Set-Ups
+## Theater Set-Ups
 
 The Miles is generally set in a raked Proscenium style set-up with 12 rows. There are 11 rows of 11 chairs across and one row with 6 chairs across. Alternative set-ups may be accommodated but **must be cleared** with Playhouse Director **at time of booking**. If you do not request an alternative set-up when BOOKING, we may not be able to accomodate you.
 
-### Rental Criteria and Restrictions
+## Rental Criteria & Restrictions
 
 We encourage you to submit proposals of all kinds. When evaluating proposals, we will consider the following criteria. The only mandatory criteria is that a user group be a federally recognized 501 (c)(3) non-profit organization or a member of the general public.
 
