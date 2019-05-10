@@ -14,7 +14,7 @@
 }
 .artists li h3 {
   text-align: left;
-  margin-bottom: 11px;
+  margin-bottom: calc(var(--vertical-rhythm) * 1/2);
   margin-top: 0;
 }
 .artists li figure {
@@ -44,18 +44,22 @@
   /*! grid-template-columns: 1fr 1fr 1fr; */
 }
 
-@media (min-width: 60em) {
+.artists li h3 {
+  max-width: 40rem;
+}
+
+@media (min-width: 40em) {
   .artists li {
     display: grid;
     /*! grid-template-columns: 1fr max-content 1fr; */
     /*! grid-column-gap: 1.5em; */
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: minmax(max-content, 1fr) 1fr 1fr;
     grid-column-gap: 3em;
     grid-row-gap: 0;
   }
   /* Position most content in the second column */
   .artists li > * {
-    grid-column: 2/3;
+    grid-column: 2/-1;
   }
   .artists li h3 {
     justify-self: start;

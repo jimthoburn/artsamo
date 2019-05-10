@@ -25,11 +25,12 @@ defaults:
   values:
     layout: event
 
-version: 0.0.0
-
 exclude:
 - CNAME
 - README
 - Gemfile
 - Gemfile.lock
 - _node
+
+version: 0.0.1
+
