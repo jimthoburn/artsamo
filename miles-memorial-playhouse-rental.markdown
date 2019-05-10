@@ -24,15 +24,13 @@ Third Friday in September: For all production proposals for the upcoming March â
 
 (Divided as follows)
 
-As of 7/1/2015, some of the Miles Playhouse Performance rental rates have increased. If you have any questions about this rate increase, please contact Cultural Venue Manager Justin Yoffe at [justin.yoffe@smgov.net](mailto:justin.yoffe@smgov.net)
+Weekly Rental
+: $800 per week. Includes 25 hours of free load-in tech. Up to 4 shows.
 
-#### Weekly Rental
+Daily Rental
+: $300 per single show. (Only when available. Same-day load.)
 
-$800 per week. Includes 25 hours of free load-in tech. Up to 4 shows.
-
-#### Daily Rental
-
-$300 per single show. (Only when available. Same-day load.)
+_As of 7/1/2015, some of the Miles Playhouse Performance rental rates have increased. If you have any questions about this rate increase, please contact Cultural Venue Manager Justin Yoffe at [justin.yoffe@smgov.net](mailto:justin.yoffe@smgov.net)_
 
 ## Definitions
 
