@@ -1,7 +1,6 @@
 ---
 title: Events at Miles Memorial Playhouse
 permalink: "/miles-memorial-playhouse-events/"
-position: 13
 ---
 
 Events <small>at Miles Memorial Playhouse</small>
