@@ -10,12 +10,29 @@
 <tbody>
  
 <tr>
-  <th scope="row"><a href="/opportunities-for-artists/#acbh-fall-and-spring-writer-residency">ACBH Fall and Spring Writer Residency</a></th>
+  <th scope="row">
+    <a href="/for-artists/#prequalified-artist-roster">
+      Prequalified Artist Roster
+    </a>
+  </th>
+  <td>June 28, 2019</td>
+</tr>
+ 
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#acbh-fall-and-spring-writer-residency">
+      ACBH Fall and Spring Writer Residency
+    </a>
+  </th>
   <td>July, 2019</td>
 </tr>
  
 <tr>
-  <th scope="row"><a href="/opportunities-for-artists/#camera-obscura-art-lab-studio-residency">Camera Obscura Art Lab Studio Residency</a></th>
+  <th scope="row">
+    <a href="/for-artists/#camera-obscura-art-lab-studio-residency">
+      Camera Obscura Art Lab Studio Residency
+    </a>
+  </th>
   <td>October, 2019</td>
 </tr>
  
@@ -34,18 +51,30 @@
 <tbody>
 
 <tr>
- <th scope="row"><a href="/opportunities-for-organizations/#strategic-sustainability-initiative-ssi">Strategic Sustainability Initiative (SSI)</a></th>
- <td>November, 2019</td>
+  <th scope="row">
+    <a href="/for-organizations/#strategic-sustainability-initiative-ssi">
+      Strategic Sustainability Initiative (SSI)
+    </a>
+  </th>
+  <td>November, 2019</td>
 </tr>
 
 <!--
 <tr>
-  <th scope="row"><a href="/opportunities-for-organizations/#community-access--participation-cap">Community Access & Participation (CAP)</a></th>
+  <th scope="row">
+    <a href="/for-organizations/#community-access--participation-cap">
+      Community Access & Participation (CAP)
+    </a>
+  </th>
   <td>April 2019</td>
 </tr>
  
 <tr>
-  <th scope="row"><a href="/opportunities-for-organizations/#organizational-support-program-osp">Organizational Support Program (OSP)</a></th>
+  <th scope="row">
+    <a href="/for-organizations/#organizational-support-program-osp">
+      Organizational Support Program (OSP)
+    </a>
+  </th>
   <td>March 2019</td>
 </tr>
 -->

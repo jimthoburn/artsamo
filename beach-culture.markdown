@@ -55,7 +55,7 @@ Santa Monica, CA 90402
 Artists in Residence
 --------------------
 
-For more information about artist residency applications and calls for curators, please visit [Opportunities](/opportunities-for-artists/).
+For more information about artist residency applications and calls for curators, please visit [Opportunities](/for-artists/).
 
 <p class="action" markdown="1">
 

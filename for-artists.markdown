@@ -151,8 +151,8 @@ Length
 : Single Performance During Event Series. Events Are Every Sunday in August 5pm-7pm
 
 
-ACBH Gallery Group Exhibits
----------------------------
+ACBH Gallery <span class="avoid-break">Group Exhibits</span>
+------------------------------------------------------------
 
 Deadline
 : TBA
@@ -175,17 +175,19 @@ Required
 : Curatorial Statement
 
 
-Artist Roster
+Prequalified Artist Roster
 -----------------------------------------------
 
 ### Rolling Call for Qualifications
 
 Santa Monica Cultural Affairs invites local, regional, national and international artists/teams to submit qualifications for a prequalified artists roster. The Artist Roster, a curated shortlist of artists, will enable us to connect amazing qualified artists to projects and opportunities in Santa Monica. Cultural Affairs believes artwork is labor, and will ensure that funding is allocated in project budgets to pay artists for their time. All entities using the Santa Monica Cultura Affairs’ prequalified roster will be strongly encouraged to budget artists' fees when planning potential projects.
 
-Deadline
-: Reviewed quarterly
-: [Application](https://artist.callforentry.org/festivals_unique_info.php?ID=6001) 
+Deadlines (applications are reviewed quarterly)
+: March 29, 2019
+: June 28, 2019
+: September 30, 2019
+: December 31, 2019
 
-Applications
-: The next deadline for applications is March 29, 2019, by 10:59 PM PST
+To Apply
+: [Application](https://artist.callforentry.org/festivals_unique_info.php?ID=6001) 
 
