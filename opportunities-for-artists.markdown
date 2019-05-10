@@ -34,7 +34,7 @@ Eligibility
 Artist Residencies
 ------------------
 
-Residency programs promote a diverse variety of artistic endeavors in Santa Monica, provide fresh interpretations of this "city like no other," and open avenues of discourse between artists and Santa Monica communities. Residencies currently take place at the Annenberg Community Beach House and the Camera Obscura Art Lab.
+Residency programs promote a diverse variety of artistic endeavors in Santa Monica, provide fresh interpretations of this "city like no other," and open avenues of discourse between artists and Santa Monica communities. Residencies currently take place at the [Annenberg Community Beach House](/beach-culture/) and the [Camera Obscura Art Lab](/camera-obscura-art-lab/).
 
 ### ACBH Fall and Spring Writer Residency
 

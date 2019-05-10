@@ -46,10 +46,9 @@ meet-me-at-reed.markdown
 3. Copy and paste this text into your new post, and then change it to your liking:
 ```
 ---
-title: Meet Me at Reed
-description: Saturdays, June 15 to July 27, 2019, Free admission
-image: https://static-artsamo.digitalservice.la/uploads/2018_5_19_2018_Meet_Me_At_Reed_Taiko_Festival_Javier_Guillen
-  (195 of 281).jpg
+title: Your event title
+description: Saturdays in Summer, 2019, Free admission
+image: /path/to/your-image.jpg
 image_title: Taiko Festival
 image_description: Music performers playing drums at the Taiko Festival
 image_credit: Javier Guillen
@@ -99,7 +98,7 @@ To show the event again, set the value of published back to `true`.
 
 If you want to add an image (or any file) to the website, you can upload it to one of the folders on GitHub.
 
-The [uploads folder](https://github.com/jimthoburn/artsamo/tree/master/_uploads) might be a good choice, if you’re unsure where to put a file.
+The [uploads folder](https://github.com/jimthoburn/artsamo/tree/master/uploads) might be a good choice, if you’re unsure where to put a file.
 
 Once you’ve chosen a folder, follow these steps:
 
