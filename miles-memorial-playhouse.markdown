@@ -1,6 +1,5 @@
 ---
 title: Miles Memorial Playhouse
-body_class: orange
 ---
 
 <figure>
@@ -31,8 +30,7 @@ Located in Reed Park, this historic playhouse has entertained audiences since 19
 Reed Park  
 Santa Monica, CA 90403
 
-310.458.8634
-
+310.458.8634  
 [milesplayhouse@smgov.net](mailto:milesplayhouse@smgov.net)
 
 
@@ -70,7 +68,8 @@ _[Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/
 
 ### Train
 
-Take the Expo line to Downtown Santa Monica Station. The playhouse is 8.5 blocks away from the station. [Metro information](http://metro.net/)
+Take the Expo line to Downtown Santa Monica Station. The playhouse is 8.5 blocks away from the station.  
+[Metro information](http://metro.net/)
 
 ### Bus
 
@@ -78,13 +77,13 @@ Take the [Big Blue Bus](http://bigbluebus.com/) or [Metro](http://metro.net/) Bu
 
 ### Bikes
 
-Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at the playhouse. [Information for bicyclists](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
+Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at the playhouse.  
+[Information for bicyclists](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
 
 ### Parking
 
-Main Library (4.5 blocks, closes 11pm) or [808 Wilshire](https://www.google.com/maps/place/808+Wilshire+Blvd,+Santa+Monica,+CA+90401) (for evening performances)
-
-_For evening performances:_ Enter the subterranean parking at 808 Wilshire from Lincoln Blvd before 8pm. Mention "Miles Playhouse" to the attendant to receive a validated ticket and keep with you. For reentry after lot closure, use this ticket to swipe the card reader to the right of the Wilshire pedestrian entrance of 808 Wilshire. Take the elevator down to the parking area. The pressure of your vehicle at the exit will lift the gate.
-
+Main Library (4.5 blocks, closes 11pm) or [808 Wilshire](https://www.google.com/maps/place/808+Wilshire+Blvd,+Santa+Monica,+CA+90401) (for evening performances)  
 [Parking information](http://www.smgov.net/parking)
+
+_For evening performances:_ Enter the subterranean parking at 808 Wilshire from Lincoln Blvd before 8pm. Mention "Miles Playhouse" to the attendant to receive a validated ticket and keep with you. For reentry after lot closure, use this ticket to swipe the card reader to the right of the Wilshire pedestrian entrance of 808 Wilshire. Take the elevator down to the parking area. The pressure of your vehicle at the exit will lift the gate.  
 

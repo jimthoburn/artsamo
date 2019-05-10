@@ -17,11 +17,11 @@ Santa Monica, CA 90401
 
 A day of dance, music, spoken word and visual art by indigenous artists from Los Angeles, Santa Rosa and Santa Fe. Audiences are invited to move through the park freely encountering each performance and installation at their own pace. _Indigenous Now_ highlights Tongva Park’s unusual geography of gardens, winding paths, and urban vistas, reimagining the small, exquisite “rooms.”
 
-## Event Program/Schedule
+### Event Program/Schedule
  
 Coming soon…
  
-## Artists and Performers
+### Artists and Performers
  
 A special opening ritual launches this dynamic, inspirational and provocative day, which includes dance performances by **Dancing Earth**, embodying an “elemental language of bone and blood memory in motion.” 
 
@@ -35,7 +35,7 @@ Singer-songwriter **Kelly Caballero** (Tongva) uses her urban-indigenous upbring
 
 Hip hop recording artist **Jessa Calderon** (Tongva) sings and raps new rhymes. Growing up in the “rough city streets of Pacoima,” Jessa became a “healer in the arts of music.” Jessa wrote her first verse at 13, was street battling at 16, and by 18 had become “First Lady of the Fearless Crowd.”  <paragraph on right>
  
-## About Tongva Park
+### About Tongva Park
 
 Take one step inside Tongva Park and you'll find it hard to believe that this 6-acre urban oasis was a flat asphalt parking lot just a few short years ago.
 

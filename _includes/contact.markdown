@@ -4,12 +4,11 @@
 
 ### <a href="/contact/">Contact</a>
 
-Santa Monica Cultural Affairs Division  
+<a href="/contact/">Santa Monica Cultural Affairs Division</a>  
 1437 4th Street, Suite 310  
 Santa Monica, CA 90401
 
-310-458-8350
-
+310.458.8350  
 [culture@smgov.net](mailto:culture@smgov.net)
 
 </section>
@@ -28,6 +27,7 @@ Santa Monica, CA 90401
   </dt>
   <dd>
     1130 Lincoln Blvd<br />
+    Reed Park<br />
     Santa Monica, CA 90403
   </dd>
   <dt>
@@ -58,6 +58,7 @@ Santa Monica, CA 90401
   </dt>
   <dd>
     1450 Ocean Ave<br />
+    Palisades Park<br />
     Santa Monica, CA 90401
   </dd>
 </dl>

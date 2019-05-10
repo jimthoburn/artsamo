@@ -29,8 +29,7 @@ The Camera Obscura Art Lab in Palisades Park is Santa Monica’s community arts 
 Palisades Park  
 Santa Monica, CA 90401
 
-310.458.2239
-
+310.458.2239  
 [camera@smgov.net](mailto:camera@smgov.net)
 
 ### The Camera Obscura Mechanism
@@ -161,7 +160,8 @@ _[Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/
 
 ### Train
 
-Take the Expo line to Downtown Santa Monica Station. _Camera Obscura Art Lab_ is 4 blocks away. [Metro information](http://metro.net/)
+Take the Expo line to Downtown Santa Monica Station. _Camera Obscura Art Lab_ is 4 blocks away.  
+[Metro information](http://metro.net/)
 
 ### Bus
 
@@ -169,11 +169,11 @@ Take the [Big Blue Bus](http://bigbluebus.com/) or [Metro](http://metro.net/) Bu
 
 ### Bikes
 
-Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at _Camera Obscura Art Lab_. [Information for bicyclists](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
+Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at _Camera Obscura Art Lab_.  
+[Information for bicyclists](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
 
 ### Parking
 
-Parking Structure 6, Pier, Civic Center or Civic Auditorium
-
+Parking Structure 6, Pier, Civic Center or Civic Auditorium.  
 [Parking information](http://www.smgov.net/parking)
 

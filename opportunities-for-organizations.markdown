@@ -46,19 +46,19 @@ All applicants must read the [CAP 2019-20 Program Guidelines](https://www.smgov.
 
 Required informational sessions will be held at the Ken Edwards Center on Wednesday, May 1, 2019 at 7:00pm and on Saturday May 4th at 11:00 am. Applicants who have not received a CAP grant in the past three years must attend one of the CAP informational sessions. All applicants, however, are strongly encouraged to attend. Call 310.458.8350 or email [nathan.birnbaum@smgov.net](mailto:nathan.birnbaum@smgov.net) to reserve a place for one of the sessions. The Ken Edwards Center is located at 1527 Fourth Street between Colorado and Broadway, in downtown Santa Monica. Attendees who park under the Ken Edwards Center will have their parking validated.
 
-CAP grant applications are accepted in three categories. Please read the program guidelines for a complete description. The three categories are:
+CAP grant applications are accepted in three categories. Please read the program guidelines for a complete description. **The three categories are:**
 
-#### Community Access & Participation
+1. #### Community Access & Participation
 
-This program supports Santa Monica-based arts and cultural agencies in the presentation of exemplary cultural opportunities. Applicants should demonstrate a history of high-quality work, professional management practices and an ability to serve diverse communities.
+   This program supports Santa Monica-based arts and cultural agencies in the presentation of exemplary cultural opportunities. Applicants should demonstrate a history of high-quality work, professional management practices and an ability to serve diverse communities.
 
-#### Latino Community Access & Participation
+2. #### Latino Community Access & Participation
 
-The Latino CAP grants support to programs that preserve and stimulate Santa Monica's rich Latino heritage. This grant is not restricted to arts organizations. Any Santa Monica-based nonprofit agency serving the community is eligible to apply in this category. Qualifying organizations must demonstrate professional management standards and serve Santa Monica's Latino population by employing professional artists in high-quality cultural programs.
+   The Latino CAP grants support to programs that preserve and stimulate Santa Monica's rich Latino heritage. This grant is not restricted to arts organizations. Any Santa Monica-based nonprofit agency serving the community is eligible to apply in this category. Qualifying organizations must demonstrate professional management standards and serve Santa Monica's Latino population by employing professional artists in high-quality cultural programs.
 
-#### Building the Future
+3. #### Building the Future
 
-This category is designed to engage Santa Monica youth in activities that encourage a lifelong association with the arts. Programs must take place in non-classroom settings and adhere to the California's Visual and Performing Arts (VAPA) standards. Qualifying agencies must demonstrate professional management standards and a history of education programs of outstanding value.
+   This category is designed to engage Santa Monica youth in activities that encourage a lifelong association with the arts. Programs must take place in non-classroom settings and adhere to the California's Visual and Performing Arts (VAPA) standards. Qualifying agencies must demonstrate professional management standards and a history of education programs of outstanding value.
 
 
 ### Arts Transportation Grant 
@@ -83,7 +83,13 @@ Applications available
 
 The purpose of the City of Santa Monica’s Strategic Sustainability Initiative (SSI) is to invest in the medium-to-long term sustainability of the City’s core cultural agencies. The program makes grants of up to $20,000 available to current OSP grantees for one-time strategic initiatives. 
 
-### Current Arts and Cultural Grantees of the City of Santa Monica - Organizations
+* * *
+
+## Grantees
+
+## Arts & Cultural Grantees of the City of Santa Monica
+
+### Current Organizations
 
 *   [18th Street Art Center](https://18thstreet.org/)
 *   [Broad Stage](http://thebroadstage.org/)

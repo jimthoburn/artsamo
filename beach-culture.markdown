@@ -45,8 +45,8 @@ Welcome to Beach=Culture, a year-round series of free arts and culture events at
 Santa Monica, CA 90402
 
 310.458.4904  
-[culture@smgov.net](mailto:culture@smgov.net)[](mailto:culture@smgov.net)  
-<a href="https://annenbergbeachhouse.com">annenbergbeachhouse.com</a>
+[culture@smgov.net](mailto:culture@smgov.net)  
+[annenbergbeachhouse.com](https://annenbergbeachhouse.com)
 
 
 * * *
@@ -153,7 +153,8 @@ _[Shared Mobility Devices](https://www.smgov.net/Departments/PCD/Transportation/
 
 ### Train
 
-Take the Expo line to Downtown Santa Monica Station. The beach house is 1.8 miles away from the station. [Metro information](http://metro.net/)
+Take the Expo line to Downtown Santa Monica Station. The beach house is 1.8 miles away from the station.  
+[Metro information](http://metro.net/)
 
 ### Bus
 
@@ -161,10 +162,10 @@ Take the [Big Blue Bus](http://bigbluebus.com/) or [Metro](http://metro.net/) Bu
 
 ### Bikes
 
-Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at the beach house. [Information for bicyclists](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
+Metro Bikes are available at the Downtown Santa Monica Station. Bike racks are available at the beach house.  
+[Information for bicyclists](https://www.smgov.net/Departments/PCD/Transportation/Bicyclists/)
 
 ### Parking
 
-Parking is available at the Beach House and in Beach Lots 9 & 8 North. Machines in three areas of the Beach House lot take cards and cash. For evening events, please note that the lot stays open after stated times and payments are still required.
-
+Parking is available at the Beach House and in Beach Lots 9 & 8 North. Machines in three areas of the Beach House lot take cards and cash. For evening events, please note that the lot stays open after stated times and payments are still required.  
 [Parking information](http://www.smgov.net/parking)

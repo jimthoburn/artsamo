@@ -32,7 +32,7 @@ Santa Monica Cultural Affairs (SMCA) connects people to art. We do that by distr
 Leadership
 ----------
 
-### Santa Monica Cultural Affairs Staff
+### Santa Monica <span class="avoid-break">Cultural Affairs Staff</span>
 
 *   [Shannon Daut](mailto:shannon.daut@smgov.net), Cultural Affairs Manager
 *   [Nathan Birnbaum](mailto:nathan.birnbaum@smgov.net), Cultural Affairs Administrator, Grants & Special Projects
@@ -46,13 +46,13 @@ Leadership
 *   [Joyce C. Perez](mailto:joyce.perez@smgov.net), Senior Administrative Analyst, Beach House
 *   [Joyce Locke](mailto:joyce.locke@smgov.net), Staff Assistant III
 
-### Santa Monica Arts Commission
+### Santa Monica <span class="avoid-break">Arts Commission</span>
 
 Art is a critical component of life in Santa Monica. And we always need more art. The Santa Monica Arts Commission is an 11-member advisory body appointed by the City Council, whose goal is to encourage the flow of art into the City. We’d love to hear your ideas on how we can do that even better. Please join us at one of our meetings.
 
 We meet the third Monday of each month, Ken Edwards Center, 6:30 p.m.
 
-#### Details and Agendas
+#### Details & Agendas
 
 *   [Arts Commission Board Details](https://www.smgov.net/departments/clerk/boards.aspx?id=53687092546)
 *   [Arts Commission Agendas & Minutes](/arts-commission/)
@@ -108,7 +108,7 @@ We’re always looking for ways to remain fresh. That’s why we’re excited to
 Public Art Program
 ------------------
 
-[Archive/Map](/public-art/#map)
+[Map / Archive](/public-art/#map)
 
 ### Leadership
 
@@ -116,8 +116,7 @@ Public Art Program
 
 ### Maintenance of Collection <a id="maintenance"></a>
 
-Maintaining the original, inspirational appearance of our vast art collection requires constant care. In 2015, the Santa Monica Cultural Affairs Public Art team commissioned Rosa Lowinger and Associates to conduct a comprehensive needs assessment. Now regular maintenance on our most important pieces ensures they’ll be around for years to come.
-
+Maintaining the original, inspirational appearance of our vast art collection requires constant care. In 2015, the Santa Monica Cultural Affairs Public Art team commissioned Rosa Lowinger and Associates to conduct a comprehensive needs assessment. Now regular maintenance on our most important pieces ensures they’ll be around for years to come.  
 [Read the report](https://www.santamonica.gov/Media/arts/CA/RLA_City%20of%20Santa%20Monica_Public%20Art%20Survey_Summary.Revised%207.13.2015.pdf)
 
 ### Percent for Art
@@ -126,9 +125,8 @@ The Percent for Art Program embodies the City’s commitment to sustainable fund
 
 ### Ordinances
 
-In art, there may be no rules, but in civic art there are definitely ordinances. These ordinances outline the ways public art is created and maintained. Santa Monica Cultural Affairs’ Public Art Program operates under these ordinances and policies, under the direction of City staff, the Arts Commission, the Public Art Committee and City Council.
-
-[See the ordinances](https://www.santamonica.gov/Media/arts/CA/Ord2212.pdf).
+In art, there may be no rules, but in civic art there are definitely ordinances. These ordinances outline the ways public art is created and maintained. Santa Monica Cultural Affairs’ Public Art Program operates under these ordinances and policies, under the direction of City staff, the Arts Commission, the Public Art Committee and City Council.  
+[See the ordinances](https://www.santamonica.gov/Media/arts/CA/Ord2212.pdf)
 
 #### Legislation
 
