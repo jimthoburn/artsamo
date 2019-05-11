@@ -9,16 +9,31 @@
 the-name-of-your-event.markdown
 ```
 
-3. Copy and paste this text into your new event file, and then change it to your liking:
+4. Copy and paste this text into your new event file, and then change it to your liking:
 ```
 ---
-title: The name of your event
-description: A single line of text (this will appear below the event title on the events page)
+title: A title for this event
+
+# A single line of text that will appear below the event title on the events page
+description: A description for this event
+
+# URL for the image. For example: /uploads/art-in-the-parks.jpg
 image: /path/to/your-image.jpg
-image_title: The name of your image (this will appear in the caption)
-image_description: A description for your image (this will be used in the _alt_ attribute, to make the image  accessible and findable on the web)
-image_credit: The name of your image’s photographer (this will appear in the caption)
-end_date: The date this event will be over in the format YYYY-MM-DD. For example: 2021-07-27
+
+# Title for the image that will appear in the caption
+image_title: The title for this image
+
+# Description for the image, to make the image accessible and findable on the web
+image_description: A description for this image
+
+# Person’s name that will appear in the caption
+image_credit: Javier Guillen
+
+# The last date of this event, in the format YYYY-MM-DD.
+# This is used to order the list of events so that later events come last.
+end_date: 2021-07-27
+
+# To hide this event, change the following line to “published: false”
 published: true
 ---
 
@@ -30,9 +45,9 @@ To see more examples, try opening some of the other event pages, or read the mar
 https://guides.github.com/features/mastering-markdown/
 ```
 
-*You can also use one of the other [event pages](https://github.com/jimthoburn/artsamo/tree/master/_events) as a starting point.*
+*You can also copy one of the other [event pages](https://github.com/jimthoburn/artsamo/tree/master/_events) or the [starter template](https://github.com/jimthoburn/artsamo/tree/master/_events/_starter-template.markdown) to use as a starting point.*
 
-4. Press the `Commit changes` button
+5. Press the `Commit changes` button
 
 Your new event should appear on the [featured events page](https://beta-artsamo.digitalservice.la/events/) within a few minutes.
 
