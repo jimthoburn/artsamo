@@ -30,5 +30,5 @@ This is the first paragraph of text.
 
 ## And here’s an example of a second-level heading
 
-To see more examples, try opening some of the other event pages, or read the markdown guide:
+To see more examples, try opening some of the other event pages–or read the markdown guide:
 https://guides.github.com/features/mastering-markdown/
