@@ -1,12 +1,27 @@
 # How to make changes
 
-The website is published with [GitHub Pages](https://pages.github.com) and the files are generated with [Jekyll](https://jekyllrb.com).
+As you make changes and save them on GitHub, the [website](https://beta-artsamo.digitalservice.la) will automatically update.
 
-As you make changes and commit/push them to GitHub, the [website](https://beta-artsamo.digitalservice.la) will automatically update.
+The website content is written in a language called _Markdown_. You can learn enough _Markdown_ to begin making changes, after about three minutes of reading the [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) guide.
 
-For example, if you [edit the _About_ page](https://github.com/jimthoburn/artsamo/edit/master/about.markdown) on GitHub, and then press the “Commit changes” button–you should see your changes on the [_About_ page](https://beta-artsamo.digitalservice.la/about/) of the website within a few minutes.
+The first step is to find the page you want to make changes to.
+
+1. Open the [main folder](https://github.com/jimthoburn/artsamo/tree/master) of pages.
+
+2. Select the page you’d like to edit. The pages are named the same as their URL on the website. For example, you’ll find the content for the [/beach-culture/](https://beta-artsamo.digitalservice.la/beach-culture/) page in a file named [beach-culture.markdown](https://github.com/jimthoburn/artsamo/blob/master/beach-culture.markdown).
+
+3. Press the `edit` button.
+
+4. Change the text to your liking. (Hint, you can press the “preview” tab to see how your changes look.)
+
+4. Press the `Commit changes` button
+
+Your changes should appear on the website within a few minutes.
 
 <img width="1510" alt="pages" src="https://user-images.githubusercontent.com/926616/57564102-6a0d8580-735b-11e9-8ff3-dbb63ed191b3.png">
 
-<img width="1536" alt="commit" src="https://user-images.githubusercontent.com/926616/57564103-6bd74900-735b-11e9-9f47-c24571013358.png">
+<img width="1546" alt="edit button" src="https://user-images.githubusercontent.com/926616/57564259-eacd8100-735d-11e9-9ecc-9a59dfbd0137.png">
 
+<img width="1536" alt="preview button" src="https://user-images.githubusercontent.com/926616/57564413-ff127d80-735f-11e9-8038-1c5d69d549bc.png">
+
+<img width="1536" alt="commit" src="https://user-images.githubusercontent.com/926616/57564103-6bd74900-735b-11e9-9f47-c24571013358.png">
