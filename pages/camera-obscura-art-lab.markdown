@@ -1,5 +1,6 @@
 ---
 title: Camera Obscura Art Lab
+permalink: /camera-obscura-art-lab/
 ---
 
 <figure>

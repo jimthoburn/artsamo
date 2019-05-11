@@ -1,5 +1,6 @@
 ---
 title: Theater Rental at Miles Memorial Playhouse
+permalink: /miles-memorial-playhouse-rental/
 ---
 
 Theater Rental <small>at Miles Memorial Playhouse</small>

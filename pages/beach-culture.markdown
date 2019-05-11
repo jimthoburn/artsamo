@@ -1,5 +1,6 @@
 ---
 title: Beach=Culture at Annenberg Community Beach House
+permalink: /beach-culture/
 ---
 
 <figure>

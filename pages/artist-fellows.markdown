@@ -1,5 +1,6 @@
 ---
 title: Artist Fellows
+permalink: /artist-fellows/
 ---
 
 <small>Santa Monica</small> Artist Fellows

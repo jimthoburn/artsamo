@@ -1,5 +1,6 @@
 ---
 title: Miles Memorial Playhouse
+permalink: /miles-memorial-playhouse/
 ---
 
 <figure>
