@@ -59,6 +59,24 @@ Several times a year local artists work out of an office at the Marion Davies Gu
 
 Check out the [resident blog](http://beachhouseair.blogspot.com).
 
+<!--
+<div class="artists" markdown="1">
+
+*   ### Writer - Wally Rudolph: _The Ox, The Horse & The Boar_
+    
+    <figure><img src="/uploads/wally-rudolph.jpg" height="300" alt="" /></figure>
+    
+    January 16, 2019 – March 20, 2019
+    
+    [wallyrudolph.com](https://www.wallyrudolph.com/)  
+    
+    Born in Canada to Chinese-Jamaican immigrant parents and raised in Texas, Wally Rudolph settled in Los Angeles after a peripatetic youth. He is a multidisciplinary artist and diversity advocate whose debut novel, Four Corners (Counterpoint/Soft Skull, 2014), garnered praise for its unflinching prose and drew comparisons to the hard-edged but compassionate work of Denis Johnson, among others. His second novel Mighty, Mighty, was published to critical praise in 2015.
+    
+    [interview](https://www.santamonica.gov/blog/meet-spring-2019-beach-house-writer-in-residence-wally-rudolph)
+  
+</div>
+-->
+
 <p class="action" markdown="1">
 
 [Past artists](/beach-culture-artists/)

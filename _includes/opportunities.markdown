@@ -1,4 +1,4 @@
-### for Artists
+### <a href="/for-artists/">for Artists</a>
 
 <table>
 <thead>
@@ -39,7 +39,7 @@
 </tbody>
 </table>
 
-### for Organizations
+### <a href="/for-organizations/">for Organizations</a>
 
 <table>
 <thead>
@@ -50,6 +50,26 @@
 </thead>
 <tbody>
 
+<!--
+<tr>
+  <th scope="row">
+    <a href="/for-organizations/#organizational-support-program-osp">
+      Organizational Support Program (OSP)
+    </a>
+  </th>
+  <td>March 18, 2019</td>
+</tr>
+-->
+
+<tr>
+  <th scope="row">
+    <a href="/for-organizations/#community-access--participation-cap">
+      Community Access & Participation (CAP)
+    </a>
+  </th>
+  <td>May 21, 2019</td>
+</tr>
+
 <tr>
   <th scope="row">
     <a href="/for-organizations/#strategic-sustainability-initiative-ssi">
@@ -59,25 +79,14 @@
   <td>November, 2019</td>
 </tr>
 
-<!--
 <tr>
   <th scope="row">
-    <a href="/for-organizations/#community-access--participation-cap">
-      Community Access & Participation (CAP)
+    <a href="/for-organizations/#arts-transportation-grant">
+      Arts Transportation Grant
     </a>
   </th>
-  <td>April 2019</td>
+  <td>Rolling until annual funds are depleted</td>
 </tr>
- 
-<tr>
-  <th scope="row">
-    <a href="/for-organizations/#organizational-support-program-osp">
-      Organizational Support Program (OSP)
-    </a>
-  </th>
-  <td>March 2019</td>
-</tr>
--->
  
 </tbody>
 </table>
