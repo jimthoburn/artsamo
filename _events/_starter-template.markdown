@@ -4,8 +4,10 @@ title: A title for this event
 # A single line of text that will appear below the event title on the events page
 description: A description for this event
 
-# URL for the image. For example: /uploads/art-in-the-parks.jpg
-image: /path/to/your-image.jpg
+# URL for the image.
+# Example A: /uploads/art-in-the-parks.jpg
+# Example B: https://www.santamonica.gov/art-in-the-parks.jpg
+image: /uploads/the-image-name.jpg
 
 # Title for the image that will appear in the caption
 image_title: The title for this image
