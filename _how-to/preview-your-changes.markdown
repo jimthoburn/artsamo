@@ -6,8 +6,7 @@ You can make edits in the staging branch and commit them just as you would norma
 
 Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://beta-artsamo.digitalservice.la) (the `master` branch) using a pull request. Here are the steps:
 
-1. Press the “new pull request” button.
-
+1. Press the “new pull request” button.  
 https://github.com/jimthoburn/artsamo/pull/new/staging
 
 2. Write a title for your pull request (this is optional).
