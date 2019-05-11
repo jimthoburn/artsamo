@@ -25,3 +25,7 @@ To use this on the website, you can create an image with [markdown](https://guid
 ```
 ![Dahn Gim](/uploads/dahn-gim.jpg)
 ```
+
+<img width="1536" alt="uploads folder" src="https://user-images.githubusercontent.com/926616/57563893-822fd580-7358-11e9-8459-dab9ffa4ae47.png">
+
+<img width="1535" alt="uploader" src="https://user-images.githubusercontent.com/926616/57563892-822fd580-7358-11e9-91ca-9ef62fdad7c8.png">
