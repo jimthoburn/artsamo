@@ -12,9 +12,9 @@ The first step is to find the page you want to make changes to.
 
 3. Press the `edit` button.
 
-4. Change the text to your liking. (Hint, you can press the “preview” tab to see how your changes look.)
+4. Change the text to your liking. _Hint, you can press the “preview” tab to see how your changes will look._
 
-4. Press the `Commit changes` button
+4. Press the `Commit changes` button. _You can optionally write a description of your changes that will be added to the project history._
 
 Your changes should appear on the website within a few minutes.
 
