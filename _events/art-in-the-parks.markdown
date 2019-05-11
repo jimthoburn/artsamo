@@ -1,12 +1,11 @@
 ---
 title: Art in the Parks
-published: true
-position: 3
 description: Free Outdoor Performances to Look Forward to This Summer
-image: https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen
-  (135 of 144).jpg
+image: https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_Reed_Santa_Monica_Symphony_Javier_Guillen%20(135%20of%20144).jpg
 image_description: Santa Monica Symphony Orchestra playing for Meet me at Reed
 image_credit: Javier Guillen
+end_date: 2019-10-05
+published: true
 ---
 
 Free Outdoor Performances to Look Forward to This Summer

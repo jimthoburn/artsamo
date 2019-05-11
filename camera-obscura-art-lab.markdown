@@ -44,7 +44,7 @@ This mid-century modern building on the bluffs was designed by noted architect W
 * * *
 
 
-Artists in Residence
+Artists-in-Residence
 --------------------
 
 <div class="artists" markdown="1">
