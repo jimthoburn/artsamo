@@ -10,7 +10,7 @@ the-name-of-your-event.markdown
 ```
 
 4. Copy and paste this text into your new event file, and then change it to your liking:
-```
+```yaml
 ---
 title: A title for this event
 
