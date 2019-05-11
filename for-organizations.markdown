@@ -10,7 +10,59 @@ title: Grants for Organizations
 <small>Grants</small> for Organizations
 ===============================
 
+<div></div><div></div>
+
+### Five Grant Programs
+
 To ensure a robust arts and culture ecosystem for both residents and visitors to the City, Cultural Affairs offers five grant programs for Santa Monica-based arts and heritage nonprofits.
+
+<table>
+<thead>
+<tr>
+  <th scope="col">Description</th>
+  <th scope="col">Deadline</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <th scope="row">
+    <a href="/for-organizations/#organizational-support-program-osp">
+      Organizational Support Program (OSP)
+    </a>
+  </th>
+  <td>March 18, 2019</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-organizations/#community-access--participation-cap">
+      Community Access & Participation (CAP)
+    </a>
+  </th>
+  <td>May 21, 2019</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-organizations/#arts-transportation-grant">
+      Arts Transportation Grant
+    </a>
+  </th>
+  <td>Rolling until annual funds are depleted</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-organizations/#strategic-sustainability-initiative-ssi">
+      Strategic Sustainability Initiative (SSI)
+    </a>
+  </th>
+  <td>November, 2019</td>
+</tr>
+
+</tbody>
+</table>
 
 ### Organizational Support Program (OSP)
 

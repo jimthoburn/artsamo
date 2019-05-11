@@ -10,6 +10,97 @@ title: Opportunities for Artists
 <small>Opportunities</small> for Artists
 =========================
 
+<div></div><div></div>
+
+### Imagine what can happen when the right artist meets the right opportunity.
+
+Santa Monica Cultural Affairs welcomes and cultivates artists through fellowships and residencies for individual artists.
+
+
+<table>
+<thead>
+<tr>
+  <th scope="col">Description</th>
+  <th scope="col">Deadline</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#prequalified-artist-roster">
+      Prequalified Artist Roster
+    </a>
+  </th>
+  <td>June 28, 2019</td>
+</tr>
+ 
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#acbh-fall-and-spring-writer-residency">
+      ACBH Fall and Spring Writer Residency
+    </a>
+  </th>
+  <td>July, 2019</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#camera-obscura-art-lab-studio-residency">
+      Camera Obscura Art Lab Studio Residency
+    </a>
+  </th>
+  <td>October, 2019</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#acbh-choreographer-residency">
+      ACBH Choreographer Residency
+    </a>
+  </th>
+  <td>March, 2020</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#jazz-on-the-lawn">
+      Jazz on the Lawn
+    </a>
+  </th>
+  <td>April, 2020</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#acbh-public-practice-immersion-residency-out-of-the-blue">
+      ACBH Public Practice Immersion Residency: Out of the Blue
+    </a>
+  </th>
+  <td>April, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#acbh-gallery-group-exhibits">
+      ACBH Gallery Group Exhibits
+    </a>
+  </th>
+  <td>TBA</td>
+</tr>
+ 
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#artist-fellowship">
+      Artist Fellowship
+    </a>
+  </th>
+  <td>Closed for 2019-2020</td>
+</tr>
+ 
+</tbody>
+</table>
+
 Artist Fellowship
 -----------------
 
