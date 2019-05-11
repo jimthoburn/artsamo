@@ -8,7 +8,7 @@ Events
 
 <nav class="action" markdown="1">
 
-*   [Calendar](/events-calendar/)
+*   [Calendar](/events/calendar/)
 *   [Weekly Newsletter](#weekly-newsletter)
 
 </nav>
@@ -32,7 +32,7 @@ Calendar <a id="calendar"></a>
 
 <p data-events-more class="action" markdown="1" style="visibility: hidden;">
 
-[More events](/events-calendar/)
+[More events](/events/calendar/)
 
 </p>
 

@@ -111,11 +111,11 @@ button {
   max-width: none;
   /*! line-height: 1; */
 }
-.subscribe h1 small {
+/* .subscribe h1 small {
   font-weight: inherit;
   font-size: inherit;
 }
-
+ */
 .subscribe p:first-of-type {
   max-width: 36em;
   margin-bottom: 1em;

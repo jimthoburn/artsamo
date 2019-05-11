@@ -123,7 +123,7 @@ Artists-in-Residence
 </div>
 
 <p class="action" markdown="1" style="margin-top: 1.5em; margin-bottom: 4.5em; max-width: none; grid-column: 1/-1; justify-self: center;">
-[Past artists](/camera-obscura-art-lab-artists/)
+[Past artists](/camera-obscura-art-lab/artists/)
 </p>
 
 
@@ -142,7 +142,7 @@ Upcoming Events
 
 <p data-events-more class="action" markdown="1" style="visibility: hidden;">
 
-[More events](/camera-obscura-art-lab-events/)
+[More events](/camera-obscura-art-lab/events/)
 
 </p>
 

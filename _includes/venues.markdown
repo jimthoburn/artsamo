@@ -36,29 +36,3 @@
     </a>
   </li>
 </ul>
-
-{% comment %}
-* [
-    ![](https://static-artsamo.digitalservice.la/uploads/milesplayhouse.jpg)  
-    ![](/assets/images/icon-miles-playhouse.png)
-    Miles Memorial Playhouse
-  ](/miles-memorial-playhouse/)
-
-* [
-    ![](https://static-artsamo.digitalservice.la/uploads/civicauditorium.jpg)  
-    ![](/assets/images/icon-civic-auditorium.png)
-    The Civic Auditorium
-  ](https://www.smgov.net/departments/ccs/civicauditorium/)
-
-* [
-    ![](https://static-artsamo.digitalservice.la/uploads/beach-culture.jpg)  
-    ![](/assets/images/icon-beachhouse.png)
-    Beach=Culture at Annenberg Community Beach House
-  ](/beach-culture/)
-
-* [
-    ![](https://static-artsamo.digitalservice.la/uploads/cameraobscura.jpg)  
-    ![](/assets/images/icon-camera-obscura.png)
-    Camera Obscura Art Lab
-  ](/camera-obscura-art-lab/)
-{% endcomment %}

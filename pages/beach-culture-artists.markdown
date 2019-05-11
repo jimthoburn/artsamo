@@ -1,9 +1,9 @@
 ---
-title: Artists in Residence at Annenberg Community Beach House
-permalink: /beach-culture-artists/
+title: Artists-in-Residence at Annenberg Community Beach House
+permalink: /beach-culture/artists/
 ---
 
-Artists in Residence<br /><small>Beach=Culture</small>
+Artists-in-Residence<br /><small>Beach=Culture</small>
 =====================================================
 
 2019
