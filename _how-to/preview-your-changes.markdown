@@ -24,6 +24,6 @@ https://github.com/jimthoburn/artsamo/pull/new/staging
 
 <img width="1536" alt="pull request button" src="https://user-images.githubusercontent.com/926616/57564147-2cf5c300-735c-11e9-801d-9cbbd1dcde31.png">
 
-<img width="1536" alt="confirm" src="https://user-images.githubusercontent.com/926616/57564149-2d8e5980-735c-11e9-9193-7cdf5925ca73.png">
-
 <img width="1536" alt="merge" src="https://user-images.githubusercontent.com/926616/57564151-2ebf8680-735c-11e9-8090-4cc010943cd9.png">
+
+<img width="1536" alt="confirm" src="https://user-images.githubusercontent.com/926616/57564149-2d8e5980-735c-11e9-9193-7cdf5925ca73.png">
