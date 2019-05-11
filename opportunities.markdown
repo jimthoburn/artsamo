@@ -13,12 +13,12 @@ Opportunities
 
 ## Grants and residencies
 
-Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs welcomes and cultivates artists through fellowships, residencies, and grants for both individual [artists](/opportunities-for-artists/) and [organizations](/opportunities-for-organizations/).
+Imagine what can happen when the right artist meets the right opportunity. Santa Monica Cultural Affairs welcomes and cultivates artists through fellowships, residencies, and grants for both individual [artists](/for-artists/) and [organizations](/for-organizations/).
 
 <nav class="action" markdown="1">
 
-*   [For Artists](/opportunities-for-artists/)
-*   [For Organizations](/opportunities-for-organizations/)
+*   [For Artists](/for-artists/)
+*   [For Organizations](/for-organizations/)
 
 </nav>
  

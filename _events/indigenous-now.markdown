@@ -1,11 +1,12 @@
 ---
 title: Indigenous Now
-published: true
 description: Saturday, May 11 from 12 – 4 p.m., Free admission
 image: https://static-artsamo.digitalservice.la/uploads/2018_Tongva_Park_Jason_Abraham-(4-of-52).jpg
 image_title: Tongva Park
 image_description: Tongva Park
 image_credit: Jason Abraham
+end_date: 2019-05-11
+published: true
 ---
 
 **Saturday, May 11, 2019**  
