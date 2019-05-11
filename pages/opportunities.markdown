@@ -1,5 +1,6 @@
 ---
 title: Opportunities
+permalink: /opportunities/
 ---
 
 <figure class="image">

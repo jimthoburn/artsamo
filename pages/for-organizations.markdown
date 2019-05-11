@@ -1,5 +1,6 @@
 ---
 title: Grants for Organizations
+permalink: /for-organizations/
 ---
 
 <figure>

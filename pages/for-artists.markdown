@@ -1,5 +1,6 @@
 ---
 title: Opportunities for Artists
+permalink: /for-artists/
 ---
 
 <figure>

@@ -1,5 +1,6 @@
 ---
 title: Arts Commission Agendas & Minutes
+permalink: /arts-commission/
 ---
 
 <small>Arts Commission</small> Agendas & Minutes

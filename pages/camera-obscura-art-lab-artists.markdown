@@ -1,5 +1,6 @@
 ---
 title: Artists in Residence at Camera Obscura Art Lab
+permalink: /camera-obscura-art-lab-artists/
 ---
 
 Artists in Residence<br /><small>at Camera Obscura Art Lab</small>
