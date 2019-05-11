@@ -150,6 +150,18 @@ Upcoming Events
 
 * * *
 
+Monthly Brochures
+-----------------
+
+<p class="action" markdown="1">
+
+[May and June 2019](https://www.smgov.net/uploadedFiles/Departments/CCS/Places_Parks_Beach/1450_Ocean/1450OceanCurrentCalendar.pdf)
+
+</p>
+
+
+* * *
+
 
 Getting Here
 ------------

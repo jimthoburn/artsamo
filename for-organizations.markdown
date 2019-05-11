@@ -38,7 +38,10 @@ Resident organizations are defined as those whose primary administrative office 
 Deadline
 : May 21, 2019 by 5:00 p.m. (Pacific Time)
 
-Santa Monica’s Community Access & Participation (CAP) program provides grants of up to $7,000 to nonprofit arts organizations for cultural programs in all media with the goal of providing increased access to the arts and culture to Santa Monica residents and visitors. All projects must take place in Santa Monica. Applicants are encouraged to consider city parks such as Tongva and Reed Parks as potential venues, as well as City-owned facilities such as the Miles Memorial Playhouse. 
+Applications available
+: Annually in spring
+
+Santa Monica’s Community Access & Participation (CAP) program provides grants of up to $7,000 to nonprofit arts organizations for cultural programs in all media with the goal of providing increased access to the arts and culture to Santa Monica residents and visitors. All projects must take place in Santa Monica. Applicants are encouraged to consider city parks such as Tongva and Reed Parks as potential venues, as well as City-owned facilities such as the Miles Memorial Playhouse.  
 
 [Applications for FY2019-20](https://smcad.gosmart.org/) are now available and are accessed online via the GO Smart system. To fill out an application, navigate to "Current Programs & Applications" and choose "Community Access & Participation 2019-20." Applicants new to the system must begin by creating a profile.
 
@@ -63,15 +66,21 @@ CAP grant applications are accepted in three categories. Please read the program
 
 ### Arts Transportation Grant 
 
-There’s no deadline for applications, but we suggest you apply by mid-November 2018 to ensure funds are available.
+Deadline
+: Rolling until annual funds are depleted
 
-Applications available: Annually in September in the week after Labor Day.
+Applications available
+: Annually in September soon after Labor Day
 
-How might one person’s life change by being exposed to the arts? Applying for a grant that reimburses you for transportation costs can make it possible.
+The City of Santa Monica Arts Transportation Grant Program provides access to arts and culture activities throughout Los Angeles County. Any Santa Monica school or nonprofit organization wishing to visit a cultural destination in L.A. County may apply for reimbursement of transportation costs. Trips must take place between October and June.
 
-The City of Santa Monica Arts Transportation Grant Program provides access to arts and culture activities throughout Los Angeles County. Any Santa Monica school or nonprofit organization who wants to take their group to visit a cultural destination in L.A. County may apply for reimbursement of transportation costs. Trips must take place between **October 1, 2017 and June 7, 2018.** 
+Applications are accepted on a rolling basis throughout the fall and winter. Funds are mostly appropriated by mid-November, but the City encourages applications throughout the winter because cancellations do occur, opening up funding for new excursions.
 
-Support for this program comes from the Metropolitan Transit Authority’s Proposition A Local Return funds.
+Grant funds may be used only to reimburse the costs incurred by transporting Santa Monica residents and students to and from cultural destinations, such as performing arts venues and museums. Destinations must be accessible to individuals with disabilities. 
+
+Support for this program comes from the Metropolitan Transit Authority’s Proposition A Local Return funds. The MTA requires that program services be made available to all members of the public in an age-appropriate manner, not limited to a specific group. For example, a third grade class trip to the Getty Museum must reasonably accommodate any third grader in Santa Monica who requests a seat (if seats are available). All excursions approved in this program are listed on the Cultural Affairs website with contact information so that a parent from another school may reserve a place for a child to participate in the funded activity. 
+
+Questions about this program should be directed to Nathan Birnbaum, [nathan.birnbaum@smgov.net](mailto:nathan.birnbaum@smgov.net)
 
 ### Strategic Sustainability Initiative (SSI)
 
