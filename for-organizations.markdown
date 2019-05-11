@@ -18,7 +18,7 @@ Deadline
 : March 18, 2019
 
 Applications will be available
-: February 2019
+: when active, in January/February
 
 Instructions & previous year’s guidelines
 : [OSP Grant Guidelines](https://www.smgov.net/uploadedFiles/Portals/Culture/Grants/Organization_Support_Grant_Program/Guidelines%20OSP%202019-21%20final.pdf)
@@ -94,11 +94,9 @@ The purpose of the City of Santa Monica’s Strategic Sustainability Initiative 
 
 * * *
 
-## Grantees
+## Current Grantees
 
-## Arts & Cultural Grantees of the City of Santa Monica
-
-### Current Organizations
+## Arts & Cultural Grantees of the City of Santa Monica<br /><small style="font-weight: var(--normal)">Organizations</small>
 
 *   [18th Street Art Center](https://18thstreet.org/)
 *   [Broad Stage](http://thebroadstage.org/)
