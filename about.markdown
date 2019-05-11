@@ -125,8 +125,7 @@ The Percent for Art Program embodies the City’s commitment to sustainable fund
 
 ### Ordinances
 
-In art, there may be no rules, but in civic art there are definitely ordinances. These ordinances outline the ways public art is created and maintained. Santa Monica Cultural Affairs’ Public Art Program operates under these ordinances and policies, under the direction of City staff, the Arts Commission, the Public Art Committee and City Council.  
-[See the ordinances](https://www.santamonica.gov/Media/arts/CA/Ord2212.pdf)
+In art, there may be no rules, but in civic art there are definitely ordinances. These ordinances outline the ways public art is created and maintained. Santa Monica Cultural Affairs’ Public Art Program operates under these ordinances and policies, under the direction of City staff, the Arts Commission, the Public Art Committee and City Council.
 
 #### Legislation
 
