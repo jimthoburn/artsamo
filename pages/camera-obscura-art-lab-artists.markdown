@@ -1,9 +1,9 @@
 ---
-title: Artists in Residence at Camera Obscura Art Lab
-permalink: /camera-obscura-art-lab-artists/
+title: Artists-in-Residence at Camera Obscura Art Lab
+permalink: /camera-obscura-art-lab/artists/
 ---
 
-Artists in Residence<br /><small>at Camera Obscura Art Lab</small>
+Artists-in-Residence<br /><small>at Camera Obscura Art Lab</small>
 ============================================
 
 2019

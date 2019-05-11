@@ -1,6 +1,6 @@
 ---
 title: Events at Annenberg Community Beach House
-permalink: "/beach-culture-events/"
+permalink: "/beach-culture/events/"
 ---
 
 Events<br /><small>at Annenberg Community<br />Beach House</small>

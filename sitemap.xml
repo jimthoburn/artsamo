@@ -62,28 +62,28 @@ permalink: "/sitemap.xml"
     <loc>https://beta-artsamo.digitalservice.la/beach-culture/</loc>
   </url>
   <url>
-    <loc>https://beta-artsamo.digitalservice.la/beach-culture-artists/</loc>
+    <loc>https://beta-artsamo.digitalservice.la/beach-culture/artists/</loc>
   </url>
   <url>
-    <loc>https://beta-artsamo.digitalservice.la/beach-culture-events/</loc>
+    <loc>https://beta-artsamo.digitalservice.la/beach-culture/events/</loc>
   </url>
   <url>
     <loc>https://beta-artsamo.digitalservice.la/camera-obscura-art-lab/</loc>
   </url>
   <url>
-    <loc>https://beta-artsamo.digitalservice.la/camera-obscura-art-lab-artists/</loc>
+    <loc>https://beta-artsamo.digitalservice.la/camera-obscura-art-lab/artists/</loc>
   </url>
   <url>
-    <loc>https://beta-artsamo.digitalservice.la/camera-obscura-art-lab-events/</loc>
+    <loc>https://beta-artsamo.digitalservice.la/camera-obscura-art-lab/events/</loc>
   </url>
   <url>
     <loc>https://beta-artsamo.digitalservice.la/miles-memorial-playhouse/</loc>
   </url>
   <url>
-    <loc>https://beta-artsamo.digitalservice.la/miles-memorial-playhouse-rental/</loc>
+    <loc>https://beta-artsamo.digitalservice.la/miles-memorial-playhouse/rental/</loc>
   </url>
   <url>
-    <loc>https://beta-artsamo.digitalservice.la/miles-memorial-playhouse-events/</loc>
+    <loc>https://beta-artsamo.digitalservice.la/miles-memorial-playhouse/events/</loc>
   </url>
 
 </urlset>

@@ -80,7 +80,7 @@ Check out the [resident blog](http://beachhouseair.blogspot.com).
 
 <p class="action" markdown="1">
 
-[Past artists](/beach-culture-artists/)
+[Past artists](/beach-culture/artists/)
 
 </p>
 
@@ -193,7 +193,7 @@ Upcoming Events
 
 <p data-events-more class="action" markdown="1" style="visibility: hidden;">
 
-[More events](/beach-culture-events/)
+[More events](/beach-culture/events/)
 
 </p>
 

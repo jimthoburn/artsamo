@@ -1,6 +1,6 @@
 ---
 title: Calendar
-permalink: /events-calendar/
+permalink: /events/calendar/
 ---
 
 <small>Santa Monica Cultural Affairs</small> Calendar
