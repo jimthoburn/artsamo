@@ -1,8 +1,12 @@
 # How to see a preview of your changes
 
-If you’d like to see how your changes will look on the website before making them public, you can work in the [staging branch](https://github.com/jimthoburn/artsamo/tree/staging)–a copy of the website files, that’s published at https://staging-artsamo.digitalservice.la
+If you’d like to see how your changes will look on the website before making them public, you can work in the “staging branch“–a copy of the website files, that’s published at [staging-artsamo.digitalservice.la](https://staging-artsamo.digitalservice.la)
 
-You can make edits in the staging branch and commit them just as you would normally. They’ll automatically appear on the staging website within a few minutes.
+1. From the [main folder](https://github.com/jimthoburn/artsamo) press the “Branch” dropdown
+
+2. Choose “staging” from the list of options
+
+You can make edits in the [staging branch](https://github.com/jimthoburn/artsamo/tree/staging) and commit them just as you would normally. They’ll automatically appear on the [staging website](https://staging-artsamo.digitalservice.la) within a few minutes.
 
 Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://beta-artsamo.digitalservice.la) (the `master` branch) using a pull request. Here are the steps:
 
