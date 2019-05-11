@@ -1,6 +1,6 @@
 # How to hide an event page
 
-While editing an event file, look for the `published` line:
+While [editing[(https://github.com/jimthoburn/artsamo/blob/master/_how-to/make-changes.markdown) an event file, look for the `published` line:
 ```
 title: Meet me at Reed
 published: true
