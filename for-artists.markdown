@@ -266,19 +266,24 @@ Required
 : Curatorial Statement
 
 
-Prequalified Artist Roster
------------------------------------------------
+Prequalified <span class="avoid-break">Artist Roster</span>
+-----------------------------------------------------------
 
 ### Rolling Call for Qualifications
 
 Santa Monica Cultural Affairs invites local, regional, national and international artists/teams to submit qualifications for a prequalified artists roster. The Artist Roster, a curated shortlist of artists, will enable us to connect amazing qualified artists to projects and opportunities in Santa Monica. Cultural Affairs believes artwork is labor, and will ensure that funding is allocated in project budgets to pay artists for their time. All entities using the Santa Monica Cultura Affairs’ prequalified roster will be strongly encouraged to budget artists' fees when planning potential projects.
 
-Deadlines (applications are reviewed quarterly)
-: March 29, 2019
-: June 28, 2019
-: September 30, 2019
-: December 31, 2019
+### Deadlines
 
-To Apply
-: [Application](https://artist.callforentry.org/festivals_unique_info.php?ID=6001) 
+Applications are reviewed quarterly.
 
+* March 29, 2019
+* June 28, 2019
+* September 30, 2019
+* December 31, 2019
+
+<p class="action" markdown="1">
+
+[Apply for the Artist Roster](https://artist.callforentry.org/festivals_unique_info.php?ID=6001) 
+
+</p>

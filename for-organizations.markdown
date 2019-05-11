@@ -45,20 +45,20 @@ To ensure a robust arts and culture ecosystem for both residents and visitors to
 
 <tr>
   <th scope="row">
-    <a href="/for-organizations/#arts-transportation-grant">
-      Arts Transportation Grant
-    </a>
-  </th>
-  <td>Rolling until annual funds are depleted</td>
-</tr>
-
-<tr>
-  <th scope="row">
     <a href="/for-organizations/#strategic-sustainability-initiative-ssi">
       Strategic Sustainability Initiative (SSI)
     </a>
   </th>
   <td>November, 2019</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-organizations/#arts-transportation-grant">
+      Arts Transportation Grant
+    </a>
+  </th>
+  <td>Rolling until annual funds are depleted</td>
 </tr>
 
 </tbody>

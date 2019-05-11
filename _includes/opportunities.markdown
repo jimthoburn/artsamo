@@ -1,4 +1,4 @@
-### for Artists
+### <a href="/for-artists/">for Artists</a>
 
 <table>
 <thead>
@@ -39,7 +39,7 @@
 </tbody>
 </table>
 
-### for Organizations
+### <a href="/for-organizations/">for Organizations</a>
 
 <table>
 <thead>
