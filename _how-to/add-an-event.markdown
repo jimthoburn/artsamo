@@ -35,3 +35,11 @@ https://guides.github.com/features/mastering-markdown/
 4. Press the `Commit changes` button
 
 Your new event should appear on the [featured events page](https://beta-artsamo.digitalservice.la/events/) within a few minutes.
+
+<img width="1528" alt="events folder" src="https://user-images.githubusercontent.com/926616/57564006-0fbff500-735a-11e9-8ddc-0da85b154644.png">
+
+<img width="1528" alt="new event form" src="https://user-images.githubusercontent.com/926616/57563985-d2f3fe00-7359-11e9-8d09-957d3daf588f.png">
+
+<img width="1528" alt="commit" src="https://user-images.githubusercontent.com/926616/57564007-0fbff500-735a-11e9-913f-db9a480d1a44.png">
+
+
