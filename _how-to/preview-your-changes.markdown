@@ -1,6 +1,6 @@
 # How to see a preview of your changes
 
-If you’d like to see how your changes will look on the website before making them public, you can work in the “staging branch“–a copy of the website files, that’s published at [staging-artsamo.digitalservice.la](https://staging-artsamo.digitalservice.la)
+If you’d like to see how your changes will look on the website before making them public, you can work in the `staging` branch–a copy of the website files, that’s published at [staging-artsamo.digitalservice.la](https://staging-artsamo.digitalservice.la)
 
 1. From the [main folder](https://github.com/jimthoburn/artsamo) press the “Branch” dropdown
 
