@@ -22,8 +22,8 @@ image_credit: Javier Guillen
 # This is used to order the list of events so that later events come last.
 end_date: 2021-07-27
 
-# To hide this event, change the following line to “published: false”
-published: true
+# To hide this event, change the following line to “featured: false”
+featured: true
 ---
 
 This is the first paragraph of text.

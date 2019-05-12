@@ -5,7 +5,7 @@ image: https://static-artsamo.digitalservice.la/uploads/PhotoCredit_AnnieDimas3.
 image_description: People enjoying pottery work by artists, with a band playing music in the background
 image_credit: Annie Dimas
 end_date: 2019-03-23
-published: false
+featured: false
 ---
 
 13th Annual Santa Monica Airport ArtWalk Returns March 23
