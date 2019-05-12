@@ -25,7 +25,7 @@ Imagine what can happen when the right artist meets the right opportunity. Santa
  
 ## Upcoming opportunities
 
-{% include opportunities.markdown %}
+{% include featured-opportunities.markdown %}
 
 <!--
 ## Resources

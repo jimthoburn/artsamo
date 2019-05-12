@@ -8,7 +8,7 @@ The official website is located at:
 
 https://www.santamonica.gov/arts/
 
-## Editing
+## Pages
 
 * [How to make changes](https://github.com/jimthoburn/artsamo/blob/master/_how-to/make-changes.markdown)
 * [How to see a preview of your changes](https://github.com/jimthoburn/artsamo/blob/master/_how-to/preview-your-changes.markdown)
@@ -17,6 +17,10 @@ https://www.santamonica.gov/arts/
 
 * [How to add an event page](https://github.com/jimthoburn/artsamo/blob/master/_how-to/add-an-event.markdown)
 * [How to hide an event page](https://github.com/jimthoburn/artsamo/blob/master/_how-to/hide-an-event.markdown)
+
+## Opportunities
+
+* [How to feature an opportunity](https://github.com/jimthoburn/artsamo/blob/master/_how-to/feature-an-opportunity.markdown)
 
 ## Images
 

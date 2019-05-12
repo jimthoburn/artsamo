@@ -8,7 +8,7 @@
 </tr>
 </thead>
 <tbody>
- 
+
 <tr>
   <th scope="row">
     <a href="/for-artists/#prequalified-artist-roster">
@@ -26,7 +26,7 @@
   </th>
   <td>July, 2019</td>
 </tr>
- 
+
 <tr>
   <th scope="row">
     <a href="/for-artists/#camera-obscura-art-lab-studio-residency">
@@ -35,6 +35,53 @@
   </th>
   <td>October, 2019</td>
 </tr>
+
+<!--
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#acbh-choreographer-residency">
+      ACBH Choreographer Residency
+    </a>
+  </th>
+  <td>March, 2020</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#jazz-on-the-lawn">
+      Jazz on the Lawn
+    </a>
+  </th>
+  <td>April, 2020</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#acbh-public-practice-immersion-residency-out-of-the-blue">
+      ACBH Public Practice Immersion Residency: Out of the Blue
+    </a>
+  </th>
+  <td>April, 2021</td>
+</tr>
+
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#acbh-gallery-group-exhibits">
+      ACBH Gallery Group Exhibits
+    </a>
+  </th>
+  <td>TBA</td>
+</tr>
+ 
+<tr>
+  <th scope="row">
+    <a href="/for-artists/#artist-fellowship">
+      Artist Fellowship
+    </a>
+  </th>
+  <td>Closed for 2019-2020</td>
+</tr>
+-->
  
 </tbody>
 </table>
@@ -87,6 +134,7 @@
   </th>
   <td>Rolling until annual funds are depleted</td>
 </tr>
- 
+
 </tbody>
 </table>
+
