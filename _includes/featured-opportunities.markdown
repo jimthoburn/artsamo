@@ -45,7 +45,9 @@
   </th>
   <td>March, 2020</td>
 </tr>
+-->
 
+<!--
 <tr>
   <th scope="row">
     <a href="/for-artists/#jazz-on-the-lawn">
@@ -54,7 +56,9 @@
   </th>
   <td>April, 2020</td>
 </tr>
+-->
 
+<!--
 <tr>
   <th scope="row">
     <a href="/for-artists/#acbh-public-practice-immersion-residency-out-of-the-blue">
@@ -63,7 +67,9 @@
   </th>
   <td>April, 2021</td>
 </tr>
+-->
 
+<!--
 <tr>
   <th scope="row">
     <a href="/for-artists/#acbh-gallery-group-exhibits">
@@ -72,7 +78,9 @@
   </th>
   <td>TBA</td>
 </tr>
+-->
  
+<!--
 <tr>
   <th scope="row">
     <a href="/for-artists/#artist-fellowship">
