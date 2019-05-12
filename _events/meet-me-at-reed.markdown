@@ -6,7 +6,7 @@ image_title: Taiko Festival
 image_description: Music performers playing drums at the Taiko Festival
 image_credit: Javier Guillen
 end_date: 2019-07-27
-published: true
+featured: true
 ---
 
 ## Family Fun + Art in the Parks 

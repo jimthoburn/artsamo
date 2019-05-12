@@ -5,7 +5,7 @@ image: https://static-artsamo.digitalservice.la/uploads/2018_7_21_18_Meet_Me_At_
 image_description: Santa Monica Symphony Orchestra playing for Meet me at Reed
 image_credit: Javier Guillen
 end_date: 2019-10-05
-published: true
+featured: true
 ---
 
 Free Outdoor Performances to Look Forward to This Summer
