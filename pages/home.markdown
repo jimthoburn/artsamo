@@ -163,7 +163,7 @@ Public Art
 Opportunities
 -------------
 
-{% include opportunities.markdown %}
+{% include featured-opportunities.markdown %}
 
 <p class="action" markdown="1">
 
