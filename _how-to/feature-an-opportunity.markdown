@@ -42,7 +42,7 @@ You can place the template inside of one of the tables:
 ```
 
 The past & future opportunities are included in the file, but hidden
-inside an HTML comment. To reuse one of these, you can remove the HTML comments
+inside an _HTML comment_. To reuse one of these, you can remove the _HTML comment_ tags
 that are around it. Here’s what they look like:
 
 ```html
