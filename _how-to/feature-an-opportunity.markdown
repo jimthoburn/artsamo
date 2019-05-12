@@ -48,5 +48,7 @@ that are around it. Here’s what they look like:
 ```html
 <!--
 
+(Something hidden)
+
 -->
 ```
