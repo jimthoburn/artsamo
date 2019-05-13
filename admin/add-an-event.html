@@ -67,7 +67,6 @@
       text-align: center;
     }
     button {
-      grid-column: 2/3;
       padding: 0.75em 1.5em;
       background-color: hsl(100, 65%, 65%);
       color: hsl(0, 0%, 100%);
@@ -84,7 +83,6 @@
 
 <form action="https://github.com/jimthoburn/artsamo/new/staging/_events" method="get">
   <h1>Add an event</h1>
-  <p>This form will prepare a commit for the [staging website](https://github.com/jimthoburn/artsamo/blob/master/_how-to/preview-your-changes.markdown). <em>After you complete this form and press submit, be sure to commit your changes on GitHub (the next screen).</em></p>
   <ul>
     <li>
       <label>
@@ -99,7 +97,7 @@
         <span>URL:</span><br />
         <span>
           <span class="url-preview">beta-artsamo.digitalservice.la/</span>
-          <input type="text" name="filename" />
+          <input type="text" name="markdown_filename" />
         </span>
       </label>
       <br />
@@ -208,8 +206,11 @@ https://guides.github.com/features/mastering-markdown/
     -->
   </ul>
   <p class="submit">
+    This form will prepare a commit for the <a target="_blank" href="https://github.com/jimthoburn/artsamo/blob/master/_how-to/preview-your-changes.markdown">staging website</a>.<br /><em>After you press submit, please commit your changes on GitHub (the next screen).</em>
+    <br /><br />
     <button type="submit">Submit</button>
   </p>
+  <input type="hidden" name="filename" />
   <input type="hidden" name="value" />
 </form>
 
@@ -254,8 +255,9 @@ const textareaField = document.querySelector(`[name="markdown_content"]`)
 const valueField = document.querySelector(`[name="value"]`)
 valueField.value = template + textareaField.value
 
-const filename = document.querySelector(`[name="filename"]`)
-filename.value = `_events/${filename.value}`
+const markdownFileNameField = document.querySelector(`[name="markdown_filename"]`)
+const fileNameField = document.querySelector(`[name="filename"]`)
+fileNameField.value = `_events/${markdownFileNameField.value}`
 
 })
 
