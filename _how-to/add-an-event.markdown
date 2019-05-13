@@ -47,7 +47,9 @@ To see more examples, try opening some of the other event pages, or read the mar
 https://guides.github.com/features/mastering-markdown/
 ```
 
-*You can also copy one of the other [event pages](https://github.com/jimthoburn/artsamo/tree/master/_events) or the [starter template](https://github.com/jimthoburn/artsamo/tree/master/_events/_starter-template.markdown) to use as a starting point.*
+*You can copy one of the other [event pages](https://github.com/jimthoburn/artsamo/tree/master/_events) or the [starter template](https://github.com/jimthoburn/artsamo/tree/master/_events/_starter-template.markdown) to use as a starting point.*
+
+*Or you can fill out this form: [Add an Event](https://design-artsamo.digitalservice.la/admin/add-an-event/)*
 
 5. Press the `Commit changes` button
 
