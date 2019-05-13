@@ -22,28 +22,14 @@
     form li + li {
       margin-top: 1.5em;
     }
-    form li {
-      display: grid;
-      grid-template-columns: 2fr 1fr;
-    }
-    form li label {
-      display: grid;
-      grid-template-columns: 1fr 2fr;
-      grid-column-gap: 1.5em;
-    }
     form li label > span:first-child {
-      justify-self: end;
-      display: block;
-      padding: 1.5em 0;
+      display: inline-block;
+      margin-bottom: 0.75em;
     }
     form li > small:last-child {
       display: block;
-      padding: 0 1.5rem;
+      padding: 0.75rem 1.5rem;
       font-style: italic;
-      align-self: center;
-    }
-    form li br {
-      display: none;
     }
     input[type="text"],
     input[type="date"],
@@ -54,11 +40,16 @@
       font-family: inherit;
       color: inherit;
       align-self: start;
+      width: 100%;
+      box-sizing: border-box;
     }
     .url-preview {
       opacity: 0.5;
     }
     h1 {
+      text-align: center;
+    }
+    h1 + p {
       text-align: center;
       margin-bottom: 4.5rem;
     }
@@ -77,12 +68,43 @@
       justify-self: start;
       cursor: pointer;
     }
+    @media (min-width: 60em) {
+      form li {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+      }
+      form li label {
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        grid-column-gap: 1.5em;
+      }
+      form li br {
+        display: none;
+      }
+      form li label > span:first-child {
+        justify-self: end;
+        text-align: right;
+        display: block;
+        padding: 1.5em 0;
+      }
+      .has-url-preview {
+        display: grid;
+        grid-template-columns: max-content auto;
+        grid-column-gap: 0.75em;
+      }
+      .has-url-preview > span:first-child {
+        padding-top: 1.5em;
+      }
+      form li > small:last-child {
+      }
+    }
   </style>
 </head>
 <body>
 
 <form action="https://github.com/jimthoburn/artsamo/new/staging/_events" method="get">
   <h1>Add an event</h1>
+  <p>Learn more about <a href="https://github.com/jimthoburn/artsamo/blob/master/_how-to/add-an-event.markdown" target="_blank">how to add an event</a></p>
   <ul>
     <li>
       <label>
@@ -95,13 +117,13 @@
     <li>
       <label>
         <span>URL:</span><br />
-        <span>
+        <span class="has-url-preview">
           <span class="url-preview">beta-artsamo.digitalservice.la/</span>
           <input type="text" name="markdown_filename" required />
         </span>
       </label>
       <br />
-      <small>TIP: It’s best to use lowercase letters and dashes instead of spaces for your URL.</small>
+      <small>It’s best to use lowercase letters and dashes instead of spaces or punctuation for your URL.</small>
     </li>
     <li>
       <label>
@@ -110,11 +132,11 @@
 This is the first paragraph of text.
 
 ## And here’s an example of a second-level heading
-
-To see more examples, try opening some of the other event pages–or read the markdown guide:
-https://guides.github.com/features/mastering-markdown/
 </textarea>
-      </label>
+</label><br />
+      <small>
+        To see more examples, try opening some of the <a href="https://github.com/jimthoburn/artsamo/tree/master/_events" target="_blank">other event pages</a>–or read the <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">markdown guide</a>.
+      </small>
     </li>
     <li>
       <label>
@@ -138,8 +160,9 @@ https://guides.github.com/features/mastering-markdown/
       </label>
       <br />
       <small>
-        Example A: /uploads/art-in-the-parks.jpg<br />
-        Example B: https://www.santamonica.gov/art-in-the-parks.jpg
+        You may want to <a href="https://github.com/jimthoburn/artsamo/blob/master/_how-to/add-an-image.markdown" target="_blank">upload an image</a> first.<br style="display: block" />
+        <strong>Example A:</strong> /uploads/art-in-the-parks.jpg<br style="display: block" />
+        <strong>Example B:</strong> https://www.santamonica.gov/art-in-the-parks.jpg
       </small>
     </li>
     <li>
@@ -173,8 +196,7 @@ https://guides.github.com/features/mastering-markdown/
       </label>
       <br />
       <small>
-        The date for the last day this event will occur.<br />
-        This is used to order the list of events so that later events come last.
+        The date for the last day this event will occur. This is used to order the list of events so that later events come last.
       </small>
     </li>
     <!--
