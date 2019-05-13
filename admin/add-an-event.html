@@ -87,7 +87,7 @@
     <li>
       <label>
         <span>Event name:</span><br />
-        <input type="text" name="yaml_title" />
+        <input type="text" name="yaml_title" required />
       </label>
       <br />
       <small>Example: Meet me at Reed</small>
@@ -97,7 +97,7 @@
         <span>URL:</span><br />
         <span>
           <span class="url-preview">beta-artsamo.digitalservice.la/</span>
-          <input type="text" name="markdown_filename" />
+          <input type="text" name="markdown_filename" required />
         </span>
       </label>
       <br />
@@ -119,7 +119,7 @@ https://guides.github.com/features/mastering-markdown/
     <li>
       <label>
         <span>Description:</span><br />
-        <input type="text" name="yaml_description" />
+        <input type="text" name="yaml_description" required />
       </label>
       <br />
       <small>This is a single line of text that will appear below the event title on the events page</small>
@@ -134,7 +134,7 @@ https://guides.github.com/features/mastering-markdown/
       -->
       <label>
         <span>Enter a URL for an image on the web:</span><br />
-        <input type="text" name="yaml_image_url" />
+        <input type="text" name="yaml_image_url" required />
       </label>
       <br />
       <small>
@@ -144,7 +144,7 @@ https://guides.github.com/features/mastering-markdown/
     </li>
     <li>
       <label>
-        <span>Image title</span><br />
+        <span>Image title (optional)</span><br />
         <input type="text" name="yaml_image_title" />
       </label>
       <br />
@@ -153,14 +153,14 @@ https://guides.github.com/features/mastering-markdown/
     <li>
       <label>
         <span>Image description</span><br />
-        <input type="text" name="yaml_image_description" />
+        <input type="text" name="yaml_image_description" required />
       </label>
       <br />
       <small>Description for the image that will appear in the caption</small>
     </li>
     <li>
       <label>
-        <span>Image credit</span><br />
+        <span>Image credit (optional)</span><br />
         <input type="text" name="yaml_image_credit" />
       </label>
       <br />
@@ -169,11 +169,11 @@ https://guides.github.com/features/mastering-markdown/
     <li>
       <label>
         <span>Date</span><br />
-        <input type="date" name="yaml_end_date" />
+        <input type="date" name="yaml_end_date" placeholder="YYYY-MM-DD" required />
       </label>
       <br />
       <small>
-        The date for the last day this event will occur, in the format YYYY-MM-DD.<br />
+        The date for the last day this event will occur.<br />
         This is used to order the list of events so that later events come last.
       </small>
     </li>
@@ -212,6 +212,7 @@ https://guides.github.com/features/mastering-markdown/
   </p>
   <input type="hidden" name="filename" />
   <input type="hidden" name="value" />
+  <input type="hidden" name="message" />
 </form>
 
 
@@ -307,6 +308,9 @@ valueField.value = template + textareaField.value
 const markdownFileNameField = document.querySelector(`[name="markdown_filename"]`)
 const fileNameField = document.querySelector(`[name="filename"]`)
 fileNameField.value = `_events/${markdownFileNameField.value}.markdown`
+
+const messageField = document.querySelector(`[name="message"]`)
+messageField.value = `Add a new event page for “${ document.querySelector(`[name="yaml_title"]`).value }”`
 
 })
 
