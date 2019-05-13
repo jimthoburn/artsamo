@@ -214,14 +214,63 @@ https://guides.github.com/features/mastering-markdown/
   <input type="hidden" name="value" />
 </form>
 
+
+<script>
+(function() {
+
+  function stringToURI(str) {
+    return String(str).toLowerCase()
+      .replace(/\s/g, '-')
+      .replace(/\//g, '-')
+      .replace(/\&/g, '-')
+      .replace(/\./g, '-')
+      .replace(/\:/g, '-')
+      .replace(/\|/g, '-')
+      .replace(/\_/g, '-')
+      .replace(/\,/g, "-")
+      .replace(/\+/g, "-")
+      .replace(/\r\n?/, '-')
+      .replace(/\'/g, '')
+      .replace(/\‘/g, '')
+      .replace(/\’/g, '')
+      .replace(/\“/g, '')
+      .replace(/\”/g, '')
+      .replace(/\(/g, '')
+      .replace(/\)/g, '')
+      .replace(/\{/g, '')
+      .replace(/\}/g, '')
+      .replace(/\"/g, '')
+      .replace(/\#/g, '')
+      .replace(/\;/g, '')
+      .replace(/\-\-\-\-/g, '-')
+      .replace(/\-\-\-/g, '-')
+      .replace(/\-\-/g, '-')
+      .replace(/^\-/g, '') // Remove starting dash
+      .replace(/\-$/g, '') // Remove trailing dash
+      .replace(/ /, '') // Remove empty spaces
+      .replace(/ /, '') // Remove empty spaces
+      .trim();
+  }
+
+  document.querySelector(`[name="yaml_title"]`).addEventListener("blur", e => {
+    const yamlTitleField = document.querySelector(`[name="yaml_title"]`)
+    const markdownFileNameField = document.querySelector(`[name="markdown_filename"]`)
+    if (markdownFileNameField.value == null || markdownFileNameField.value == "") {
+      markdownFileNameField.value = stringToURI(yamlTitleField.value)
+    }
+  })
+
+})();
+</script>
+
+
 <script>
 (function() {
 
 document.querySelector("form").addEventListener("submit", e => {
 
 const template =
-`
----
+`---
 title: ${ document.querySelector(`[name="yaml_title"]`).value }
 
 # A single line of text that will appear below the event title on the events page
@@ -257,7 +306,7 @@ valueField.value = template + textareaField.value
 
 const markdownFileNameField = document.querySelector(`[name="markdown_filename"]`)
 const fileNameField = document.querySelector(`[name="filename"]`)
-fileNameField.value = `_events/${markdownFileNameField.value}`
+fileNameField.value = `_events/${markdownFileNameField.value}.markdown`
 
 })
 
