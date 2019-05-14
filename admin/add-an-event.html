@@ -228,7 +228,7 @@ This is the first paragraph of text.
     -->
   </ul>
   <p class="submit">
-    This form will prepare a commit for the <a target="_blank" href="https://github.com/jimthoburn/artsamo/blob/master/_how-to/preview-your-changes.markdown">staging website</a>.<br /><em>After you press submit, please commit your changes on GitHub (the next screen).</em>
+    This form will prepare a commit for the <a target="_blank" href="https://github.com/jimthoburn/artsamo/blob/master/_how-to/preview-your-changes.markdown">staging website</a>.<br /><em>After you press submit, be sure commit your changes on GitHub (the next screen).</em>
     <br /><br />
     <button type="submit">Submit</button>
   </p>
@@ -286,36 +286,47 @@ This is the first paragraph of text.
 })();
 </script>
 
-
 <script>
 (function() {
+
+function getSafeYamlValue(value) {
+  if (value.includes(":")) {
+    return `'${value}'`
+  } else {
+    return value
+  }
+}
+
+function getFieldValue(fieldName) {
+  return getSafeYamlValue(document.querySelector(`[name="${fieldName}"]`).value)
+}
 
 document.querySelector("form").addEventListener("submit", e => {
 
 const template =
 `---
-title: ${ document.querySelector(`[name="yaml_title"]`).value }
+title: ${ getFieldValue("yaml_title") }
 
 # A single line of text that will appear below the event title on the events page
-description: ${ document.querySelector(`[name="yaml_description"]`).value }
+description: ${ getFieldValue("yaml_description") }
 
 # URL for the image.
 # Example A: /uploads/art-in-the-parks.jpg
 # Example B: https://www.santamonica.gov/art-in-the-parks.jpg
-image: ${ document.querySelector(`[name="yaml_image_url"]`).value }
+image: ${ getFieldValue("yaml_image_url") }
 
 # Title for the image that will appear in the caption
-image_title: ${ document.querySelector(`[name="yaml_image_title"]`).value }
+image_title: ${ getFieldValue("yaml_image_title") }
 
 # Description for the image, to make the image accessible and findable on the web
-image_description: ${ document.querySelector(`[name="yaml_image_description"]`).value }
+image_description: ${ getFieldValue("yaml_image_description") }
 
 # Person’s name that will appear in the caption
-image_credit: ${ document.querySelector(`[name="yaml_image_credit"]`).value }
+image_credit: ${ getFieldValue("yaml_image_credit") }
 
 # The last date of this event, in the format YYYY-MM-DD.
 # This is used to order the list of events so that later events come last.
-end_date: ${ document.querySelector(`[name="yaml_end_date"]`).value }
+end_date: ${ getFieldValue("yaml_end_date") }
 
 # To hide this event, change the following line to “featured: false”
 featured: true
