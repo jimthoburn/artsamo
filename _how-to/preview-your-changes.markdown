@@ -2,16 +2,16 @@
 
 If you’d like to see how your changes will look on the website before making them public, you can work in the `staging` branch–a copy of the website files, that’s published at [staging-artsamo.digitalservice.la](https://staging-artsamo.digitalservice.la)
 
-1. From the [main folder](https://github.com/jimthoburn/artsamo) press the “Branch” dropdown
+1. From the [main folder](https://github.com/CityofSantaMonica/artsamo) press the “Branch” dropdown
 
 2. Choose “staging” from the list of options
 
-You can make edits in the [staging branch](https://github.com/jimthoburn/artsamo/tree/staging) and commit them just as you would normally. They’ll automatically appear on the [staging website](https://staging-artsamo.digitalservice.la) within a few minutes.
+You can make edits in the [staging branch](https://github.com/CityofSantaMonica/artsamo/tree/staging) and commit them just as you would normally. They’ll automatically appear on the [staging website](https://staging-artsamo.digitalservice.la) within a few minutes.
 
 Once you’re happy with how your changes look on the staging website, you can copy them over to the [public website](https://beta-artsamo.digitalservice.la) (the `master` branch) using a pull request. Here are the steps:
 
 1. Press the “new pull request” button.  
-https://github.com/jimthoburn/artsamo/pull/new/staging
+https://github.com/CityofSantaMonica/artsamo/pull/new/staging
 
 2. Write a title for your pull request (this is optional).
 

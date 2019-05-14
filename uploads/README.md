@@ -9,4 +9,4 @@ For example, the `dahn-gim.jpg` file in this folder is available at this web add
 /uploads/dahn-gim.jpg
 ```
 
-[Learn more about uploading images](https://github.com/jimthoburn/artsamo#how-to-add-an-image)
+[Learn more about uploading images](https://github.com/CityofSantaMonica/artsamo#how-to-add-an-image)

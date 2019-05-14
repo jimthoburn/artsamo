@@ -2,7 +2,7 @@
 
 If you want to add an image (or any file) to the website, you can upload it to one of the folders on GitHub.
 
-The [uploads folder](https://github.com/jimthoburn/artsamo/tree/master/uploads) might be a good choice, if you’re unsure where to put a file.
+The [uploads folder](https://github.com/CityofSantaMonica/artsamo/tree/master/uploads) might be a good choice, if you’re unsure where to put a file.
 
 Once you’ve chosen a folder, follow these steps:
 

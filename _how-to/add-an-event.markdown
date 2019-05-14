@@ -1,8 +1,8 @@
 # How to add an event page
 
-1. Open the [\_events](https://github.com/jimthoburn/artsamo/tree/master/_events) folder.
+1. Open the [\_events](https://github.com/CityofSantaMonica/artsamo/tree/master/_events) folder.
 
-2. Press the `create new file` button: https://github.com/jimthoburn/artsamo/new/master/_events
+2. Press the `create new file` button: https://github.com/CityofSantaMonica/artsamo/new/master/_events
 
 3. Name the file with the name of the event. It’s best to use lowercase letters and dashes instead of spaces for your filename. And you can use _.markdown_ as a file extension. For example:
 ```
@@ -47,9 +47,9 @@ To see more examples, try opening some of the other event pages, or read the mar
 https://guides.github.com/features/mastering-markdown/
 ```
 
-*You can copy one of the other [event pages](https://github.com/jimthoburn/artsamo/tree/master/_events) or the [starter template](https://github.com/jimthoburn/artsamo/tree/master/_events/_starter-template.markdown) to use as a starting point.*
+*You can copy one of the other [event pages](https://github.com/CityofSantaMonica/artsamo/tree/master/_events) or the [starter template](https://github.com/CityofSantaMonica/artsamo/tree/master/_events/_starter-template.markdown) to use as a starting point.*
 
-*Or you can fill out this form: [Add an Event](https://design-artsamo.digitalservice.la/admin/add-an-event/). This will add your changes to the [staging website](https://github.com/jimthoburn/artsamo/blob/master/_how-to/preview-your-changes.markdown).*
+*Or you can fill out this form: [Add an Event](https://design-artsamo.digitalservice.la/admin/add-an-event/). This will add your changes to the [staging website](https://github.com/CityofSantaMonica/artsamo/blob/master/_how-to/preview-your-changes.markdown).*
 
 5. Press the `Commit changes` button
 

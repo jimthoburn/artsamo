@@ -9,7 +9,7 @@ If you want to see a preview of your changes while you work, you can [run a Jeky
 After you have Jekyll installed, you can clone this project with [Git](https://git-scm.com) or [GitHub Desktop](https://desktop.github.com)…
 
 ```
-git clone https://github.com/jimthoburn/artsamo.git
+git clone https://github.com/CityofSantaMonica/artsamo.git
 ```
 
 And then start running the Jekyll application like this...
