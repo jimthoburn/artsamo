@@ -2,7 +2,7 @@
 
 Featured opportunities appear on the [home page](https://beta-artsamo.digitalservice.la/) and on the [opportunities page](https://beta-artsamo.digitalservice.la/opportunities/).
 
-1. Open the [featured-opportunities.markdown](https://github.com/jimthoburn/artsamo/blob/master/_includes/featured-opportunities.markdown) file.
+1. Open the [featured-opportunities.markdown](https://github.com/CityofSantaMonica/artsamo/blob/master/_includes/featured-opportunities.markdown) file.
 
 2. Press the “edit” button.
 
