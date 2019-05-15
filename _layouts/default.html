@@ -37,6 +37,14 @@
   <link rel="stylesheet" href="/assets/css/table.css?v={{ site.version }}" />
   <link rel="stylesheet" href="/assets/css/venues.css?v={{ site.version }}" />
 
+  {% if page.redirect %}
+  <meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
+  {% endif %}
+
+  {% capture canonical_url %}https://challenge.la2050.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
+  <link rel="canonical" href="{{ canonical_url }}" />
+  <meta property="og:url" content="{{ canonical_url }}" />
+
   <!-- TEMPORARY (until the new website is live) -->
   <link rel="canonical" href="https://www.santamonica.gov/" />
   <script>
