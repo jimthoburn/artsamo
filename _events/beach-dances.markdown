@@ -10,7 +10,7 @@ description: June 18 – 23, 2019, Free admission
 image: /uploads/beach-dances-2.jpg
 
 # Title for the image that will appear in the caption
-image_title: Sarah Elgart, Beach Dances, 2018 / Dancers: Sam McReynolds, Genna Moroni, Jonathan Stanley and Alexandria Diaz de Fato
+image_title: 'Sarah Elgart, Beach Dances, 2018 / Dancers: Sam McReynolds, Genna Moroni, Jonathan Stanley and Alexandria Diaz de Fato'
 
 # Description for the image, to make the image accessible and findable on the web
 image_description: Four dancers leaping in the air on a wooden stage with the ocean in the background, with a crowd of people around them
