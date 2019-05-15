@@ -56,16 +56,6 @@ Santa Monica, CA 90402
 Artists-in-Residence
 --------------------
 
-<figure>
-  <img
-    src="/uploads/therese-kelly.jpg"
-    alt="Beach House Artist-in-Residence Therese Kelly leads a tour about water usage, 2018"
-    height="300" />
-  <figcaption>
-    Therese Kelly, <em>Under the Umbrella,</em> 2018
-  </figcaption>
-</figure>
-
 Several times a year local artists work out of an office at the Marion Davies Guest House, sharing their progress with the public in person and online. Year-round the Beach=Culture program presents events associated with residencies. Residents include annual Fall and Spring Writers and alternating-year Choreographers and Social Practice Artists.  
 
 Check out the [resident blog](http://beachhouseair.blogspot.com).
@@ -94,6 +84,17 @@ Check out the [resident blog](http://beachhouseair.blogspot.com).
 
 </p>
 
+
+<figure>
+  <img
+    src="/uploads/therese-kelly.jpg"
+    alt="Beach House Artist-in-Residence Therese Kelly leads a tour about water usage, 2018"
+    height="300" />
+  <figcaption>
+    Therese Kelly, <em>Under the Umbrella,</em> 2018
+  </figcaption>
+</figure>
+
 ### Apply for a residency
 
 For more information about artist residency applications and calls for curators, please visit [Opportunities](/for-artists/) or [join the email list](http://smgov.net/artsignup) to be notified of future calls.
@@ -106,6 +107,15 @@ For questions about the Residency, please call 310.458.2257 or send an email to 
 
 ## Beach Dances
 
+An annual celebration of dance in the midst of the daily life of the Beach House, every June. Beach House guests and passersby are invited to participate in workshops and view open rehearsals and performances with local choreographers.
+
+## 2019 Program
+
+Tuesday, June 18 – Sunday, June 23
+: [Online Schedule/RSVP](https://www.eventbrite.com/e/beach-dances-shared-practice-tickets-61616383261)
+: [Complete program information](http://www.smgov.net/uploadedFiles/Portals/Culture/EventProgram.pdf) <small>(PDF)</small>
+
+
 <figure>
   <img
     src="/uploads/beach-dances.jpg"
@@ -115,10 +125,6 @@ For questions about the Residency, please call 310.458.2257 or send an email to 
     Jay Carlon, <em>Four Triangles,</em> performed by Raymond Ejiofor, Shauna Davis, Kim Thompson & Samuel Wentz, Beach Dances 2018
   </figcaption>
 </figure>
-
-An annual celebration of dance in the midst of the daily life of the Beach House, every June. Beach House guests and passersby are invited to participate in workshops and view open rehearsals and performances with local choreographers.
-
-2019 Program, Tuesday June 18-Sunday June 23: [Online Schedule/RSVP](https://www.eventbrite.com/e/beach-dances-shared-practice-tickets-61616383261) - [Complete program information](http://www.smgov.net/uploadedFiles/Portals/Culture/EventProgram.pdf) (PDF)
 
 
 * * *
