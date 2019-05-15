@@ -84,12 +84,47 @@ Check out the [resident blog](http://beachhouseair.blogspot.com).
 
 </p>
 
+
+<figure>
+  <img
+    src="/uploads/therese-kelly.jpg"
+    alt="Beach House Artist-in-Residence Therese Kelly leads a tour about water usage, 2018"
+    height="300" />
+  <figcaption>
+    Therese Kelly, <em>Under the Umbrella,</em> 2018
+  </figcaption>
+</figure>
+
 ### Apply for a residency
 
 For more information about artist residency applications and calls for curators, please visit [Opportunities](/for-artists/) or [join the email list](http://smgov.net/artsignup) to be notified of future calls.
 
 For questions about the Residency, please call 310.458.2257 or send an email to [naomi.okuyama@smgov.net](mailto:naomi.okuyama@smgov.net).
 
+
+* * *
+
+
+## Beach Dances
+
+An annual celebration of dance in the midst of the daily life of the Beach House, every June. Beach House guests and passersby are invited to participate in workshops and view open rehearsals and performances with local choreographers.
+
+## 2019 Program
+
+Tuesday, June 18 – Sunday, June 23
+: [Online Schedule/RSVP](https://www.eventbrite.com/e/beach-dances-shared-practice-tickets-61616383261)
+: [Complete program information](http://www.smgov.net/uploadedFiles/Portals/Culture/EventProgram.pdf) <small>(PDF)</small>
+
+
+<figure>
+  <img
+    src="/uploads/beach-dances.jpg"
+    alt="Jay Carlon, Four Triangles, performed during Beach Dances, June 2018"
+    height="300" />
+  <figcaption>
+    Jay Carlon, <em>Four Triangles,</em> performed by Raymond Ejiofor, Shauna Davis, Kim Thompson & Samuel Wentz, Beach Dances 2018
+  </figcaption>
+</figure>
 
 
 * * *
@@ -126,14 +161,14 @@ This year’s exhibitions take as their theme “collective memory and celebrati
 
     Featured artists are Philip Adam, Cindy Bendat, Tommi Cahill, M. Robert Markovich, Douglas McCulloh, and William Purcell.
 
-    An exhibition of street photography examining the blurred lines of overlapping public, private and personal space.  
+    An exhibition of street photography examining the blurred lines of overlapping public, private and personal space.
     
-    Image: Cindy Bendat, _Flag Woman: L.A. Woman’s March_, 2017.
+    Image: Cindy Bendat, _Flag Woman: L.A. Woman’s March,_ 2017
    
 *   ### And then there is California.
-   
-    <figure><img src="/uploads/rainbow-face-by-hailey-magoon.jpg" height="200" alt="" /></figure>
-
+    
+    <figure><img src="/uploads/kelly-wall-dusty-cheeks-still.jpg" height="200" alt="Kelly Wall, Dusty Cheeks" /></figure>
+    
     May 4, 2019 - September 2, 2019
 
     May 12, 12-5pm: [Opening Reception & Performance](https://www.eventbrite.com/e/and-then-there-is-california-opening-performance-by-frankendee-and-chloe-levaillant-tickets-61472158882)
@@ -144,7 +179,7 @@ This year’s exhibitions take as their theme “collective memory and celebrati
 
     These eleven artists all share an interpretation of southern California which they have adopted as their home.  
 
-    Image: Beck+Col, _Rainbow Face, 2017._ Photo credit: Hailey Magoon.
+    Image: Kelly Wall, _Dusty Cheeks (still)_
    
 *   ### Memories of Diaspora: Immigration Narratives of Los Angeles by Art Division
    
@@ -167,15 +202,7 @@ This year’s exhibitions take as their theme “collective memory and celebrati
 Other Programs
 --------------
 
-Year-round, check out literary events with local presses and literary organizations, discussions of art and ideas and other occasional events.
-
-
-## Beach Dances
-
-An annual celebration of dance in the midst of the daily life of the Beach House, every June. Beach House guests and passersby are invited to participate in workshops and view open rehearsals and performances with local choreographers.
-
-2019 Program
-: [Tuesday, June 18 through Sunday, June 23](https://www.eventbrite.com/e/beach-dances-shared-practice-tickets-61616383261)
+Year-round, [check out](http://annenbergbeachhouse.com/beachculture) literary events with local presses and literary organizations, discussions of art and ideas and other happenings.
 
 
 * * *
