@@ -5,8 +5,12 @@ layout: default
 {% if page.image and page.image_description %}
 <figure>
   <img src="{{ page.image }}" height="300" alt="{{ page.image_description }}" />
-  {% if page.image_credit %}
-  <figcaption>{% if page.image_title %}{{ page.image_title }} / {% endif %}Photo by {{ page.image_credit }}</figcaption>
+  {% if page.image_title or page.image_credit %}
+  <figcaption>
+    {% if page.image_title %}{{ page.image_title }}{% endif %}
+    {% if page.image_title and page.image_credit %} / {% endif %}
+    {% if page.image_credit %}Photo by {{ page.image_credit }}{% endif %}
+  </figcaption>
   {% endif %}
 </figure>
 {% endif %}

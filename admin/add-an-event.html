@@ -128,6 +128,7 @@ layout: null
       <br />
       <small>It’s best to use lowercase letters and dashes instead of spaces or punctuation for your URL.</small>
     </li>
+    <!--
     <li>
       <label>
         <span>Page Content</span><br />
@@ -141,6 +142,7 @@ This is the first paragraph of text.
         To see more examples, try opening some of the <a href="https://github.com/CityofSantaMonica/artsamo/tree/master/_events" target="_blank">other event pages</a>–or read the <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">markdown guide</a>.
       </small>
     </li>
+    -->
     <li>
       <label>
         <span>Description:</span><br />
@@ -339,7 +341,7 @@ featured: true
 
 const textareaField = document.querySelector(`[name="markdown_content"]`)
 const valueField = document.querySelector(`[name="value"]`)
-valueField.value = template + textareaField.value
+valueField.value = template + (textareaField ? textareaField.value : "")
 
 const markdownFileNameField = document.querySelector(`[name="markdown_filename"]`)
 const fileNameField = document.querySelector(`[name="filename"]`)

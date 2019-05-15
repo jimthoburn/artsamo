@@ -6,7 +6,7 @@ image_title: Tongva Park
 image_description: Tongva Park
 image_credit: Jason Abraham
 end_date: 2019-05-11
-featured: true
+featured: false
 ---
 
 **Saturday, May 11, 2019**  
