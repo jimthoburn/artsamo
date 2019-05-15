@@ -7,16 +7,16 @@ description: June 18 – 23, 2019, Free admission
 # URL for the image.
 # Example A: /uploads/art-in-the-parks.jpg
 # Example B: https://www.santamonica.gov/art-in-the-parks.jpg
-image: /uploads/beach-dances.jpg
+image: /uploads/beach-dances-2.jpg
 
 # Title for the image that will appear in the caption
-image_title: Jay Carlon, Four Triangles, performed by Raymond Ejiofor, Shauna Davis, Kim Thompson & Samuel Wentz, Beach Dances 2018
+image_title: Sarah Elgart, Beach Dances, 2018 / Dancers: Sam McReynolds, Genna Moroni, Jonathan Stanley and Alexandria Diaz de Fato
 
 # Description for the image, to make the image accessible and findable on the web
-image_description: Jay Carlon, Four Triangles, performed during Beach Dances, June 2018
+image_description: Four dancers leaping in the air on a wooden stage with the ocean in the background, with a crowd of people around them
 
 # Person’s name that will appear in the caption
-image_credit: 
+image_credit: Jason Abraham
 
 # The last date of this event, in the format YYYY-MM-DD.
 # This is used to order the list of events so that later events come last.
