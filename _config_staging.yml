@@ -1,0 +1,12 @@
+
+# This file allows the site to be configured for different uses without
+# changing `_config.yml`
+# 
+# This is useful for staging sites hosted at places like Netlify since you can
+# ask Jekyll to load an addition configuration file, for example:
+# 
+# ```
+# jekyll build --config _config.yml,_config/staging.yml
+# ```
+
+hide_from_search_engines: true

@@ -45,7 +45,8 @@
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
 
-  <!-- TEMPORARY (until the new website is live) -->
+  {% comment %}Hide staging websites from search engines{% endcomment %}
+  {% if site.hide_from_search_engines %}
   <link rel="canonical" href="https://www.santamonica.gov/" />
   <script>
     window.addEventListener("DOMContentLoaded", function() {
@@ -73,6 +74,7 @@
       document.querySelector("body > footer").appendChild(notice)
     })
   </script>
+  {% endif %}
 
 </head>
 <body>
