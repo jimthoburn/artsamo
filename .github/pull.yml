@@ -1,0 +1,8 @@
+version: "1"
+rules:
+  - base: master
+    upstream: CityofSantaMonica:master
+    mergeMethod: hardreset
+  - base: staging
+    upstream: CityofSantaMonica:staging
+    mergeMethod: hardreset
