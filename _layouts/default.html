@@ -41,13 +41,12 @@
   <meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
   {% endif %}
 
-  {% capture canonical_url %}https://challenge.la2050.org{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
+  {% capture canonical_url %}https://arts.santamonica.gov{% if page.canonical_url %}{{ page.canonical_url }}{% else %}{{ page.url }}{% endif %}{% endcapture %}
   <link rel="canonical" href="{{ canonical_url }}" />
   <meta property="og:url" content="{{ canonical_url }}" />
 
   {% comment %}Hide staging websites from search engines{% endcomment %}
   {% if site.hide_from_search_engines %}
-  <link rel="canonical" href="https://www.santamonica.gov/" />
   <script>
     window.addEventListener("DOMContentLoaded", function() {
       var notice = document.createElement("p")
