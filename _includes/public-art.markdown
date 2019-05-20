@@ -1,6 +1,6 @@
 <ul class="venues">
   <li>
-    <a href="https://www.publicartarchive.org/node/72128">
+    <a href="https://locate.publicartarchive.org/art/5cdf7502c1e49c3656c77b33?ib=ext">
       <span class="image"><img src="https://static-artsamo.digitalservice.la/uploads/weather-field-tongva.jpg" height="150" alt="" /></span><br />
       <span class="text">
         <span>
@@ -11,7 +11,7 @@
     </a>
   </li>
   <li>
-    <a href="https://www.publicartarchive.org/node/50713">
+    <a href="https://locate.publicartarchive.org/art/5cdf74f8c1e49c3656c765c5?ib=ext">
       <span class="image"><img src="https://static-artsamo.digitalservice.la/uploads/artsamo.jpg" height="150" alt="" /></span><br />
       <span class="text">
         <span>
