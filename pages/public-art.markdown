@@ -27,7 +27,7 @@ Public Art
 
 ## Art makes the day better
 
-We’re dedicated to integrating as much art as possible into our community’s daily life. We encourage you to notice it as you go about your day, and invite you to seek it out in areas you don't normally visit. Press a marker on [the map below](#map) to get a peek at the public artworks in Santa Monica. To see more, visit the [Public Art Archive](http://www.publicartarchive.org/santamonica).
+We’re dedicated to integrating as much art as possible into our community’s daily life. We encourage you to notice it as you go about your day, and invite you to seek it out in areas you don't normally visit. Press a marker on [the map below](#map) to get a peek at the public artworks in Santa Monica. To see more, visit the [Public Art Archive](https://www.publicartarchive.org/SantaMonica/).
 
 <nav class="action" markdown="1">
 
@@ -48,7 +48,9 @@ We’re dedicated to integrating as much art as possible into our community’s 
 Map / Archive <a id="map"></a>
 ------------------------------
 
-<div class="map"><iframe width="300" height="150" style="border-width: 0; width: 100%; height: calc(100vh - calc(var(--vertical-rhythm) * 2));" src="https://www.publicartarchive.org/paa_map/50303"></iframe></div>
+[City of Santa Monica on publicartarchive.org](https://www.publicartarchive.org/SantaMonica/)
+
+<div class="map"><iframe width="300" height="150" style="border-width: 0; width: 100%; height: calc(100vh - calc(var(--vertical-rhythm) * 2));" src="https://www.publicartarchive.org/map/?angular-maps-id=16ae0312-8ca8-4ecb-adee"></iframe></div>
 
 
 * * *
