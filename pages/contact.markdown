@@ -6,7 +6,7 @@ permalink: /contact/
 Contact
 =======
 
-**Santa Monica Cultural Affairs Division**  
+**Santa Monica Cultural Affairs**  
 1437 4th Street, Suite 310  
 Santa Monica, CA 90401
 

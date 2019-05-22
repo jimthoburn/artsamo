@@ -4,7 +4,7 @@
 
 ### <a href="/contact/">Contact</a>
 
-<a href="/contact/">Santa Monica Cultural Affairs Division</a>  
+<a href="/contact/">Santa Monica Cultural Affairs</a>  
 1437 4th Street, Suite 310  
 Santa Monica, CA 90401
 
