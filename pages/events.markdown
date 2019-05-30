@@ -42,6 +42,74 @@ Calendar <a id="calendar"></a>
 * * *
 
 
+Programs
+-----------------------
+
+Santa Monica Cultural Affairs presents annual programs in local parks and cultural facilities.
+
+### January-February
+
+#### Fireside at the Miles
+
+Fireside is a season of music, dance, storytelling and variety arts; cozy performances in front of an open fire at Santa Monica’s historic [Miles Memorial Playhouse](/miles-memorial-playhouse). 
+
+### March
+
+#### Airport ArtWalk
+
+The ArtWalk is a fun-filled day of artistic exploration within the Santa Monica Airport creative campus. All are invited to watch art and ceramic demonstrations, participate in art and theater workshops, and enjoy live music and food trucks.
+
+### April
+
+#### Arts Month
+
+#### Arts Leadership Awards
+
+#### Indigenous Now
+
+### June
+
+#### Pride Month 
+
+#### Meet Me At Reed
+
+#### Beach Dances
+
+### July
+
+### August
+
+#### Jazz on the Lawn 
+
+#### Cardboard Yacht Regatta
+
+### September
+
+#### Coast 
+
+### October
+
+#### Wonder Room
+
+### November 
+
+#### Dia de Los Muertos 
+
+### Continuous
+
+#### Artist Residency events
+#### Downbeat 720
+#### Monthly Craft Lounge at the Camera Obscura
+
+### Retired events
+
+#### GLOW
+
+#### Santa Monica Festival
+
+* * *
+
+
 The Palette
 -----------------------
 
