@@ -109,7 +109,7 @@ Calendar <a id="calendar"></a>
 
 <p data-events-more class="action" markdown="1" style="visibility: hidden;">
 
-[More events](/calendar/)
+[More events](/events/calendar/)
 
 </p>
 
