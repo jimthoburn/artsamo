@@ -9,7 +9,7 @@ Events
 <nav class="action" markdown="1">
 
 *   [Calendar](/events/calendar/)
-*   [Weekly Newsletter](#weekly-newsletter)
+*   [The Palette](#the-palette)
 
 </nav>
 
@@ -42,7 +42,7 @@ Calendar <a id="calendar"></a>
 * * *
 
 
-Weekly Newsletter
+The Palette
 -----------------------
 
 _The Palette_ is a weekly Wednesday email that highlights a handful of Santa Monica art and culture events happening that week.
