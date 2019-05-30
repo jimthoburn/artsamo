@@ -9,7 +9,7 @@ Events
 <nav class="action" markdown="1">
 
 *   [Calendar](/events/calendar/)
-*   [The Palette](#the-palette)
+*   [Programs](#programs)
 
 </nav>
 
