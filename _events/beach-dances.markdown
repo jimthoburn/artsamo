@@ -85,19 +85,19 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 #### Performance will feature works rehearsed during Beach Dances:
 
 Christine Suarez
-: Rendición
+: <em>Rendición</em>
 
 Maya Gingery
-: sAND sKY wIND; performers: Maya Gingery & Nick Duran
+: <em>sAND sKY wIND</em>; performers: Maya Gingery & Nick Duran
 
 Paola Escobar
-: Zurciendo Souls
+: <em>Zurciendo Souls</em>
 
 DaEun Jung
-: Earthian Folk Dance
+: <em>Earthian Folk Dance</em>
 
 Heyward Bracey & Nguyen Nguyen
-: CONFLUENCE; performers: Heyward Bracey, Rosemary Candelario and Nguyen Nguyen
+: <em>CONFLUENCE</em>; performers: Heyward Bracey, Rosemary Candelario and Nguyen Nguyen
 
 ### Sunday, June 23, 2019
 
