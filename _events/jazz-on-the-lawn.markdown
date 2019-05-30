@@ -2,7 +2,7 @@
 title: Jazz on the Lawn
 
 # A single line of text that will appear below the event title on the events page
-description: The Jazz on the Lawn summer concert series presents free local jazz and world music each Sunday in August in Gandara Park. 
+description: Jazz on the Lawn presents free jazz and world music Sundays in August 
 
 # URL for the image.
 # Example A: /uploads/art-in-the-parks.jpg
