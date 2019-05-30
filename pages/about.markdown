@@ -8,7 +8,7 @@ permalink: /about/
        alt="Four dancers practicing outdoors"
        height="300" />
   <figcaption>
-    Choreographer-in-Residence Ana Maria Alvarez rehearses <i>Agua Furiosa</i> with dancers Jeremiah Buren, Isis Avalos and Sarah Culberson, 2014
+    Choreographer-in-Residence Ana Maria Alvarez rehearses <em>Agua Furiosa</em> with dancers Jeremiah Buren, Isis Avalos and Sarah Culberson, 2014
   </figcaption>
 </figure>
 
