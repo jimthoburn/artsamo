@@ -47,7 +47,7 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 #### Tuesday, June 18, 2019
 
 10:30-11:30am
-: [Parents and Me Yoga+Cumbia Class with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160966000)
+: [Parents-Child Yoga + Cumbia Workshop with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160966000)
 
 11:30am-1:30pm
 : [Earthian Folk Dance with DaEun Jung](https://www.eventbrite.com/e/beach-dances-earthian-folk-dance-workshop-with-daeun-jung-tickets-61671448964&sa=D&ust=1557956160967000)
@@ -55,7 +55,7 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 #### Wednesday, June 19
 
 10:30-11:30am
-: [Parent-Child Yoga + Cumbia Class with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160968000)
+: [Parent-Child Yoga + Cumbia Workshop with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160968000)
 
 11:30am-1:30pm
 : [Earthian Folk Dance with DaEun Jung](https://www.eventbrite.com/e/beach-dances-earthian-folk-dance-workshop-with-daeun-jung-tickets-61671448964&sa=D&ust=1557956160969000)
@@ -74,7 +74,7 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 : [Contemplative Dance Practice at the Beach with Carol McDowell](https://www.eventbrite.com/e/beach-dances-contemplative-dance-practice-with-carol-mcdowell-tickets-61672192187&sa=D&ust=1557956160973000)
 
 10:30-11:30am
-: [Surrendering to Improvisation with Christine Suarez](https://www.eventbrite.com/e/beach-dances-surrendering-to-improvisation-with-christine-suarez-tickets-61672789975&sa=D&ust=1557956160974000)
+: [Surrendering to Improvisation Workshop with Christine Suarez](https://www.eventbrite.com/e/beach-dances-surrendering-to-improvisation-with-christine-suarez-tickets-61672789975&sa=D&ust=1557956160974000)
 
 4-6 p.m.
 : [Rhizomatic Arts Hangout](https://www.rhizomaticarts.com/network-events/s19-hangout&sa=D&ust=1557956160975000)
@@ -105,10 +105,10 @@ Heyward Bracey & Nguyen Nguyen
 : [Contemplative Dance Practice at the Beach with Carol McDowell](https://www.eventbrite.com/e/beach-dances-contemplative-dance-practice-with-carol-mcdowell-tickets-61672192187&sa=D&ust=1557956160977000)
 
 10:30am-12:00pm
-: [Borderline Flamenco, Flamenco for All with Paola Escobar](https://www.eventbrite.com/e/beach-dances-flamenco-for-all-with-paola-escobar-tickets-61674747831&sa=D&ust=1557956160978000)
+: [Borderline Flamenco, Flamenco for All Workshop with Paola Escobar](https://www.eventbrite.com/e/beach-dances-flamenco-for-all-with-paola-escobar-tickets-61674747831&sa=D&ust=1557956160978000)
 
 12:00-1:30pm
-: [La Diáspora de Twerk with Shaina Lynn and Isabel Ivey](https://www.eventbrite.com/e/beach-dances-la-diaspora-de-twerk-workshop-with-shaina-lynn-isabel-ivey-tickets-61675064779&sa=D&ust=1557956160979000)
+: [La Diáspora de Twerk Workshop with Shaina Lynn and Isabel Ivey](https://www.eventbrite.com/e/beach-dances-la-diaspora-de-twerk-workshop-with-shaina-lynn-isabel-ivey-tickets-61675064779&sa=D&ust=1557956160979000)
 
 5-7 p.m.
 : [Encounter](https://www.eventbrite.com/e/beach-dances-encounter-improvisational-event-tickets-61675273403&sa=D&ust=1557956160980000), an improvisatory event organized by Mariel Carranza featuring choreographers, dancers and performance artists.
