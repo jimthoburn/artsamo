@@ -73,6 +73,8 @@ The ArtWalk is a fun-filled day of artistic exploration within the Santa Monica 
 
 #### Meet Me At Reed
 
+#### Santa Monica Teen Film Festival
+
 #### Beach Dances
 
 ### July
