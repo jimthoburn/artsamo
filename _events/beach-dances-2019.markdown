@@ -1,5 +1,5 @@
 ---
-title: Beach Dances
+title: Beach Dances 2019
 
 # A single line of text that will appear below the event title on the events page
 description: June 18 – 23, 2019, Free admission
@@ -47,10 +47,10 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 #### Tuesday, June 18, 2019
 
 10:30-11:30am
-: [Parents-Child Yoga + Cumbia Workshop with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160966000)
+: [Parent-Child Yoga + Cumbia Workshop with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160966000)
 
 11:30am-1:30pm
-: [Earthian Folk Dance with DaEun Jung](https://www.eventbrite.com/e/beach-dances-earthian-folk-dance-workshop-with-daeun-jung-tickets-61671448964&sa=D&ust=1557956160967000)
+: [Earthian Folk Dance Workshop with DaEun Jung](https://www.eventbrite.com/e/beach-dances-earthian-folk-dance-workshop-with-daeun-jung-tickets-61671448964&sa=D&ust=1557956160967000)
 
 #### Wednesday, June 19
 
@@ -58,7 +58,7 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 : [Parent-Child Yoga + Cumbia Workshop with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160968000)
 
 11:30am-1:30pm
-: [Earthian Folk Dance with DaEun Jung](https://www.eventbrite.com/e/beach-dances-earthian-folk-dance-workshop-with-daeun-jung-tickets-61671448964&sa=D&ust=1557956160969000)
+: [Earthian Folk Dance Workshop with DaEun Jung](https://www.eventbrite.com/e/beach-dances-earthian-folk-dance-workshop-with-daeun-jung-tickets-61671448964&sa=D&ust=1557956160969000)
 
 #### Friday, June 21
 
@@ -66,7 +66,7 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 : [Contemplative Dance Practice at the Beach with Carol McDowell](https://www.eventbrite.com/e/beach-dances-contemplative-dance-practice-with-carol-mcdowell-tickets-61672192187&sa=D&ust=1557956160971000)
 
 10:30am-12:30pm
-: [Freewalking / Ragewalking with alexx shilling](https://www.eventbrite.com/e/beach-dances-freewalking-ragewalking-with-alexx-shilling-tickets-61672437922&sa=D&ust=1557956160972000)
+: [Freewalking / Ragewalking Workshop with alexx shilling](https://www.eventbrite.com/e/beach-dances-freewalking-ragewalking-with-alexx-shilling-tickets-61672437922&sa=D&ust=1557956160972000)
 
 #### Saturday, June 22, 2019
 
