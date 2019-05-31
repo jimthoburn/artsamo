@@ -134,5 +134,15 @@ Christine Suarez
 : [La Diáspora de Twerk Workshop with Shaina Lynn and Isabel Ivey](https://www.eventbrite.com/e/beach-dances-la-diaspora-de-twerk-workshop-with-shaina-lynn-isabel-ivey-tickets-61675064779&sa=D&ust=1557956160979000)
 
 5-7 p.m.
-: [Encounter](https://www.eventbrite.com/e/beach-dances-encounter-improvisational-event-tickets-61675273403&sa=D&ust=1557956160980000), an improvisatory event organized by Mariel Carranza featuring choreographers, dancers and performance artists.
+: <em>Encounter</em>, an improvisatory event organized by Mariel Carranza featuring choreographers, dancers and performance artists. [RSVP](https://www.eventbrite.com/e/beach-dances-encounter-improvisational-event-tickets-61675273403&sa=D&ust=1557956160980000)
+<details>
+<summary>
+More.
+</summary>
+Since 2012, leading performance artists from Los Angeles, plus international guests, have met regularly to engage in a practice called _Encounter_, organized by artist Mariel Carranza. Encounters are durational, improvised, action/time/space based performances inhabiting private studios, art venues, and public spaces across the city, including the Los Angeles River, Griffith Park, the Venice Pier, the Salton Sea, the Bowtie Parcel, WUHO Gallery, Human Resources, Los Angeles State Historic Park, and Highways Performance Space.
+
+<strong>Mariel Carranza</strong> is a Los Angeles based artist born and raised in Perú. She has developed a practice contingent on seeing a cross-cultural art discourse that engages with public art more so than exhibiting in conventional art spaces. Carranza’s work has been presented locally and internationally at venues including the Hammer Museum, Highways, 18th Street Art Center, LACE, Track 16, Woodbury University, MorYork Gallery, Human Resources, Perform Chinatown, Situation Room, Latitud 32 N / 55 S. Festival (Germany), National Review of Live Art (Glasgow), CONTEXTS Festival (Poland), Belfast International Performance Art Festival, First International Festival and Performancear or Morir (Mexico), Erarta Museum (Russia), Crossing Zones = Language = Land (Croatia), and Festival Hall (London). [marielcarranza.com/encounter](http://www.marielcarranza.com/encounter)
+
+  </details>
+
 
