@@ -72,7 +72,7 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 : Rehearsal of _Zurciendo Souls_ by Paola Escobar
 
 9:30-11:30 a.m.
-: Rehearsal of _CONFLUENCE_ by Heyward Bracey and Nguyễn Nguyên
+: Rehearsal of _CONFLUENCE_ by Heyward Bracey and Nguyen Nguyen
 
 11:30am-1:30 p.m.
 : Rehearsal of _sAND sKY wIND_ by Maya Gingery
@@ -86,7 +86,7 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 : [Freewalking / Ragewalking Workshop with alexx shilling](https://www.eventbrite.com/e/beach-dances-freewalking-ragewalking-with-alexx-shilling-tickets-61672437922&sa=D&ust=1557956160972000)
 
 12:30-1:30 p.m.
-: Rehearsal of _CONFLUENCE_ by Heyward Bracey, Rosemary Candelario and Nguyen Nguyen
+: Rehearsal of _CONFLUENCE_ by Heyward Bracey and Nguyen Nguyen
 
 #### Saturday, June 22, 2019
 
@@ -107,7 +107,7 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 
 #### Performance will feature works rehearsed during Beach Dances:
 
-Heyward Bracey, Rosemary Candelario & Nguyen Nguyen
+Heyward Bracey & Nguyen Nguyen
 : <em>CONFLUENCE</em>; performers: Heyward Bracey, Rosemary Candelario and Nguyen Nguyen
 
 Paola Escobar
@@ -135,3 +135,4 @@ Christine Suarez
 
 5-7 p.m.
 : [Encounter](https://www.eventbrite.com/e/beach-dances-encounter-improvisational-event-tickets-61675273403&sa=D&ust=1557956160980000), an improvisatory event organized by Mariel Carranza featuring choreographers, dancers and performance artists.
+
