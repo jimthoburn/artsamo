@@ -8,7 +8,7 @@ permalink: /about/
        alt="Four dancers practicing outdoors"
        height="300" />
   <figcaption>
-    CONTRA-TIEMPO / Ana Maria Alvarez
+    Choreographer-in-Residence Ana Maria Alvarez rehearses <em>Agua Furiosa</em> with dancers Jeremiah Buren, Isis Avalos and Sarah Culberson, 2014
   </figcaption>
 </figure>
 
