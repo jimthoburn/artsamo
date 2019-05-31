@@ -46,37 +46,60 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 
 #### Tuesday, June 18, 2019
 
-10:30-11:30am
-: [Parent-Child Yoga + Cumbia Workshop with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160966000)
+8:30-10:30 a.m.
+: Rehearsal of _Rendición_ by Christine Suarez
 
-11:30am-1:30pm
-: [Earthian Folk Dance Workshop with DaEun Jung](https://www.eventbrite.com/e/beach-dances-earthian-folk-dance-workshop-with-daeun-jung-tickets-61671448964&sa=D&ust=1557956160967000)
+10:30am-12:30 p.m.
+: Rehearsal of _sAND sKY wIND_ by Maya Gingery
+
+12:30-1:30 p.m.
+: Rehearsal of _Zurciendo Souls_ by Paola Escobar
 
 #### Wednesday, June 19
 
-10:30-11:30am
+8:30-10:30 a.m.
+: Rehearsal of _Rendición_ by Christine Suarez
+
+10:30-11:30 a.m.
 : [Parent-Child Yoga + Cumbia Workshop with Rebeca Hernandez](https://www.eventbrite.com/e/beach-dances-parent-child-yoga-cumbia-workshop-with-rebeca-hernandez-tickets-61668727825&sa=D&ust=1557956160968000)
 
-11:30am-1:30pm
+11:30am-1:30 p.m.
 : [Earthian Folk Dance Workshop with DaEun Jung](https://www.eventbrite.com/e/beach-dances-earthian-folk-dance-workshop-with-daeun-jung-tickets-61671448964&sa=D&ust=1557956160969000)
+
+### Thursday, June 20
+
+8:30-9:30 a.m.
+: Rehearsal of _Zurciendo Souls_ by Paola Escobar
+
+9:30-11:30 a.m.
+: Rehearsal of _CONFLUENCE_ by Heyward Bracey and Nguyễn Nguyên
+
+11:30am-1:30 p.m.
+: Rehearsal of _sAND sKY wIND_ by Maya Gingery
 
 #### Friday, June 21
 
-8:30-10:30am
+8:30-10:30 a.m.
 : [Contemplative Dance Practice at the Beach with Carol McDowell](https://www.eventbrite.com/e/beach-dances-contemplative-dance-practice-with-carol-mcdowell-tickets-61672192187&sa=D&ust=1557956160971000)
 
-10:30am-12:30pm
+10:30am-12:30 p.m.
 : [Freewalking / Ragewalking Workshop with alexx shilling](https://www.eventbrite.com/e/beach-dances-freewalking-ragewalking-with-alexx-shilling-tickets-61672437922&sa=D&ust=1557956160972000)
+
+12:30-1:30 p.m.
+: Rehearsal of _CONFLUENCE_ by Heyward Bracey, Rosemary Candelario and Nguyen Nguyen
 
 #### Saturday, June 22, 2019
 
-8:30-10:30am
+8:30-10:30 a.m.
 : [Contemplative Dance Practice at the Beach with Carol McDowell](https://www.eventbrite.com/e/beach-dances-contemplative-dance-practice-with-carol-mcdowell-tickets-61672192187&sa=D&ust=1557956160973000)
 
-10:30-11:30am
+10:30-11:30 a.m.
 : [Surrendering to Improvisation Workshop with Christine Suarez](https://www.eventbrite.com/e/beach-dances-surrendering-to-improvisation-with-christine-suarez-tickets-61672789975&sa=D&ust=1557956160974000)
 
-4-6 p.m.
+11:30am-1:30 p.m.
+: Rehearsal of _sAND sKY wIND_ by Maya Gingery
+
+4:00-6:00 p.m.
 : [Rhizomatic Arts Hangout](https://www.rhizomaticarts.com/network-events/s19-hangout&sa=D&ust=1557956160975000)
 
 6:30-8 p.m.
@@ -84,20 +107,20 @@ View open rehearsals of works by choreographers Heyward Bracey, Paola Escobar, M
 
 #### Performance will feature works rehearsed during Beach Dances:
 
-Christine Suarez
-: <em>Rendición</em>
-
-Maya Gingery
-: <em>sAND sKY wIND</em>; performers: Maya Gingery & Nick Duran
+Heyward Bracey, Rosemary Candelario & Nguyen Nguyen
+: <em>CONFLUENCE</em>; performers: Heyward Bracey, Rosemary Candelario and Nguyen Nguyen
 
 Paola Escobar
 : <em>Zurciendo Souls</em>
 
 DaEun Jung
-: <em>Earthian Folk Dance</em>
+: <em>Earthian Folk Dance</em>; performers: Rayven Armijo, DaEun Jung, Arron Mason, alexx shilling, Melody HJ Shim, Wilfried Souly
 
-Heyward Bracey & Nguyen Nguyen
-: <em>CONFLUENCE</em>; performers: Heyward Bracey, Rosemary Candelario and Nguyen Nguyen
+Maya Gingery
+: <em>sAND sKY wIND</em>; performers: Nick Duran, Maya Gingery and Felicia St. Cyr
+
+Christine Suarez
+: <em>Rendición</em>
 
 ### Sunday, June 23, 2019
 
