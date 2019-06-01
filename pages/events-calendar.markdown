@@ -8,8 +8,8 @@ permalink: /events/calendar/
 
 <ol
   class="events"
-  data-events-types="Art Event,Arts/Crafts,Concerts/Dance,Festival/Celebration,Lecture/Panel,Movies/Film,Play/Performance Art"
-  data-events-locations="Annenberg Community Beach House,Miles Memorial Playhouse,Palisades Park">
+  data-events-types="{{ site.data.event_types | join: "," }}"
+  data-events-locations="{{ site.data.event_locations | join: "," }}">
 </ol>
 <script src="/assets/js/events.js"></script>
 
