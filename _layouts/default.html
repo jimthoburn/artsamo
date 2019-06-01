@@ -73,6 +73,8 @@
   </script>
   {% endif %}
 
+  <script src="/assets/js/scroll-into-view.js"></script>
+
 </head>
 <body>
 
@@ -128,6 +130,19 @@
       <li><a href="/contact/" {% if page.url == '/contact/' %}       class="active" {% endif %}>Contact</a></li>
     </ul>
   </nav>
+  <script>
+    (function() {
+      var key = 'scrollPositionOnLastPage';
+      var links = document.querySelectorAll('header nav a');
+      links.forEach(function(link) {
+        link.addEventListener('click', function(e) {
+          sessionStorage.setItem(key, window.scrollY);
+          console.log('window.scrollY')
+          console.log('item stored: ' + sessionStorage.getItem(key));
+        });
+      });
+    })();
+  </script>
   {% comment %}
     <h3>Search</h3>
     <form role="search" action="https://duckduckgo.com/" method="get">
@@ -153,6 +168,29 @@
 <main>
   {{ content }}
 </main>
+
+<script>
+(function() {
+  if (window.location.href.indexOf("#") >= 0) return; // If the URL contains a hash, stop here
+  var behavior = 'auto';
+  var key = 'scrollPositionOnLastPage';
+  console.log('sessionStorage.getItem(key): ' + sessionStorage.getItem(key));
+  if (sessionStorage.getItem(key)) {
+    window.scrollTo(0, sessionStorage.getItem(key));
+    sessionStorage.removeItem(key);
+    // behavior = 'smooth';
+  }
+  
+  if (sessionStorage.getItem('pressedLinkOnLastPage')) {
+    setTimeout(function() {
+      var figure = document.querySelector("main figure");
+      var headline = document.querySelector("main h1")
+      if (figure) figure.scrollIntoView({ behavior: behavior, block: 'center' });
+      else if (headline) headline.scrollIntoView({ behavior: behavior, block: 'center' });
+    }, 0.01);
+  }
+})();
+</script>
 
 {% include subscribe.markdown %}
 
@@ -370,6 +408,18 @@
 
 })();
 
+</script>
+
+<script>
+  (function() {
+    var key = 'pressedLinkOnLastPage';
+    var links = document.querySelectorAll('a');
+    links.forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        sessionStorage.setItem(key, 'true');
+      });
+    });
+  })();
 </script>
 
 </body>

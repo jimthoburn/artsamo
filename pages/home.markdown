@@ -42,7 +42,7 @@ figures:
 </figure>
 {% endif %}
 
-<h1 style="position: absolute; left: -9999px;">Santa Monica Cultural Affairs</h1>
+<h1 style="opacity: 0;">Santa Monica Cultural Affairs</h1>
 
 <div></div><div></div>
 
