@@ -73,7 +73,7 @@
   </script>
   {% endif %}
 
-  <script src="/assets/js/scroll-into-view.js"></script>
+  <script src="/assets/js/scroll-into-view.js" async></script>
 
 </head>
 <body>
@@ -133,7 +133,7 @@
   <script>
     (function() {
       var key = 'scrollPositionOnLastPage';
-      var links = document.querySelectorAll('header nav a');
+      var links = document.querySelectorAll('header a');
       links.forEach(function(link) {
         link.addEventListener('click', function(e) {
           sessionStorage.setItem(key, window.scrollY);
@@ -171,6 +171,29 @@
 
 <script>
 (function() {
+  var headline = document.querySelector("main h1");
+  var figure = document.querySelector("main figure");
+
+  // https://stackoverflow.com/questions/5353934/check-if-element-is-visible-on-screen
+  function checkVisible(elm, threshold, mode) {
+    threshold = threshold || 0;
+    mode = mode || 'visible';
+
+    var rect = elm.getBoundingClientRect();
+    var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
+    var above = rect.bottom - threshold < 0;
+    var below = rect.top - viewHeight + threshold >= 0;
+
+    return mode === 'above' ? above : (mode === 'below' ? below : !above && !below);
+  }
+
+  if (figure) {
+    if (checkVisible(figure, 200)) return;
+  } else if (headline) {
+    if (checkVisible(headline, 100)) return;
+  }
+
+  // if (window.innerWidth > window.innerHeight) return;
   if (window.location.href.indexOf("#") >= 0) return; // If the URL contains a hash, stop here
   var behavior = 'auto';
   var key = 'scrollPositionOnLastPage';
@@ -180,14 +203,43 @@
     sessionStorage.removeItem(key);
     // behavior = 'smooth';
   }
-  
+
   if (sessionStorage.getItem('pressedLinkOnLastPage')) {
-    setTimeout(function() {
+    if (figure) {
+      figure.scrollIntoView({ behavior: behavior, block: 'center' });
+    } else if (headline) {
+      headline.scrollIntoView({ behavior: behavior, block: 'center' });
+    }
+    // var placebo = document.createElement("span");
+    // figure.style.position = "relative";
+    // figure.appendChild(placebo);
+    // placebo.scrollIntoView({ behavior: behavior, block: 'end' });
+
+    // var target = document.querySelector("main h1");
+    // target.scrollIntoView({ behavior: behavior, block: 'end' });
+
+    /*
+    //setTimeout(function() {
       var figure = document.querySelector("main figure");
-      var headline = document.querySelector("main h1")
-      if (figure) figure.scrollIntoView({ behavior: behavior, block: 'center' });
-      else if (headline) headline.scrollIntoView({ behavior: behavior, block: 'center' });
-    }, 0.01);
+      var headline = document.querySelector("main h1");
+      if (figure) {
+        if (window.innerWidth > window.innerHeight) {
+          if (window.location.pathname == "/") {
+            headline.scrollIntoView({ behavior: behavior, block: 'center' });
+          } else {
+            var placebo = document.createElement("span");
+            // figure.style.position = "relative";
+            figure.insertBefore(placebo, figure.firstChild);
+            placebo.scrollIntoView({ behavior: behavior, block: 'start' });
+          }
+        } else {
+          figure.scrollIntoView({ behavior: behavior, block: 'center' });
+        }
+      } else if (headline) {
+        headline.scrollIntoView({ behavior: behavior, block: 'center' });
+      }
+    //}, 0.01);
+    */
   }
 })();
 </script>

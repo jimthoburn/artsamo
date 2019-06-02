@@ -11,11 +11,24 @@ main > figure:first-child {
 main > h1 + figure,
 main > figure:first-child {
   display: grid;
+  /* grid-template-columns: auto;
+  grid-template-rows: 1fr 1fr 1fr 1fr; */
   /*! overflow: hidden; */
   background: hsl(0, 0%, 0%);
   margin-bottom: 0;
   width: calc(100vw - calc(var(--vertical-rhythm) * 2));
 }
+/*
+main > h1 + figure span,
+main > figure:first-child span {
+  display: block;
+  position: relative;
+  z-index: 1;
+  grid-row: -2/-1;
+  grid-column: 1/-1;
+  align-self: start;
+}
+*/
 @media (min-width: 10em) {
   main > h1 + figure,
   main > figure:first-child {
