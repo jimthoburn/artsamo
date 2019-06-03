@@ -1,26 +1,26 @@
 ---
-title: A title for this event
+title: COAST
 
 # A single line of text that will appear below the event title on the events page
-description: A description for this event
+description: City of Santa Monica’s Open Streets Event. Sunday, September 15, 2019. 10 a.m. to 4 p.m.
 
 # URL for the image.
 # Example A: /uploads/art-in-the-parks.jpg
 # Example B: https://www.santamonica.gov/art-in-the-parks.jpg
-image: /uploads/the-image-name.jpg
+image: /uploads/coast.jpg
 
 # Title for the image that will appear in the caption
-image_title: The title for this image
+image_title: null
 
 # Description for the image, to make the image accessible and findable on the web
-image_description: A description for this image
+image_description: 'Photo: COAST visitors with skateboards, enjoying an open street with no cars present.'
 
 # Person’s name that will appear in the caption
-image_credit: Javier Guillen
+image_credit: null
 
 # The last date of this event, in the format YYYY-MM-DD.
 # This is used to order the list of events so that later events come last.
-end_date: 2021-07-27
+end_date: 2019-09-15
 
 # To show this event, change the following line to “featured: true”
 # To hide this event, change the following line to “featured: false”
